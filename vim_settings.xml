@@ -49,16 +49,14 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512286151032">
-        <mark key="a" line="20" column="49" />
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512322124377">
         <mark key="u" line="13" column="19" />
-        <mark key="'" line="39" column="2" />
-        <mark key="[" line="13" column="8" />
+        <mark key="'" line="35" column="3" />
+        <mark key="[" line="15" column="19" />
         <mark key="m" line="12" column="11" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="n" line="20" column="49" />
-        <mark key="^" line="13" column="7" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
@@ -70,11 +68,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512285574285">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512321785245">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
         <mark key="[" line="8" column="0" />
@@ -122,13 +120,14 @@
       <jump line="29" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
       <jump line="30" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
       <jump line="39" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="35" column="3" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGVzIA==</text>
+        <text>bac</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -137,39 +136,36 @@
         <text>../../res</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBCdXR0b24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsKICAgICAgICAgICAgICAgIGFsZXJ0KGJhY2tEYXRhKQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBCdXR0b24sCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHRpdGxlOiAn5qCH6aKYMScK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
   headerMode: 'none'
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBUZXh0LAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBcHBSZWdpc3RyeSwKICBCdXR0b24sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        screen: HomePage,
-        animated:true
-      }</text>
-      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -185,7 +181,6 @@
         <entry>setState</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
@@ -202,9 +197,10 @@
         <entry encoding="base64">YWN0aW9uIEV4cGFuZFJlZ2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxNLWs+IDxNLT0+IA==</entry>
         <entry>action GotoAction</entry>
         <entry>action ExtendSelection</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action UnselectPreviousOccurrence</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
