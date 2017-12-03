@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512248030074">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="127" column="30" />
-        <mark key="]" line="122" column="1" />
-        <mark key="^" line="122" column="1" />
-        <mark key="." line="122" column="1" />
-      </file>
       <file name="/Dummy.txt" timestamp="1512261096624">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,31 +25,40 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1512261497867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1512252584490">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="20" />
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="15" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/Boy.js" timestamp="1512252331658">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512248030074">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="127" column="30" />
+        <mark key="]" line="122" column="1" />
+        <mark key="^" line="122" column="1" />
+        <mark key="." line="122" column="1" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1512269504423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/generator_test/package.json" timestamp="1512269436111" />
+      <file name="$USER_HOME$/Downloads/generator_test/app.js" timestamp="1512269498103" />
+      <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/fpjs8-master/src/load-image.js" timestamp="1512264054624">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/Boy.js" timestamp="1512252331658">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/fpjs8-master/src/app.js" timestamp="1512263679683">
         <mark key="[" line="10" column="27" />
@@ -119,7 +121,7 @@
         <text encoding="base64">aW1wb3J0IEZldGNoVGVzdCBmcm9tICcuL0ZldGNoVGVzdCcK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -145,7 +147,6 @@
         <entry>action CollapseAllRegions</entry>
         <entry>action Forward</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action GotoFile</entry>
         <entry>actionlist</entry>
         <entry>action ShowErrorDescription</entry>
@@ -155,6 +156,7 @@
         <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
