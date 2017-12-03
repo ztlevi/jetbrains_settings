@@ -49,6 +49,12 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512283157607">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,7 +67,7 @@
       </file>
       <file name="$USER_HOME$/Downloads/generator_test/package.json" timestamp="1512269436111" />
       <file name="$USER_HOME$/Downloads/generator_test/app.js" timestamp="1512269498103" />
-      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512276293787">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512283123382">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
         <mark key="^" line="9" column="36" />
@@ -150,7 +156,7 @@
         <text encoding="base64">aW1wb3J0IEhvbWVQYWdlIGZyb20gJy4vSG9tZVBhZ2UnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -176,7 +182,6 @@
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action ReplaceInPath</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action Forward</entry>
         <entry>action HideAllWindows</entry>
@@ -186,6 +191,7 @@
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>actionlist</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
