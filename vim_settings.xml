@@ -12,13 +12,14 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512335453316">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="31" column="38" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512340515075">
+        <mark key="'" line="103" column="6" />
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="66" column="1" />
+        <mark key="^" line="66" column="1" />
+        <mark key="." line="66" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512258260403">
+      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512340596086">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -31,11 +32,11 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1512335536372">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1512341371912">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1512275135878">
         <mark key="[" line="20" column="15" />
@@ -48,7 +49,7 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512335456352" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512341150216" />
       <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512248030074">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="127" column="30" />
@@ -65,11 +66,11 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512334306815">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512338183213">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
@@ -82,10 +83,9 @@
         <mark key="^" line="43" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512334847489">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
         <mark key="[" line="8" column="0" />
@@ -134,55 +134,62 @@
       <jump line="30" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
       <jump line="39" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
       <jump line="35" column="3" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="67" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="96" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="101" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="66" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="51" column="11" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="98" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="103" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>setState</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogICAgdGhpcy5kYXRhcmVzcG9zaXRvcnkgPSBuZXcgRGF0YVJlcG9zaXRvcnkoKQogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgcmVzdWx0OiAnJwogICAgfQogIH0KCiAgc3RhdGljIG5hdmlnYXRpb25PcHRpb25zID0gewogICAgdGl0bGU6ICdXZWxjb21lIFBhZ2UnLAogIH0KCiAgZ2V0VXJsIChrZXkpIHsKICAgIHJldHVybiBVUkwgKyBrZXkgKyBRVUVSWV9TVFIKICB9CgogIG9uTG9hZCAoKSB7CiAgICBsZXQgdXJsID0gdGhpcy5nZXRVcmwodGhpcy50ZXh0KQogICAgdGhpcy5kYXRhcmVzcG9zaXRvcnkuZmV0Y2hOZXRSZXBvc2l0b3J5KHVybCkKICAgICAgLnRoZW4ocmVzdWx0ID0+IHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIHJlc3VsdDogSlNPTi5zdHJpbmdpZnkocmVzdWx0KQogICAgICAgIH0pCiAgICAgIH0pCiAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICByZXN1bHQ6IEpTT04uc3RyaW5naWZ5KGVycm9yKQogICAgICAgIH0pCiAgICAgIH0pCgogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5wYWdlMX0+PC9WaWV3Pgo=</text>
+        <text encoding="base64">CiAgc3RhdGljIG5hdmlnYXRpb25PcHRpb25zID0gewogICAgdGl0bGU6ICdXZWxjb21lIFBhZ2UnLAogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gCg==</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSB0aGlzLmdldFVybCh0aGlzLnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBEYXRhCg==</text>
+        <text encoding="base64">CiAgZ2V0VXJsIChrZXkpIHsKICAgIHJldHVybiAKICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgICAgIGNvbnN0IHtuYXZpZ2F0ZX0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb247CiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgIG5hdmlnYXRlKCdob21lUGFnZScpCiAgICAgICAgfSwgMjAwMCk7CiAgICB9CgogICAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgICAgICAgdGhpcy50aW1lciYmY2xlYXJUaW1lb3V0KHRoaXMudGltZXIpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgPFRleHQKICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICB0aGlzLm9uTG9hZCgpCiAgICAgICAgfX0KICAgICAgICBzdHlsZT17c3R5bGVzLnRpcHN9PkdhaW4gRGF0YTwvVGV4dD4KICAgICAgPFRleHRJbnB1dCBzdHlsZT17e2hlaWdodDogNDAsIGJvcmRlcldpZHRoOjF9fQogICAgICAgICAgICAgICAgIG9uQ2hhbmdlVGV4dD17dGV4dCA9PiB0aGlzLnRleHQgPSB0ZXh0fQogICAgICAvPgogICAgICA8VGV4dCBzdHlsZT17e2hlaWdodDogNTAwfX0+e3RoaXMuc3RhdGUucmVzdWx0fTwvVGV4dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgIG5hdmlnYXRpb25PcHRpb25zID0gewo=</text>
+        <text encoding="base64">ICAgICAgZGRTY3JvbGxhYmwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gbmF2aWdhdGUoJ05hdlNlYycsIHsKICAgICAgICAgICAgICB1c2VyOiAn56ys5LiA55WM6Z2i5Lyg55yf5Yiw56ys5LqM5pi+56S6JywgY2FsbEJhY2s6IChiYWNrRGF0YSkgPT4gewogICAgICAgICAgICAgICAgYWxlcnQoYmFja0RhdGEpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAp</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dDogJycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsKICAgICAgICAgICAgICAgIGFsZXJ0KGJhY2tEYXRhKQogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSAnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9zZWFyY2gvcmVwb3NpdG9yaWVzP3E9anMmc29ydD1zdGFycycK</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search>setState</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>setState</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -190,10 +197,9 @@
       <history-search>
         <entry>NavigatorBar</entry>
         <entry>setState</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
-        <entry>action SelectPreviousOccurrence</entry>
-        <entry encoding="base64">JzwsJz5zb3VyY2Ugfi8uaWRlYXZpbXJj</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0QWxsT2NjdXJyZW5jZXM=</entry>
         <entry>action SelectAllOccurrences</entry>
         <entry>action ExpandSelection</entry>
@@ -209,9 +215,11 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
+        <entry>action HideAllWindows</entry>
         <entry>action Forward</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
