@@ -49,12 +49,16 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512283915708">
-        <mark key="a" line="20" column="50" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="n" line="20" column="53" />
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512285498474">
+        <mark key="a" line="20" column="49" />
+        <mark key="u" line="13" column="19" />
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="21" column="26" />
+        <mark key="m" line="12" column="11" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="n" line="20" column="49" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
@@ -66,7 +70,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512283123382">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512283976401">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
         <mark key="^" line="9" column="36" />
@@ -108,13 +112,23 @@
       <jump line="29" column="0" filename="$USER_HOME$/Developer/react_github/App.js" />
       <jump line="97" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
       <jump line="100" column="8" filename="$USER_HOME$/Developer/react_github/App.js" />
+      <jump line="16" column="35" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/Developer/react_github/Components/ReactNav.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>le</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -122,40 +136,40 @@
       <register name="0" type="4">
         <text>../../res</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRpdGxlOiAn5qCH6aKYMScK</text>
+      </register>
+      <register name="2" type="4">
         <text>{
   headerMode: 'none'
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBUZXh0LAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBBcHBSZWdpc3RyeSwKICBCdXR0b24sCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
         screen: HomePage,
         animated:true
       }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsKICBTdGFja05hdmlnYXRvciwKfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWVQYWdlIGZyb20gJy4vSG9tZVBhZ2UnCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -171,26 +185,26 @@
         <entry>setState</entry>
       </history-search>
       <history-cmd>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ReplaceInPath</entry>
-        <entry>action Forward</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action GotoClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
-        <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
-        <entry>action GotoAction</entry>
         <entry>action NextOccurence</entry>
         <entry>action NextOccurance</entry>
         <entry>action SelectNextOccurence</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action SelectPreviousOccurrence</entry>
         <entry encoding="base64">JzwsJz5zb3VyY2Ugfi8uaWRlYXZpbXJj</entry>
+        <entry>action UnselectPreviousOccurrence</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0QWxsT2NjdXJyZW5jZXM=</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action SelectAllOccurrences</entry>
+        <entry>action ExpandSelection</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>actionlist</entry>
+        <entry encoding="base64">YWN0aW9uIEV4cGFuZFJlZ2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxNLWs+IDxNLT0+IA==</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ExtendSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
