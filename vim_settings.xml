@@ -49,16 +49,16 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512285498474">
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512286151032">
         <mark key="a" line="20" column="49" />
         <mark key="u" line="13" column="19" />
         <mark key="'" line="39" column="2" />
-        <mark key="[" line="21" column="26" />
+        <mark key="[" line="13" column="8" />
         <mark key="m" line="12" column="11" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
         <mark key="n" line="20" column="49" />
-        <mark key="^" line="21" column="25" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
@@ -70,7 +70,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512283976401">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512285574285">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
         <mark key="^" line="9" column="36" />
@@ -128,7 +128,7 @@
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>le</text>
+        <text encoding="base64">bGVzIA==</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -137,39 +137,39 @@
         <text>../../res</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBCdXR0b24sCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHRpdGxlOiAn5qCH6aKYMScK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
   headerMode: 'none'
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBUZXh0LAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBBcHBSZWdpc3RyeSwKICBCdXR0b24sCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
         screen: HomePage,
         animated:true
       }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBTdGFja05hdmlnYXRvciwKfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -194,17 +194,17 @@
         <entry>action SelectNextOccurence</entry>
         <entry>action SelectPreviousOccurrence</entry>
         <entry encoding="base64">JzwsJz5zb3VyY2Ugfi8uaWRlYXZpbXJj</entry>
-        <entry>action UnselectPreviousOccurrence</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0QWxsT2NjdXJyZW5jZXM=</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action HideAllWindows</entry>
         <entry>action SelectAllOccurrences</entry>
         <entry>action ExpandSelection</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">YWN0aW9uIEV4cGFuZFJlZ2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxNLWs+IDxNLT0+IA==</entry>
         <entry>action GotoAction</entry>
         <entry>action ExtendSelection</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>action UnselectPreviousOccurrence</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
