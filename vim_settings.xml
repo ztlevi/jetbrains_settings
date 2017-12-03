@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512261096624">
+      <file name="/Dummy.txt" timestamp="1512273453303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Girl.js" timestamp="1512239509215">
@@ -25,11 +25,17 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1512252584490">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="15" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1512276085424">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1512275135878">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Boy.js" timestamp="1512252331658">
         <mark key="[" line="2" column="14" />
@@ -46,8 +52,21 @@
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512276048547">
+        <mark key="'" line="88" column="9" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="26" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/generator_test/package.json" timestamp="1512269436111" />
       <file name="$USER_HOME$/Downloads/generator_test/app.js" timestamp="1512269498103" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512276293787">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -78,50 +97,60 @@
       <jump line="1" column="0" filename="$USER_HOME$/Developer/react_github/FetchTest.js" />
       <jump line="21" column="8" filename="$USER_HOME$/Developer/react_github/FetchTest.js" />
       <jump line="23" column="20" filename="$USER_HOME$/Developer/react_github/FetchTest.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Developer/react_github/App.js" />
+      <jump line="107" column="18" filename="$USER_HOME$/Developer/react_github/App.js" />
+      <jump line="26" column="15" filename="$USER_HOME$/Developer/react_github/App.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Developer/react_github/App.js" />
+      <jump line="97" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/Developer/react_github/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgICAgIHJlc3VsdDogSlNPTi5zdHJpbmdpZnkocmVzdWx0KQogICAgLy8gICAgIH0pCiAgICAvLyAgIH0pCiAgICAvLyAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAvLyAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgICByZXN1bHQ6IEpTT04uc3RyaW5naWZ5KGVycm9yKQogICAgLy8gICAgIH0pCg==</text>
+      <register name="0" type="4">
+        <text>../../res</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cK</text>
+      <register name="1" type="4">
+        <text>{
+  headerMode: 'none'
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGZldGNoKHVybCwgewogICAgLy8gICBtZXRob2Q6ICdQT1NUJywKICAgIC8vICAgaGVhZGVyOiB7CiAgICAvLyAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgIC8vICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAvLyAgIH0sCiAgICAvLyAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgICAvLyB9KQogICAgLy8gICAudGhlbihyZXNwb25zZSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAvLyAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAvLyAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgICByZXN1bHQ6IEpTT04uc3RyaW5naWZ5KHJlc3VsdCkKICAgIC8vICAgICB9KQogICAgLy8gICB9KQogICAgLy8gICAuY2F0Y2goZXJyb3IgPT4gewogICAgLy8gICAgIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAgICAgcmVzdWx0OiBKU09OLnN0cmluZ2lmeShlcnJvcikKICAgIC8vICAgICB9KQogICAgLy8gICB9KQo=</text>
+        <text encoding="base64">ICBUZXh0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGZldGNoKHVybCkKICAgIC8vICAgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UuanNvbigpKQogICAgLy8gICAudGhlbihyZXN1bHQgPT4gewogICAgLy8gICAgIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAgICAgcmVzdWx0OiBKU09OLnN0cmluZ2lmeShyZXN1bHQpCiAgICAvLyAgICAgfSkKICAgIC8vICAgfSkKICAgIC8vICAgLmNhdGNoKGVycm9yID0+IHsKICAgIC8vICAgICB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgICAgIHJlc3VsdDogSlNPTi5zdHJpbmdpZnkoZXJyb3IpCiAgICAvLyAgICAgfSkKICAgIC8vCiAgICAvLyAgIH0pCg==</text>
+        <text encoding="base64">ICBBcHBSZWdpc3RyeSwKICBCdXR0b24sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgbmF2aWdhdGUsCiAgICAgIHN0YXRlLAogICAgICBnb0JhY2sKICAgIH0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb247Cgo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICBTdHlsZVNoZWV0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>(
-    )</text>
+        <text>{
+        screen: HomePage,
+        animated:true
+      }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICBTdGFja05hdmlnYXRvciwKfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZldGNoVGVzdCBmcm9tICcuL0ZldGNoVGVzdCcK</text>
+        <text encoding="base64">aW1wb3J0IEhvbWVQYWdlIGZyb20gJy4vSG9tZVBhZ2UnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -143,20 +172,20 @@
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2hvd0Vycm9yRGVzY3JpcHRpb24=</entry>
-        <entry>action GotoClass</entry>
         <entry>action CollapseAllRegions</entry>
-        <entry>action Forward</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>actionlist</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action FindInPath</entry>
         <entry>action ReplaceInPath</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action Forward</entry>
+        <entry>action GotoAction</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
