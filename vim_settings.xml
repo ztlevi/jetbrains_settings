@@ -49,14 +49,14 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512323287271">
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512331753470">
         <mark key="u" line="13" column="19" />
         <mark key="'" line="35" column="3" />
-        <mark key="[" line="21" column="24" />
+        <mark key="[" line="19" column="14" />
         <mark key="m" line="12" column="11" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="^" line="20" column="51" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
@@ -127,7 +127,7 @@
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>bac</text>
+        <text>tionOp</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -135,37 +135,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBzdGF0aWMgIG5hdmlnYXRpb25PcHRpb25zID0gewo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">KCkgPT4gbmF2aWdhdGUoJ05hdlNlYycsIHsKICAgICAgICAgICAgICB1c2VyOiAn56ys5LiA55WM6Z2i5Lyg55yf5Yiw56ys5LqM5pi+56S6JywgY2FsbEJhY2s6IChiYWNrRGF0YSkgPT4gewogICAgICAgICAgICAgICAgYWxlcnQoYmFja0RhdGEpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAp</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsKICAgICAgICAgICAgICAgIGFsZXJ0KGJhY2tEYXRhKQogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBCdXR0b24sCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRpdGxlOiAn5qCH6aKYMScK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
   headerMode: 'none'
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBUZXh0LAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBBcHBSZWdpc3RyeSwKICBCdXR0b24sCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
-      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -181,7 +181,6 @@
         <entry>setState</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
         <entry>action NextOccurence</entry>
         <entry>action NextOccurance</entry>
         <entry>action SelectNextOccurence</entry>
@@ -197,10 +196,11 @@
         <entry>action ExtendSelection</entry>
         <entry>action UnselectPreviousOccurrence</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action Back</entry>
         <entry>action Delete</entry>
         <entry>action DeleteAll</entry>
+        <entry>action Back</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />

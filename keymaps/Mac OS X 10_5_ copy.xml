@@ -1,24 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="EditorJoinLines" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="shift ctrl minus" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <mouse-shortcut keystroke="control button2" />
-  </action>
-  <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl meta period" />
   </action>
   <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
 </keymap>
