@@ -88,12 +88,12 @@
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512357907577">
-        <mark key="'" line="89" column="9" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512361752686">
+        <mark key="'" line="39" column="64" />
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="56" />
+        <mark key="." line="50" column="56" />
+        <mark key="^" line="50" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512357790308">
         <mark key="[" line="12" column="34" />
@@ -167,13 +167,14 @@
       <jump line="10" column="15" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="11" column="30" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="13" column="42" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
+      <jump line="40" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -182,34 +183,34 @@
         <text>cell_container</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyM2NDk1RUQnfX0K</text>
+        <text encoding="base64">ICAgIGZpbGw6ICdyZWQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
+        <text encoding="base64">ICBJbWFnZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
+        <text encoding="base64">cmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxUYWJOYXZpZ2F0b3I+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9wb3B1bGFyJ30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICd5ZWxsb3cnfX0KICAgICAgICAgICAgdGl0bGU9IlBvcHVsYXIiCiAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJbWFnZSBzdHlsZT17c3R5bGVzLmltYWdlfSBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfZmxhc2hfb25fYmxhY2tfMjRweC5zdmcnKX0vPn0KICAgICAgICAgICAgcmVuZGVyU2VsZWN0ZWRJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e1tzdHlsZXMuaW1hZ2UsIHt0aW50Q29sb3I6ICd5ZWxsb3cnfV19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mbGFzaF9vbl9ibGFja18yNHB4LnN2ZycpfS8+fQogICAgICAgICAgICBiYWRnZVRleHQ9IjEiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkVGFiOiAndGJfcG9wdWxhcid9KX0+CiAgICAgICAgICAgIDxQb3B1bGFyUGFnZS8+CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgogICAgICAgICAgPFRhYk5hdmlnYXRvci5JdGVtCiAgICAgICAgICAgIHNlbGVjdGVkPXt0aGlzLnN0YXRlLnNlbGVjdGVkVGFiID09PSAndGJfdHJlbmRpbmcnfQogICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogJ3JlZCd9fQogICAgICAgICAgICB0aXRsZT0iVHJlYWRpbmciCiAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJbWFnZSBzdHlsZT17c3R5bGVzLmltYWdlfSBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfdHJlbmRpbmcucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAncmVkJ31dfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfdHJlbmRpbmcucG5nJyl9Lz59CiAgICAgICAgICAgIGJhZGdlVGV4dD0iMSIKICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl90cmVuZGluZyd9KX0+CiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucGFnZTJ9PjwvVmlldz4KICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9mYXZvcml0ZSd9CiAgICAgICAgICAgIHNlbGVjdGVkVGl0bGVTdHlsZT17e2NvbG9yOiAneWVsbG93J319CiAgICAgICAgICAgIHRpdGxlPSJGYXZvcml0ZSIKICAgICAgICAgICAgcmVuZGVySWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtzdHlsZXMuaW1hZ2V9IHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mYXZvcml0ZS5wbmcnKX0vPn0KICAgICAgICAgICAgcmVuZGVyU2VsZWN0ZWRJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e1tzdHlsZXMuaW1hZ2UsIHt0aW50Q29sb3I6ICd5ZWxsb3cnfV19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mYXZvcml0ZS5wbmcnKX0vPn0KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl9mYXZvcml0ZSd9KX0+CiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucGFnZTF9PjwvVmlldz4KICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9teSd9CiAgICAgICAgICAgIHNlbGVjdGVkVGl0bGVTdHlsZT17e2NvbG9yOiAncmVkJ319CiAgICAgICAgICAgIHRpdGxlPSJNeSBBY2NvdW50IgogICAgICAgICAgICByZW5kZXJJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e3N0eWxlcy5pbWFnZX0gc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX215LnBuZycpfS8+fQogICAgICAgICAgICByZW5kZXJTZWxlY3RlZEljb249eygpID0+IDxJbWFnZSBzdHlsZT17W3N0eWxlcy5pbWFnZSwge3RpbnRDb2xvcjogJ3JlZCd9XX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX215LnBuZycpfS8+fQogICAgICAgICAgICBiYWRnZVRleHQ9IjEiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkVGFiOiAndGJfbXknfSl9PgogICAgICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnBhZ2UyfT48L1ZpZXc+CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgogICAgICAgIDwvVGFiTmF2aWdhdG9yPgogICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57fTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyM2NDk1RUQnfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5vd25lci5hdmF0YXJfdXJsfTwvVGV4dD4KICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5zdGFyZ2F6ZXJzX2NvdW50fTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxQb3B1bGFyUGFnZS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD57fTwvVGV4dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFBvcHVsYXJQYWdlLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8UG9wdWxhclBhZ2UvPgo=</text>
+        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5vd25lci5hdmF0YXJfdXJsfTwvVGV4dD4KICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5zdGFyZ2F6ZXJzX2NvdW50fTwvVGV4dD4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -236,7 +237,6 @@
         <entry>action DeleteAll</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action VisualSelectPrevious</entry>
         <entry>action ToggleBlockSelection</entry>
@@ -246,6 +246,7 @@
         <entry>action Forward</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
