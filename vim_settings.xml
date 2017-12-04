@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512376295789">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512423517521">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1512371178818">
         <mark key="'" line="13" column="42" />
@@ -22,24 +22,24 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512371315102">
+      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512423423170">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="1" />
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512248030074">
+      <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512423885009">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="127" column="30" />
         <mark key="]" line="122" column="1" />
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1512373286786">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="50" />
-        <mark key="." line="17" column="50" />
-        <mark key="^" line="17" column="50" />
+      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1512423549886">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512332257221">
         <mark key="u" line="13" column="19" />
@@ -66,7 +66,7 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512364084005">
+      <file name="/Dummy.txt" timestamp="1512423467354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Girl.js" timestamp="1512239509215">
@@ -212,13 +212,13 @@
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">PC9WaWV3Pg==</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0ZSgnY3VzdG9tS2V5UGFnZScpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFRvdWNoYWJsZU9wYWNpdHkKICAgICAgc3R5bGU9e3twYWRkaW5nOiA4fX0KICAgICAgb25QcmVzcz17Y2FsbEJhY2t9PgogICAgICA8SW1hZ2UKICAgICAgICBzdHlsZT17e3dpZHRoOiAyNiwgaGVpZ2h0OiAyNiwgdGludENvbG9yOiAnd2hpdGUnfX0KICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfa2V5Ym9hcmRfYXJyb3dfbGVmdF8zNnB0LnBuZycpfQogICAgICAvPgogICAgPC9Ub3VjaGFibGVPcGFjaXR5Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ2N1c3RvbUtleVBhZ2UnKQo=</text>
@@ -248,7 +248,7 @@
         <text encoding="base64">ICBjb25zdCB7Z29CYWNrfSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -277,14 +277,14 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>tabm 1</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action RecentFiles</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>tablast</entry>
         <entry>action Forward</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
