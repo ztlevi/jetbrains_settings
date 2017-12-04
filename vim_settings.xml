@@ -10,6 +10,7 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1512356470605" />
       <file name="/Dummy.txt" timestamp="1512242628289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,6 +147,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
