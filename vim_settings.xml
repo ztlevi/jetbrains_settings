@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512358020466">
+      <file name="/Dummy.txt" timestamp="1512364084005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Girl.js" timestamp="1512239509215">
@@ -12,12 +12,11 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512359629912">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="35" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512364815391">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512341437783">
         <mark key="'" line="23" column="20" />
@@ -32,12 +31,18 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1512359350449">
+      <file name="$USER_HOME$/Developer/react_github/AsyncStroageTest.js" timestamp="1512366320747">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="22" column="35" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1512363678017">
         <mark key="'" line="13" column="42" />
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-        <mark key="." line="64" column="15" />
+        <mark key="[" line="28" column="61" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="66" />
+        <mark key="^" line="28" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1512357360013">
         <mark key="[" line="0" column="0" />
@@ -50,18 +55,18 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512359537839">
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="75" column="28" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512248030074">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="127" column="30" />
         <mark key="]" line="122" column="1" />
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/AsyncStorageTest.js" timestamp="1512366937723">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/Components/ReactNav.js" timestamp="1512332257221">
         <mark key="u" line="13" column="19" />
@@ -72,12 +77,12 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1512351913801">
-        <mark key="k" line="21" column="4" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="46" />
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1512362645395">
+        <mark key="k" line="20" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="46" />
-        <mark key="." line="19" column="46" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512338183213">
         <mark key="[" line="1" column="21" />
@@ -88,12 +93,11 @@
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512361752686">
-        <mark key="'" line="39" column="64" />
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="50" column="56" />
-        <mark key="." line="50" column="56" />
-        <mark key="^" line="50" column="56" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512366355930">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512357790308">
         <mark key="[" line="12" column="34" />
@@ -168,6 +172,8 @@
       <jump line="11" column="30" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="13" column="42" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="40" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="29" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -179,38 +185,38 @@
       <register name="/" type="4">
         <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text>cell_container</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCFlcnJvcikgewogICAgICAgIHRoaXMudG9hc3Quc2hvdygnU2F2ZSBzdWNjZXNzZnVsbHknLCBEVVJBVElPTi5MRU5HVEhfTE9ORykKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLnRvYXN0LnNob3coJ1NhdmUgZmFpbGVkJywgRFVSQVRJT04uTEVOR1RIX0xPTkcpCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGw6ICdyZWQnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBJbWFnZSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxUYWJOYXZpZ2F0b3I+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9wb3B1bGFyJ30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICd5ZWxsb3cnfX0KICAgICAgICAgICAgdGl0bGU9IlBvcHVsYXIiCiAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJbWFnZSBzdHlsZT17c3R5bGVzLmltYWdlfSBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfZmxhc2hfb25fYmxhY2tfMjRweC5zdmcnKX0vPn0KICAgICAgICAgICAgcmVuZGVyU2VsZWN0ZWRJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e1tzdHlsZXMuaW1hZ2UsIHt0aW50Q29sb3I6ICd5ZWxsb3cnfV19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mbGFzaF9vbl9ibGFja18yNHB4LnN2ZycpfS8+fQogICAgICAgICAgICBiYWRnZVRleHQ9IjEiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkVGFiOiAndGJfcG9wdWxhcid9KX0+CiAgICAgICAgICAgIDxQb3B1bGFyUGFnZS8+CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgogICAgICAgICAgPFRhYk5hdmlnYXRvci5JdGVtCiAgICAgICAgICAgIHNlbGVjdGVkPXt0aGlzLnN0YXRlLnNlbGVjdGVkVGFiID09PSAndGJfdHJlbmRpbmcnfQogICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogJ3JlZCd9fQogICAgICAgICAgICB0aXRsZT0iVHJlYWRpbmciCiAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJbWFnZSBzdHlsZT17c3R5bGVzLmltYWdlfSBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfdHJlbmRpbmcucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAncmVkJ31dfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfdHJlbmRpbmcucG5nJyl9Lz59CiAgICAgICAgICAgIGJhZGdlVGV4dD0iMSIKICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl90cmVuZGluZyd9KX0+CiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucGFnZTJ9PjwvVmlldz4KICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9mYXZvcml0ZSd9CiAgICAgICAgICAgIHNlbGVjdGVkVGl0bGVTdHlsZT17e2NvbG9yOiAneWVsbG93J319CiAgICAgICAgICAgIHRpdGxlPSJGYXZvcml0ZSIKICAgICAgICAgICAgcmVuZGVySWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtzdHlsZXMuaW1hZ2V9IHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mYXZvcml0ZS5wbmcnKX0vPn0KICAgICAgICAgICAgcmVuZGVyU2VsZWN0ZWRJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e1tzdHlsZXMuaW1hZ2UsIHt0aW50Q29sb3I6ICd5ZWxsb3cnfV19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19mYXZvcml0ZS5wbmcnKX0vPn0KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl9mYXZvcml0ZSd9KX0+CiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucGFnZTF9PjwvVmlldz4KICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+CiAgICAgICAgICA8VGFiTmF2aWdhdG9yLkl0ZW0KICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9teSd9CiAgICAgICAgICAgIHNlbGVjdGVkVGl0bGVTdHlsZT17e2NvbG9yOiAncmVkJ319CiAgICAgICAgICAgIHRpdGxlPSJNeSBBY2NvdW50IgogICAgICAgICAgICByZW5kZXJJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e3N0eWxlcy5pbWFnZX0gc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX215LnBuZycpfS8+fQogICAgICAgICAgICByZW5kZXJTZWxlY3RlZEljb249eygpID0+IDxJbWFnZSBzdHlsZT17W3N0eWxlcy5pbWFnZSwge3RpbnRDb2xvcjogJ3JlZCd9XX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX215LnBuZycpfS8+fQogICAgICAgICAgICBiYWRnZVRleHQ9IjEiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkVGFiOiAndGJfbXknfSl9PgogICAgICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnBhZ2UyfT48L1ZpZXc+CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgogICAgICAgIDwvVGFiTmF2aWdhdG9yPgogICAgICA8L1ZpZXc+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyM2NDk1RUQnfX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czoyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57fTwvVGV4dD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRvYXN0LnNob3coJ0dldCBpdGVtICcgKyByZXN1bHQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBBc3luY1N0b3JhZ2UsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBBc3luY1N0b3JhZ2UsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5vd25lci5hdmF0YXJfdXJsfTwvVGV4dD4KICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5zdGFyZ2F6ZXJzX2NvdW50fTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -244,9 +250,9 @@
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action Forward</entry>
+        <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
-        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
