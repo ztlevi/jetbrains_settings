@@ -32,11 +32,11 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512415601554">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512415949912">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="/JavaScript Console" timestamp="1512261497867">
         <mark key="[" line="0" column="0" />
@@ -153,8 +153,8 @@
         <entry>action ReplaceInPath</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0FjdGlvbg==</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
