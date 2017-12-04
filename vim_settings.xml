@@ -53,11 +53,11 @@
       <file name="/JavaScript Console" timestamp="1512269504423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512374935557">
-        <mark key="[" line="77" column="20" />
-        <mark key="]" line="77" column="20" />
-        <mark key="^" line="77" column="33" />
-        <mark key="." line="77" column="20" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512417028447">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="23" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="75" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/my/MyPage.js" timestamp="1512372188920">
         <mark key="'" line="17" column="54" />
@@ -248,7 +248,7 @@
         <text encoding="base64">ICBjb25zdCB7Z29CYWNrfSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -279,12 +279,12 @@
         <entry>action HideAllWindows</entry>
         <entry>action RecentFiles</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>tablast</entry>
         <entry>action Forward</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
