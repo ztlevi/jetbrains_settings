@@ -2,11 +2,18 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="17" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+      </file>
+    </filemarks>
     <jumps />
     <registers>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -17,6 +24,7 @@
       <history-search />
       <history-cmd>
         <entry>action GotoAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
