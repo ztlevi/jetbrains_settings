@@ -94,12 +94,12 @@
         <mark key="." line="29" column="29" />
         <mark key="^" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512455552273">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512494824158">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="3" />
+        <mark key="." line="105" column="3" />
+        <mark key="^" line="105" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/AsyncStroageTest.js" timestamp="1512366320747">
         <mark key="[" line="16" column="29" />
@@ -241,6 +241,8 @@
       <jump line="108" column="26" filename="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" />
       <jump line="55" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
       <jump line="18" column="21" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
+      <jump line="30" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +285,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -301,9 +303,6 @@
         <entry>onSave</entry>
       </history-search>
       <history-cmd>
-        <entry>tablast</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action HideAllWindows</entry>
         <entry>action GotoFile</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -312,15 +311,18 @@
         <entry>action ReformatCode</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
-        <entry>actionlist</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseContent</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickJavaDoc</entry>
+        <entry>action QuickDocumention</entry>
+        <entry>action GotoAction</entry>
+        <entry>action QuickDocumentation</entry>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
