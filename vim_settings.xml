@@ -17,7 +17,6 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-check-box/index.js" timestamp="1512440213730" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1512438809452">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="29" column="27" />
@@ -135,7 +134,6 @@
         <mark key="]" line="55" column="65" />
         <mark key="." line="55" column="65" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-checkbox/checkbox.js" timestamp="1512440747501" />
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512454849459">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="7" />
@@ -285,7 +283,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -303,7 +301,6 @@
         <entry>onSave</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReopenClosedTab</entry>
         <entry>tablast</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
@@ -312,7 +309,6 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
@@ -322,7 +318,9 @@
         <entry>action CloseContent</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action ActivateStructureToolWindow</entry>
+        <entry>action ReopenClosedTab</entry>
         <entry>action GotoAction</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
