@@ -76,7 +76,7 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512431780234">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512434380382">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -119,11 +119,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/AsyncStorageTest.js" timestamp="1512366937723">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="42" />
+      <file name="$USER_HOME$/Developer/react_github/AsyncStorageTest.js" timestamp="1512434418953">
+        <mark key="[" line="55" column="65" />
+        <mark key="]" line="55" column="65" />
+        <mark key="." line="55" column="65" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1512427841876">
         <mark key="k" line="19" column="4" />
@@ -221,7 +220,7 @@
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -230,31 +229,31 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdCb3R0b206MTAsCg==</text>
+        <text encoding="base64">ICAgICAgICA8TmF2aWdhdG9yQmFyCiAgICAgICAgICB0aXRsZT17J0FzeW5jIFN0b3JhZ2UgVXNhZ2UnfQogICAgICAgICAgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICcjMjE5NkYzJ319CiAgICAgICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmZXRjaE5ldFJlcG9zaXRvcnkgKHVybCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgZmV0Y2godXJsKQogICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgcmVzb2x2ZShyZXN1bHQpCiAgICAgICAgfSkKICAgICAgICAuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgcmVqZWN0KGVycm9yKQogICAgICAgIH0pCiAgICB9KQogIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdCb3R0b206MTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpcHN9PkN1c3RvbSB0YWc8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICBmZXRjaE5ldFJlcG9zaXRvcnkgKHVybCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgZmV0Y2godXJsKQogICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgcmVzb2x2ZShyZXN1bHQpCiAgICAgICAgfSkKICAgICAgICAuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgcmVqZWN0KGVycm9yKQogICAgICAgIH0pCiAgICB9KQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50aXBzfT5DdXN0b20gVGFnPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpcHN9PkN1c3RvbSB0YWc8L1RleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgey8qPE5hdmlnYXRpb25CYXIqL30KICAgICAgey8qdGl0bGU9e3t0aXRsZTonQ3VzdG9tIFRhZ3MnfX0qL30KICAgICAgey8qc3RhdHVzQmFyPXt7c3R5bGU6J2xpZ2h0LWNvbnRlbnQnLCB0aW50Q29sb3I6JyMyMTk2RjMnfX0qL30KICAgICAgey8qc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICcjMjE5NkYzJ319Ki99CiAgICAgIHsvKmxlZnRCdXR0b249e1ZpZXdVdGlscy5nZXRMZWZ0QnV0dG9uKCgpID0+IHRoaXMub25TYXZlKCkpfSovfQogICAgICB7LyovPiovfQo=</text>
+        <text encoding="base64">ICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50aXBzfT5DdXN0b20gVGFnPC9UZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgey8qPE5hdmlnYXRpb25CYXIqL30KICAgICAgey8qdGl0bGU9e3t0aXRsZTonQ3VzdG9tIFRhZ3MnfX0qL30KICAgICAgey8qc3RhdHVzQmFyPXt7c3R5bGU6J2xpZ2h0LWNvbnRlbnQnLCB0aW50Q29sb3I6JyMyMTk2RjMnfX0qL30KICAgICAgey8qc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICcjMjE5NkYzJ319Ki99CiAgICAgIHsvKmxlZnRCdXR0b249e1ZpZXdVdGlscy5nZXRMZWZ0QnV0dG9uKCgpID0+IHRoaXMub25TYXZlKCkpfSovfQogICAgICB7LyovPiovfQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG1hcmdpblRvcDogNDAsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">fSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbgogICAgZ29CYWNrKCkKICB9CgogIHJlbmRlciAoKSB7CiAgICBsZXQgcmlnaHRCdXR0b249PFRvdWNoYWJsZU9wYWNpdHk+CiAgICAgIDxWaWV3PgogICAgICAgIDxUZXh0Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgcmlnaHRCdXR0b249PFRvdWNoYWJsZU9wYWNpdHk+CiAgICAKICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
