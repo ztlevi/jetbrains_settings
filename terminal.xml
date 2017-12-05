@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="false" />
     <option name="myShellPath" value="/usr/local/bin/zsh" />
   </component>
 </application>
