@@ -2,14 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512512975858">
-        <mark key="[" line="147" column="21" />
-        <mark key="]" line="147" column="20" />
-        <mark key="^" line="147" column="20" />
-        <mark key="." line="147" column="20" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers>
       <register name=":" type="4">
@@ -23,7 +16,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
