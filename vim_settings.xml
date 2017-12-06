@@ -3,159 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/react_github/ListViewTest.js" timestamp="1512243008426">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="127" column="30" />
-        <mark key="]" line="122" column="1" />
-        <mark key="^" line="122" column="1" />
-        <mark key="." line="122" column="1" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1512531688450">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512242628289">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/Girl.js" timestamp="1512239509215">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512285796139">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512244462558">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/react_github/index.js" timestamp="1511906079559">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1512242999493">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
+      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="17" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="43" column="17" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="112" column="2" filename="$USER_HOME$/Developer/react_github/ListViewTest.js" />
-      <jump line="13" column="28" filename="$USER_HOME$/Developer/react_github/ListViewTest.js" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="-" type="4">
-        <text>result</text>
-      </register>
-      <register name="/" type="4">
-        <text>NavigatorBar</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIHJlc3VsdDogcmVzdWx0CiAgICAgICAgfSkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly9yYXAyYXBpLnRhb2Jhby5vcmcvYXBwL21vY2svMTA2MS9HRVQvdGVzdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgcmVuZGVyQnV0dG9uKGltYWdlKSB7CiAgICByZXR1cm4gPFRvdWNoYWJsZU9wYWNpdHkKICAgICAgICAgICAgICBvblByZXNzPXsoKT0+ewogICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5nb0JhY2soKTsKICAgICAgICAgICAgIH19CiAgICAgICAgICAgPgogICAgICA8SW1hZ2Ugc3R5bGU9e3t3aWR0aDoyMiwgaGVpZ2h0OjIyLCBtYXJnaW46NX19IHNvdXJjZT17aW1hZ2V9PjwvSW1hZ2U+CiAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNFRTYzNjMnCiAgICAgICAgICB9fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxlZnRCdXR0b249ewogICAgICAgICAgICB0aGlzLnJlbmRlckJ1dHRvbihyZXF1aXJlKCcuL3Jlcy9pbWFnZXMvaWNfYXJyb3dfYmFja193aGl0ZV8zNnB0LnBuZycpKQogICAgICAgICAgfQogICAgICAgICAgcmlnaHRCdXR0b249ewogICAgICAgICAgICB0aGlzLnJlbmRlckJ1dHRvbihyZXF1aXJlKCcuL3Jlcy9pbWFnZXMvaWNfc3Rhci5wbmcnKSkKICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9PkkgYW0gR2lybC48L1RleHQ+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT7miJHmlLbliLDkuobnlLflranpgIHnmoQ6e3N0YXRlLnBhcmFtcy53b3JkfTwvVGV4dD4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9CiAgICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgc3RhdGUucGFyYW1zLmNhbGxCYWNrKCfkuIDnm5Llt6flhYvlipsnKQogICAgICAgICAgICAgIGdvQmFjaygpCiAgICAgICAgICB9fT4KICAgICAgICAgIOWbnui1oOW3p+WFi+WKmwogICAgICAgIDwvVGV4dD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUsCiAgICAgIGdvQmFjawogICAgfSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbjsKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb247Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPEltYWdlIHN0eWxlPXt7d2lkdGg6MjIsIGhlaWdodDoyMiwgbWFyZ2luOjV9fSBzb3VyY2U9e2ltYWdlfT48L0ltYWdlPgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
-      <last-search>NavigatorBar</last-search>
-      <last-offset />
-      <last-pattern>NavigatorBar</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>NavigatorBar</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
-        <entry>action Help.FindAction</entry>
-        <entry>actionList</entry>
-        <entry>action</entry>
-        <entry>actionlist</entry>
-        <entry>help surround</entry>
-        <entry encoding="base64">JzwsJz5xdWl0</entry>
-        <entry>Esc</entry>
-        <entry encoding="base64">JzwsJz5lc2M=</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry>action GotoFile</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>pressed F2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
