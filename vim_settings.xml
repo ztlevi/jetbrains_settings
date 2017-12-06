@@ -3,20 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512524247124">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512584034084">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1512526365284">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHN3YXAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhyb3dzIA==</text>
@@ -34,9 +40,9 @@
         <entry>action Back</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
