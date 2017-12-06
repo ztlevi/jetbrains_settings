@@ -11,7 +11,8 @@
       <file name="/Dummy.txt" timestamp="1512532009455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512532867464">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512538970351">
+        <mark key="'" line="3" column="9" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="12" />
@@ -23,11 +24,13 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1512532500387">
+      <file name="/Python Console" timestamp="1512539290926">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="3" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+    </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">YSA9ICJmZHNmc2QiCmI9ICJmZHNmMmZ3ZWZldzIzIgppbnRlciA9ICcnLmpvaW4oc2V0KGEpICYgc2V0KGIpKQ==</text>
@@ -42,7 +45,7 @@
         <text encoding="base64">c2YyZndlZmV3MjMiCmludGVyID0gJycuam9pbihzZXQoYSkgJiBz</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action DashLauncherAction</text>
       </register>
       <register name="-" type="4">
         <text>in(set</text>
@@ -58,12 +61,13 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
-        <entry>action Run</entry>
-        <entry>action Debug</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action GotoAction</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action Run</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Debug</entry>
+        <entry>action DashLauncherAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
