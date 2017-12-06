@@ -2,7 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512521800804">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+      </file>
+    </filemarks>
     <jumps />
     <registers>
       <register name=":" type="4">
