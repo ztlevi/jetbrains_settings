@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1512593898599">
+      <file name="/Python Console" timestamp="1512595715834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512513026438">
@@ -12,11 +12,11 @@
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1512593897541">
-        <mark key="[" line="96" column="30" />
-        <mark key="]" line="96" column="32" />
-        <mark key="." line="96" column="32" />
-        <mark key="^" line="96" column="32" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1512596577275">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="96" column="35" />
+        <mark key="." line="96" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -31,40 +31,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCgogICAgcHJpbnQoIj09PVN0YXJ0IHRvIHNlZ21lbnQgdGhlIGRhdGFsb2dnZXIgZGF0YSE9PT0iKQogICAgZGF0YWxvZ2dlcl90aHJlYWQ9VGhyZWFkKHRhcmdldD1zZWdtZW50X2RhdGFsb2dnZXIsIGFyZ3M9KGRhdGFsb2dnZXJfZmlsZV9wYXRoLCBxLCB0aW1lX2xpc3QpKQogICAgZGF0YWxvZ2dlcl90aHJlYWQuc3RhcnQoKQogICAgIyBkYXRhbG9nZ2VyX2RhdGEgPSBzZWdtZW50X2RhdGFsb2dnZXIoZGF0YWxvZ2dlcl9maWxlX3BhdGgsIHRpbWVfbGlzdCkKICAgIGRhdGFsb2dnZXJfZGF0YSA9IHEuZ2V0KCkKICAgIHNhbXBsZV9zaXplX2FyciA9IFtsZW4oZFsndGltZSBbc10nXSkgZm9yIGQgaW4gZGF0YWxvZ2dlcl9kYXRhXQogICAgcHJpbnQoIj09PVNlZ21lbnRlZCB0aGUgZGF0YWxvZ2dlciBkYXRhIT09PVxuIikKCiAgICBwcmludCgiPT09U3RhcnQgdG8gc2VnbWVudCB0aGUgc2hpbW1lciBkYXRhIT09PSIpCiAgICBzaGltbWVyX3RocmVhZCA9IFRocmVhZCh0YXJnZXQ9c2VnbWVudF9zaGltbWVyLCBhcmdzPShzaGltbWVyX2ZpbGVfcGF0aCwgcSwgdGltZV9saXN0LCBzYW1wbGVfc2l6ZV9hcnIpKQogICAgc2hpbW1lcl90aHJlYWQuc3RhcnQoKQogICAgIyBzaGltbWVyX2RhdGEgPSBzZWdtZW50X3NoaW1tZXIoc2hpbW1lcl9maWxlX3BhdGgsIHRpbWVfbGlzdCwgc2FtcGxlX3NpemVfYXJyKQogICAgc2hpbW1lcl9kYXRhID0gcS5nZXQoKQogICAgcHJpbnQoIj09PVNlZ21lbnRlZCB0aGUgc2hpbW1lciBkYXRhIT09PVxuIikKCiAgICBwcmludCgiPT09U3RhcnQgdG8gc2VnbWVudCB0aGUgYmlvaGFybmVzcyBkYXRhIT09PSIpCiAgICBiaW9oYXJuZXNzX3RocmVhZCA9IFRocmVhZCh0YXJnZXQ9c2VnbWVudF9iaW9oYXJuZXNzLCBhcmdzPShiaW9oYXJuZXNzX2ZpbGVfcGF0aCwgcSwgdGltZV9saXN0KSkKICAgIGJpb2hhcm5lc3NfdGhyZWFkLnN0YXJ0KCkKICAgIGJpb2hhcm5lc3NfZGF0YSA9IHEuZ2V0KCkKICAgICMgYmlvaGFybmVzc19kYXRhID0gc2VnbWVudF9iaW9oYXJuZXNzKGJpb2hhcm5lc3NfZmlsZV9wYXRoLCB0aW1lX2xpc3QpCiAgICBwcmludCgiPT09U2VnbWVudGVkIHRoZSBiaW9oYXJuZXNzIGRhdGEhPT09XG4iKQoKICAgIGRhdGFsb2dnZXJfdGhyZWFkLmpvaW4oKQogICAgc2hpbW1lcl90aHJlYWQuam9pbigpCiAgICBiaW9oYXJuZXNzX3RocmVhZC5qb2luKCkK</text>
+        <text encoding="base64">ICAgICMgc2FtcGxlX3NpemVfYXJyID0gW2xlbihkWyd0aW1lIFtzXSddKSBmb3IgZCBpbiBkYXRhbG9nZ2VyX2RhdGFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFsb2dnZXJfdGhyZWFkLmRhZW1vbiA9IEZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpb2hhcm5lc3NfZGF0YSA9IHEuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIHNoaW1tZXJfdGhyZWFkLmRhZW1vbiA9IEZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TdGFydCB0byBzZWdtZW50IHRoZSBiaW9oYXJuZXNzIGRhdGEhID09PSIpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpb2hhcm5lc3NfdGhyZWFkLmpvaW4oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpb2hhcm5lc3NfdGhyZWFkLnN0YXJ0KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIGJpb2hhcm5lc3MgZGF0YSEgPT09XG4iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TdGFydCB0byBzZWdtZW50IHRoZSBiaW9oYXJuZXNzIGRhdGEhID09PSIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KCI9PT1TdGFydCB0byBzZWdtZW50IHRoZSBzaGltbWVyIGRhdGEhID09PSIpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNoaW1tZXJfZGF0YSA9IHEuZ2V0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNoaW1tZXJfdGhyZWFkLmpvaW4oKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNoaW1tZXJfdGhyZWFkLnN0YXJ0KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgc2hpbW1lcl9kYXRhID0gc2VnbWVudF9zaGltbWVyKHNoaW1tZXJfZmlsZV9wYXRoLCB0aW1lX2xpc3QsIHNhbXBsZV9zaXplX2FycikKICAgIHNoaW1tZXJfdGhyZWFkID0gVGhyZWFkKHRhcmdldD1zZWdtZW50X3NoaW1tZXIsIGFyZ3M9KHNoaW1tZXJfZmlsZV9wYXRoLCBxLCB0aW1lX2xpc3QsIHNhbXBsZV9zaXplX2FycikpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIHNoaW1tZXIgZGF0YSEgPT09XG4iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIGJpb2hhcm5lc3MgZGF0YSEgPT09XG4iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>True</text>
       </register>
     </registers>
     <search>
@@ -76,20 +76,21 @@
       <history-cmd>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action DebugClass</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
