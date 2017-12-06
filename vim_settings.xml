@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512521800804">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="33" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1512524247124">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHN3YXAK</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ShowErrorDescription</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dGhyb3dzIA==</text>
       </register>
     </registers>
     <search>
@@ -23,11 +29,46 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action RecentFiles</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
