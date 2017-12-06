@@ -3,17 +3,49 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1512531990466">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512532009455">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512532867464">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="17" />
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
+      <file name="/Python Console" timestamp="1512532500387">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">YSA9ICJmZHNmc2QiCmI9ICJmZHNmMmZ3ZWZldzIzIgppbnRlciA9ICcnLmpvaW4oc2V0KGEpICYgc2V0KGIpKQ==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Yj0gImZkc2YyZndlZmV3MjMiCmludGVyID0gJycuam9pbihzZXQoYSkgJiBzZXQoYikpCnByaW50KGludGVyKQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aW50ZXIgPSAnJy5qb2luKHNldChhKSAmIHNldChiKSkKcHJpbnQoaW50ZXIp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c2YyZndlZmV3MjMiCmludGVyID0gJycuam9pbihzZXQoYSkgJiBz</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action CommentByLineComment</text>
+      </register>
+      <register name="-" type="4">
+        <text>in(set</text>
       </register>
     </registers>
     <search>
@@ -23,8 +55,15 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action DebugClass</entry>
+        <entry>action RunClass</entry>
+        <entry>action Run</entry>
+        <entry>action Debug</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoAction</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
