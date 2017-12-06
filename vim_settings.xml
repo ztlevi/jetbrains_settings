@@ -87,7 +87,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBudW1iZXIgPSBpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action RecentFiles</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -100,21 +100,23 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
         <entry>action GotoClass</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>action GotoAction</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ImplementMethods</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
