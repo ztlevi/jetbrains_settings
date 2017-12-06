@@ -10,7 +10,12 @@
         <mark key="^" line="122" column="1" />
         <mark key="." line="122" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1512356470605" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1512531688450">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1512242628289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,7 +95,7 @@
         <text encoding="base64">ICAgICAgPEltYWdlIHN0eWxlPXt7d2lkdGg6MjIsIGhlaWdodDoyMiwgbWFyZ2luOjV9fSBzb3VyY2U9e2ltYWdlfT48L0ltYWdlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -116,7 +121,6 @@
         <entry encoding="base64">JzwsJz5lc2M=</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
@@ -125,6 +129,7 @@
         <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
