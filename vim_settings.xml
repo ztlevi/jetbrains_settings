@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/TashSynchronized.java" timestamp="1512535689214">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="17" />
@@ -14,20 +20,77 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskAtomic.java" timestamp="1512534520037">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+      </file>
+      <file name="/a.dummy" timestamp="1512535709026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/TashSynchronize.java" timestamp="1512535339968">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/Main.java" timestamp="1512535916083">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="45" />
+        <mark key="^" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+      </file>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskLock.java" timestamp="1512534785191">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskSynchronized.java" timestamp="1512536670067">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhdG9taWMKICAgICAgICBiZWdpbiA9IG5ldyBEYXRlKCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0aHJlYWRzW2ldID0gbmV3IFRocmVhZChhdG9taWNUYXNrKTsKICAgICAgICAgICAgdGhyZWFkc1tpXS5zdGFydCgpOwogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGhyZWFkc1tpXS5qb2luKCk7CiAgICAgICAgICAgIH0gY2F0Y2goSW50ZXJydXB0ZWRFeGNlcHRpb24gIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZW5kID0gbmV3IERhdGUoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIk1haW46IExvY2sgcmVzdWx0IDogJWRcbiIsIChlbmQuZ2V0VGltZSgpLSBiZWdpbi5nZXRUaW1lKCkpKTsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJSb3c9e3JvdyA9PiA8U29ydENlbGwgZGF0YT17cm93fS8+fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSB0aGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJSb3c9e3JvdyA9PiA8U29ydENlbGwgZGF0YT17cm93fS8+fQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9fQogICAgICAgIHJlbmRlclJvdz17cm93ID0+IDxTb3J0Q2VsbCBkYXRhPXtyb3d9Lz59Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBzZXQoaSk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyID0gaTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBudW0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCB0ZXN0KCkgewoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBudW1iZXIgPSBpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByBlockComment</text>
+        <text>action Debug</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
       </register>
     </registers>
     <search>
@@ -40,15 +103,50 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Debug</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CommentByBlockComment</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ImplementMethods</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
