@@ -9,11 +9,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512579528728">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="17" />
@@ -24,12 +19,6 @@
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskAtomic.java" timestamp="1512534520037">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1512535709026">
         <mark key="[" line="0" column="0" />
@@ -65,34 +54,34 @@
         <text encoding="base64">ICAgICAgICAvLyBhdG9taWMKICAgICAgICBiZWdpbiA9IG5ldyBEYXRlKCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0aHJlYWRzW2ldID0gbmV3IFRocmVhZChhdG9taWNUYXNrKTsKICAgICAgICAgICAgdGhyZWFkc1tpXS5zdGFydCgpOwogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGhyZWFkc1tpXS5qb2luKCk7CiAgICAgICAgICAgIH0gY2F0Y2goSW50ZXJydXB0ZWRFeGNlcHRpb24gIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZW5kID0gbmV3IERhdGUoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIk1haW46IExvY2sgcmVzdWx0IDogJWRcbiIsIChlbmQuZ2V0VGltZSgpLSBiZWdpbi5nZXRUaW1lKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Yj0gImZkc2YyZndlZmV3MjMiCg==</text>
+        <text encoding="base64">Q29sbGVjdGlvbnMuc3luY2hyb25pemVkTGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Yj0gImZkc2YyZndlZmV3MjMiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW50ZXIgPSAnJy5qb2luKHNldChhKSAmIHNldChiKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSB0aGkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBzZXQoaSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyID0gaTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBudW0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCB0ZXN0KCkgewoK</text>
+      </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action RecentFiles</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -105,22 +94,23 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>actionlist</entry>
         <entry>action GotoClass</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ImplementMethods</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
-        <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action SaveAll</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action Run</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
