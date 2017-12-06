@@ -9,7 +9,7 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512531645938">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512532903786">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
@@ -27,7 +27,7 @@
         <text encoding="base64">ICAgICAgICB9fQogICAgICAgIHJlbmRlclJvdz17cm93ID0+IDxTb3J0Q2VsbCBkYXRhPXtyb3d9Lz59Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action CommentByBlockComment</text>
       </register>
     </registers>
     <search>
@@ -39,12 +39,12 @@
       <history-cmd>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
-        <entry>action CommentByBlockComment</entry>
         <entry>action GotoClass</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoAction</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action Debug</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action CommentByBlockComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
