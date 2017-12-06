@@ -9,11 +9,25 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512531645938">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXJSb3c9e3JvdyA9PiA8U29ydENlbGwgZGF0YT17cm93fS8+fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXJSb3c9e3JvdyA9PiA8U29ydENlbGwgZGF0YT17cm93fS8+fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9fQogICAgICAgIHJlbmRlclJvdz17cm93ID0+IDxTb3J0Q2VsbCBkYXRhPXtyb3d9Lz59Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -23,8 +37,14 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>actionlist</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>action GotoClass</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
