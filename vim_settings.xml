@@ -285,7 +285,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -311,7 +311,6 @@
         <entry>action ReformatCode</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CloseContent</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
@@ -323,6 +322,7 @@
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
