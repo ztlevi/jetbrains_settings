@@ -61,7 +61,7 @@
         <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIGJpb2hhcm5lc3MgZGF0YSEgPT09XG4iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -81,7 +81,6 @@
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action RunClass</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action DebugClass</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -91,6 +90,7 @@
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Run</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
