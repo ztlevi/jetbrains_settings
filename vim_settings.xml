@@ -9,6 +9,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512615156921">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1512607103956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,34 +51,34 @@
         <text encoding="base64">ICAgICMgc2FtcGxlX3NpemVfYXJyID0gW2xlbihkWyd0aW1lIFtzXSddKSBmb3IgZCBpbiBkYXRhbG9nZ2VyX2RhdGFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCgo=</text>
+        <text encoding="base64">cHJpbnQoaW50ZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwogZnJvbSBkZWZpbml0aW9ucwo=</text>
+        <text encoding="base64">cHJpbnQoaW50ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHN5cy5wd2QoKSArICcuLi8uLi8nKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwogZnJvbSBkZWZpbml0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHN5cy5wd2QoKSArICcuLi8uLi8nKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoc3lzLnB3ZCgpICsgJy4uLy4uLycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMKICAgIHByaW50KHN5cy5wYXRoKQoK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoc3lzLnB3ZCgpICsgJy4uLy4uLycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -101,9 +106,9 @@
         <entry>action Run</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
