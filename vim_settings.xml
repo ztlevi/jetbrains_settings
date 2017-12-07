@@ -27,7 +27,7 @@
         <text encoding="base64">ICAgICAgICB9fQogICAgICAgIHJlbmRlclJvdz17cm93ID0+IDxTb3J0Q2VsbCBkYXRhPXtyb3d9Lz59Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByBlockComment</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -40,11 +40,11 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CommentByBlockComment</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
