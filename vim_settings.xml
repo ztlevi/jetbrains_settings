@@ -78,7 +78,7 @@
         <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoc3lzLnB3ZCgpICsgJy4uLy4uLycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action GotoAction</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -106,9 +106,9 @@
         <entry>action Run</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
