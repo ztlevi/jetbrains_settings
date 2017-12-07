@@ -9,6 +9,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512615059696">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="17" />
@@ -54,34 +59,34 @@
         <text encoding="base64">ICAgICAgICAvLyBhdG9taWMKICAgICAgICBiZWdpbiA9IG5ldyBEYXRlKCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0aHJlYWRzW2ldID0gbmV3IFRocmVhZChhdG9taWNUYXNrKTsKICAgICAgICAgICAgdGhyZWFkc1tpXS5zdGFydCgpOwogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJUaHJlYWRzOyBpKyspewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGhyZWFkc1tpXS5qb2luKCk7CiAgICAgICAgICAgIH0gY2F0Y2goSW50ZXJydXB0ZWRFeGNlcHRpb24gIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZW5kID0gbmV3IERhdGUoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIk1haW46IExvY2sgcmVzdWx0IDogJWRcbiIsIChlbmQuZ2V0VGltZSgpLSBiZWdpbi5nZXRUaW1lKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29sbGVjdGlvbnMuc3luY2hyb25pemVkTGlzdAo=</text>
+        <text encoding="base64">cHJpbnQoaW50ZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSB0aGkK</text>
+        <text encoding="base64">cHJpbnQoaW50ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewogICAgfQo=</text>
+        <text encoding="base64">aW50ZXIgPSAnJy5qb2luKHNldChhKSAmIHNldChiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCk7Cg==</text>
+        <text encoding="base64">Q29sbGVjdGlvbnMuc3luY2hyb25pemVkTGlzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBzZXQoaSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSB0aGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyID0gaTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBudW0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewogICAgICAgICAgICBzZXQoaSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCB0ZXN0KCkgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -108,9 +113,9 @@
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action Run</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
