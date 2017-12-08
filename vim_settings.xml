@@ -37,11 +37,11 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512766006263">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="20" column="60" />
-        <mark key="^" line="20" column="60" />
-        <mark key="." line="20" column="60" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512766773144">
+        <mark key="[" line="139" column="17" />
+        <mark key="]" line="139" column="20" />
+        <mark key="^" line="139" column="20" />
+        <mark key="." line="139" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512763727291">
         <mark key="[" line="20" column="14" />
@@ -131,7 +131,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Sort</text>
+        <text>Custom Tags</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
@@ -167,7 +167,7 @@
         <text encoding="base64">IHsKICAgICAgICAgICAgICBBbGVydC5hbGVydCgKICAgICAgICAgICAgICAgICdOb3RlJywKICAgICAgICAgICAgICAgICdEbyB5b3Ugd2FudCB0byByZXNldCB0YWdzPycsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgIHt0ZXh0OiAnTk8nLCBvblByZXNzOiAoKSA9PiB7fX0sCiAgICAgICAgICAgICAgICAgIHt0ZXh0OiAnWUVTJywgb25QcmVzczogKCkgPT4gfSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB7Y2FuY2VsYWJsZTogZmFsc2V9CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9fT5Tb3J0IFRhZw==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action ActivateStructureToolWindow</text>
       </register>
     </registers>
     <search>
@@ -188,7 +188,6 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>action Run</entry>
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
@@ -202,6 +201,7 @@
         <entry>action DashLauncherAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ActivateStructureToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
