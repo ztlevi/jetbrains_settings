@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512764047984">
+      <file name="/Dummy.txt" timestamp="1512768303547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512764516749">
@@ -17,7 +17,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512765971239">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512768544156">
         <mark key="'" line="39" column="16" />
         <mark key="[" line="34" column="38" />
         <mark key="]" line="34" column="56" />
@@ -37,11 +37,11 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512766773144">
-        <mark key="[" line="139" column="17" />
-        <mark key="]" line="139" column="20" />
-        <mark key="^" line="139" column="20" />
-        <mark key="." line="139" column="20" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512768865679">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512763727291">
         <mark key="[" line="20" column="14" />
@@ -78,6 +78,7 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/Components/ReactSecNav.js" timestamp="1512768630260" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512764617043">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -131,7 +132,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Custom Tags</text>
+        <text>ddata.checked</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
@@ -140,34 +141,34 @@
         <text encoding="base64">ICAgIHRoaXMubGFuZ3VhZ2VEYW8gPSBuZXcgTGFuZ3VhZ2VEYW8oRkxBR19MQU5HVUFHRS5mbGFnX2tleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGxhbmd1YWdlRGFvID0gTGFuZ3VhZ2VEYW8oKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtzdGF0ZX0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb24KICAgIHRoaXMuaXNSZW1vdmVLZXkgPSBzdGF0ZS5wYXJhbXMuaXNSZW1vdmVLZXkgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtzdGF0ZX0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb24KICAgIHRoaXMuaXNSZW1vdmVLZXkgPSBzdGF0ZS5wYXJhbXMuaXNSZW1vdmVLZXkgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWplY3QoZXJyb3IpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGxhbmd1YWdlRGFvID0gTGFuZ3VhZ2VEYW8oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWplY3QoZXJyb3IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICByZXNvbHZlKEpTT04ucGFyc2UocmVzdWx0KSkKICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgIHJlamVjdChlKQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICBBbGVydC5hbGVydCgKICAgICAgICAgICAgICAgICdOb3RlJywKICAgICAgICAgICAgICAgICdEbyB5b3Ugd2FudCB0byByZXNldCB0YWdzPycsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgIHt0ZXh0OiAnTk8nLCBvblByZXNzOiAoKSA9PiB7fX0sCiAgICAgICAgICAgICAgICAgIHt0ZXh0OiAnWUVTJywgb25QcmVzczogKCkgPT4gfSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB7Y2FuY2VsYWJsZTogZmFsc2V9CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9fT5Tb3J0IFRhZw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateStructureToolWindow</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -199,9 +200,9 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action Debug</entry>
         <entry>action DashLauncherAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateStructureToolWindow</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
