@@ -42,9 +42,11 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512719822920">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="27" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512788384490">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512787891352">
         <mark key="[" line="13" column="48" />
@@ -168,11 +170,11 @@
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
