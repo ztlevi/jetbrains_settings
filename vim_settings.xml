@@ -19,6 +19,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512846092271">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512793528952">
         <mark key="'" line="92" column="8" />
         <mark key="[" line="73" column="68" />
@@ -79,10 +85,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512799675403">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512846527785">
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="102" column="42" />
+        <mark key="." line="102" column="42" />
+        <mark key="^" line="102" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512804317068">
         <mark key="'" line="84" column="56" />
@@ -165,43 +172,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>...</text>
+        <text>Authentication Successful!</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
       </register>
       <register name="0" type="4">
-        <text>RepositoryDetail</text>
+        <text>base-64'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgIDxUZXh0CiAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpcHN9CiAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLmdvQmFjaygpfQogICAgICAgID5SZXR1cm48L1RleHQ+CiAgICAgICAgPFRleHRJbnB1dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy5pbnB1dH0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17VVJMfQogICAgICAgICAgb25DaGFuZ2VUZXh0PXt0ZXh0ID0+IHRoaXMudGV4dCA9IHRleHR9CiAgICAgICAgLz4KICAgICAgICA8VGV4dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy50aXBzfQogICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5nbygpfQogICAgICAgID5HbzwvVGV4dD4KICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">CiAgLi4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGl0bGU6IGUudGl0bGUsCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgIDxUZXh0CiAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpcHN9CiAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLmdvQmFjaygpfQogICAgICAgID5SZXR1cm48L1RleHQ+CiAgICAgICAgPFRleHRJbnB1dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy5pbnB1dH0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17VVJMfQogICAgICAgICAgb25DaGFuZ2VUZXh0PXt0ZXh0ID0+IHRoaXMudGV4dCA9IHRleHR9CiAgICAgICAgLz4KICAgICAgICA8VGV4dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy50aXBzfQogICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5nbygpfQogICAgICAgID5HbzwvVGV4dD4KICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGl0bGU6IGUudGl0bGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcG9zaXRvcnlEZXRhaWwgZnJvbSAnLi9SZXBvc2l0b3J5RGV0YWlsJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -224,7 +231,6 @@
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action GotoFile</entry>
@@ -232,10 +238,11 @@
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
