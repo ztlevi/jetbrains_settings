@@ -42,9 +42,10 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512719822920">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="27" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512788586052">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
         <mark key="[" line="152" column="36" />
@@ -107,34 +108,34 @@
         <text encoding="base64">ICAvKioKICAgKiBDbG9uZSBhbiBhcnJheQogICAqIEBwYXJhbSBmcm9tCiAgICogQHJldHVybnMge0FycmF5fQogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHIK</text>
+        <text encoding="base64">ICAgICAgICBmZHNmZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZiA9IG9zLgo=</text>
+        <text encoding="base64">cHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dQo=</text>
+        <text encoding="base64">ZiA9IG9zLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
+        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -162,12 +163,12 @@
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
