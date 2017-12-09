@@ -12,12 +12,11 @@
       <file name="/Dummy.txt" timestamp="1512719105431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512615156921">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512787021763">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1512719359768" />
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512720108494">
         <mark key="[" line="33" column="14" />
         <mark key="]" line="33" column="22" />
@@ -135,7 +134,7 @@
         <text encoding="base64">ICAgIGNvbnN0IHtuYXZpZ2F0ZX0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb24K</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -156,7 +155,6 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ActivateStructureToolWindow</entry>
@@ -169,6 +167,7 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
