@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1512787194415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512788201288">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512789712886">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -107,28 +107,28 @@
         <text encoding="base64">ICAvKioKICAgKiBDbG9uZSBhbiBhcnJheQogICAqIEBwYXJhbSBmcm9tCiAgICogQHJldHVybnMge0FycmF5fQogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZiA9IG9zLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZiA9IG9zLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmV0dQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
+        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
