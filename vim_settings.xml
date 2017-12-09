@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512792682361">
+      <file name="/Dummy.txt" timestamp="1512801301949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512792126251">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512800322363">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="101" column="48" />
         <mark key="]" line="101" column="63" />
@@ -43,6 +43,12 @@
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512800767965">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="67" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -60,18 +66,17 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512792287402">
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="80" column="16" />
-        <mark key="^" line="80" column="16" />
-        <mark key="." line="80" column="16" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512799675403">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512793148475">
-        <mark key="'" line="77" column="83" />
-        <mark key="[" line="79" column="72" />
-        <mark key="]" line="80" column="25" />
-        <mark key="^" line="80" column="25" />
-        <mark key="." line="80" column="25" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512801281056">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="78" column="25" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1512696553584">
         <mark key="'" line="1" column="63" />
@@ -80,11 +85,12 @@
         <mark key="." line="289" column="58" />
         <mark key="^" line="289" column="58" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1512793285982">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="45" column="13" />
-        <mark key="^" line="45" column="13" />
-        <mark key="." line="45" column="13" />
+      <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1512801233890">
+        <mark key="'" line="62" column="28" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -129,46 +135,50 @@
       <jump line="147" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" />
       <jump line="79" column="39" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
       <jump line="77" column="83" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="26" column="10" filename="$USER_HOME$/Developer/react_github/WebViewTest.js" />
+      <jump line="37" column="7" filename="$USER_HOME$/Developer/react_github/WebViewTest.js" />
+      <jump line="46" column="28" filename="$USER_HOME$/Developer/react_github/WebViewTest.js" />
+      <jump line="24" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, style:{fontWeight: 'bold'}</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudFdpdGhOYXZpZ2F0aW9uQmFyIGZyb20gJy4uLy4uL2NvbW1vbi9OYXZpZ2F0b3JCYXInCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy50aXBzfQogICAgICAgICAgb25QcmVzcz17dGhpcy5nb0JhY2soKX0KICAgICAgICA+UmV0dXJuPC9UZXh0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5wYWdlMX0+PC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFkZ2VUZXh0PSIxIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFNjcm9sbFZpZXc+CiAgICAgICAge3RoaXMucmVuZGVyVmlldygpfQogICAgICA8L1Njcm9sbFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFkZ2VUZXh0PSIxIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByaWdodEJ1dHRvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFkZ2VUZXh0PSIxIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0QnV0dG9uLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtuYXZpZ2F0ZX0gPSB0aGlzLnByb3BzLm5hdmlnYXRpb247IC8v5L2/55So6L+Z56eN5byV5YWl5pa55byP5pu05Yqg566A5Y2VCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPEJ1dHRvbgogICAgICAgICAgdGl0bGU9Iui3s+i9rOWIsOesrOS6jOS4qumhtemdoiIKICAgICAgICAgIC8vbmF2aWdhdGUoJ05hdlRoaXJkJykg5LiN5bim5Y+C5pWw55u05o6lcHVzaAogICAgICAgICAgLy9uYXZpZ2F0ZSgnTmF2VGhpcmQnLHtwYXNzVGl0bGU6J+eUseesrOS6jOS8oOWAvOWIsOesrOS4iSd9KeW4puWPguaVsHB1c2gs5LiU5ZCM5qC35qC85byP5Y+v5bim5aSa5LiqCiAgICAgICAgICAvL25hdmlnYXRlKCdOYXZUaGlyZCcse3Bhc3NUaXRsZTon55Sx56ys5LqM5Lyg5YC85Yiw56ys5LiJJ++8jGNhbGxCYWNrOihkYXRhKT0+e319KeeUn+aYjuWPr+Wbnuiwg+eahOWHveaVsO+8jGRhdGHkuLrlm57osIPnmoTmlbDmja4KICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRlKCdOYXZTZWMnLCB7CiAgICAgICAgICAgICAgdXNlcjogJ+esrOS4gOeVjOmdouS8oOecn+WIsOesrOS6jOaYvuekuicsIGNhbGxCYWNrOiAoYmFja0RhdGEpID0+IHsKICAgICAgICAgICAgICAgIGFsZXJ0KGJhY2tEYXRhKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgKX0KICAgICAgICAvPgogICAgICA8L1ZpZXc+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2ZvbnRXZWlnaHQ6ICdib2xkJ319Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGV4dDogVVJMLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMudGV4dCA9IFVSTAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd1RvYXN0JywgJ1Nob3cgY2FjaGVkIGRhdGEnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -195,14 +205,14 @@
         <entry>action DebugClass</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
