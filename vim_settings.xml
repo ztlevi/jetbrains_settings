@@ -168,7 +168,7 @@
         <text encoding="base64">ICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd1RvYXN0JywgJ1Nob3cgY2FjaGVkIGRhdGEnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -183,8 +183,6 @@
         <entry>rate</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -203,6 +201,8 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoFile</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
