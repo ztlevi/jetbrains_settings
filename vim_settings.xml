@@ -85,11 +85,12 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512846527785">
-        <mark key="[" line="102" column="42" />
-        <mark key="]" line="102" column="42" />
-        <mark key="." line="102" column="42" />
-        <mark key="^" line="102" column="42" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512847474643">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="104" column="27" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="99" column="85" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512804317068">
         <mark key="'" line="84" column="56" />
@@ -169,10 +170,11 @@
       <jump line="84" column="56" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
       <jump line="78" column="4" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Authentication Successful!</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKHJlc3BvbnNlKSA=</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
@@ -181,34 +183,34 @@
         <text>base-64'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2U2NCA9IHJlcXVpcmUoJ2Jhc2UtNjQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgIDxUZXh0CiAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpcHN9CiAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLmdvQmFjaygpfQogICAgICAgID5SZXR1cm48L1RleHQ+CiAgICAgICAgPFRleHRJbnB1dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy5pbnB1dH0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17VVJMfQogICAgICAgICAgb25DaGFuZ2VUZXh0PXt0ZXh0ID0+IHRoaXMudGV4dCA9IHRleHR9CiAgICAgICAgLz4KICAgICAgICA8VGV4dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy50aXBzfQogICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5nbygpfQogICAgICAgID5HbzwvVGV4dD4KICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIC8vCiAgICAvLyB2YXIgcmVxdWVzdCA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOwogICAgLy8gcmVxdWVzdC5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBlID0+IHsKICAgIC8vICAgaWYgKHJlcXVlc3QucmVhZHlTdGF0ZSAhPT0gNCkgewogICAgLy8gICAgIHJldHVybjsKICAgIC8vICAgfQogICAgLy8KICAgIC8vICAgaWYgKHJlcXVlc3Quc3RhdHVzID09PSAyMDQpIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygnc3VjY2VzcycsIHJlcXVlc3QucmVzcG9uc2VUZXh0KTsKICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBjb25zb2xlLndhcm4oJ2Vycm9yJyk7CiAgICAvLyAgIH0KICAgIC8vIH07CiAgICAvLwogICAgLy8gcmVxdWVzdC5vcGVuKCdQVVQnLCAnaHR0cHM6Ly93d3cuZ2l0aHViLmNvbS96dGxldmkvc3RhcnJlZC9hcHBsZS90dXJpY3JlYXRlJyk7CiAgICAvLyByZXF1ZXN0LnNldFJlcXVlc3RIZWFkZXIoJ0NvbnRlbnQtTGVuZ3RoJywgMCk7CiAgICAvLyByZXF1ZXN0LnNlbmQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGl0bGU6IGUudGl0bGUsCg==</text>
+        <text encoding="base64">CiAgLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgIDxUZXh0CiAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpcHN9CiAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLmdvQmFjaygpfQogICAgICAgID5SZXR1cm48L1RleHQ+CiAgICAgICAgPFRleHRJbnB1dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy5pbnB1dH0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17VVJMfQogICAgICAgICAgb25DaGFuZ2VUZXh0PXt0ZXh0ID0+IHRoaXMudGV4dCA9IHRleHR9CiAgICAgICAgLz4KICAgICAgICA8VGV4dAogICAgICAgICAgc3R5bGU9e3N0eWxlcy50aXBzfQogICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5nbygpfQogICAgICAgID5HbzwvVGV4dD4KICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGl0bGU6IGUudGl0bGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZWZ0QnV0dG9uID0gVmlld1V0aWxzLmdldExlZnRCdXR0b24oKCk9PnRoaXMub25CYWNrKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action ExpandRegion</text>
       </register>
     </registers>
     <search>
@@ -238,11 +240,11 @@
         <entry>action GotoAction</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Back</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ExpandRegion</entry>
       </history-cmd>
       <history-expr />
       <history-input />
