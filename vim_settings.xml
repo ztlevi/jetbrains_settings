@@ -46,7 +46,12 @@
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512787489465" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512787793674">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
         <mark key="[" line="152" column="36" />
         <mark key="]" line="152" column="35" />
@@ -99,40 +104,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDbG9uZSBhbiBhcnJheQogICAqIEBwYXJhbSBmcm9tCiAgICogQHJldHVybnMge0FycmF5fQogICAqLwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIC8vIHJldHJpZXZlIGxvY2FsIGRhdGEKCiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZiA9IG9zLgo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0cmlldmUgbG9jYWwgZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
+        <text encoding="base64">ZiA9IG9zLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
+        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxMH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
+        <text encoding="base64">aW1wb3J0IFZpZXdVdGlscyBmcm9tICcuLi8uLi91dGlsL1ZpZXdVdGlscycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgIGxldCBsZWZ0QnV0dG9uID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZGF0YS5uYW1lfTwvVGV4dD4K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
