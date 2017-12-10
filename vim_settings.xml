@@ -74,12 +74,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1512892881081">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1512923623423">
         <mark key="'" line="266" column="24" />
-        <mark key="[" line="101" column="30" />
-        <mark key="]" line="101" column="31" />
-        <mark key="." line="101" column="31" />
-        <mark key="^" line="101" column="31" />
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="96" column="19" />
+        <mark key="." line="96" column="19" />
+        <mark key="^" line="96" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512881044329">
         <mark key="'" line="22" column="18" />
@@ -153,7 +153,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1512881944538" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512873593538">
         <mark key="'" line="77" column="4" />
         <mark key="[" line="67" column="45" />
@@ -322,7 +321,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLm9wZW5Qb3BvdmVyfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -357,10 +356,10 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindInPath</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -398,6 +397,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
