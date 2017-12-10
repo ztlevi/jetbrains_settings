@@ -3,41 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512860240554">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512853418070">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="87" column="49" />
-        <mark key="]" line="87" column="46" />
-        <mark key="^" line="87" column="46" />
-        <mark key="." line="87" column="46" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1512860278740">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1512787194352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512860511656">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="85" column="18" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="73" column="15" />
+      <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512877969104">
+        <mark key="'" line="304" column="24" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512859120696">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="96" column="64" />
-        <mark key="^" line="73" column="68" />
-        <mark key="." line="73" column="68" />
+      <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1512696717756">
         <mark key="[" line="9" column="67" />
@@ -45,46 +27,34 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512793027578">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="66" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1512873782777">
+        <mark key="'" line="246" column="14" />
+        <mark key="[" line="228" column="46" />
+        <mark key="]" line="229" column="13" />
+        <mark key="." line="229" column="13" />
+        <mark key="^" line="229" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1512860643105">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="189" column="57" />
-        <mark key="]" line="190" column="15" />
-        <mark key="." line="190" column="15" />
-        <mark key="^" line="190" column="15" />
+      <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512874888538">
+        <mark key="'" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1512805811477">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="61" column="38" />
-        <mark key="]" line="62" column="32" />
-        <mark key="." line="62" column="32" />
-        <mark key="^" line="62" column="32" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1512876462574">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
-        <mark key="[" line="152" column="36" />
-        <mark key="]" line="152" column="35" />
-        <mark key="^" line="152" column="35" />
-        <mark key="." line="152" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1512803819501">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1512879935237">
+        <mark key="'" line="36" column="39" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1512800767965">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="67" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512850968407">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="36" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -95,6 +65,71 @@
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1512855729720">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="89" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1512881679392">
+        <mark key="'" line="105" column="30" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="97" column="46" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512881044329">
+        <mark key="'" line="22" column="18" />
+        <mark key="y" line="47" column="34" />
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="6" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="56" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512881946356">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1512881671687">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1512869437933">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512871105654">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="99" column="30" />
+        <mark key="." line="99" column="30" />
+        <mark key="^" line="99" column="30" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512859120696">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="96" column="64" />
+        <mark key="^" line="73" column="68" />
+        <mark key="." line="73" column="68" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1512882010204">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="23" column="53" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
+        <mark key="[" line="152" column="36" />
+        <mark key="]" line="152" column="35" />
+        <mark key="^" line="152" column="35" />
+        <mark key="." line="152" column="35" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512879002231">
+        <mark key="[" line="50" column="65" />
+        <mark key="]" line="50" column="69" />
+        <mark key="^" line="50" column="69" />
+        <mark key="." line="50" column="69" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
@@ -109,19 +144,13 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512850867850">
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1512881944538" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512873593538">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="149" column="9" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512859954557">
-        <mark key="'" line="84" column="56" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="2" />
-        <mark key="^" line="57" column="38" />
-        <mark key="." line="57" column="38" />
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="68" column="27" />
+        <mark key="." line="68" column="27" />
+        <mark key="^" line="68" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512856639459">
         <mark key="[" line="22" column="32" />
@@ -203,62 +232,72 @@
       <jump line="51" column="0" filename="$USER_HOME$/Developer/react_github/WebViewTest.js" />
       <jump line="55" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="108" column="3" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="243" column="14" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="22" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
+      <jump line="318" column="0" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="10" column="18" filename="$USER_HOME$/Developer/react_github/res/data/keys.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="304" column="24" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="106" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="25" column="39" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>rate</text>
+        <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd1RvYXN0JywgJ1BsZWFzZSBMb2dpbi4uLicpCiAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLl9yZW5kZXJUYWIoUG9wdWxhclBhZ2UsICd0Yl9wb3B1bGFyJywgJ1BvcHVsYXInLCByZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX3doYXRzaG90XzM2cHQucG5nJykpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd1RvYXN0JywgJ1BsZWFzZSBMb2dpbi4uLicpCg==</text>
+        <text encoding="base64">Y29uc3QgVVJMID0gJ2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgc3R5bGU9e3toZWlnaHQ6IDQwfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgc3R5bGU9e3toZWlnaHQ6IDIwfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJOYXZpZ2F0b3IuSXRlbQogICAgICAgICAgICBzZWxlY3RlZD17dGhpcy5zdGF0ZS5zZWxlY3RlZFRhYiA9PT0gJ3RiX215J30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICdyZWQnfX0KICAgICAgICAgICAgdGl0bGU9Ik15IEFjY291bnQiCiAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJbWFnZSBzdHlsZT17c3R5bGVzLmltYWdlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX2FjY291bnRfY2lyY2xlXzM2cHQucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAncmVkJ31dfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfYWNjb3VudF9jaXJjbGVfMzZwdC5wbmcnKX0vPn0KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl9teSd9KX0+CiAgICAgICAgICAgIDxNeVBhZ2Ugey4uLnRoaXMucHJvcHN9Lz4KICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJOYXZpZ2F0b3IuSXRlbQogICAgICAgICAgICBzZWxlY3RlZD17dGhpcy5zdGF0ZS5zZWxlY3RlZFRhYiA9PT0gJ3RiX2Zhdm9yaXRlJ30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICdvcmFuZ2UnfX0KICAgICAgICAgICAgdGl0bGU9IkZhdm9yaXRlIgogICAgICAgICAgICByZW5kZXJJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e3N0eWxlcy5pbWFnZX0gc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX2Zhdm9yaXRlXzM2cHQucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAnb3JhbmdlJ31dfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfZmF2b3JpdGVfMzZwdC5wbmcnKX0vPn0KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRUYWI6ICd0Yl9mYXZvcml0ZSd9KX0+CiAgICAgICAgICAgIDxXZWJWaWV3VGVzdC8+CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIERldmljZUV2ZW50RW1pdHRlci5lbWl0KCdzaG93VG9hc3QnLCAnUGxlYXNlIExvZ2luLi4uJykK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJOYXZpZ2F0b3IuSXRlbQogICAgICAgICAgICBzZWxlY3RlZD17dGhpcy5zdGF0ZS5zZWxlY3RlZFRhYiA9PT0gJ3RiX3RyZW5kaW5nJ30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICdyZWQnfX0KICAgICAgICAgICAgdGl0bGU9IlRyZWFkaW5nIgogICAgICAgICAgICByZW5kZXJJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e3N0eWxlcy5pbWFnZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vcmVzL2ltYWdlcy9pY19hbGxfaW5jbHVzaXZlXzM2cHQucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAncmVkJ31dfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL3Jlcy9pbWFnZXMvaWNfYWxsX2luY2x1c2l2ZV8zNnB0LnBuZycpfS8+fQogICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnNldFN0YXRlKHtzZWxlY3RlZFRhYjogJ3RiX3RyZW5kaW5nJ30pfT4KICAgICAgICAgICAgPFRyZW5kaW5nUGFnZSB7Li4udGhpcy5wcm9wc30vPgogICAgICAgICAgICB7Lyo8QXN5bmNTdG9yYWdlVGVzdC8+Ki99CiAgICAgICAgICA8L1RhYk5hdmlnYXRvci5JdGVtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB1c2VyRGFvID0gbmV3IFVzZXJEYW8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJOYXZpZ2F0b3IuSXRlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJEYW8ubG9hZEN1cnJlbnRVc2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRUYWIgPT09ICd0Yl9wb3B1bGFyJ30KICAgICAgICAgICAgc2VsZWN0ZWRUaXRsZVN0eWxlPXt7Y29sb3I6ICcjMjE5NkYzJ319CiAgICAgICAgICAgIHRpdGxlPSJQb3B1bGFyIgogICAgICAgICAgICByZW5kZXJJY29uPXsoKSA9PiA8SW1hZ2Ugc3R5bGU9e3N0eWxlcy5pbWFnZX0gc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX3doYXRzaG90XzM2cHQucG5nJyl9Lz59CiAgICAgICAgICAgIHJlbmRlclNlbGVjdGVkSWNvbj17KCkgPT4gPEltYWdlIHN0eWxlPXtbc3R5bGVzLmltYWdlLCB7dGludENvbG9yOiAnIzIxOTZGMyd9XX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9yZXMvaW1hZ2VzL2ljX3doYXRzaG90XzM2cHQucG5nJyl9Lz59CiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkVGFiOiAndGJfcG9wdWxhcid9KX0+CiAgICAgICAgICAgIDxQb3B1bGFyUGFnZSB7Li4udGhpcy5wcm9wc30vPgogICAgICAgICAgPC9UYWJOYXZpZ2F0b3IuSXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlcm5hbWUgPSAnJwo=</text>
+        <text encoding="base64">ICBhdXRob3I6ewogICAgZm9udFNpemU6IDE0LAogICAgbWFyZ2luQm90dG9tOiAyLAogICAgY29sb3I6ICcjNzU3NTc1JywKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>rate</last-search>
+      <last-search>GET</last-search>
       <last-offset />
-      <last-pattern>rate</last-pattern>
+      <last-pattern>GET</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>rate</entry>
+        <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
@@ -268,14 +307,16 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ExpandRegion</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action GotoAction</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoClass</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
