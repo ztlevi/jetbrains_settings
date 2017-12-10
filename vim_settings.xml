@@ -68,10 +68,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512789712886">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1512921821599">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
@@ -165,7 +166,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>...</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>rate</text>
@@ -201,7 +202,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -220,7 +221,6 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Run</entry>
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
@@ -236,6 +236,7 @@
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
