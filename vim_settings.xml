@@ -9,6 +9,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512971731537">
+        <mark key="'" line="31" column="23" />
+        <mark key="[" line="121" column="14" />
+        <mark key="]" line="121" column="18" />
+        <mark key="." line="121" column="18" />
+        <mark key="^" line="121" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/TimeSpan.js" timestamp="1512885468825">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="29" />
@@ -33,6 +40,13 @@
         <mark key="]" line="161" column="32" />
         <mark key="." line="161" column="32" />
         <mark key="^" line="161" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1512930682421">
         <mark key="[" line="138" column="43" />
@@ -84,21 +98,13 @@
         <mark key="." line="96" column="19" />
         <mark key="^" line="96" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1512881044329">
-        <mark key="'" line="22" column="18" />
-        <mark key="y" line="47" column="34" />
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="6" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="56" column="6" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512967651495">
+      <file name="/Dummy.txt" timestamp="1512971733780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -116,12 +122,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512953294058">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512972233936">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="21" />
-        <mark key="." line="82" column="21" />
-        <mark key="^" line="82" column="21" />
+        <mark key="[" line="89" column="64" />
+        <mark key="]" line="89" column="68" />
+        <mark key="." line="89" column="68" />
+        <mark key="^" line="89" column="68" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1512931136627">
         <mark key="'" line="94" column="8" />
@@ -143,11 +149,11 @@
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512879002231">
-        <mark key="[" line="50" column="65" />
-        <mark key="]" line="50" column="69" />
-        <mark key="^" line="50" column="69" />
-        <mark key="." line="50" column="69" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512972263005">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="53" column="12" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
@@ -169,12 +175,12 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1512968105654">
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1512971393997">
         <mark key="'" line="207" column="27" />
-        <mark key="[" line="49" column="87" />
-        <mark key="]" line="49" column="87" />
-        <mark key="." line="49" column="87" />
-        <mark key="^" line="53" column="11" />
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="54" column="76" />
+        <mark key="." line="54" column="76" />
+        <mark key="^" line="54" column="76" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512856639459">
         <mark key="[" line="22" column="32" />
@@ -198,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="218" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="228" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="275" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="319" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -298,46 +302,48 @@
       <jump line="367" column="4" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="78" column="47" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="31" column="23" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">S2V5cyA=</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbSh0aGlzLmZhdm9yaXRlS2V5LCBKU09OLnN0cmluZ2lmeShmYXZvcml0ZUtleXMpKQo=</text>
+        <text encoding="base64">ICByZXNldEtleXMgKCkgewogICAgQXN5bmNTdG9yYWdlLmdldEl0ZW0odGhpcy5mbGFnLCAoZXJyb3IsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZygnQ2Fubm90IHJlc2V0IScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2xhbmd1YWdlLCBKU09OLnN0cmluZ2lmeShsYW5ncyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2tleSwgSlNPTi5zdHJpbmdpZnkoa2V5cyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgIH0KICAgIH0pCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmNzLnB1c2godGhpcy5wcm9taXNlVXBkYXRlRmF2b3JpdGVLZXlzKHJlcG9zW2pdLmlkLnRvU3RyaW5nKCksIHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfbGFuZ3VhZ2UsIEpTT04uc3RyaW5naWZ5KGxhbmdzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfa2V5LCBKU09OLnN0cmluZ2lmeShrZXlzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZmV0Y2hMb2NhbFJlcG9zaXRvcnkgKHVybCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgQXN5bmNTdG9yYWdlLmdldEl0ZW0odXJsLCAoZXJyb3IsIHJlc3VsdCkgPT4gewogICAgICAgIGlmICghZXJyb3IpIHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJlc29sdmUoSlNPTi5wYXJzZShyZXN1bHQpKQogICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICByZWplY3QoZSkKICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmVqZWN0KGVycm9yKQogICAgICAgIH0KICAgICAgfSkKICAgIH0pCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9ICBGTEFHX0xBTkdVQUdFLmZsYWdfa2V5ID8ga2V5cyA6IGxhbmdzCiAgICAgICAgdGhpcy5zYXZlKGRhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLnRoZW4oKCk9PnsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGtleSA9IGtleXNbaV0KICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghaWRzLmluY2x1ZGVzKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2F2ZUZhdm9yaXRlSXRlbShyZXBvc1tqXS5pZC50b1N0cmluZygpLCBKU09OLnN0cmluZ2lmeShyZXBvc1tqXSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGZldGNoIGFsbCB1c2VyJ3Mgc3RhcnJlZCByZXBvIGFuZCB1cGRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -371,13 +377,13 @@
         <entry>actionlist</entry>
         <entry>action Forward</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action RecentFiles</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
