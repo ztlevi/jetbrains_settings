@@ -98,11 +98,24 @@
         <mark key="." line="96" column="19" />
         <mark key="^" line="96" column="19" />
       </file>
+      <file name="/JavaScript Console" timestamp="1513026575405">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/electron-quick-start/renderer.js" timestamp="1513026511824">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513025638457" />
+      <file name="$USER_HOME$/Developer/electron-quick-start/main.js" timestamp="1513026249702">
+        <mark key="'" line="117" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1512971733780">
         <mark key="[" line="0" column="0" />
@@ -205,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="275" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="319" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="325" column="12" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -305,13 +317,14 @@
       <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
       <jump line="31" column="23" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="117" column="3" filename="$USER_HOME$/Developer/electron-quick-start/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">S2V5cyA=</text>
+        <text>tri_demo</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
@@ -320,31 +333,31 @@
         <text encoding="base64">ICByZXNldEtleXMgKCkgewogICAgQXN5bmNTdG9yYWdlLmdldEl0ZW0odGhpcy5mbGFnLCAoZXJyb3IsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZygnQ2Fubm90IHJlc2V0IScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2xhbmd1YWdlLCBKU09OLnN0cmluZ2lmeShsYW5ncyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2tleSwgSlNPTi5zdHJpbmdpZnkoa2V5cyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgIH0KICAgIH0pCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfbGFuZ3VhZ2UsIEpTT04uc3RyaW5naWZ5KGxhbmdzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfa2V5LCBKU09OLnN0cmluZ2lmeShrZXlzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfbGFuZ3VhZ2UsIEpTT04uc3RyaW5naWZ5KGxhbmdzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9ICBGTEFHX0xBTkdVQUdFLmZsYWdfa2V5ID8ga2V5cyA6IGxhbmdzCiAgICAgICAgdGhpcy5zYXZlKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfa2V5LCBKU09OLnN0cmluZ2lmeShrZXlzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9ICBGTEFHX0xBTkdVQUdFLmZsYWdfa2V5ID8ga2V5cyA6IGxhbmdzCiAgICAgICAgdGhpcy5zYXZlKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGtleSA9IGtleXNbaV0KICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghaWRzLmluY2x1ZGVzKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGtleSA9IGtleXNbaV0KICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghaWRzLmluY2x1ZGVzKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGZldGNoIGFsbCB1c2VyJ3Mgc3RhcnJlZCByZXBvIGFuZCB1cGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
