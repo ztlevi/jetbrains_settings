@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1512787194352">
+      <file name="/Python Console" timestamp="1513022317663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -28,11 +28,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1512696717756">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513022398176">
         <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="97" />
-        <mark key="." line="9" column="97" />
-        <mark key="^" line="9" column="97" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+        <mark key="^" line="9" column="69" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1512961025897">
         <mark key="'" line="84" column="19" />
@@ -188,11 +188,11 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1512696553584">
-        <mark key="'" line="1" column="63" />
-        <mark key="[" line="289" column="61" />
-        <mark key="]" line="289" column="58" />
-        <mark key="." line="289" column="58" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513022376015">
+        <mark key="'" line="351" column="4" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
         <mark key="^" line="289" column="58" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1512856228003">
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="275" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="319" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="325" column="12" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="335" column="85" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -304,13 +302,15 @@
       <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
       <jump line="31" column="23" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="15" column="2" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="351" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">S2V5cyA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
@@ -346,7 +346,7 @@
         <text encoding="base64">ICAgIC8vIGZldGNoIGFsbCB1c2VyJ3Mgc3RhcnJlZCByZXBvIGFuZCB1cGRhdGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -365,8 +365,6 @@
         <entry>nextProps</entry>
       </history-search>
       <history-cmd>
-        <entry>action DebugClass</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action GotoFile</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action SearchEverywhere</entry>
@@ -385,6 +383,8 @@
         <entry>action HideAllWindows</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
