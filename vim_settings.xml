@@ -104,7 +104,7 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512961349364">
+      <file name="/Dummy.txt" timestamp="1512962530251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -175,12 +175,12 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1512961381709">
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1512962623025">
         <mark key="'" line="199" column="27" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="34" column="13" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512856639459">
         <mark key="[" line="22" column="32" />
@@ -310,7 +310,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
@@ -319,34 +319,34 @@
         <text>response.headers.map.link</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihrZXlzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJEYW8uZmV0Y2hTdGFycmVkUmVwb3MoKQogICAgICAgICAgLnRoZW4ocmVzcG9uc2VzPT57CiAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcmVzcG9uc2VzLmxlbmd0aDsgaSsrKSB7CgogICAgICAgICAgICB9CiAgICAgICAgICB9KQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgYSA9IGtleXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlckRhby5mZXRjaFN0YXJyZWRSZXBvcygpCg==</text>
+        <text encoding="base64">ICAgIGxldCBwcm9taXNlcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRGYXZvcml0ZUtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudXBkYXRlRmF2b3JpdGVLZXlzKHJlcG9zW2pdLmlkLnRvU3RyaW5nKCksIHRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IGZhdm9yaXRlREFPID0gbmV3IEZhdm9yaXRlREFPKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBpbmRleCA9IGZhdm9yaXRlS2V5cy5pbmRleE9mKGtleSkKICAgICAgICAgIGlmIChpc0FkZCAmJiBpbmRleCA9PT0gLTEpIHsKICAgICAgICAgICAgZmF2b3JpdGVLZXlzLnB1c2goa2V5KQogICAgICAgICAgfSBlbHNlIGlmICghaXNBZGQgJiYgaW5kZXggIT09IC0xKSB7CiAgICAgICAgICAgIGZhdm9yaXRlS2V5cy5zcGxpY2UoaW5kZXgsIDEpCiAgICAgICAgICB9CiAgICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbSh0aGlzLmZhdm9yaXRlS2V5LCBKU09OLnN0cmluZ2lmeShmYXZvcml0ZUtleXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihrZXlzKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW5kZXggPSBmYXZvcml0ZUtleXMuaW5kZXhPZihrZXkpCiAgICAgICAgaWYgKGlzQWRkICYmIGluZGV4ID09PSAtMSkgewogICAgICAgICAgZmF2b3JpdGVLZXlzLnB1c2goa2V5KQogICAgICAgIH0gZWxzZSBpZiAoIWlzQWRkICYmIGluZGV4ICE9PSAtMSkgewogICAgICAgICAgZmF2b3JpdGVLZXlzLnNwbGljZShpbmRleCwgMSkKICAgICAgICB9CiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0odGhpcy5mYXZvcml0ZUtleSwgSlNPTi5zdHJpbmdpZnkoZmF2b3JpdGVLZXlzKSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJEYW8uZmV0Y2hTdGFycmVkUmVwb3MoKQogICAgICAgICAgLnRoZW4ocmVzcG9uc2VzPT57CiAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcmVzcG9uc2VzLmxlbmd0aDsgaSsrKSB7CgogICAgICAgICAgICB9CiAgICAgICAgICB9KQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGtleXMucHVzaChyZXBvc1tqXS5pZCkK</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlckRhby5mZXRjaFN0YXJyZWRSZXBvcygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -383,8 +383,8 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
