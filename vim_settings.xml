@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/TashSynchronized.java" timestamp="1512535689214">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="/Python Console" timestamp="1512787194352">
+      <file name="/Python Console" timestamp="1513023973424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -34,11 +28,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1512696717756">
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="97" />
-        <mark key="." line="9" column="97" />
-        <mark key="^" line="9" column="97" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513023143014">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1512961025897">
         <mark key="'" line="84" column="19" />
@@ -65,12 +60,6 @@
         <mark key="]" line="57" column="77" />
         <mark key="." line="57" column="77" />
         <mark key="^" line="57" column="77" />
-      </file>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/TashSynchronize.java" timestamp="1512535339968">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -116,12 +105,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskSynchronized.java" timestamp="1512536670067">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1512971733780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -140,12 +123,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/FetchTest.js" timestamp="1512513201956">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="17" />
-        <mark key="^" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512972233936">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="89" column="64" />
@@ -157,8 +134,8 @@
         <mark key="'" line="94" column="8" />
         <mark key="[" line="110" column="46" />
         <mark key="]" line="110" column="46" />
-        <mark key="." line="110" column="46" />
         <mark key="^" line="110" column="46" />
+        <mark key="." line="110" column="46" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1512940661275">
         <mark key="'" line="31" column="6" />
@@ -172,12 +149,6 @@
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/TaskLock.java" timestamp="1512534785191">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512972263005">
         <mark key="[" line="48" column="0" />
@@ -198,7 +169,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/WordCount.java" timestamp="1513028434869" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1512967401299">
         <mark key="'" line="77" column="4" />
         <mark key="[" line="42" column="0" />
@@ -213,25 +183,20 @@
         <mark key="." line="54" column="76" />
         <mark key="^" line="54" column="76" />
       </file>
-      <file name="$USER_HOME$/Developer/atomic_lock/src/Main.java" timestamp="1512535916083">
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="65" column="45" />
-        <mark key="^" line="65" column="45" />
-        <mark key="." line="65" column="45" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512856639459">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="32" />
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1512696553584">
-        <mark key="'" line="1" column="63" />
-        <mark key="[" line="289" column="61" />
-        <mark key="]" line="289" column="58" />
-        <mark key="." line="289" column="58" />
-        <mark key="^" line="289" column="58" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
+        <mark key="'" line="351" column="4" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/ExpressAppTest/package.json" timestamp="1513025509697" />
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1512856228003">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="81" column="0" />
@@ -239,14 +204,8 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1513027479145">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="275" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="319" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="325" column="12" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="335" column="85" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="1" column="63" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -344,49 +303,52 @@
       <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
       <jump line="31" column="23" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
+      <jump line="15" column="2" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="351" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">S2V5cyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXNldEtleXMgKCkgewogICAgQXN5bmNTdG9yYWdlLmdldEl0ZW0odGhpcy5mbGFnLCAoZXJyb3IsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZygnQ2Fubm90IHJlc2V0IScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2xhbmd1YWdlLCBKU09OLnN0cmluZ2lmeShsYW5ncyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oRkxBR19MQU5HVUFHRS5mbGFnX2tleSwgSlNPTi5zdHJpbmdpZnkoa2V5cyksIChlcnJvciwgcmVzdWx0KSA9PiB7IH0pCiAgICAgIH0KICAgIH0pCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RhdGFsb2dnZXIgbGVuZ3RoOiAnICsgbGVuKHNlZ21lbnRlZF9yZXN1bHRbaV0uZGF0YWxvZ2dlcl9kYXRhKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfbGFuZ3VhZ2UsIEpTT04uc3RyaW5naWZ5KGxhbmdzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChbc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSBmb3IgaSBpbiByYW5nZShsZW4oc2VnbWVudGVkX3Jlc3VsdCkpXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfa2V5LCBKU09OLnN0cmluZ2lmeShrZXlzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfbGFuZ3VhZ2UsIEpTT04uc3RyaW5naWZ5KGxhbmdzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9ICBGTEFHX0xBTkdVQUdFLmZsYWdfa2V5ID8ga2V5cyA6IGxhbmdzCiAgICAgICAgdGhpcy5zYXZlKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2Uuc2V0SXRlbShGTEFHX0xBTkdVQUdFLmZsYWdfa2V5LCBKU09OLnN0cmluZ2lmeShrZXlzKSwgKGVycm9yLCByZXN1bHQpID0+IHsgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9ICBGTEFHX0xBTkdVQUdFLmZsYWdfa2V5ID8ga2V5cyA6IGxhbmdzCiAgICAgICAgdGhpcy5zYXZlKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGtleSA9IGtleXNbaV0KICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghaWRzLmluY2x1ZGVzKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGtleSA9IGtleXNbaV0KICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghaWRzLmluY2x1ZGVzKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGZldGNoIGFsbCB1c2VyJ3Mgc3RhcnJlZCByZXBvIGFuZCB1cGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -397,35 +359,53 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>rate</entry>
+        <entry>GET</entry>
+        <entry>ComponentWill</entry>
+        <entry>onPress</entry>
+        <entry>nextProps</entry>
+      </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>action GotoClass</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action CommentByBlockComment</entry>
-        <entry>action Back</entry>
-        <entry>action Forward</entry>
-        <entry>action ImplementMethods</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Debug</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ReopenClosedTab</entry>
-        <entry>action Run</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ActivateStructureToolWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action GotoClass</entry>
+        <entry>actionlist</entry>
+        <entry>action Forward</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
@@ -434,22 +414,13 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
