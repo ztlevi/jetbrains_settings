@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1513022912158">
+      <file name="/Python Console" timestamp="1513023973424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -189,12 +189,12 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513022376015">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
         <mark key="'" line="351" column="4" />
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
-        <mark key="^" line="289" column="58" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1512856228003">
         <mark key="'" line="51" column="0" />
@@ -347,7 +347,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UuZ2V0QWxsS2V5cygoZXJyb3IsIGtleXMpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQga2V5ID0ga2V5c1tpXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzTmFOKGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhrZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbShrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -375,17 +375,17 @@
         <entry>action Forward</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
         <entry>action HideAllWindows</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RunClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action DebugClass</entry>
         <entry>action Run</entry>
+        <entry>action RunClass</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
