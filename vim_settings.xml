@@ -80,6 +80,9 @@
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="67" />
       </file>
+      <file name="/PythonRegExp Fragment (test.py:25).regexp" timestamp="1513116841173">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -187,11 +190,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1513104213925">
-        <mark key="[" line="1" column="60" />
-        <mark key="]" line="1" column="60" />
-        <mark key="." line="1" column="60" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1513116839463">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -355,7 +358,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>aa</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
@@ -391,7 +394,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwbGl0Lmxlbmd0aCE9MCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -415,7 +418,6 @@
         <entry>actionlist</entry>
         <entry>action Forward</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -430,6 +432,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
