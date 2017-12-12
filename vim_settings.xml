@@ -109,14 +109,13 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.2/hadoop-mapreduce-client-core-2.8.2.jar!/org/apache/hadoop/mapreduce/Reducer.class" timestamp="1513036250120" />
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512971733780">
+      <file name="/Dummy.txt" timestamp="1513038096600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -163,11 +162,11 @@
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513037621383">
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513039443742">
         <mark key="'" line="76" column="2" />
-        <mark key="[" line="66" column="53" />
-        <mark key="]" line="66" column="66" />
-        <mark key="." line="66" column="66" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
         <mark key="^" line="66" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512972263005">
@@ -344,7 +343,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
