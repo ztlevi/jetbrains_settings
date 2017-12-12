@@ -99,6 +99,17 @@
         <mark key="." line="96" column="19" />
         <mark key="^" line="96" column="19" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/matrix/step1/MR1.java" timestamp="1513036416687">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="51" column="8" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513037806511">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.2/hadoop-mapreduce-client-core-2.8.2.jar!/org/apache/hadoop/mapreduce/Reducer.class" timestamp="1513036250120" />
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
@@ -117,11 +128,6 @@
         <mark key="]" line="106" column="29" />
         <mark key="^" line="106" column="29" />
         <mark key="." line="106" column="29" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1512952747881">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1512972233936">
         <mark key="'" line="0" column="0" />
@@ -144,18 +150,25 @@
         <mark key="." line="20" column="40" />
         <mark key="^" line="20" column="40" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" timestamp="1513037773690">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="70" column="64" />
+        <mark key="." line="58" column="19" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
         <mark key="[" line="152" column="36" />
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513035752941">
-        <mark key="'" line="59" column="59" />
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="27" />
-        <mark key="^" line="68" column="54" />
-        <mark key="." line="60" column="27" />
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513037621383">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="66" column="53" />
+        <mark key="]" line="66" column="66" />
+        <mark key="." line="66" column="66" />
+        <mark key="^" line="66" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1512972263005">
         <mark key="[" line="48" column="0" />
@@ -168,6 +181,12 @@
         <mark key="]" line="39" column="15" />
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -219,10 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
-      <jump line="82" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
-      <jump line="84" column="28" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
-      <jump line="57" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
       <jump line="60" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
       <jump line="63" column="21" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
       <jump line="92" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
@@ -319,49 +334,53 @@
       <jump line="66" column="0" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" />
       <jump line="65" column="50" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" />
       <jump line="59" column="59" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" />
+      <jump line="42" column="64" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" />
+      <jump line="76" column="2" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
-      <register name="0" type="4">
-        <text>job.waitForCompletion(true) ? 0 : 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlzOwppbXBvcnQgamF2YS51dGlsLlN0cmluZ1Rva2VuaXplcjsKCmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5jb25mLkNvbmZpZ3VyYXRpb247CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5mcy5QYXRoOwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AuaW8uSW50V3JpdGFibGU7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5Mb25nV3JpdGFibGU7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5UZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AubWFwcmVkdWNlLkpvYjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5NYXBwZXI7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5tYXByZWR1Y2UuUmVkdWNlcjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0OwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AubWFwcmVkdWNlLmxpYi5vdXRwdXQuRmlsZU91dHB1dEZvcm1hdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlcyA9IGpvYi53YWl0Rm9yQ29tcGxldGlvbih0cnVlKTsKCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvbW1vbkZyaWVuZHNTdGVwT25lIHsKICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29tbW9uRnJpZW5kc1N0ZXBPbmVNYXBwZXIgZXh0ZW5kcyBNYXBwZXI8TG9uZ1dyaXRhYmxlLCBUZXh0LCBUZXh0LCBUZXh0PiB7CiAgICAgICAgcHJpdmF0ZSBUZXh0IGsgPSBuZXcgVGV4dCgpOwogICAgICAgIHByaXZhdGUgVGV4dCB2ID0gbmV3IFRleHQoKTsKCiAgICAgICAgLy8gQTpCLEMsRCxGLEUsTyAgICAgICBCLS0+IEEgOyBDLS0+QSA7IEQtLT5BIDsgRi0tPkEgLi4uLgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCB2b2lkIG1hcChMb25nV3JpdGFibGUga2V5LCBUZXh0IHZhbHVlLCBDb250ZXh0IGNvbnRleHQpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgICAgICBTdHJpbmcgbGluZSA9IHZhbHVlLnRvU3RyaW5nKCk7CiAgICAgICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gbGluZS5zcGxpdCgiXHQiKTsKICAgICAgICAgICAgU3RyaW5nW10gZnJpZW5kcyA9IHNwbGl0WzFdLnNwbGl0KCIsIik7CgogICAgICAgICAgICB2LnNldChzcGxpdFswXSk7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIGYgOiBmcmllbmRzKSB7CiAgICAgICAgICAgICAgICBrLnNldChmKTsKICAgICAgICAgICAgICAgIGNvbnRleHQud3JpdGUoaywgdik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBDb21tb25GcmllbmRzU3RlcE9uZVJlZHVjZXIgZXh0ZW5kcyBSZWR1Y2VyPFRleHQsIFRleHQsIFRleHQsIFRleHQ+IHsKICAgICAgICAvKgogICAgICAgICAqIOi+k+WFpeeahOaVsOaNriA8QiBBPiA8QiBFPiA8QiBGPiA8QiBKPgogICAgICAgICAqIOi+k+WHuueahOe7k+aenCA8QiBBLEUsRixKPgogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgVGV4dCB2ID0gbmV3IFRleHQoKTsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIHZvaWQgcmVkdWNlKFRleHQgZnJpZW5kLCBJdGVyYWJsZTxUZXh0PiBwZXJzb25zLCBDb250ZXh0IGNvbnRleHQpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgZm9yIChUZXh0IHAgOiBwZXJzb25zKSB7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQocCkuYXBwZW5kKCIsIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdi5zZXQoc2IudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGNvbnRleHQud3JpdGUoZnJpZW5kLCB2KTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24gewogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZiA9IG5ldyBDb25maWd1cmF0aW9uKCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEpvYiBqb2IgPSBKb2IuZ2V0SW5zdGFuY2UoY29uZiwgImNvbW1vbiBmcmllbmRzIik7CgogICAgICAgICAgICBqb2Iuc2V0SmFyQnlDbGFzcyhDb21tb25GcmllbmRzU3RlcE9uZS5jbGFzcyk7CgogICAgICAgICAgICBqb2Iuc2V0TWFwcGVyQ2xhc3MoQ29tbW9uRnJpZW5kc1N0ZXBPbmVNYXBwZXIuY2xhc3MpOwogICAgICAgICAgICBqb2Iuc2V0Q29tYmluZXJDbGFzcyhDb21tb25GcmllbmRzU3RlcE9uZVJlZHVjZXIuY2xhc3MpOwogICAgICAgICAgICBqb2Iuc2V0UmVkdWNlckNsYXNzKENvbW1vbkZyaWVuZHNTdGVwT25lUmVkdWNlci5jbGFzcyk7CgogICAgICAgICAgICBqb2Iuc2V0T3V0cHV0S2V5Q2xhc3MoVGV4dC5jbGFzcyk7CiAgICAgICAgICAgIGpvYi5zZXRPdXRwdXRWYWx1ZUNsYXNzKFRleHQuY2xhc3MpOwoKICAgICAgICAgICAgRmlsZUlucHV0Rm9ybWF0LmFkZElucHV0UGF0aChqb2IsIG5ldyBQYXRoKCJpbnB1dF9jb21tb24iKSk7CiAgICAgICAgICAgIEZpbGVPdXRwdXRGb3JtYXQuc2V0T3V0cHV0UGF0aChqb2IsIG5ldyBQYXRoKCJvdXRwdXRfY29tbW9uIikpOwogICAgICAgICAgICBTeXN0ZW0uZXhpdChqb2Iud2FpdEZvckNvbXBsZXRpb24odHJ1ZSkgPyAwIDogMSk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CgogICAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gSm9iLmdldEluc3RhbmNlKGNvbmYsICJ3b3JkIGNvdW50Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iLndhaXRGb3JDb21wbGV0aW9uKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
+        <text encoding="base64">MAkxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHNldCBNYXBwZXIgb3V0cHV0IHR5cGUKICAgICAgICAgICAgam9iLnNldE1hcE91dHB1dEtleUNsYXNzKFRleHQuY2xhc3MpOwogICAgICAgICAgICBqb2Iuc2V0TWFwT3V0cHV0VmFsdWVDbGFzcyhUZXh0LmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmNvbmYuQ29uZmlndXJhdGlvbjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLlBhdGg7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5Mb25nV3JpdGFibGU7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5UZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AubWFwcmVkdWNlLkpvYjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5tYXByZWQuRmlsZU91dHB1dEZvcm1hdDsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5NYXBwZXI7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5tYXByZWR1Y2UuUmVkdWNlcjsKCmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlcyA9IGpvYi53YWl0Rm9yQ29tcGxldGlvbih0cnVlKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5Kb2I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gSm9iLmdldEluc3RhbmNlKGNvbmYsICJ3b3JkIGNvdW50Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgRmlsZUlucHV0Rm9ybWF0LmFkZElucHV0UGF0aChqb2IsIG5ldyBQYXRoKGFyZ3NbMF0pKTsKICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aChhcmdzWzFdKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRGb3JtYXQuYWRkSW5wdXRQYXRoKGpvYiwgbmV3IFBhdGgoYXJnc1swXSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aDsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmNvbmYuQ29uZmlndXJhdGlvbjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLlBhdGg7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5Mb25nV3JpdGFibGU7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5UZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AubWFwcmVkdWNlLkpvYjsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5tYXByZWQuRmlsZU91dHB1dEZvcm1hdDsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5NYXBwZXI7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5tYXByZWR1Y2UuUmVkdWNlcjsKCmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -389,17 +408,17 @@
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
