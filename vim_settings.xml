@@ -28,6 +28,9 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="/fragment.js" timestamp="1513041883678">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1512696717756">
         <mark key="[" line="9" column="67" />
         <mark key="]" line="9" column="97" />
@@ -98,7 +101,7 @@
         <mark key="." line="96" column="19" />
         <mark key="^" line="96" column="19" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513026575405">
+      <file name="/JavaScript Console" timestamp="1513042271955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
@@ -107,13 +110,19 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/electron-quick-start/renderer.js" timestamp="1513029730404">
+      <file name="$USER_HOME$/Developer/electron-quick-start/renderer.js" timestamp="1513041908807">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="17" />
+        <mark key="m" line="11" column="0" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513025638457" />
+      <file name="$USER_HOME$/Developer/electron-quick-start/index.html" timestamp="1513042199235">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/main.js" timestamp="1513026249702">
         <mark key="'" line="117" column="3" />
       </file>
@@ -324,7 +333,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>tri_demo</text>
+        <text>.js</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
