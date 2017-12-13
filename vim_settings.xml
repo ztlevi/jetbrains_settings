@@ -113,11 +113,26 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="/JavaScript Console" timestamp="1513196093711">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/electron-quick-start/renderer.js" timestamp="1513195674023">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/Developer/electron-quick-start/index.html" timestamp="1513195597981">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+        <mark key="^" line="8" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1513038096600">
         <mark key="[" line="0" column="0" />
@@ -358,43 +373,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
-      <register name="0" type="4">
-        <text>[ \t]*</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFyICQgPSByZXF1aXJlKCdqcXVlcnknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5zID0gcmUubWF0Y2goIl5bIFx0XSpcXChbQS1aYS16XyRdW0EtWmEtejAtOV8kXStcXClbIFx0XSo9WyBcdF0qKFthLXpBLVowLTksIF0qKT9bIFx0XSo9PiIsICJjb25zdCBkcmF3RnJhbWUgPSAoKSA9PiB7IikK</text>
+        <text encoding="base64">ICAgIDwhLS0gQWxsIG9mIHRoZSBOb2RlLmpzIEFQSXMgYXJlIGF2YWlsYWJsZSBpbiB0aGlzIHJlbmRlcmVyIHByb2Nlc3MuIC0tPgogICAgV2UgYXJlIHVzaW5nIE5vZGUuanMgPHNjcmlwdD5kb2N1bWVudC53cml0ZShwcm9jZXNzLnZlcnNpb25zLm5vZGUpPC9zY3JpcHQ+LAogICAgQ2hyb21pdW0gPHNjcmlwdD5kb2N1bWVudC53cml0ZShwcm9jZXNzLnZlcnNpb25zLmNocm9tZSk8L3NjcmlwdD4sCiAgICBhbmQgRWxlY3Ryb24gPHNjcmlwdD5kb2N1bWVudC53cml0ZShwcm9jZXNzLnZlcnNpb25zLmVsZWN0cm9uKTwvc2NyaXB0Pi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZyaWVuZHMuICE9IDApCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YW5zID0gcmUubWF0Y2goIl5bIFx0XSpcXChbQS1aYS16XyRdW0EtWmEtejAtOV8kXStcXClbIFx0XSo9WyBcdF0qKFthLXpBLVowLTksIF0qKT9bIFx0XSo9PiIsICJjb25zdCBkcmF3RnJhbWUgPSAoKSA9PiB7IikK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcGVyc29ucyA9IHNwbGl0WzFdLnNwbGl0KCIsIik7CgogICAgICAgICAgICAvLyDlr7nnlKjmiLfov5vooYzmjpLluo/vvIzku6XlhY3lh7rnjrBHRuOAgUZH6KKr6KeG5Li65LiN5ZCM55qE57uE5ZCICiAgICAgICAgICAgIC8vQXJyYXlzLnNvcnQocGVyc29ucyk7CiAgICAgICAgICAgIHYuc2V0KHNwbGl0WzBdKTsKCiAgICAgICAgICAgIC8vIOWvueaVtOS4qnBlcnNvbnPmlbDnu4TlgZrkuKTkuKTnu4TlkIjmi7zmjqUKICAgICAgICAgICAgZm9yIChTdHJpbmcgZiA6IHBlcnNvbnMpIHsKICAgICAgICAgICAgICAgIGsuc2V0KGYpOwogICAgICAgICAgICAgICAgY29udGV4dC53cml0ZShrLCB2KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZyaWVuZHMuICE9IDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwbGl0Lmxlbmd0aCE9MCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcGVyc29ucyA9IHNwbGl0WzFdLnNwbGl0KCIsIik7CgogICAgICAgICAgICAvLyDlr7nnlKjmiLfov5vooYzmjpLluo/vvIzku6XlhY3lh7rnjrBHRuOAgUZH6KKr6KeG5Li65LiN5ZCM55qE57uE5ZCICiAgICAgICAgICAgIC8vQXJyYXlzLnNvcnQocGVyc29ucyk7CiAgICAgICAgICAgIHYuc2V0KHNwbGl0WzBdKTsKCiAgICAgICAgICAgIC8vIOWvueaVtOS4qnBlcnNvbnPmlbDnu4TlgZrkuKTkuKTnu4TlkIjmi7zmjqUKICAgICAgICAgICAgZm9yIChTdHJpbmcgZiA6IHBlcnNvbnMpIHsKICAgICAgICAgICAgICAgIGsuc2V0KGYpOwogICAgICAgICAgICAgICAgY29udGV4dC53cml0ZShrLCB2KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwbGl0Lmxlbmd0aCE9MCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -422,17 +437,17 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Debug</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
