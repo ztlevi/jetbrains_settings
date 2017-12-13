@@ -413,7 +413,6 @@
         <entry>nextProps</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoClass</entry>
         <entry>actionlist</entry>
         <entry>action Forward</entry>
@@ -432,6 +431,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
