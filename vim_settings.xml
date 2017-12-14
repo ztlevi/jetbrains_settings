@@ -112,7 +112,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513215534591">
+      <file name="/JavaScript Console" timestamp="1513218469743">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
@@ -159,11 +159,10 @@
         <mark key="^" line="110" column="46" />
         <mark key="." line="110" column="46" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513216109055">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513216176011">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1512940661275">
         <mark key="'" line="31" column="6" />
@@ -189,18 +188,18 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513215540124">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513218441963">
         <mark key="'" line="10" column="5" />
-        <mark key="[" line="79" column="36" />
-        <mark key="]" line="79" column="48" />
-        <mark key="." line="79" column="48" />
-        <mark key="^" line="79" column="48" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513203087666">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513218464040">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513205147460">
         <mark key="[" line="0" column="0" />
@@ -405,40 +404,40 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3Bhbj5hYWE8L3NwYW4+</text>
+        <text>.toLowerCase()</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jkc1tpZHhdLnNwbGljZShzeW1faWR4LCAxKQo=</text>
+      <register name="0" type="4">
+        <text>$('#text_output').val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHdvcmRzLmxlbmd0aDsgaSsrKSB7CiAgICBsZXQgd29yZCA9IG5ldyB3bi5Xb3JkKHdvcmRzW2ldKQogICAgd29yZC5nZXRTeW5zZXRzKCkKICAgICAgLnRoZW4oKHJlc3VsdCk9PnsKICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQud29yZHMpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHdvcmRzLmxlbmd0aDsgaSsrKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmxldCBnZXRXb3JkRGV0YWlsID0gKCkgPT4gewogIGlwY1JlbmRlcmVyLnNlbmQoJ3RleHQnLCAkKCcjdGV4dF9pbnB1dCcpLnZhbCgpKQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBgcGFja2FnZS5qc29uYCAtIFBvaW50cyB0byB0aGUgYXBwJ3MgbWFpbiBmaWxlIGFuZCBsaXN0cyBpdHMgZGV0YWlscyBhbmQgZGVwZW5kZW5jaWVzLgo=</text>
+        <text encoding="base64">JCgnLndvcmQnKS5jbGljaygoKSA9PiB7CiAgZ2V0V29yZERldGFpbCgpCn0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGVydCgiaGVsbG8iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jkc1tpZHhdLnN1YnN0cmluZyhzeW1faWR4LCAxKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJykK</text>
+        <text encoding="base64">CiAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
@@ -460,7 +459,6 @@
         <entry>nextProps</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExpandRegion</entry>
         <entry>action DebugClass</entry>
@@ -473,12 +471,13 @@
         <entry>actionlist</entry>
         <entry>action Forward</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>action RecentFiles</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ReformatCode</entry>
         <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
