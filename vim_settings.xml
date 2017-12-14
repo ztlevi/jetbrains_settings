@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/fragment.js" timestamp="1513200423573">
+      <file name="/fragment.js" timestamp="1513204192637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513023143014">
@@ -125,6 +125,7 @@
         <mark key="." line="37" column="50" />
         <mark key="^" line="37" column="50" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/package.json" timestamp="1513204772035" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1512856639459">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="32" />
@@ -196,7 +197,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513202524985">
+      <file name="/JavaScript Console" timestamp="1513204228411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
@@ -242,18 +243,24 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513202480815">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513205275299">
         <mark key="'" line="10" column="5" />
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-        <mark key="^" line="58" column="33" />
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="83" column="1" />
+        <mark key="." line="83" column="1" />
+        <mark key="^" line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513202355384">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513203087666">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513205147460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -395,43 +402,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>nextProps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpcGNSZW5kZXJlci5zZW5kKCd0ZXh0JywgJCgnI3RleHRfaW5wdXQnKS52YWwoKSkK</text>
+        <text encoding="base64">ICAgICAgICB3b3Jkc1tpZHhdLnNwbGljZShzeW1faWR4LCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIG1haW4gPSByZW1vdGUucmVxdWlyZSgiLi9tYWluLmpzIik7Cg==</text>
+        <text encoding="base64">LSBgcGFja2FnZS5qc29uYCAtIFBvaW50cyB0byB0aGUgYXBwJ3MgbWFpbiBmaWxlIGFuZCBsaXN0cyBpdHMgZGV0YWlscyBhbmQgZGVwZW5kZW5jaWVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYWluLnBvbmcoNik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpcGNSZW5kZXJlci5vbigncmVzdWx0JywgKGV2ZW50LCByZXMpID0+ewogICAgJCgnI3RleHRfb3V0cHV0JykudGV4dChyZXMpCiAgfSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVzID0gdGV4dAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpcGNNYWluLnNlbmQoJ3Jlc3VsdCcsIHJlcykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYgKCFyZXMpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gbnVsbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jkc1tpZHhdLnN1YnN0cmluZyhzeW1faWR4LCAxKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICh2YWx1ZS5pbmNsdWRlcygpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aXBjTWFpbi5vbigndGV4dCcsIChldmVudCwgdGV4dCkgPT4gewogIGNvbnNvbGUubG9nKHRleHQpCiAgbWFpbldpbmRvdy53ZWJDb250ZW50cy5zZW5kKCdyZXN1bHQnLCB0ZXh0KTsKfSkKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGV0IHJlcyA9IG51bGwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aXBjTWFpbi5zZW5kKCcnKQo=</text>
+        <text encoding="base64">CgovLyBTZW5kIGFzeW5jIG1lc3NhZ2UgdG8gbWFpbiBwcm9jZXNzCmlwY1JlbmRlcmVyLnNlbmQoJ2FzeW5jJywgMSk7CgovLyBMaXN0ZW4gZm9yIGFzeW5jLXJlcGx5IG1lc3NhZ2UgZnJvbSBtYWluIHByb2Nlc3MKaXBjUmVuZGVyZXIub24oJ2FzeW5jLXJlcGx5JywgKGV2ZW50LCBhcmcpID0+IHsKICAvLyBQcmludCAyCiAgY29uc29sZS5sb2coYXJnKTsKICAvLyBTZW5kIHN5bmMgbWVzc2FnZSB0byBtYWluIHByb2Nlc3MKICBsZXQgbWFpblZhbHVlID0gaXBjUmVuZGVyZXIuc2VuZFN5bmMoJ3N5bmMnLCAzKTsKICAvLyBQcmludCA0CiAgY29uc29sZS5sb2cobWFpblZhbHVlKTsKfSk7CgovLyBMaXN0ZW4gZm9yIG1haW4gbWVzc2FnZQppcGNSZW5kZXJlci5vbigncGluZycsIChldmVudCwgYXJnKSA9PiB7CiAgLy8gUHJpbnQgNQogIGNvbnNvbGUubG9nKGFyZyk7CiAgLy8gSW52b2tlIG1ldGhvZCBkaXJlY3RseSBvbiBtYWluIHByb2Nlc3MKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -450,11 +457,7 @@
         <entry>nextProps</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action DebugClass</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action SearchEverywhere</entry>
@@ -465,11 +468,15 @@
         <entry>action FileStructurePopup</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action DashLauncherAction</entry>
+        <entry>action Debug</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
