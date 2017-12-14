@@ -254,12 +254,12 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513286740813">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513288335934">
         <mark key="'" line="143" column="24" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="61" column="15" />
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="18" />
+        <mark key="." line="58" column="18" />
+        <mark key="^" line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513205147460">
         <mark key="[" line="0" column="0" />
@@ -450,7 +450,7 @@
         <text encoding="base64">ICAgICAgbGV0IGRlZmluaXRpb24gPSBzeW5zZXRzW2ldLmRlZmluaXRpb24K</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action ActivateStructureToolWindow</text>
       </register>
     </registers>
     <search>
@@ -469,14 +469,6 @@
         <entry>nextProps</entry>
       </history-search>
       <history-cmd>
-        <entry>action ExpandRegion</entry>
-        <entry>action DebugClass</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RunClass</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action ActivateStructureToolWindow</entry>
-        <entry>actionlist</entry>
-        <entry>action Forward</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -488,7 +480,15 @@
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXhwYW5kUmVnaW9u</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0SW5Qcm9qZWN0Vmlldw==</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29sbGFwc2VSZWdpb24=</entry>
+        <entry>action CollapseRegion</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVTdHJ1Y3R1cmVUb29sV2luZG93</entry>
       </history-cmd>
       <history-expr />
       <history-input />
