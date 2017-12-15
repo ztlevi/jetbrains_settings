@@ -54,12 +54,19 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513364121276">
-        <mark key="'" line="324" column="3" />
-        <mark key="[" line="331" column="76" />
-        <mark key="]" line="331" column="76" />
-        <mark key="^" line="331" column="76" />
-        <mark key="." line="331" column="76" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513369885005">
+        <mark key="'" line="120" column="28" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
+        <mark key="'" line="75" column="50" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="55" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
@@ -98,6 +105,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1513370103823">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
@@ -213,10 +226,10 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513364771820">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513368558842">
         <mark key="'" line="66" column="44" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="61" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="134" column="2" />
         <mark key="^" line="220" column="10" />
         <mark key="." line="220" column="10" />
       </file>
@@ -240,11 +253,6 @@
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/electron-quick-start/app/main.js" timestamp="1513197982926">
-        <mark key="'" line="64" column="22" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="120" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -316,12 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="42" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="84" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="213" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="265" column="10" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="99" column="33" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="266" column="24" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="64" column="49" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="33" column="32" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
@@ -407,7 +409,6 @@
       <jump line="104" column="29" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="66" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="312" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="331" column="4" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="22" column="29" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="88" column="3" filename="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" />
       <jump line="39" column="38" filename="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" />
@@ -416,46 +417,53 @@
       <jump line="33" column="40" filename="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" />
       <jump line="109" column="25" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="324" column="3" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="115" column="69" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="331" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="119" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="121" column="41" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="90" column="33" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" />
+      <jump line="74" column="50" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" />
+      <jump line="120" column="28" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>20</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZU5hdGl2ZURyaXZlcjogUGxhdGZvcm0uT1MgPT09ICdpb3MnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text encoding="base64">PFRleHQ+ZmRzZjwvVGV4dD4vLw==</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogUGxhdGZvcm0uT1MgPT09ICdpb3MnID8gTkFWX0JBUl9IRUlHSFRfSU9TIDogTkFWX0JBUl9IRUlHSFRfQU5EUk9JRCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZU5hdGl2ZURyaXZlcjogUGxhdGZvcm0uT1MgPT09ICdpb3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZU5hdGl2ZURyaXZlcjogdHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aXRsZT17dGl0bGVDb25maWd9Ly97ey4uLnRpdGxlQ29uZmlnLCB0aW50Q29sb3I6J3doaXRlJ319Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5mc2ZzZjwvVGV4dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aXRsZVRleHQ6IHtmb250U2l6ZTogMjAsIGNvbG9yOiAnd2hpdGUnLCBmb250V2VpZ2h0OiAnNDAwJ30K</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIFBpY2thY2h1IGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICBjb25zdCBwaWNrYWNodSA9ICdodHRwOi8vdmlnbmV0dGUzLndpa2lhLm5vY29va2llLm5ldC9wb2tlbW9uL2ltYWdlcy8xLzE2LzAyNVBpa2FjaHVfT1NfYW5pbWVfMTAucG5nL3JldmlzaW9uLzIwMTUwMTAyMDc0MzU0JzsKICAgIHJldHVybiAoCiAgICAgIDxWaWV3IHN0eWxlPXt7IGZsZXhEaXJlY3Rpb246ICdyb3cnLCB9fT4KICAgICAgICA8SW1hZ2UKICAgICAgICAgIHNvdXJjZT17eyB1cmk6IHBpY2thY2h1IH19CiAgICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+CiAgICAgICAgPFRleHQgc3R5bGU9e3sgcGFkZGluZ1RvcDogMywgY29sb3I6ICcjRkZBQTAwJywgfX0+UG9rZW1vbm9wZWRpYTwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aXRsZT17dGl0bGVDb25maWd9Ly97ey4uLnRpdGxlQ29uZmlnLCB0aW50Q29sb3I6J3doaXRlJ319Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpdGxlID0gKDxWaWV3IHN0eWxlPXt7IGZsZXhEaXJlY3Rpb246ICdyb3cnLCB9fT4KICAgICAgPFRleHQgc3R5bGU9e3sgcGFkZGluZ1RvcDogMywgY29sb3I6ICcjRkZBQTAwJywgfX0+UG9rZW1vbm9wZWRpYTwvVGV4dD4KICAgIDwvVmlldz4pCg==</text>
+        <text encoding="base64">ICB0aXRsZVRleHQ6IHtmb250U2l6ZTogMjAsIGNvbG9yOiAnd2hpdGUnLCBmb250V2VpZ2h0OiAnNDAwJ30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICBzb3VyY2U9e3sgdXJpOiBwaWNrYWNodSB9fQogICAgICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+Cg==</text>
+        <text encoding="base64">CmNsYXNzIFBpY2thY2h1IGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICBjb25zdCBwaWNrYWNodSA9ICdodHRwOi8vdmlnbmV0dGUzLndpa2lhLm5vY29va2llLm5ldC9wb2tlbW9uL2ltYWdlcy8xLzE2LzAyNVBpa2FjaHVfT1NfYW5pbWVfMTAucG5nL3JldmlzaW9uLzIwMTUwMTAyMDc0MzU0JzsKICAgIHJldHVybiAoCiAgICAgIDxWaWV3IHN0eWxlPXt7IGZsZXhEaXJlY3Rpb246ICdyb3cnLCB9fT4KICAgICAgICA8SW1hZ2UKICAgICAgICAgIHNvdXJjZT17eyB1cmk6IHBpY2thY2h1IH19CiAgICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+CiAgICAgICAgPFRleHQgc3R5bGU9e3sgcGFkZGluZ1RvcDogMywgY29sb3I6ICcjRkZBQTAwJywgfX0+UG9rZW1vbm9wZWRpYTwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgKTsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEltYWdlCiAgICAgICAgc291cmNlPXt7IHVyaTogcGlja2FjaHUgfX0KICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlID0gKDxWaWV3IHN0eWxlPXt7IGZsZXhEaXJlY3Rpb246ICdyb3cnLCB9fT4KICAgICAgPFRleHQgc3R5bGU9e3sgcGFkZGluZ1RvcDogMywgY29sb3I6ICcjRkZBQTAwJywgfX0+UG9rZW1vbm9wZWRpYTwvVGV4dD4KICAgIDwvVmlldz4pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PFZpZXcgc3R5bGU9e3sgZmxleERpcmVjdGlvbjogJ3JvdycsIH19PgogICAgICAgICAgPFRleHQgc3R5bGU9e3sgcGFkZGluZ1RvcDogMywgY29sb3I6ICcjRkZBQTAwJywgfX0+UG9rZW1vbm9wZWRpYTwvVGV4dD4KICAgICAgICA8L1ZpZXc+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICBzb3VyY2U9e3sgdXJpOiBwaWNrYWNodSB9fQogICAgICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sgZmxleERpcmVjdGlvbjogJ3JvdycsIH19PgogIDxJbWFnZQogICAgc291cmNlPXt7IHVyaTogcGlja2FjaHUgfX0KICAgIHN0eWxlPXt7IHdpZHRoOiAyMCwgaGVpZ2h0OiAyMCwgbWFyZ2luUmlnaHQ6IDUsIH19Lz4KICAgIDxUZXh0IHN0eWxlPXt7IHBhZGRpbmdUb3A6IDMsIGNvbG9yOiAnI0ZGQUEwMCcsIH19PlBva2Vtb25vcGVkaWE8L1RleHQ+CiAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgPEltYWdlCiAgICAgICAgc291cmNlPXt7IHVyaTogcGlja2FjaHUgfX0KICAgICAgICBzdHlsZT17eyB3aWR0aDogMjAsIGhlaWdodDogMjAsIG1hcmdpblJpZ2h0OiA1LCB9fS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -493,10 +501,10 @@
         <entry>action Run</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Forward</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
