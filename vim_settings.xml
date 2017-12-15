@@ -68,10 +68,10 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513371560301">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513374067716">
         <mark key="'" line="99" column="64" />
         <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
+        <mark key="]" line="163" column="62" />
         <mark key="^" line="99" column="64" />
         <mark key="." line="163" column="0" />
       </file>
@@ -189,11 +189,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513371608685">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513374265828">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
@@ -211,7 +211,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513371686802">
+      <file name="/Dummy.txt" timestamp="1513374267044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -224,7 +224,13 @@
         <mark key="^" line="220" column="10" />
         <mark key="." line="220" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513371054541" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513374121867">
+        <mark key="'" line="83" column="18" />
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="55" />
+        <mark key="." line="36" column="55" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513363220366">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="27" column="34" />
@@ -315,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="27" filename="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" />
-      <jump line="367" column="4" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="78" column="47" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
@@ -415,19 +419,21 @@
       <jump line="142" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" />
       <jump line="14" column="47" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="9" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="40" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDIwLAogICAgY29sb3I6ICcjRkZGRkZGJywKICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCByaWdodEJ1dHRvbiA9IFZpZXdVdGlscy5nZXRSaWdodEJ1dHRvbih0aGlzLm9uQmFjaykK</text>
+        <text encoding="base64">ICB0aXRsZVRleHQ6IHtmb250U2l6ZTogMjAsIGNvbG9yOiAnd2hpdGUnLCBmb250V2VpZ2h0OiAnNDAwJ30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDIwLAogICAgY29sb3I6ICcjRkZGRkZGJywKICB9LAo=</text>
