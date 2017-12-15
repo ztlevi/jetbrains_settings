@@ -104,7 +104,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1513308325500" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
         <mark key="[" line="7" column="21" />
@@ -254,12 +253,12 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513318232198">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513359382112">
         <mark key="'" line="138" column="2" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="37" />
-        <mark key="." line="66" column="37" />
-        <mark key="^" line="66" column="42" />
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="32" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
@@ -460,7 +459,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LXVuc3R5bGVkIj5TeW5zZXQ6IGEgc2V0IG9mIG9uZSBvciBtb3JlIHN5bm9ueW1zPC91bD4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -492,7 +491,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
@@ -500,6 +498,7 @@
         <entry>action ReformatCode</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Run</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
