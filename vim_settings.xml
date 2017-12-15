@@ -200,7 +200,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513291544208">
+      <file name="/JavaScript Console" timestamp="1513303599560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
@@ -229,12 +229,12 @@
         <mark key="." line="89" column="68" />
         <mark key="^" line="89" column="68" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513300972328">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="74" column="75" />
-        <mark key="]" line="87" column="20" />
-        <mark key="." line="87" column="20" />
-        <mark key="^" line="87" column="20" />
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513303142225">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
         <mark key="[" line="152" column="36" />
@@ -247,19 +247,19 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513291536011">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513303569673">
         <mark key="'" line="10" column="5" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="70" column="9" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="78" column="15" />
+        <mark key="]" line="78" column="15" />
+        <mark key="^" line="78" column="15" />
+        <mark key="." line="78" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513298593123">
-        <mark key="'" line="78" column="9" />
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="20" />
-        <mark key="." line="83" column="20" />
-        <mark key="^" line="83" column="20" />
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513303450758">
+        <mark key="'" line="138" column="2" />
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="138" column="2" />
+        <mark key="." line="138" column="2" />
+        <mark key="^" line="138" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
@@ -314,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="70" column="14" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="91" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
@@ -414,49 +413,50 @@
       <jump line="154" column="35" filename="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" />
       <jump line="59" column="20" filename="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" />
       <jump line="78" column="9" filename="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLSBVc2UgYSBidXR0b24gdG8gb3BlbiB0aGUgc25hY2tiYXIgLS0+CiAgICAgICAgPGJ1dHRvbiBvbmNsaWNrPSJteUZ1bmN0aW9uKCkiPlNob3cgU25hY2tiYXI8L2J1dHRvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">8J+QtvCfkLHwn5Ct8J+QufCfkLDwn6aK8J+Qu/CfkLzwn5Co8J+Qr/CfpoHwn5Cu8J+Qt/CfkL3wn5C48J+QtfCfmYjwn5mJ8J+ZivCfkJLwn5CU</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Jm5ic3A7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBzeW5zZXRzCiAgJHN5bnNldHMgPSAkKCcjc3luc2V0cycpCiAgJHN5bnNldHMuZW1wdHkoKQogIGxldCBzeW5zZXRzID0gcmV0WydzeW5zZXQnXQogIGxldCBzeW5zZXRzX3Bvb2wgPSBuZXcgU2V0KCkKCiAgLy8gYWRkIG9yaWdpbmFsIHdvcmQKICBzeW5zZXRzX3Bvb2wuYWRkKHJldFsnd29yZCddKQogICRzeW5zZXRzLmFwcGVuZCgkKCc8bGk+PC9saT4nKS5odG1sKCc8YSBocmVmPSIjIiBjbGFzcz0iY2FuZGlkYXRlIiBkZXNjcmlwdGlvbj0iUmVzZXQgdG8gdGhlIG9yaWdpbmFsIHdvcmQiPicgKyByZXRbJ3dvcmQnXSArICc8L2E+JykpCgogIGZ1bmN0aW9uIGFkZFN5bnNldFN1Ym1lbnUgKGksIGRlcykgewogICAgJHN5bnNldHMuYXBwZW5kKAogICAgICAkKCc8YSBocmVmPSIjc3luc2V0U3VibWVudScgKyBpICsgJyIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+JyArIGRlcyArICc8L2E+PHVsIGNsYXNzPSJjb2xsYXBzZSBsaXN0LXVuc3R5bGVkIiBpZD0ic3luc2V0U3VibWVudScgKyBpICsgJyI+PC91bD4nCiAgICAgICkKICAgICkKICAgIHJldHVybiAkKCcjc3luc2V0U3VibWVudScgKyBpKQogIH0KCiAgZm9yIChsZXQgaSA9IDA7IGkgPCBzeW5zZXRzLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoc3luc2V0c1tpXS53b3Jkcy5sZW5ndGggPiAxKSB7CiAgICAgIGxldCAkc3luc2V0U3VibWVudSA9IGFkZFN5bnNldFN1Ym1lbnUoaSwgc3luc2V0c1tpXS5sZXhkb21haW4pCgogICAgICBmb3IgKGxldCBqID0gMDsgaiA8IHN5bnNldHNbaV0ud29yZHMubGVuZ3RoOyBqKyspIHsKICAgICAgICBsZXQgbGVtbWEgPSBzeW5zZXRzW2ldLndvcmRzW2pdLmxlbW1hCiAgICAgICAgbGV0IGRlc2NyaXB0aW9uID0gc3luc2V0c1tpXS5kZWZpbml0aW9uCiAgICAgICAgaWYgKCFzeW5zZXRzX3Bvb2wuaGFzKGxlbW1hKSkgewogICAgICAgICAgc3luc2V0c19wb29sLmFkZChsZW1tYSkKICAgICAgICAgICRzeW5zZXRTdWJtZW51LmFwcGVuZCgkKCc8bGk+PC9saT4nKS5odG1sKCc8YSBocmVmPSIjIiBjbGFzcz0iY2FuZGlkYXRlIiBkZXNjcmlwdGlvbj0iJyArIGRlc2NyaXB0aW9uICsgJyI+JyArIGxlbW1hICsgJzwvYT4nKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLSBVc2UgYSBidXR0b24gdG8gb3BlbiB0aGUgc25hY2tiYXIgLS0+CiAgICAgICAgPGJ1dHRvbiBvbmNsaWNrPSJteUZ1bmN0aW9uKCkiPlNob3cgU25hY2tiYXI8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNoeXBlcm55bVN1Ym1lbnUiIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPmh5cGVybnltPC9hPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJjb2xsYXBzZSBsaXN0LXVuc3R5bGVkIiBpZD0iaHlwZXJueW1TdWJtZW51Ij48L3VsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaCgoZXJyb3IpPT57CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICBtYWluV2luZG93LndlYkNvbnRlbnRzLnNlbmQoJ3Jlc3VsdCcsIHJldCkKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">CiAgICAgICAgPCEtLSBVc2UgYSBidXR0b24gdG8gb3BlbiB0aGUgc25hY2tiYXIgLS0+CiAgICAgICAgPGJ1dHRvbiBvbmNsaWNrPSJteUZ1bmN0aW9uKCkiPlNob3cgU25hY2tiYXI8L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3VsdCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIC5jYXRjaCgoZXJyb3IpPT57CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICBtYWluV2luZG93LndlYkNvbnRlbnRzLnNlbmQoJ3Jlc3VsdCcsIHJldCkKICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDE+TGV0J3Mgd3JpdGUgc29tZSBwb2VtcyE8L2gxPgo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgxPkxldCdzIHdyaXRlIHNvbWUgcG9lbXMhPC9oMT4K</text>
+        <text encoding="base64">ICAgIC50aGVuKHJlc3VsdCA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDM+TGV0J3Mgd3JpdGUgc29tZSBwb2VtcyE8L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDE+TGV0J3Mgd3JpdGUgc29tZSBwb2VtcyE8L2gxPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgxPkxldCdzIHdyaXRlIHNvbWUgcG9lbXMhPC9oMT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDM+TGV0J3Mgd3JpdGUgc29tZSBwb2VtcyE8L2gzPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -477,7 +477,6 @@
       </history-search>
       <history-cmd>
         <entry>action RecentFiles</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action Back</entry>
@@ -485,17 +484,18 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXhwYW5kUmVnaW9u</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0SW5Qcm9qZWN0Vmlldw==</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29sbGFwc2VSZWdpb24=</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVTdHJ1Y3R1cmVUb29sV2luZG93</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Debug</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action GotoAction</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
