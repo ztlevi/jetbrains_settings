@@ -48,12 +48,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513371651113">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513377631332">
+        <mark key="'" line="223" column="32" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="66" />
+        <mark key="^" line="258" column="35" />
+        <mark key="." line="258" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -119,6 +119,12 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513377701444">
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="24" column="66" />
+        <mark key="." line="24" column="66" />
+        <mark key="^" line="24" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513142335583">
         <mark key="'" line="35" column="58" />
@@ -189,7 +195,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513374265828">
+      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513377211898">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="31" column="22" />
         <mark key="." line="31" column="22" />
@@ -321,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="47" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="84" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="311" column="19" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
       <jump line="31" column="23" filename="$USER_HOME$/Developer/react_github/res/data/langs.json" />
       <jump line="15" column="2" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -421,55 +425,57 @@
       <jump line="9" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="40" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="328" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="223" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">Y2FjaGVkIA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">Y2FjaGVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>dataRepository</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aXRsZVRleHQ6IHtmb250U2l6ZTogMjAsIGNvbG9yOiAnd2hpdGUnLCBmb250V2VpZ2h0OiAnNDAwJ30K</text>
+        <text encoding="base64">ICAgICAgICAgIERldmljZUV2ZW50RW1pdHRlci5lbWl0KCdzaG93VG9hc3QnLCAnU2hvdyBjYWNoZWQgZGF0YScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDIwLAogICAgY29sb3I6ICcjRkZGRkZGJywKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCByaWdodEJ1dHRvbiA9IDxUb3VjaGFibGVPcGFjaXR5CiAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TYXZlKCl9CiAgICAgIHN0eWxlPXt7cGFkZGluZzogMTZ9fQogICAgPgogICAgICA8VmlldyBzdHlsPXt7ZmxleDogMX19PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMudGl0bGV9PntyaWdodEJ1dHRvblRpdGxlfTwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgPC9Ub3VjaGFibGVPcGFjaXR5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PFRvdWNoYWJsZU9wYWNpdHkKICAgICAgc3R5bGU9e3thbGlnbkl0ZW1zOiAnY2VudGVyJywgcGFkZGluZzogMTJ9fQogICAgICBvblByZXNzPXsoKSA9PiB0aGlzLm9uU2F2ZSgpfT4KICAgICAgPFZpZXcgc3R5bGU9e3ttYXJnaW5SaWdodDogMTB9fT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpdGxlfT5TYXZlPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICA8L1RvdWNoYWJsZU9wYWNpdHk+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDIwLAogICAgY29sb3I6ICcjRkZGRkZGJywKICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bD17e2ZsZXg6IDF9fT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpdGxlfT57cmlnaHRCdXR0b25UaXRsZX08L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgIGxldCByaWdodEJ1dHRvbiA9IDxUb3VjaGFibGVPcGFjaXR5CiAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TYXZlKCl9CiAgICAgIHN0eWxlPXt7cGFkZGluZzogMTZ9fQogICAgPgogICAgICA8VmlldyBzdHlsPXt7ZmxleDogMX19PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMudGl0bGV9PntyaWdodEJ1dHRvblRpdGxlfTwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgPC9Ub3VjaGFibGVPcGFjaXR5Pgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDE2LAogICAgY29sb3I6ICd3aGl0ZScsCiAgfSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PFRvdWNoYWJsZU9wYWNpdHkKICAgICAgc3R5bGU9e3thbGlnbkl0ZW1zOiAnY2VudGVyJywgcGFkZGluZzogMTJ9fQogICAgICBvblByZXNzPXsoKSA9PiB0aGlzLm9uU2F2ZSgpfT4KICAgICAgPFZpZXcgc3R5bGU9e3ttYXJnaW5SaWdodDogMTB9fT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpdGxlfT5TYXZlPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICA8L1RvdWNoYWJsZU9wYWNpdHk+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bD17e2ZsZXg6IDF9fT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpdGxlfT57cmlnaHRCdXR0b25UaXRsZX08L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9CiAgbGV0IHJpZ2h0QnV0dG9uID0gPFRvdWNoYWJsZU9wYWNpdHkK</text>
+        <text encoding="base64">ICB0aXRsZTogewogICAgZm9udFNpemU6IDE2LAogICAgY29sb3I6ICd3aGl0ZScsCiAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0aXRsZTIwID0gdGhpcy5zdGF0ZS50aXRsZS5sZW5ndGgoKSA+IDIwID8gdGhpcy5zdGF0ZS50aXRsZS5zdWJzdHJpbmcoMCwyMCkrJy4uLicgOiB0aGlzLnN0YXRlLnRpdGxlCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICB9CiAgbGV0IHJpZ2h0QnV0dG9uID0gPFRvdWNoYWJsZU9wYWNpdHkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>dataRepository</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>dataRepository</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -481,6 +487,7 @@
         <entry>onPress</entry>
         <entry>nextProps</entry>
         <entry>key</entry>
+        <entry>dataRepository</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0SW5Qcm9qZWN0Vmlldw==</entry>
@@ -501,8 +508,8 @@
         <entry>action HideAllWindows</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
