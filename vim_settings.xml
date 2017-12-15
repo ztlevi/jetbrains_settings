@@ -229,7 +229,7 @@
         <mark key="." line="89" column="68" />
         <mark key="^" line="89" column="68" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513291863412">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513298591950">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="74" column="75" />
         <mark key="]" line="87" column="20" />
@@ -254,7 +254,7 @@
         <mark key="^" line="70" column="9" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513291132730">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513298593123">
         <mark key="'" line="78" column="9" />
         <mark key="[" line="83" column="15" />
         <mark key="]" line="83" column="20" />
@@ -456,7 +456,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlBhZ2U8L2E+PC9saT4K</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -478,7 +478,6 @@
       <history-cmd>
         <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action Back</entry>
@@ -496,6 +495,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Debug</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
