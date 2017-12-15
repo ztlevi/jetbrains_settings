@@ -254,12 +254,12 @@
         <mark key="^" line="78" column="15" />
         <mark key="." line="78" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513303450758">
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513304798614">
         <mark key="'" line="138" column="2" />
-        <mark key="[" line="137" column="5" />
-        <mark key="]" line="138" column="2" />
-        <mark key="." line="138" column="2" />
-        <mark key="^" line="138" column="2" />
+        <mark key="[" line="124" column="2" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="140" column="13" />
+        <mark key="^" line="140" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
@@ -417,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>//#region</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -425,8 +425,8 @@
       <register name="/" type="4">
         <text>key</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyBzeW5zZXRzCiAgJHN5bnNldHMgPSAkKCcjc3luc2V0cycpCiAgJHN5bnNldHMuZW1wdHkoKQogIGxldCBzeW5zZXRzID0gcmV0WydzeW5zZXQnXQogIGxldCBzeW5zZXRzX3Bvb2wgPSBuZXcgU2V0KCkKCiAgLy8gYWRkIG9yaWdpbmFsIHdvcmQKICBzeW5zZXRzX3Bvb2wuYWRkKHJldFsnd29yZCddKQogICRzeW5zZXRzLmFwcGVuZCgkKCc8bGk+PC9saT4nKS5odG1sKCc8YSBocmVmPSIjIiBjbGFzcz0iY2FuZGlkYXRlIiBkZXNjcmlwdGlvbj0iUmVzZXQgdG8gdGhlIG9yaWdpbmFsIHdvcmQiPicgKyByZXRbJ3dvcmQnXSArICc8L2E+JykpCgogIGZ1bmN0aW9uIGFkZFN5bnNldFN1Ym1lbnUgKGksIGRlcykgewogICAgJHN5bnNldHMuYXBwZW5kKAogICAgICAkKCc8YSBocmVmPSIjc3luc2V0U3VibWVudScgKyBpICsgJyIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+JyArIGRlcyArICc8L2E+PHVsIGNsYXNzPSJjb2xsYXBzZSBsaXN0LXVuc3R5bGVkIiBpZD0ic3luc2V0U3VibWVudScgKyBpICsgJyI+PC91bD4nCiAgICAgICkKICAgICkKICAgIHJldHVybiAkKCcjc3luc2V0U3VibWVudScgKyBpKQogIH0KCiAgZm9yIChsZXQgaSA9IDA7IGkgPCBzeW5zZXRzLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoc3luc2V0c1tpXS53b3Jkcy5sZW5ndGggPiAxKSB7CiAgICAgIGxldCAkc3luc2V0U3VibWVudSA9IGFkZFN5bnNldFN1Ym1lbnUoaSwgc3luc2V0c1tpXS5sZXhkb21haW4pCgogICAgICBmb3IgKGxldCBqID0gMDsgaiA8IHN5bnNldHNbaV0ud29yZHMubGVuZ3RoOyBqKyspIHsKICAgICAgICBsZXQgbGVtbWEgPSBzeW5zZXRzW2ldLndvcmRzW2pdLmxlbW1hCiAgICAgICAgbGV0IGRlc2NyaXB0aW9uID0gc3luc2V0c1tpXS5kZWZpbml0aW9uCiAgICAgICAgaWYgKCFzeW5zZXRzX3Bvb2wuaGFzKGxlbW1hKSkgewogICAgICAgICAgc3luc2V0c19wb29sLmFkZChsZW1tYSkKICAgICAgICAgICRzeW5zZXRTdWJtZW51LmFwcGVuZCgkKCc8bGk+PC9saT4nKS5odG1sKCc8YSBocmVmPSIjIiBjbGFzcz0iY2FuZGlkYXRlIiBkZXNjcmlwdGlvbj0iJyArIGRlc2NyaXB0aW9uICsgJyI+JyArIGxlbW1hICsgJzwvYT4nKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+      <register name="0" type="4">
+        <text>//#region</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNoeXBlcm55bVN1Ym1lbnUiIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPmh5cGVybnltPC9hPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJjb2xsYXBzZSBsaXN0LXVuc3R5bGVkIiBpZD0iaHlwZXJueW1TdWJtZW51Ij48L3VsPgo=</text>
