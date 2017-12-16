@@ -9,7 +9,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/RepositoryCell.js" timestamp="1513400139516" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513023143014">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="17" column="56" />
@@ -234,13 +233,13 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513413730574">
+      <file name="/Dummy.txt" timestamp="1513449392258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513415366430">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513449480111">
         <mark key="'" line="72" column="12" />
         <mark key="[" line="183" column="13" />
         <mark key="]" line="183" column="28" />
@@ -482,7 +481,7 @@
         <text encoding="base64">CiAgb25SZWZyZXNoICgpIHsKICAgIHRoaXMubG9hZERhdGEodGhpcy5wcm9wcy50aW1lU3BhbiwgdHJ1ZSkKICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ToggleBookmark</text>
       </register>
     </registers>
     <search>
@@ -505,9 +504,6 @@
         <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWN0aXZhdGVTdHJ1Y3R1cmVUb29sV2luZG93</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action Debug</entry>
@@ -525,6 +521,9 @@
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ToggleBookmark</entry>
       </history-cmd>
       <history-expr />
       <history-input />
