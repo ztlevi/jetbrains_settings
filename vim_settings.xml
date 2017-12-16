@@ -74,12 +74,12 @@
         <mark key="^" line="99" column="50" />
         <mark key="." line="99" column="50" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513382319641">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513386167921">
         <mark key="'" line="27" column="62" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="47" />
-        <mark key="." line="43" column="47" />
-        <mark key="^" line="43" column="47" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" timestamp="1513044709081">
         <mark key="[" line="74" column="67" />
@@ -185,10 +185,8 @@
         <mark key="^" line="141" column="50" />
         <mark key="." line="141" column="50" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513378559280">
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513386254161">
         <mark key="'" line="14" column="47" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -224,12 +222,12 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513370472168">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513386214040">
         <mark key="'" line="66" column="44" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="61" />
-        <mark key="^" line="220" column="10" />
-        <mark key="." line="220" column="10" />
+        <mark key="[" line="93" column="64" />
+        <mark key="]" line="93" column="64" />
+        <mark key="^" line="93" column="75" />
+        <mark key="." line="93" column="64" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513374121867">
         <mark key="'" line="83" column="18" />
@@ -427,10 +425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>this.props.projectModel</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>this.props.projectModel</text>
       </register>
       <register name="/" type="4">
         <text>onFav</text>
@@ -439,31 +437,31 @@
         <text>isFavorite ? require('../../res/images/ic_star.png') : require('../../res/images/ic_star_navbar.png')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgc2hvdWxkQ29tcG9uZW50VXBkYXRlKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7CiAgICBpZiAodGhpcy5pc1JlbmRlcikgewogICAgICB0aGlzLmlzUmVuZGVyID0gZmFsc2UKICAgICAgcmV0dXJuIHRydWUgCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gZmFsc2UKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMucmVmcmVzaCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">CiAgc2hvdWxkQ29tcG9uZW50VXBkYXRlKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7CiAgICBpZiAodGhpcy5pc1JlbmRlcikgewogICAgICB0aGlzLmlzUmVuZGVyID0gZmFsc2UKICAgICAgcmV0dXJuIHRydWUgCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gZmFsc2UKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bD17e2ZsZXg6IDF9fT4K</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2UKICAgICAgICAgIHNvdXJjZT17cmlnaHRCdXR0b25JbWFnZX0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bD17e2ZsZXg6IDF9fT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2UKICAgICAgICAgIHNvdXJjZT17cmlnaHRCdXR0b25JbWFnZX0KICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAxOCwgY29sb3I6ICd3aGl0ZScsIGZvbnRXZWlnaHQ6ICc0MDAnfX0+e3JpZ2h0QnV0dG9uVGl0bGV9PC9UZXh0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
