@@ -48,11 +48,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513460433112">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513461720332">
         <mark key="'" line="193" column="37" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="191" column="5" />
-        <mark key="." line="189" column="0" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
         <mark key="^" line="182" column="69" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
@@ -134,12 +134,12 @@
         <mark key="." line="136" column="1" />
         <mark key="^" line="136" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1513410396862">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1513461464534">
         <mark key="'" line="108" column="13" />
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="20" />
+        <mark key="^" line="86" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513398167191">
         <mark key="[" line="20" column="39" />
@@ -448,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmxvYWRfbW9yZV9saXN0ZW5lcikgewogICAgICB0aGlzLmxvYWRfbW9yZV9saXN0ZW5lci5yZW1vdmUoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZF9tb3JlX2xpc3RlbmVyID0gRGV2aWNlRXZlbnRFbWl0dGVyLmFkZExpc3RlbmVyKCd0cmVuZGluZ19sb2FkX21vcmUnLCAoKSA9PiB0aGlzLmxvYWREYXRhKGZhbHNlLCB0cnVlKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>popular</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -460,33 +460,31 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLmxvYWRfbW9yZV9saXN0ZW5lcikgewogICAgICB0aGlzLmxvYWRfbW9yZV9saXN0ZW5lci5yZW1vdmUoKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93TG9hZE1vcmVJY29uPXsoYikgPT4gdGhpcy5zaG93TG9hZE1vcmVJY29uKGIpfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZF9tb3JlX2xpc3RlbmVyID0gRGV2aWNlRXZlbnRFbWl0dGVyLmFkZExpc3RlbmVyKCd0cmVuZGluZ19sb2FkX21vcmUnLCAoKSA9PiB0aGlzLmxvYWREYXRhKGZhbHNlLCB0cnVlKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCAoKSB7CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaG93TG9hZE1vcmVJY29uIChiKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgc2hvd0xvYWRNb3JlSWNvbjogYgogICAgfSkKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXRlbXMubGVuZ3RoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0xvYWRNb3JlSWNvbjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93TG9hZE1vcmVJY29uPXsoYikgPT4gdGhpcy5zaG93TG9hZE1vcmVJY29uKGIpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgey8qPEZhZGUgdmlzaWJsZT17dGhpcy5zdGF0ZS5zaG93TG9hZE1vcmVJY29ufT4qL30KICAgICAgICB7Lyo8VmlldyBzdHlsZT17c3R5bGVzLmljb25TZWN0aW9ufT4qL30KICAgICAgICAgIHsvKjxJY29uKi99CiAgICAgICAgICAgIHsvKnJldmVyc2UqL30KICAgICAgICAgICAgey8qbmFtZT0nY2FjaGVkJyovfQogICAgICAgICAgICB7Lypjb2xvcj0nIzIxOTZGMycqL30KICAgICAgICAgICAgey8qb25QcmVzcz17KCkgPT4geyovfQogICAgICAgICAgICAgIHsvKkRldmljZUV2ZW50RW1pdHRlci5lbWl0KCdwb3B1bGFyX2xvYWRfbW9yZScpKi99CiAgICAgICAgICAgIHsvKn19Ki99CiAgICAgICAgICB7LyovPiovfQogICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgey8qPC9GYWRlPiovfQo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCAoKSB7CiAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghbmV4dFByb3BzKQo=</text>
+        <text encoding="base64">ICBzaG93TG9hZE1vcmVJY29uIChiKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgc2hvd0xvYWRNb3JlSWNvbjogYgogICAgfSkKICB9Cgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2hvd0xvYWRNb3JlSWNvbjogZmFsc2UsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgey8qPEZhZGUgdmlzaWJsZT17dGhpcy5zdGF0ZS5zaG93TG9hZE1vcmVJY29ufT4qL30KICAgICAgICB7Lyo8VmlldyBzdHlsZT17c3R5bGVzLmljb25TZWN0aW9ufT4qL30KICAgICAgICAgIHsvKjxJY29uKi99CiAgICAgICAgICAgIHsvKnJldmVyc2UqL30KICAgICAgICAgICAgey8qbmFtZT0nY2FjaGVkJyovfQogICAgICAgICAgICB7Lypjb2xvcj0nIzIxOTZGMycqL30KICAgICAgICAgICAgey8qb25QcmVzcz17KCkgPT4geyovfQogICAgICAgICAgICAgIHsvKkRldmljZUV2ZW50RW1pdHRlci5lbWl0KCdwb3B1bGFyX2xvYWRfbW9yZScpKi99CiAgICAgICAgICAgIHsvKn19Ki99CiAgICAgICAgICB7LyovPiovfQogICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgey8qPC9GYWRlPiovfQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGlmICghbmV4dFByb3BzKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>.showLoadMoreIcon) {
-      console.log('show more button')
-    } else</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAvLyB0aGlzLnByb3BzLnNob3dMb2FkTW9yZUljb24oZmFsc2UpCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>action HideAllWindows</text>
