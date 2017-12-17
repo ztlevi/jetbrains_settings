@@ -22,19 +22,18 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513462601478">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="73" column="52" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513491510195">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513480466494">
+      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
         <mark key="'" line="35" column="40" />
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="50" />
-        <mark key="." line="35" column="50" />
-        <mark key="^" line="35" column="50" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -68,9 +67,15 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513475601766">
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-navbar/styles.js" timestamp="1513490812378">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513490965087">
         <mark key="'" line="99" column="64" />
-        <mark key="[" line="101" column="74" />
+        <mark key="[" line="99" column="63" />
         <mark key="]" line="101" column="74" />
         <mark key="^" line="99" column="50" />
         <mark key="." line="101" column="74" />
@@ -187,19 +192,19 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1513475588434">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1513491048576">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="139" column="72" />
-        <mark key="]" line="139" column="72" />
-        <mark key="^" line="141" column="50" />
-        <mark key="." line="139" column="72" />
+        <mark key="[" line="141" column="64" />
+        <mark key="]" line="140" column="57" />
+        <mark key="^" line="140" column="57" />
+        <mark key="." line="140" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513462585525">
-        <mark key="'" line="79" column="49" />
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="49" column="14" />
-        <mark key="." line="45" column="31" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513491488646">
+        <mark key="'" line="31" column="40" />
+        <mark key="[" line="111" column="19" />
+        <mark key="]" line="111" column="19" />
+        <mark key="^" line="111" column="19" />
+        <mark key="." line="111" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Fade.js" timestamp="1513458954662">
         <mark key="'" line="52" column="1" />
@@ -220,12 +225,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513479459498">
+      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513490920615">
         <mark key="'" line="52" column="26" />
-        <mark key="[" line="31" column="75" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+        <mark key="^" line="62" column="26" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1513480869901">
         <mark key="[" line="15" column="22" />
@@ -266,25 +271,25 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513488004675">
+      <file name="/Dummy.txt" timestamp="1513490582458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513462742423">
-        <mark key="'" line="128" column="2" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513491421019">
+        <mark key="'" line="66" column="8" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="^" line="140" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513469010844">
-        <mark key="'" line="84" column="18" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="34" />
-        <mark key="^" line="51" column="19" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513489497577">
+        <mark key="'" line="87" column="18" />
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="47" />
+        <mark key="^" line="64" column="47" />
+        <mark key="." line="64" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513481476284">
         <mark key="'" line="123" column="8" />
@@ -325,6 +330,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-navbar/index.js" timestamp="1513490793755" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -362,11 +368,11 @@
         <mark key="." line="50" column="8" />
         <mark key="^" line="50" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513488539960">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513489221317">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -390,9 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="121" column="41" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="90" column="33" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" />
       <jump line="74" column="50" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" />
       <jump line="120" column="28" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="53" column="63" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
@@ -490,13 +493,16 @@
       <jump line="123" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="100" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="118" column="8" filename="$USER_HOME$/Developer/react_github/index.js" />
+      <jump line="66" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
+      <jump line="31" column="40" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0dXAoKXsKICByZXR1cm4gPFZpZXc+PC9WaWV3PgogIC8vIHJldHVybiA8Um9vdC8+Cn0KbW9kdWxlLmV4cG9ydHMgPSBzZXR1cAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Root</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -505,31 +511,31 @@
         <text>MORE_MENU.About_Author, {tintColor:'#2196F3'}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0dXAoKXsKICByZXR1cm4gPFZpZXc+PC9WaWV3PgogIC8vIHJldHVybiA8Um9vdC8+Cn0KbW9kdWxlLmV4cG9ydHMgPSBzZXR1cAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2FsaWduSXRlbXM6J2NlbnRlcicsIGp1c3RpZnlDb250ZW50OidzcGFjZS1iZXR3ZWVuJywgZmxleERpcmVjdGlvbjoncm93J319Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC9Vc2Vycy96dGxldmkvRGV2ZWxvcGVyL3JlYWN0X2dpdGh1Yi8K</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2FsaWduSXRlbXM6J2NlbnRlcid9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzZGtWZXJzaW9uIjogIlhYLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgc3R5bGU9e3twYWRkaW5nOiAxNX19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsKaW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CgppbXBvcnQgUmVhY3RuYXYgZnJvbSAnLi9Db21wb25lbnRzL1JlYWN0TmF2JzsKaW1wb3J0IFJlYWN0U2VjTmF2IGZyb20gJy4vQ29tcG9uZW50cy9SZWFjdFNlY05hdicKaW1wb3J0IFJlYWN0VGhpcmROYXYgZnJvbSAnLi9Db21wb25lbnRzL1JlYWN0VGhpTmF2Jwo=</text>
+        <text encoding="base64">ICAgIC9Vc2Vycy96dGxldmkvRGV2ZWxvcGVyL3JlYWN0X2dpdGh1Yi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJveSBmcm9tICcuL0JveScKaW1wb3J0IEdpcmwgZnJvbSAnLi9HaXJsJwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0dXAoKXsKICByZXR1cm4gPFZpZXc+PC9WaWV3PgogIC8vIHJldHVybiA8Um9vdC8+Cn0KbW9kdWxlLmV4cG9ydHMgPSBzZXR1cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge0dsb2JhbFN0fQo=</text>
+        <text encoding="base64">ICAgIC9Vc2Vycy96dGxldmkvRGV2ZWxvcGVyL3JlYWN0X2dpdGh1Yi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OidjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgICJzZGtWZXJzaW9uIjogIlhYLjAuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsKaW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CgppbXBvcnQgUmVhY3RuYXYgZnJvbSAnLi9Db21wb25lbnRzL1JlYWN0TmF2JzsKaW1wb3J0IFJlYWN0U2VjTmF2IGZyb20gJy4vQ29tcG9uZW50cy9SZWFjdFNlY05hdicKaW1wb3J0IFJlYWN0VGhpcmROYXYgZnJvbSAnLi9Db21wb25lbnRzL1JlYWN0VGhpTmF2Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJveSBmcm9tICcuL0JveScKaW1wb3J0IEdpcmwgZnJvbSAnLi9HaXJsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
