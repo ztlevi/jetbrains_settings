@@ -252,12 +252,12 @@
         <mark key="^" line="140" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513374121867">
-        <mark key="'" line="83" column="18" />
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="55" />
-        <mark key="." line="36" column="55" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513469010844">
+        <mark key="'" line="84" column="18" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="34" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513393564895">
         <mark key="'" line="18" column="16" />
@@ -447,8 +447,8 @@
       <jump line="128" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VjdXJlVGV4dEVudHJ5PXt0cnVlfQo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -460,31 +460,31 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLmxvYWRfbW9yZV9saXN0ZW5lcikgewogICAgICB0aGlzLmxvYWRfbW9yZV9saXN0ZW5lci5yZW1vdmUoKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHREYXRhLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjdXJlVGV4dEVudHJ5PXt0cnVlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXRlbXMubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHREYXRhLmxlbmd0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgVVJMX1BBR0UgPSAnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXNvdXJlP3BhZ2U9Jwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXRlbXMubGVuZ3RoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEZhZGUgZnJvbSAnLi4vY29tbW9uL0ZhZGUnCg==</text>
+        <text encoding="base64">Y29uc3QgVVJMX1BBR0UgPSAnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXNvdXJlP3BhZ2U9Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZhZGUgZnJvbSAnLi4vY29tbW9uL0ZhZGUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSWNvbiwgQnV0dG9uIH0gZnJvbSAncmVhY3QtbmF0aXZlLWVsZW1lbnRzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBEZXZpY2VFdmVudEVtaXR0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IHsgSWNvbiwgQnV0dG9uIH0gZnJvbSAncmVhY3QtbmF0aXZlLWVsZW1lbnRzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtleXMgZnJvbSAnLi4vLi4vLi4vcmVzL2RhdGEva2V5cy5qc29uJwppbXBvcnQgbGFuZ3MgZnJvbSAnLi4vLi4vLi4vcmVzL2RhdGEvbGFuZ3MuanNvbicK</text>
+        <text encoding="base64">ICBEZXZpY2VFdmVudEVtaXR0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTY3JvbGxWaWV3LAogIEJ1dHRvbiwK</text>
+        <text encoding="base64">aW1wb3J0IGtleXMgZnJvbSAnLi4vLi4vLi4vcmVzL2RhdGEva2V5cy5qc29uJwppbXBvcnQgbGFuZ3MgZnJvbSAnLi4vLi4vLi4vcmVzL2RhdGEvbGFuZ3MuanNvbicK</text>
       </register>
       <register name=":" type="4">
         <text>action ExpandRegion</text>
