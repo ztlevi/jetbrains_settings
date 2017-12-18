@@ -34,6 +34,7 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="67" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -125,13 +126,12 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1513475986933" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513462596120">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
-        <mark key="^" line="105" column="19" />
         <mark key="." line="65" column="0" />
+        <mark key="^" line="105" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -151,6 +151,7 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1513403395493">
         <mark key="'" line="51" column="0" />
@@ -182,8 +183,8 @@
         <mark key="'" line="182" column="20" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
-        <mark key="^" line="72" column="47" />
         <mark key="." line="51" column="0" />
+        <mark key="^" line="72" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -203,8 +204,8 @@
         <mark key="'" line="31" column="40" />
         <mark key="[" line="111" column="19" />
         <mark key="]" line="111" column="19" />
-        <mark key="^" line="111" column="19" />
         <mark key="." line="111" column="19" />
+        <mark key="^" line="111" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Fade.js" timestamp="1513458954662">
         <mark key="'" line="52" column="1" />
@@ -218,7 +219,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1513486807185" />
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513473036755">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="13" column="27" />
@@ -244,7 +244,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/UserDao.js" timestamp="1513493181924" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
         <mark key="[" line="3" column="4" />
@@ -296,8 +295,8 @@
         <mark key="'" line="123" column="8" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="59" />
-        <mark key="^" line="129" column="43" />
         <mark key="." line="135" column="0" />
+        <mark key="^" line="129" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -331,7 +330,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-navbar/index.js" timestamp="1513490793755" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -382,12 +380,12 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
-        <mark key="'" line="351" column="4" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513622761956">
+        <mark key="'" line="402" column="4" />
+        <mark key="[" line="259" column="64" />
+        <mark key="]" line="259" column="64" />
+        <mark key="." line="259" column="64" />
+        <mark key="^" line="259" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -503,13 +501,13 @@
         <text encoding="base64">ICAgIC8vIHN0cmluZ2lmeSBhbmQgcGFyc2UgcGFzc3dvcmQgdG8gbWFrZSBzdXJlIHRoZSBwYXNzd29yZCBpcyBzdHJpbmcKICAgIHBhc3N3b3JkID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShwYXNzd29yZCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>showLoginResult</text>
+        <text encoding="base64">YmlvaGFybmVzcyA=</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5nb0JhY2soKQo=</text>
+        <text encoding="base64">ZGVmIHNlZ21lbnRfYmlvaGFybmVzcyhiaW9oYXJuZXNzX2ZpbGVfcGF0aCwgcSwgdGltZV9saXN0KToKICAgICIiImJpb2hhcm5lc3Mgc2VnbWVudGF0aW9uIGZ1bmN0aW9uCgogICAgQXJnczoKICAgICAgICBiaW9oYXJuZXNzX2ZpbGVfcGF0aCAoc3RyKTogdGhlIGlucHV0IHBhdGggb2YgdGhlIGJpb2hhcm5lc3MgZGF0YQoKICAgIFJldHVybnM6CiAgICAgICAgYmlvX2RhdGEgKGxpc3QoZGljdCkpOiBhcnJheSBvZiBkaWN0IHdpdGggdGhlIGJpb2hhcm5lc3MgZmlsZSBkYXRhCgogICAgIiIiCiAgICBpZiBub3QgdGltZV9saXN0OgogICAgICAgIHRpbWVfbGlzdCA9IFsoMCwgZmxvYXQoJ2luZicpKV0KCiAgICBiaW9fZGF0YSA9IFtjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KSBmb3IgXyBpbiByYW5nZShsZW4odGltZV9saXN0KSldCgogICAgdHJ5OgogICAgICAgIGJpb19oZWFkZXIgPSBOb25lCiAgICAgICAgc2VnbWVudF9pZHggPSAwCiAgICAgICAgd2l0aCBvcGVuKGJpb2hhcm5lc3NfZmlsZV9wYXRoLCAncicpIGFzIGlucDoKICAgICAgICAgICAgY3VyX2VuZF90aW1lID0gdGltZV9saXN0W3NlZ21lbnRfaWR4XVsxXQogICAgICAgICAgICBmb3IgbGluZV9udW0sIHJvdyBpbiBlbnVtZXJhdGUoY3N2LnJlYWRlcihpbnApKToKICAgICAgICAgICAgICAgIGlmIGxpbmVfbnVtIC0gMSA+IGN1cl9lbmRfdGltZToKICAgICAgICAgICAgICAgICAgICBzZWdtZW50X2lkeCArPSAxCiAgICAgICAgICAgICAgICAgICAgIyBUaGUgbGFzdCBjdXJfZW5kX3RpbWUgaXMgc2V0IHRvIGJlICdpbmYnIGluIGNhc2UgdGhlIHNlZ21lbnRfaWR4IGV4Y2VlZAogICAgICAgICAgICAgICAgICAgIGN1cl9lbmRfdGltZSA9IHRpbWVfbGlzdFtzZWdtZW50X2lkeF1bCiAgICAgICAgICAgICAgICAgICAgICAgIDFdIGlmIHNlZ21lbnRfaWR4IDwgbGVuKHRpbWVfbGlzdCkgLSAxIGVsc2UgZmxvYXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaW5mJykKICAgICAgICAgICAgICAgIGlmIGxpbmVfbnVtID09IDA6CiAgICAgICAgICAgICAgICAgICAgYmlvX2hlYWRlciA9IHJvdwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBmb3IgaSwgaCBpbiBlbnVtZXJhdGUoYmlvX2hlYWRlcik6CiAgICAgICAgICAgICAgICAgICAgICAgIHJvd19kYXRhID0gcGFyc2VfbnVtKHJvd1tpXSkKICAgICAgICAgICAgICAgICAgICAgICAgYmlvX2RhdGFbc2VnbWVudF9pZHhdW2hdLmFwcGVuZChyb3dfZGF0YSkKCiAgICAgICAgaWYgUkVTQU1QTEVfUkFURToKICAgICAgICAgICAgc2VnbWVudF9zaXplID0gbGVuKHRpbWVfbGlzdCkKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VnbWVudF9zaXplKToKICAgICAgICAgICAgICAgIGZvciBoIGluIGJpb19oZWFkZXI6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICBsID0gbGVuKGJpb19kYXRhW2ldW2hdKQoKICAgICAgICAgICAgICAgICAgICAgICAgYmlvX2RhdGFbaV1baF0gPSBpbnRlcnBvbGF0ZV9kYXRhKGwsIGwqUkVTQU1QTEVfUkFURSwgYmlvX2RhdGFbaV1baF0sIGksIGgpCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgICAgIGFyciA9IGJpb19kYXRhW2ldW2hdCiAgICAgICAgICAgICAgICAgICAgICAgIGJpb19kYXRhW2ldW2hdID0gW2FycltpXSBmb3IgaSBpbiByYW5nZShsZW4oYXJyKSkgZm9yIF8gaW4gcmFuZ2UoUkVTQU1QTEVfUkFURSldCiAgICAgICAgICAgICAgICBwcmludCgnRG9pbmcgYmlvaGFybmVzcyB1cHNhbXBsaW5nIGZvciBzZWdtZW50ICcgKyBzdHIoaSkpCgogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcHJpbnQoIkNhbm5vdCBsb2FkIGJpb2hhcm5lc3MgZGF0YS4uLiIpCgogICAgcS5wdXQoYmlvX2RhdGEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHN0cmluZ2lmeSBhbmQgcGFyc2UgcGFzc3dvcmQgdG8gbWFrZSBzdXJlIHRoZSBwYXNzd29yZCBpcyBzdHJpbmcKICAgIHBhc3N3b3JkID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShwYXNzd29yZCkpCg==</text>
@@ -552,36 +550,32 @@
     <history>
       <history-search>
         <entry>rate</entry>
+        <entry>GET</entry>
         <entry>ComponentWill</entry>
         <entry>onPress</entry>
         <entry>nextProps</entry>
-        <entry>key</entry>
-        <entry>dataRepository</entry>
-        <entry>onFavrite</entry>
-        <entry>onFav</entry>
-        <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action QuickJavaDoc</entry>
-        <entry>action Debug</entry>
-        <entry>action Run</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action ActivateStructureToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action ShowBookmarks</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ToggleBookmark</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoClass</entry>
+        <entry>actionlist</entry>
         <entry>action Forward</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action CollapseRegion</entry>
+        <entry>action FindInPath</entry>
         <entry>action Back</entry>
-        <entry>action ExpandRegion</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Debug</entry>
+        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
