@@ -9,14 +9,13 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513023143014">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513651043922">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="56" />
-        <mark key="^" line="17" column="56" />
+        <mark key="[" line="9" column="76" />
+        <mark key="]" line="9" column="76" />
+        <mark key="." line="9" column="76" />
+        <mark key="^" line="9" column="76" />
       </file>
-      <file name="$USER_HOME$/Developer/git-point/src/user/screens/profile.screen.js" timestamp="1513629899779" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="24" column="38" />
@@ -168,7 +167,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1513624060131">
+      <file name="/Python Console" timestamp="1513651089205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -273,8 +272,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/git-point/src/user/user.action.js" timestamp="1513629776531" />
-      <file name="/Dummy.txt" timestamp="1513630670711">
+      <file name="/Dummy.txt" timestamp="1513650286228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -376,7 +374,6 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/git-point/src/auth/auth.action.js" timestamp="1513630292859" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -384,12 +381,12 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513623989550">
-        <mark key="'" line="29" column="35" />
-        <mark key="[" line="309" column="29" />
-        <mark key="]" line="309" column="41" />
-        <mark key="^" line="309" column="41" />
-        <mark key="." line="309" column="41" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513651034515">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="423" column="52" />
+        <mark key="]" line="423" column="51" />
+        <mark key="^" line="423" column="51" />
+        <mark key="." line="423" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -399,9 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" />
-      <jump line="99" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" />
       <jump line="14" column="47" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="9" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="40" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
@@ -499,13 +493,16 @@
       <jump line="29" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="265" column="21" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="29" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="320" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="407" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>My Blog</text>
       </register>
       <register name="-" type="4">
-        <text>bioharness</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -543,7 +540,7 @@ bioharness</text>
         <text encoding="base64">ICAgICAgdGl0bGU6IGUudGl0bGUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -576,12 +573,12 @@ bioharness</text>
         <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
