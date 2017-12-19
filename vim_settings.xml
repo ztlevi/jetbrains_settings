@@ -381,12 +381,11 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513647278187">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513648761462">
         <mark key="'" line="295" column="37" />
-        <mark key="[" line="299" column="66" />
-        <mark key="]" line="299" column="66" />
-        <mark key="." line="299" column="66" />
-        <mark key="^" line="299" column="45" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -511,34 +510,34 @@
         <text encoding="base64">ICAgICMgYmlvaGFybmVzczogMCwgbWF0Y2hlZF9yb3V0ZTogMSwgZGFnYWxvZ2dlcjogMiwgc2hpbW1lcjogMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaCA9IGguc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaGVkX3JvdXRlX2hlYWRlciA9IHJvdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydkYXRhbG9nZ2VyX2RhdGEnXSA9IHNlZ21lbnRlZF9kYXRhWzJdW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaCA9IGguc3RyaXAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydkYXRhbG9nZ2VyX2RhdGEnXSA9IHNlZ21lbnRlZF9kYXRhWzJdW2ldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFsb2dnZXJfZGF0YSA9IHEuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoaW1tZXJfZGF0YSA9IHEuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIGRhdGFsb2dnZXJfZGF0YSA9IHEuZ2V0KCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHNoaW1tZXJfZGF0YSA9IHEuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfZGF0YSA9Cg==</text>
+        <text encoding="base64">ICAgIHNoaW1tZXJfZGF0YSA9IHEuZ2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpb2hhcm5lc3NfZGF0YSA9IHEuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfZGF0YSA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIG1hdGNoZWRfcm91dGUgZGF0YSEgPT09XG4iKQo=</text>
+        <text encoding="base64">ICAgIGJpb2hhcm5lc3NfZGF0YSA9IHEuZ2V0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -574,9 +573,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
         <entry>action HideAllWindows</entry>
         <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
