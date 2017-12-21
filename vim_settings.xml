@@ -167,7 +167,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1513875957630">
+      <file name="/Python Console" timestamp="1513879722040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -311,11 +311,6 @@
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/utilities.py" timestamp="1513876196854">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -507,7 +502,7 @@
         <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>, pickle.</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -516,34 +511,34 @@
         <text>matched_route</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGV2aWNlMV9BY2NlbF9MTl9YX0NBTAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCg==</text>
+        <text encoding="base64">ICAgIGd6ID0gZ3ppcC5vcGVuKG5hbWUgKyAnLmd6JywgJ3diJykKICAgIGd6LndyaXRlKHBpY2tsZS5kdW1wcyhvYmosIHBpY2tsZS5ISUdIRVNUX1BST1RPQ09MKSkKICAgIGd6LmNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBnemlwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGV2aWNlMV9BY2NlbF9MTl9YX0NBTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfdGhyZWFkID0gVGhyZWFkKHRhcmdldD1zZWdtZW50X2Jpb2hhcm5lc3MsIGFyZ3M9KGJpb2hhcm5lc3NfZmlsZV9wYXRoLCBxLCB0aW1lX2xpc3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfZGF0YSA9IHEuZ2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfdGhyZWFkLmpvaW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfdGhyZWFkLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfdGhyZWFkID0gVGhyZWFkKHRhcmdldD1zZWdtZW50X2Jpb2hhcm5lc3MsIGFyZ3M9KGJpb2hhcm5lc3NfZmlsZV9wYXRoLCBxLCB0aW1lX2xpc3QpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -576,12 +571,12 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action DebugClass</entry>
+        <entry>action Forward</entry>
         <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
