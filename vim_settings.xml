@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513875507594">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1513023143014">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="14" column="89" />
-        <mark key="]" line="14" column="89" />
-        <mark key="." line="14" column="89" />
-        <mark key="^" line="14" column="105" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="[" line="24" column="34" />
@@ -29,29 +29,22 @@
         <mark key="." line="115" column="17" />
         <mark key="^" line="115" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="67" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513143138144">
-        <mark key="[" line="9" column="73" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+      <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="21" column="69" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513462715914">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513727870625">
         <mark key="'" line="85" column="19" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="249" column="4" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="182" column="69" />
       </file>
@@ -133,12 +126,12 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513462596120">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="105" column="19" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513715902120">
+        <mark key="'" line="15" column="44" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="115" column="2" />
+        <mark key="^" line="6" column="89" />
+        <mark key="." line="6" column="89" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -167,7 +160,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1513879722040">
+      <file name="/Python Console" timestamp="1513023973424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -180,11 +173,13 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513566442900">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513835305498">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="18" column="15" />
+        <mark key="k" line="64" column="19" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -196,8 +191,8 @@
         <mark key="'" line="182" column="20" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
         <mark key="^" line="72" column="47" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -217,8 +212,8 @@
         <mark key="'" line="31" column="40" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="19" />
-        <mark key="." line="113" column="0" />
         <mark key="^" line="111" column="19" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -229,8 +224,8 @@
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
-        <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513490920615">
         <mark key="'" line="52" column="26" />
@@ -244,6 +239,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513841042902">
+        <mark key="'" line="4" column="34" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
@@ -272,16 +273,16 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513650286228">
+      <file name="/Dummy.txt" timestamp="1513834915482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513567614022">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513728449894">
         <mark key="'" line="268" column="15" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="120" column="2" />
         <mark key="^" line="140" column="8" />
         <mark key="." line="163" column="0" />
       </file>
@@ -296,8 +297,8 @@
         <mark key="'" line="123" column="8" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="59" />
-        <mark key="." line="135" column="0" />
         <mark key="^" line="129" column="43" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -381,12 +382,12 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513876035285">
-        <mark key="'" line="141" column="57" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
+        <mark key="'" line="351" column="4" />
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -396,6 +397,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="9" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="40" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="328" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
@@ -489,56 +491,55 @@
       <jump line="48" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="41" column="34" filename="$USER_HOME$/Developer/react_github/js/pages/WebViewPage.js" />
       <jump line="29" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="265" column="21" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="29" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="320" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="407" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="420" column="39" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="141" column="57" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="62" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="15" column="44" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="30" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
+      <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
+      <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
-      <register name="0" type="4">
-        <text>matched_route</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHRoaXMuYWJvdXRDb21tb24ub24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGd6ID0gZ3ppcC5vcGVuKG5hbWUgKyAnLmd6JywgJ3diJykKICAgIGd6LndyaXRlKHBpY2tsZS5kdW1wcyhvYmosIHBpY2tsZS5ISUdIRVNUX1BST1RPQ09MKSkKICAgIGd6LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUHJvamVjdE1vZGVsKHRoaXMucmVwb3NpdG9yaWVzW2ldLAogICAgICAgICkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBnemlwCg==</text>
+        <text encoding="base64">ICAgICAgVXRpbHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGV2aWNlMV9BY2NlbF9MTl9YX0NBTAo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFByb2plY3RNb2RlbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCg==</text>
+        <text encoding="base64">ICAgICAgbmV3IFByb2plY3RNb2RlbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBpdGVtcyA9IHRoaXMucmVwb3NpdG9yaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwcm9qZWN0TW9kZWxzID1bXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfcm91dGVfdGhyZWFkID0gVGhyZWFkKHRhcmdldD1zZWdtZW50X2Jpb2hhcm5lc3MsIGFyZ3M9KGJpb2hhcm5lc3NfZmlsZV9wYXRoLCBxLCB0aW1lX2xpc3QpKQo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -551,32 +552,36 @@
     <history>
       <history-search>
         <entry>rate</entry>
-        <entry>GET</entry>
         <entry>ComponentWill</entry>
         <entry>onPress</entry>
         <entry>nextProps</entry>
+        <entry>key</entry>
+        <entry>dataRepository</entry>
+        <entry>onFavrite</entry>
+        <entry>onFav</entry>
+        <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoClass</entry>
-        <entry>actionlist</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ExpandRegion</entry>
-        <entry>action HideAllWindows</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Debug</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>action ExpandRegion</entry>
         <entry>action Forward</entry>
-        <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
