@@ -173,9 +173,10 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513728492787">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513835305498">
         <mark key="'" line="74" column="16" />
         <mark key="[" line="18" column="15" />
+        <mark key="k" line="64" column="19" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
@@ -273,7 +274,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513728349986">
+      <file name="/Dummy.txt" timestamp="1513834915482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -539,7 +540,7 @@
         <text encoding="base64">ICAgIC8vIGp1c3QgZm9yIHRlc3QKICAgIC8vIGFsd2F5cyB1c2UgbmV0d29yawogICAgLy8gcmV0dXJuIGZhbHNlCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -562,26 +563,26 @@
         <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>action QuickJavaDoc</entry>
-        <entry>action Debug</entry>
-        <entry>action Run</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action ActivateStructureToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Forward</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
-        <entry>action FindInPath</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
