@@ -41,11 +41,11 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513891567239">
-        <mark key="'" line="85" column="19" />
-        <mark key="[" line="271" column="45" />
-        <mark key="]" line="271" column="49" />
-        <mark key="." line="271" column="49" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513900157173">
+        <mark key="'" line="274" column="7" />
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="66" />
+        <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
@@ -126,8 +126,8 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513892227151">
-        <mark key="'" line="15" column="44" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
+        <mark key="'" line="80" column="19" />
         <mark key="[" line="81" column="21" />
         <mark key="]" line="81" column="53" />
         <mark key="." line="81" column="53" />
@@ -245,7 +245,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513890971017">
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513900244072">
         <mark key="'" line="4" column="34" />
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="43" />
@@ -403,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
-      <jump line="328" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="223" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="59" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
       <jump line="265" column="21" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
@@ -503,13 +501,15 @@
       <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="62" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="59" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="80" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="274" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -545,7 +545,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -572,7 +572,6 @@
         <entry>action ToggleBookmark</entry>
         <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
@@ -580,14 +579,15 @@
         <entry>action HideAllWindows</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
