@@ -41,7 +41,7 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513900157173">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513906390304">
         <mark key="'" line="274" column="7" />
         <mark key="[" line="19" column="66" />
         <mark key="]" line="19" column="66" />
@@ -153,10 +153,11 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513890626819">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513905217292">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1513403395493">
         <mark key="'" line="51" column="0" />
@@ -178,13 +179,13 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513891644329">
-        <mark key="'" line="90" column="16" />
-        <mark key="k" line="80" column="19" />
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="53" column="14" />
-        <mark key="." line="53" column="14" />
-        <mark key="^" line="53" column="14" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513906815866">
+        <mark key="'" line="91" column="16" />
+        <mark key="k" line="81" column="19" />
+        <mark key="[" line="71" column="40" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -213,7 +214,7 @@
         <mark key="^" line="140" column="57" />
         <mark key="." line="140" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513567773114">
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513905496233">
         <mark key="'" line="31" column="40" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="19" />
@@ -245,7 +246,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513901590960">
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513906656568">
         <mark key="'" line="4" column="34" />
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="43" />
@@ -266,7 +267,7 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513891429153">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513906790978">
         <mark key="'" line="64" column="12" />
         <mark key="[" line="22" column="97" />
         <mark key="]" line="22" column="104" />
@@ -279,7 +280,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513891580873">
+      <file name="/Dummy.txt" timestamp="1513906829097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -509,7 +510,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>this.repositories[i]</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
