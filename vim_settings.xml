@@ -202,12 +202,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1513963646664">
-        <mark key="'" line="187" column="20" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="118" />
-        <mark key="^" line="72" column="47" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1513972038634">
+        <mark key="'" line="87" column="25" />
+        <mark key="[" line="87" column="26" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="89" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -306,12 +306,12 @@
         <mark key="^" line="140" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513970862695">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513971496462">
         <mark key="'" line="96" column="37" />
-        <mark key="[" line="144" column="12" />
+        <mark key="[" line="67" column="0" />
         <mark key="m" line="124" column="0" />
-        <mark key="]" line="144" column="12" />
-        <mark key="." line="144" column="12" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="144" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513962992813">
@@ -417,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="20" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="49" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="103" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="108" column="13" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
@@ -517,46 +516,47 @@
       <jump line="99" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="86" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="96" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="89" column="25" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>My Blog</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>Text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBEZXZpY2VFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ3Nob3dMb2dpblJlc3VsdCcsICh0ZXh0KSA9PiB7CiAgICAgIHRoaXMudG9hc3Quc2hvdyh0ZXh0LCBEVVJBVElPTi5MRU5HVEhfTE9ORykKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgIHVzZXJEYW8ubG9nb3V0KCkKICAgICAgICAgICAgICBnb0JhY2soKQogICAgICAgICAgICAgIHN0YXRlLnBhcmFtcy5sb2dvdXRVc2VyKCkKICAgICAgICAgICAgfX0KICAgICAgICAgICAgYnV0dG9uU3R5bGU9e3N0eWxlcy5idXR0b259CiAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcj0nIzIxOTZGMycKICAgICAgICAgICAgdGl0bGU9J0xvZ291dCcvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudXNlcm5hbWUgPSBudWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17eyBuYW1lOiAnc2lnbi1pbicsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudXNlcm5hbWUgPSByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17e25hbWU6ICdhc3NpZ25tZW50J319Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgdXNlcgogICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17e25hbWU6ICdjYWNoZWQnfX0K</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpcHN9IG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgIHVzZXJEYW8ubG9nb3V0KCkKICAgICAgICAgICAgICAgIGdvQmFjaygpCiAgICAgICAgICAgICAgICBzdGF0ZS5wYXJhbXMubG9nb3V0VXNlcigpCiAgICAgICAgICAgICAgfX0+TG9nb3V0PC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17eyBuYW1lOiAnc2lnbi1pbicsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMTAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZT0nZm9udC1hd2Vzb21lJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17eyBuYW1lOiAnc2lnbi1pbicsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17e25hbWU6ICdhc3NpZ25tZW50J319Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17e25hbWU6ICdjYWNoZWQnfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbEJhY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17eyBuYW1lOiAnc2lnbi1pbicsIHR5cGU6ICdmb250LWF3ZXNvbWUnIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
