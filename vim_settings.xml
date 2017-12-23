@@ -559,7 +559,7 @@
         <text encoding="base64">ICAgIG1hcmdpbjogMgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -588,7 +588,6 @@
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action FindInPath</entry>
@@ -601,6 +600,7 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
