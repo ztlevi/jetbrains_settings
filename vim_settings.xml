@@ -559,7 +559,7 @@
         <text encoding="base64">ICAgIG1hcmdpbjogMgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -589,7 +589,6 @@
         <entry>action DebugClass</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action FindInPath</entry>
         <entry>action Debug</entry>
         <entry>action DashLauncherAction</entry>
@@ -601,6 +600,7 @@
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
