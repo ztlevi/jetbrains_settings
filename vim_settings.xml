@@ -180,12 +180,10 @@
         <mark key="^" line="121" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513918668661">
-        <mark key="'" line="182" column="23" />
-        <mark key="k" line="81" column="19" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="80" column="1" />
+        <mark key="'" line="183" column="23" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -221,11 +219,11 @@
         <mark key="." line="140" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513919129519">
-        <mark key="'" line="85" column="14" />
-        <mark key="[" line="76" column="56" />
-        <mark key="]" line="76" column="50" />
-        <mark key="^" line="76" column="50" />
-        <mark key="." line="76" column="50" />
+        <mark key="'" line="88" column="14" />
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="50" />
+        <mark key="^" line="79" column="50" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -298,26 +296,12 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513917235101">
-        <mark key="'" line="268" column="15" />
-        <mark key="[" line="176" column="45" />
-        <mark key="]" line="176" column="49" />
-        <mark key="^" line="176" column="49" />
-        <mark key="." line="176" column="49" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
         <mark key="'" line="87" column="18" />
         <mark key="[" line="64" column="58" />
         <mark key="]" line="64" column="71" />
         <mark key="^" line="64" column="71" />
         <mark key="." line="64" column="71" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513915725871">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="58" column="37" />
-        <mark key="^" line="58" column="37" />
-        <mark key="." line="58" column="37" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
