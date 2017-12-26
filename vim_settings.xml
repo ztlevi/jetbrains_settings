@@ -297,13 +297,14 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514259513429">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514268113396">
         <mark key="'" line="102" column="16" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="123" column="18" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514267385374">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514267737628">
         <mark key="'" line="29" column="15" />
         <mark key="[" line="114" column="31" />
         <mark key="]" line="114" column="31" />
@@ -519,7 +520,7 @@
         <text>My Blog</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT09ICcnIA==</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -555,7 +556,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -595,8 +596,8 @@
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
