@@ -16,12 +16,12 @@
         <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1514268713416">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1514286748077">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513984796354">
         <mark key="'" line="24" column="0" />
@@ -140,7 +140,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1514268427014" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513462596120">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="65" column="0" />
@@ -188,11 +187,11 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514259243147">
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="57" />
-        <mark key="." line="84" column="57" />
-        <mark key="^" line="84" column="57" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514287930352">
+        <mark key="'" line="157" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -299,12 +298,12 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514268113396">
-        <mark key="'" line="102" column="16" />
-        <mark key="[" line="123" column="18" />
-        <mark key="]" line="123" column="21" />
-        <mark key="." line="123" column="21" />
-        <mark key="^" line="123" column="21" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514287254947">
+        <mark key="'" line="138" column="16" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514267737628">
         <mark key="'" line="29" column="15" />
@@ -416,9 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="268" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="48" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="41" column="34" filename="$USER_HOME$/Developer/react_github/js/pages/WebViewPage.js" />
       <jump line="265" column="21" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="29" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -516,13 +512,16 @@
       <jump line="29" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="43" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" />
       <jump line="25" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" />
+      <jump line="134" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="148" column="26" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="155" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>My Blog</text>
       </register>
       <register name="-" type="4">
-        <text>paddingTop:300</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -531,34 +530,34 @@
         <text encoding="base64">ICAgICAgICAgIGxldCB4aHIgPSBuZXcgWE1MSHR0cFJlcXVlc3QoKQogICAgICAgICAgeGhyLm9wZW4oJ0dFVCcsIHVybCwgdHJ1ZSkKCiAgICAgICAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQXV0aG9yaXphdGlvbicsIGF1dGhfaGVhZGVyKQogICAgICAgICAgeGhyLnNldFJlcXVlc3RIZWFkZXIoJ0NvbnRlbnQtdHlwZScsICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnKQoKICAgICAgICAgIHhoci5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBmdW5jdGlvbiAoKSB7Ly9DYWxsIGEgZnVuY3Rpb24gd2hlbiB0aGUgc3RhdGUgY2hhbmdlcy4KICAgICAgICAgICAgaWYgKHhoci5yZWFkeVN0YXRlID09PSA0ICYmIHhoci5zdGF0dXMgPT09IDIwMCkgewogICAgICAgICAgICAgIHJlc29sdmUoeGhyLnJlc3BvbnNlVGV4dCkKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgeGhyLnNlbmQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEF2YXRhcgogICAgICAgIHNtYWxsCiAgICAgICAgcm91bmRlZAogICAgICAgIGljb249e3tuYW1lOiAndXNlcid9fQogICAgICAgIG9uUHJlc3M9eygpID0+IGNvbnNvbGUubG9nKCJXb3JrcyEiKX0KICAgICAgICBhY3RpdmVPcGFjaXR5PXswLjd9CiAgICAgICAgY29udGFpbmVyU3R5bGU9e3tmbGV4OiAyLCBtYXJnaW5MZWZ0OiAyMCwgbWFyZ2luVG9wOiAxMTV9fQogICAgICAvPgogICAgICA8QXZhdGFyCiAgICAgICAgbWVkaXVtCiAgICAgICAgb3ZlcmxheUNvbnRhaW5lclN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnYmx1ZSd9fQogICAgICAgIGljb249e3tuYW1lOiAnbWVldHVwJywgY29sb3I6ICdyZWQnfX0KICAgICAgICBvblByZXNzPXsoKSA9PiBjb25zb2xlLmxvZygiV29ya3MhIil9CiAgICAgICAgYWN0aXZlT3BhY2l0eT17MC43fQogICAgICAgIGNvbnRhaW5lclN0eWxlPXt7ZmxleDogMywgbWFyZ2luVG9wOiAxMDB9fQogICAgICAvPgogICAgICA8QXZhdGFyCiAgICAgICAgbGFyZ2UKICAgICAgICBpY29uPXt7bmFtZTogJ3JvY2tldCcsIGNvbG9yOiAnb3JhbmdlJ319CiAgICAgICAgb3ZlcmxheUNvbnRhaW5lclN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnd2hpdGUnfX0KICAgICAgICBvblByZXNzPXsoKSA9PiBjb25zb2xlLmxvZygiV29ya3MhIil9CiAgICAgICAgYWN0aXZlT3BhY2l0eT17MC43fQogICAgICAgIGNvbnRhaW5lclN0eWxlPXt7ZmxleDogNCwgbWFyZ2luVG9wOiA3NX19CiAgICAgIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJORmV0Y2hCbG9iIGZyb20gJ3JlYWN0LW5hdGl2ZS1mZXRjaC1ibG9iJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgey8qPFRleHQ+V2VsY29tZSE8L1RleHQ+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SWNvbgogICAgICAgICAgICAgICAgbmFtZT0nd2hhdHNob3QnCiAgICAgICAgICAgICAgICBzaXplPXs0MH0KICAgICAgICAgICAgICAgIGNvbG9yPScjMjE5NkYzJwogICAgICAgICAgICAgICAgY29udGFpbmVyU3R5bGU9e3ttYXJnaW5SaWdodDoxMH19CiAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIHVybHNUb1ByZWxvYWQ9e2ltYWdlc30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHNhdmUgdXNlcidzIGF2YXRhcgogICAgYXdhaXQgdGhpcy5mZXRjaFVzZXJJbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHVybHNUb1ByZWxvYWQ9e2ltYWdlc30KICAgICAgICAgIG9uUHJlbG9hZENvbXBsZXRlPXsoKSA9PiBjb25zb2xlLmxvZygnaGV5IHRoZXJlJyl9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZmV0Y2hVc2VySW5mbygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIG9sZHhocih1cmwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgICA8Q2FjaGVkSW1hZ2Ugc291cmNlPXt7dXJpOiBpbWFnZXNbMV19fS8+CgogICAgICAgICAgPENhY2hlZEltYWdlIHNvdXJjZT17e3VyaTogaW1hZ2VzWzJdfX0vPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNwb25zZSA9IGF3YWl0IG9sZHhocih1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgPEF2YXRhcgogICAgICAgIHNtYWxsCiAgICAgICAgcm91bmRlZAogICAgICAgIGljb249e3tuYW1lOiAndXNlcid9fQogICAgICAgIG9uUHJlc3M9eygpID0+IGNvbnNvbGUubG9nKCJXb3JrcyEiKX0KICAgICAgICBhY3RpdmVPcGFjaXR5PXswLjd9CiAgICAgICAgY29udGFpbmVyU3R5bGU9e3tmbGV4OiAyLCBtYXJnaW5MZWZ0OiAyMCwgbWFyZ2luVG9wOiAxMTV9fQogICAgICAvPgogICAgICA8QXZhdGFyCiAgICAgICAgbWVkaXVtCiAgICAgICAgb3ZlcmxheUNvbnRhaW5lclN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnYmx1ZSd9fQogICAgICAgIGljb249e3tuYW1lOiAnbWVldHVwJywgY29sb3I6ICdyZWQnfX0KICAgICAgICBvblByZXNzPXsoKSA9PiBjb25zb2xlLmxvZygiV29ya3MhIil9CiAgICAgICAgYWN0aXZlT3BhY2l0eT17MC43fQogICAgICAgIGNvbnRhaW5lclN0eWxlPXt7ZmxleDogMywgbWFyZ2luVG9wOiAxMDB9fQogICAgICAvPgogICAgICA8QXZhdGFyCiAgICAgICAgbGFyZ2UKICAgICAgICBpY29uPXt7bmFtZTogJ3JvY2tldCcsIGNvbG9yOiAnb3JhbmdlJ319CiAgICAgICAgb3ZlcmxheUNvbnRhaW5lclN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnd2hpdGUnfX0KICAgICAgICBvblByZXNzPXsoKSA9PiBjb25zb2xlLmxvZygiV29ya3MhIil9CiAgICAgICAgYWN0aXZlT3BhY2l0eT17MC43fQogICAgICAgIGNvbnRhaW5lclN0eWxlPXt7ZmxleDogNCwgbWFyZ2luVG9wOiA3NX19CiAgICAgIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgey8qPFRleHQ+V2VsY29tZSE8L1RleHQ+Ki99Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -592,14 +591,14 @@
         <entry>action DashLauncherAction</entry>
         <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
