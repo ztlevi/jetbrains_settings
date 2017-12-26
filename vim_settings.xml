@@ -198,12 +198,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/config.js" timestamp="1514259326640" />
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514262646469">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514267083766">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -303,12 +303,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514259869452">
-        <mark key="'" line="114" column="29" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="144" column="51" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514267385374">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="114" column="31" />
+        <mark key="]" line="114" column="31" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="114" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -413,12 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="123" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="100" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="118" column="8" filename="$USER_HOME$/Developer/react_github/index.js" />
-      <jump line="66" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="31" column="40" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
       <jump line="30" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="87" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
@@ -505,7 +499,6 @@
       <jump line="332" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="49" column="23" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="183" column="14" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="44" column="31" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="181" column="20" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="286" column="20" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="328" column="12" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
@@ -513,13 +506,20 @@
       <jump line="90" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="88" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="67" column="4" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="326" column="17" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="323" column="4" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="44" column="24" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="327" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="114" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="29" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>My Blog</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IT09ICcnIA==</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -528,34 +528,34 @@
         <text encoding="base64">ICAgICAgICAgIGxldCB4aHIgPSBuZXcgWE1MSHR0cFJlcXVlc3QoKQogICAgICAgICAgeGhyLm9wZW4oJ0dFVCcsIHVybCwgdHJ1ZSkKCiAgICAgICAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQXV0aG9yaXphdGlvbicsIGF1dGhfaGVhZGVyKQogICAgICAgICAgeGhyLnNldFJlcXVlc3RIZWFkZXIoJ0NvbnRlbnQtdHlwZScsICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnKQoKICAgICAgICAgIHhoci5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBmdW5jdGlvbiAoKSB7Ly9DYWxsIGEgZnVuY3Rpb24gd2hlbiB0aGUgc3RhdGUgY2hhbmdlcy4KICAgICAgICAgICAgaWYgKHhoci5yZWFkeVN0YXRlID09PSA0ICYmIHhoci5zdGF0dXMgPT09IDIwMCkgewogICAgICAgICAgICAgIHJlc29sdmUoeGhyLnJlc3BvbnNlVGV4dCkKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgeGhyLnNlbmQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8SWNvbgogICAgICAgICAgICAgICAgbmFtZT0nd2hhdHNob3QnCiAgICAgICAgICAgICAgICBzaXplPXs0MH0KICAgICAgICAgICAgICAgIGNvbG9yPScjMjE5NkYzJwogICAgICAgICAgICAgICAgY29udGFpbmVyU3R5bGU9e3ttYXJnaW5SaWdodDoxMH19CiAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHhocgo=</text>
+        <text encoding="base64">ICAgIC8vIHNhdmUgdXNlcidzIGF2YXRhcgogICAgYXdhaXQgdGhpcy5mZXRjaFVzZXJJbmZvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZmV0Y2hVc2VySW5mbygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhoci5zZW5kKCkK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIG9sZHhocih1cmwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgeGhyLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGZ1bmN0aW9uICgpIHsvL0NhbGwgYSBmdW5jdGlvbiB3aGVuIHRoZSBzdGF0ZSBjaGFuZ2VzLgogICAgICBpZiAoeGhyLnJlYWR5U3RhdGUgPT09IDQgJiYgeGhyLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgcmV0dXJuIHhoci5yZXNwb25zZVRleHQKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhoci5zZXRSZXF1ZXN0SGVhZGVyKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQ29udGVudC10eXBlJywgJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcpCg==</text>
+        <text encoding="base64">ICAgIGxldCByZXNwb25zZSA9IGF3YWl0IG9sZHhocih1cmwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHhoci5vcGVuKCdHRVQnLCB1cmwsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeGhyID0gbmV3IFhNTEh0dHBSZXF1ZXN0KCk7CiAgICAgIHhoci5vcGVuKCdHRVQnLCB1cmwsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VySW5mbykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB4aHIgPSBuZXcgWE1MSHR0cFJlcXVlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -593,10 +593,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action Forward</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
