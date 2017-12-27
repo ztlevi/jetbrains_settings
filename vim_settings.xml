@@ -183,12 +183,12 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514355503577">
-        <mark key="'" line="169" column="19" />
-        <mark key="[" line="170" column="44" />
-        <mark key="]" line="170" column="44" />
-        <mark key="^" line="170" column="47" />
-        <mark key="." line="170" column="44" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514405664490">
+        <mark key="'" line="166" column="19" />
+        <mark key="[" line="166" column="22" />
+        <mark key="]" line="166" column="22" />
+        <mark key="^" line="167" column="47" />
+        <mark key="." line="166" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -196,18 +196,17 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/config.js" timestamp="1513919078734">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/res/data/config.js" timestamp="1514405533865">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514403447629">
-        <mark key="'" line="280" column="10" />
-        <mark key="[" line="56" column="23" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="56" column="24" />
-        <mark key="^" line="56" column="24" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
+        <mark key="'" line="284" column="10" />
+        <mark key="[" line="76" column="54" />
+        <mark key="]" line="76" column="80" />
+        <mark key="." line="76" column="80" />
+        <mark key="^" line="76" column="80" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -276,12 +275,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513916744290">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1514405496659">
         <mark key="'" line="73" column="31" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="78" />
+        <mark key="." line="76" column="77" />
+        <mark key="^" line="76" column="75" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
@@ -295,25 +294,25 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514400305301">
+      <file name="/Dummy.txt" timestamp="1514405809055">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514399655425">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514405621850">
         <mark key="'" line="135" column="22" />
-        <mark key="[" line="137" column="26" />
-        <mark key="]" line="137" column="31" />
-        <mark key="^" line="137" column="31" />
-        <mark key="." line="137" column="31" />
+        <mark key="[" line="137" column="43" />
+        <mark key="]" line="137" column="43" />
+        <mark key="^" line="137" column="43" />
+        <mark key="." line="137" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514399966174">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514405206825">
         <mark key="'" line="38" column="9" />
-        <mark key="[" line="87" column="39" />
-        <mark key="]" line="87" column="49" />
-        <mark key="." line="87" column="49" />
-        <mark key="^" line="87" column="49" />
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="35" />
+        <mark key="." line="130" column="35" />
+        <mark key="^" line="130" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -529,43 +528,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>reject</text>
+        <text>Save auth_header instead of password</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgndXNlcm5hbWUnKQogICAgICAgICAgICAgIEFzeW5jU3RvcmFnZS5yZW1vdmVJdGVtKCdhdXRoX2hlYWRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgJ2F2YXRhcic6ICdodHRwczovL2F2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE2NjU1MDk2P3M9NDYwJnY9NCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdDYW5ub3QgYXV0aGVudGljYXRpb24nKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">CiAgICAiYXZhdGFyIjogcmVxdWlyZSgiLi4vYXZhdGFyL2F1dGhvci5qcGciKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
+        <text encoding="base64">bGV0IGltYWdlcyA9IFsiaHR0cHM6Ly9hdmF0YXJzMC5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNDQwNzg0Mz92PTQiXTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBqc29uID0gcmVzcC5qc29uKCk7IC8vIHRoZXJlJ3MgYWx3YXlzIGEgYm9keQogICAgICAgICAgICAgICAgaWYgKHJlc3Auc3RhdHVzID49IDIwMCAmJiByZXNwLnN0YXR1cyA8IDMwMCkgewogICAgICAgICAgICAgICAgICByZXR1cm4ganNvbjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBqc29uLnRoZW4oUHJvbWlzZS5yZWplY3QuYmluZChQcm9taXNlKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlcnMuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICAgIGxldCByZXNwb25zZQogICAgICB0cnkgewogICAgICAgIHJlc3BvbnNlID0gYXdhaXQKICAgICAgICBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdDYW5ub3QgYXV0aGVudGljYXRpb24nKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVycy5hcHBlbmQoJ0F1dGhvcml6YXRpb24nLCBhdXRoX2hlYWRlcikKICAgICAgbGV0IHJlc3BvbnNlCiAgICAgIHRyeSB7CiAgICAgICAgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhlYWRlcnMuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICAgIGxldCByZXNwb25zZQogICAgICB0cnkgewogICAgICAgIHJlc3BvbnNlID0gYXdhaXQKICAgICAgICBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKQogICAgdGhpcy5mZXRjaEF1dGhlbnRpY2F0aW9uSGVhZGVyKCkKICAgICAgLnRoZW4oKQogICAgaGVhZGVycy5hcHBlbmQoJ0F1dGhvcml6YXRpb24nLCBhdXRoX2hlYWRlcikKICAgIGxldCByZXNwb25zZQogICAgdHJ5IHsKICAgICAgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgaGVhZGVyczogaGVhZGVycywKICAgICAgfSkKICAgIH0gY2F0Y2ggKGVycikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ0Nhbm5vdCBhdXRoZW50aWNhdGlvbicpCiAgICB9CiAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Mub24oJ3VuaGFuZGxlZFJlamVjdGlvbicsIGVycm9yID0+IHsKICAgICAgLy8gV29uJ3QgZXhlY3V0ZQogICAgICBjb25zb2xlLmxvZygndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyb3IudGVzdCk7CiAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgaGVhZGVycy5hcHBlbmQoJ0F1dGhvcml6YXRpb24nLCBhdXRoX2hlYWRlcikKICAgICAgbGV0IHJlc3BvbnNlCiAgICAgIHRyeSB7CiAgICAgICAgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -605,9 +604,9 @@
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
