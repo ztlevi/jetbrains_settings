@@ -169,6 +169,11 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/android/app/src/main/AndroidManifest.xml" timestamp="1514344683890">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1513023973424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -182,12 +187,12 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514327227657">
-        <mark key="'" line="167" column="12" />
-        <mark key="[" line="19" column="63" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1514344621130">
+        <mark key="'" line="175" column="24" />
+        <mark key="[" line="176" column="19" />
+        <mark key="]" line="176" column="38" />
+        <mark key="." line="176" column="38" />
+        <mark key="^" line="176" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -307,13 +312,6 @@
         <mark key="^" line="64" column="71" />
         <mark key="." line="64" column="71" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514326732575">
-        <mark key="'" line="130" column="32" />
-        <mark key="[" line="109" column="31" />
-        <mark key="]" line="110" column="17" />
-        <mark key="^" line="110" column="17" />
-        <mark key="." line="110" column="17" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="26" column="62" />
@@ -422,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="96" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="35" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="72" column="11" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
@@ -522,13 +518,15 @@
       <jump line="119" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="9" column="23" filename="$USER_HOME$/Developer/react_github/package.json" />
       <jump line="163" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="169" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="175" column="24" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>backgr</text>
+        <text>styles.nestedImage</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -537,34 +535,34 @@
         <text encoding="base64">aW1wb3J0IFRvYXN0LCB7RFVSQVRJT059IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2VDYWNoZVByb3ZpZGVyCiAgICAgICAgICB1cmxzVG9QcmVsb2FkPXtpbWFnZXN9CiAgICAgICAgICBvblByZWxvYWRDb21wbGV0ZT17KCkgPT4gY29uc29sZS5sb2coJ2hleSB0aGVyZScpfT4KICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IHBhcmFtcy5iYWNrZ3J9fS8+CiAgICAgICAgPC9JbWFnZUNhY2hlUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5uZXN0ZWRJbWFnZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICA8Q2FjaGVkSW1hZ2Ugc291cmNlPXt7dXJpOiBpbWFnZXNbMV19fS8+CgogICAgICAgICAgPENhY2hlZEltYWdlIHNvdXJjZT17e3VyaTogaW1hZ2VzWzJdfX0vPgoK</text>
+        <text encoding="base64">aW1wb3J0IENhY2hlYWJsZUltYWdlIGZyb20gJ3JlYWN0LW5hdGl2ZS1jYWNoZWFibGUtaW1hZ2UnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2VDYWNoZVByb3ZpZGVyCiAgICAgICAgICB1cmxzVG9QcmVsb2FkPXtpbWFnZXN9CiAgICAgICAgICBvblByZWxvYWRDb21wbGV0ZT17KCkgPT4gY29uc29sZS5sb2coJ2hleSB0aGVyZScpfT4KICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IHBhcmFtcy5iYWNrZ3J9fS8+CiAgICAgICAgPC9JbWFnZUNhY2hlUHJvdmlkZXI+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IGltYWdlc1sxXX19Lz4KCiAgICAgICAgICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IGltYWdlc1syXX19Lz4K</text>
+        <text encoding="base64">CiAgICAgICAgICA8Q2FjaGVkSW1hZ2Ugc291cmNlPXt7dXJpOiBpbWFnZXNbMV19fS8+CgogICAgICAgICAgPENhY2hlZEltYWdlIHNvdXJjZT17e3VyaTogaW1hZ2VzWzJdfX0vPgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENhY2hlYWJsZUltYWdlIGZyb20gJ3JlYWN0LW5hdGl2ZS1jYWNoZWFibGUtaW1hZ2UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJBdXRvLWZpbHRlci1Bbmd1bGFyMiIK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IGltYWdlc1sxXX19Lz4KCiAgICAgICAgICAgICAgICAgIDxDYWNoZWRJbWFnZSBzb3VyY2U9e3t1cmk6IGltYWdlc1syXX19Lz4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -602,11 +600,11 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
