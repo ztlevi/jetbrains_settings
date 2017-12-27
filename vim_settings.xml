@@ -202,12 +202,11 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514356013868">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="58" column="7" />
-        <mark key="^" line="58" column="7" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514401942499">
+        <mark key="'" line="272" column="10" />
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="14" />
+        <mark key="." line="71" column="14" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -295,25 +294,25 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513919011097">
+      <file name="/Dummy.txt" timestamp="1514400305301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514355480634">
-        <mark key="'" line="137" column="35" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1514399655425">
+        <mark key="'" line="135" column="22" />
         <mark key="[" line="137" column="26" />
         <mark key="]" line="137" column="31" />
         <mark key="^" line="137" column="31" />
         <mark key="." line="137" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514356216637">
-        <mark key="'" line="87" column="48" />
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="87" column="48" />
-        <mark key="." line="87" column="48" />
-        <mark key="^" line="87" column="48" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1514399966174">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="87" column="39" />
+        <mark key="]" line="87" column="49" />
+        <mark key="." line="87" column="49" />
+        <mark key="^" line="87" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -423,19 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="54" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="222" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="242" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="234" column="54" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="78" column="47" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="89" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="86" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="300" column="17" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="51" column="1" filename="$USER_HOME$/Developer/react_github/js/common/Fade.js" />
-      <jump line="85" column="28" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="91" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="193" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="79" column="49" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="100" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
       <jump line="93" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
@@ -512,10 +498,8 @@
       <jump line="73" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="30" column="33" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
-      <jump line="342" column="44" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="330" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="31" column="46" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="343" column="22" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="60" column="23" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="334" column="29" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
@@ -523,49 +507,64 @@
       <jump line="169" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="32" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="87" column="48" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="251" column="36" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="196" column="12" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="57" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="327" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="135" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="31" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="342" column="48" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="324" column="41" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="24" column="23" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="38" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="325" column="32" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="59" column="15" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="58" column="60" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="272" column="10" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZSBzdHlsZT17W3N0eWxlcy5hdmF0YXIsIHt3aWR0aDogQVZBVEFSX1NJWkUsIGhlaWdodDogQVZBVEFSX1NJWkV9XX0K</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IEFzeW5jU3RvcmFnZS5yZW1vdmVJdGVtKCd1c2VybmFtZScpCiAgICAgICAgICBhd2FpdCBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgnYXV0aF9oZWFkZXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICBhd2FpdCBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgndXNlcm5hbWUnKQogICAgICBhd2FpdCBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgnYXV0aF9oZWFkZXInKQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gc2F2ZSB1c2VyJ3MgYXZhdGFyCiAgICAgICAgYXdhaXQgdGhpcy5mZXRjaFVzZXJJbmZvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlKSB7CiAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICAvLyBmZXRjaCB1c2VyJ3MgYXZhdGFyCiAgICAgICAgICAvLyBkbyB0aGUgZm9sbG93aW5nIHByb2Nlc3Mgd2hlbiBmZXRjaFVzZXJJbmZvIGZpbmlzaAogICAgICAgICAgdGhpcy5mZXRjaFVzZXJJbmZvKCkKICAgICAgICAgICAgLnRoZW4oKCk9PnsKICAgICAgICAgICAgICAvLyByZWxvYWQgc3RhcnJlZCByZXBvcyB3aGVuIGxvZ2dlZCBpbgogICAgICAgICAgICAgIGxldCBmYXZvcml0ZURhbyA9IG5ldyBGYXZvcml0ZURBTygpCiAgICAgICAgICAgICAgZmF2b3JpdGVEYW8ucmVsb2FkU3RhcnJlZFJlcG9zKCkKCiAgICAgICAgICAgICAgLy8gZ28gYmFjayB3aGVuIHN1Y2Nlc3MKICAgICAgICAgICAgICBjYWxsYmFjaygpCiAgICAgICAgICAgICAgRGV2aWNlRXZlbnRFbWl0dGVyLmVtaXQoJ3Nob3dUb2FzdCcsICdMb2dnZWQgaW4nKQogICAgICAgICAgICB9KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBhd2FpdCBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgndXNlcm5hbWUnKQogICAgICAgICAgYXdhaXQgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oJ2F1dGhfaGVhZGVyJykKICAgICAgICAgIGNhbGxiYWNrKCdVc2VybmFtZSBhbmQgcGFzc3dvcmQgZG9lcyBub3QgbWF0Y2guIEF1dGhlbnRpY2F0aW9uIGZhaWxlZC4nKQogICAgICAgICAgRGV2aWNlRXZlbnRFbWl0dGVyLmVtaXQoJ3Nob3dMb2dpblRvYXN0JywgJ1VzZXJuYW1lIGFuZCBwYXNzd29yZCBkb2VzIG5vdCBtYXRjaC4gQXV0aGVudGljYXRpb24gZmFpbGVkLicpCiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgIGF3YWl0IEFzeW5jU3RvcmFnZS5yZW1vdmVJdGVtKCd1c2VybmFtZScpCiAgICAgICAgYXdhaXQgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oJ2F1dGhfaGVhZGVyJykKICAgICAgICBjYWxsYmFjaygnRmFpbGVkIHRvIGNvbm5lY3Qgc2VydmVyLiBQbGVhc2UgY2hlY2sgdGhlIG5ldHdvcmsuJykKICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd0xvZ2luVG9hc3QnLCAnRmFpbGVkIHRvIGNvbm5lY3Qgc2VydmVyLiBQbGVhc2UgY2hlY2sgdGhlIG5ldHdvcmsuJykKICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigocmVzdWx0KT0+ewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgIGlmIChyZXNwb25zZS5zdGF0dXMgPT09IDIwMCkgewogICAgICAgICAgLy8gZmV0Y2ggdXNlcidzIGF2YXRhcgogICAgICAgICAgLy8gZG8gdGhlIGZvbGxvd2luZyBwcm9jZXNzIHdoZW4gZmV0Y2hVc2VySW5mbyBmaW5pc2gKICAgICAgICAgIHRoaXMuZmV0Y2hVc2VySW5mbygpCiAgICAgICAgICAgIC50aGVuKCgpPT57CiAgICAgICAgICAgICAgLy8gcmVsb2FkIHN0YXJyZWQgcmVwb3Mgd2hlbiBsb2dnZWQgaW4KICAgICAgICAgICAgICBsZXQgZmF2b3JpdGVEYW8gPSBuZXcgRmF2b3JpdGVEQU8oKQogICAgICAgICAgICAgIGZhdm9yaXRlRGFvLnJlbG9hZFN0YXJyZWRSZXBvcygpCgogICAgICAgICAgICAgIC8vIGdvIGJhY2sgd2hlbiBzdWNjZXNzCiAgICAgICAgICAgICAgY2FsbGJhY2soKQogICAgICAgICAgICAgIERldmljZUV2ZW50RW1pdHRlci5lbWl0KCdzaG93VG9hc3QnLCAnTG9nZ2VkIGluJykKICAgICAgICAgICAgfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgYXdhaXQgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oJ3VzZXJuYW1lJykKICAgICAgICAgIGF3YWl0IEFzeW5jU3RvcmFnZS5yZW1vdmVJdGVtKCdhdXRoX2hlYWRlcicpCiAgICAgICAgICBjYWxsYmFjaygnVXNlcm5hbWUgYW5kIHBhc3N3b3JkIGRvZXMgbm90IG1hdGNoLiBBdXRoZW50aWNhdGlvbiBmYWlsZWQuJykKICAgICAgICAgIERldmljZUV2ZW50RW1pdHRlci5lbWl0KCdzaG93TG9naW5Ub2FzdCcsICdVc2VybmFtZSBhbmQgcGFzc3dvcmQgZG9lcyBub3QgbWF0Y2guIEF1dGhlbnRpY2F0aW9uIGZhaWxlZC4nKQogICAgICAgIH0KICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlKSB7CiAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICAvLyBmZXRjaCB1c2VyJ3MgYXZhdGFyCiAgICAgICAgICAvLyBkbyB0aGUgZm9sbG93aW5nIHByb2Nlc3Mgd2hlbiBmZXRjaFVzZXJJbmZvIGZpbmlzaAogICAgICAgICAgdGhpcy5mZXRjaFVzZXJJbmZvKCkKICAgICAgICAgICAgLnRoZW4oKCk9PnsKICAgICAgICAgICAgICAvLyByZWxvYWQgc3RhcnJlZCByZXBvcyB3aGVuIGxvZ2dlZCBpbgogICAgICAgICAgICAgIGxldCBmYXZvcml0ZURhbyA9IG5ldyBGYXZvcml0ZURBTygpCiAgICAgICAgICAgICAgZmF2b3JpdGVEYW8ucmVsb2FkU3RhcnJlZFJlcG9zKCkKCiAgICAgICAgICAgICAgLy8gZ28gYmFjayB3aGVuIHN1Y2Nlc3MKICAgICAgICAgICAgICBjYWxsYmFjaygpCiAgICAgICAgICAgICAgRGV2aWNlRXZlbnRFbWl0dGVyLmVtaXQoJ3Nob3dUb2FzdCcsICdMb2dnZWQgaW4nKQogICAgICAgICAgICB9KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBhd2FpdCBBc3luY1N0b3JhZ2UucmVtb3ZlSXRlbSgndXNlcm5hbWUnKQogICAgICAgICAgYXdhaXQgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oJ2F1dGhfaGVhZGVyJykKICAgICAgICAgIGNhbGxiYWNrKCdVc2VybmFtZSBhbmQgcGFzc3dvcmQgZG9lcyBub3QgbWF0Y2guIEF1dGhlbnRpY2F0aW9uIGZhaWxlZC4nKQogICAgICAgICAgRGV2aWNlRXZlbnRFbWl0dGVyLmVtaXQoJ3Nob3dMb2dpblRvYXN0JywgJ1VzZXJuYW1lIGFuZCBwYXNzd29yZCBkb2VzIG5vdCBtYXRjaC4gQXV0aGVudGljYXRpb24gZmFpbGVkLicpCiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgIGF3YWl0IEFzeW5jU3RvcmFnZS5yZW1vdmVJdGVtKCd1c2VybmFtZScpCiAgICAgICAgYXdhaXQgQXN5bmNTdG9yYWdlLnJlbW92ZUl0ZW0oJ2F1dGhfaGVhZGVyJykKICAgICAgICBjYWxsYmFjaygnRmFpbGVkIHRvIGNvbm5lY3Qgc2VydmVyLiBQbGVhc2UgY2hlY2sgdGhlIG5ldHdvcmsuJykKICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnc2hvd0xvZ2luVG9hc3QnLCAnRmFpbGVkIHRvIGNvbm5lY3Qgc2VydmVyLiBQbGVhc2UgY2hlY2sgdGhlIG5ldHdvcmsuJykKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICBzb3VyY2U9e3t1cmk6J2h0dHBzOi8vYXZhdGFyczAuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMzQ0MDc4NDM/dj00J319CiAgICAgICAgICAgIHN0eWxlPXtbc3R5bGVzLmF2YXRhciwge3dpZHRoOiBBVkFUQVJfU0laRSwgaGVpZ2h0OiBBVkFUQVJfU0laRX1dfQogICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goZXJyb3I9PnsKICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICAgICAgcmVzcG9uc2UgPSBudWxsCiAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc291cmNlPXt7dXJpOidodHRwczovL2Nkbi5hcnN0ZWNobmljYS5uZXQvd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDIvNTcxODg5Nzk4MV8xMGZhYTQ1YWMzX2ItNjQweDYyNC5qcGcnfX0K</text>
+        <text encoding="base64">ICAgIHRyeXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgbG9hZFVzZXJBdmF0YXIgKCkgewoKICB9Cg==</text>
+        <text encoding="base64">CiAgICAgIHRocm93KGVycikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2FkVXNlckF2YXRhciAoKSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKDQwMCk7CgogICAgICB0aHJvdyhlcnIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -597,17 +596,17 @@
         <entry>action HideAllWindows</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
