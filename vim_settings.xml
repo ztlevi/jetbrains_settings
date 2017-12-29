@@ -229,11 +229,12 @@
         <mark key="." line="62" column="26" />
         <mark key="^" line="62" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1513568698157">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1514588218073">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513918898826">
         <mark key="'" line="4" column="34" />
@@ -378,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
       <jump line="97" column="16" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
       <jump line="85" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="35" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" />
@@ -478,6 +478,7 @@
       <jump line="272" column="10" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
       <jump line="12" column="24" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
       <jump line="8" column="4" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
+      <jump line="48" column="24" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -520,7 +521,7 @@
         <text encoding="base64">ICAgICAgICAgIGhlYWRlcnMuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICAgIGxldCByZXNwb25zZQogICAgICB0cnkgewogICAgICAgIHJlc3BvbnNlID0gYXdhaXQKICAgICAgICBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -556,14 +557,14 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
