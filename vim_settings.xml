@@ -83,6 +83,7 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react/cjs/react.development.js" timestamp="1514871775838" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
         <mark key="[" line="26" column="31" />
@@ -135,7 +136,11 @@
         <mark key="." line="75" column="32" />
         <mark key="^" line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514870507062" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514871829120">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="36" />
@@ -278,6 +283,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
+        <mark key="[" line="70" column="3" />
+        <mark key="]" line="73" column="32" />
+        <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="26" column="62" />
@@ -290,6 +301,11 @@
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -488,7 +504,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="/" type="4">
         <text>placement</text>
@@ -497,31 +513,31 @@
         <text encoding="base64">ICAgICAgJ2F2YXRhcic6ICdodHRwczovL2F2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE2NjU1MDk2P3M9NDYwJnY9NCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmlzVmlzaWJsZSA/IDxQb3BvdmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CmltcG9ydCBQb3B1bGFyUGFnZSBmcm9tICcuL1BvcHVsYXJQYWdlJzsKaW1wb3J0IE15UGFnZSBmcm9tICcuL215L015UGFnZSc7CmltcG9ydCBUb2FzdCwgeyBEVVJBVElPTiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0JzsKaW1wb3J0IFRyZW5kaW5nUGFnZSBmcm9tICcuL1RyZW5kaW5nUGFnZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8UG9wb3ZlcgogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5pc1Zpc2libGV9CiAgICAgICAgICBmcm9tUmVjdD17dGhpcy5zdGF0ZS5wb3BvdmVyQW5jaG9yfQogICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy5jbG9zZVBvcG92ZXIoKX0KICAgICAgICAgIGNvbnRlbnRTdHlsZT17c3R5bGVzLmNvbnRlbnR9CiAgICAgICAgICBwbGFjZW1lbnQ9ImF1dG8iCiAgICAgICAgICBhcnJvd1N0eWxlPXtzdHlsZXMuYXJyb3d9CiAgICAgICAgICBiYWNrZ3JvdW5kU3R5bGU9e3N0eWxlcy5iYWNrZ3JvdW5kfQogICAgICAgICAgLy8gY29udGVudFN0eWxlPXt7YmFja2dyb3VuZENvbG9yOicjMzQzNDM0Jywgb3BhY2l0eTowLjgyfX0KICAgICAgICA+CiAgICAgICAgICB7dGltZVNwYW5UZXh0QXJyYXkubWFwKChyZXN1bHQsIGksIGFycikgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICB1bmRlcmxheUNvbG9yPSJ0cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TZWxlY3RUaW1lU3BhbihhcnJbaV0pfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogJzQwMCcsIHBhZGRpbmc6IDggfX0+CiAgICAgICAgICAgICAgICAgIHthcnJbaV0uc2hvd1RleHR9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9Qb3BvdmVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IEZhdm9yaXRlUGFnZSBmcm9tICcuL0Zhdm9yaXRlUGFnZSc7CmltcG9ydCB7IEljb24gfSBmcm9tICdyZWFjdC1uYXRpdmUtZWxlbWVudHMnOwppbXBvcnQgeyBOYXZpZ2F0aW9uQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAiYXZhdGFyIjogcmVxdWlyZSgiLi4vYXZhdGFyL2F1dGhvci5qcGciKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmlzVmlzaWJsZSA/IDxQb3BvdmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGltYWdlcyA9IFsiaHR0cHM6Ly9hdmF0YXJzMC5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNDQwNzg0Mz92PTQiXTsKCg==</text>
+        <text encoding="base64">ICAgICAgICA8UG9wb3ZlcgogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5pc1Zpc2libGV9CiAgICAgICAgICBmcm9tUmVjdD17dGhpcy5zdGF0ZS5wb3BvdmVyQW5jaG9yfQogICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy5jbG9zZVBvcG92ZXIoKX0KICAgICAgICAgIGNvbnRlbnRTdHlsZT17c3R5bGVzLmNvbnRlbnR9CiAgICAgICAgICBwbGFjZW1lbnQ9ImF1dG8iCiAgICAgICAgICBhcnJvd1N0eWxlPXtzdHlsZXMuYXJyb3d9CiAgICAgICAgICBiYWNrZ3JvdW5kU3R5bGU9e3N0eWxlcy5iYWNrZ3JvdW5kfQogICAgICAgICAgLy8gY29udGVudFN0eWxlPXt7YmFja2dyb3VuZENvbG9yOicjMzQzNDM0Jywgb3BhY2l0eTowLjgyfX0KICAgICAgICA+CiAgICAgICAgICB7dGltZVNwYW5UZXh0QXJyYXkubWFwKChyZXN1bHQsIGksIGFycikgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICB1bmRlcmxheUNvbG9yPSJ0cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TZWxlY3RUaW1lU3BhbihhcnJbaV0pfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogJzQwMCcsIHBhZGRpbmc6IDggfX0+CiAgICAgICAgICAgICAgICAgIHthcnJbaV0uc2hvd1RleHR9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9Qb3BvdmVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBqc29uID0gcmVzcC5qc29uKCk7IC8vIHRoZXJlJ3MgYWx3YXlzIGEgYm9keQogICAgICAgICAgICAgICAgaWYgKHJlc3Auc3RhdHVzID49IDIwMCAmJiByZXNwLnN0YXR1cyA8IDMwMCkgewogICAgICAgICAgICAgICAgICByZXR1cm4ganNvbjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBqc29uLnRoZW4oUHJvbWlzZS5yZWplY3QuYmluZChQcm9taXNlKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAiYXZhdGFyIjogcmVxdWlyZSgiLi4vYXZhdGFyL2F1dGhvci5qcGciKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdDYW5ub3QgYXV0aGVudGljYXRpb24nKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">bGV0IGltYWdlcyA9IFsiaHR0cHM6Ly9hdmF0YXJzMC5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNDQwNzg0Mz92PTQiXTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBqc29uID0gcmVzcC5qc29uKCk7IC8vIHRoZXJlJ3MgYWx3YXlzIGEgYm9keQogICAgICAgICAgICAgICAgaWYgKHJlc3Auc3RhdHVzID49IDIwMCAmJiByZXNwLnN0YXR1cyA8IDMwMCkgewogICAgICAgICAgICAgICAgICByZXR1cm4ganNvbjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBqc29uLnRoZW4oUHJvbWlzZS5yZWplY3QuYmluZChQcm9taXNlKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdDYW5ub3QgYXV0aGVudGljYXRpb24nKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlcnMuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICAgIGxldCByZXNwb25zZQogICAgICB0cnkgewogICAgICAgIHJlc3BvbnNlID0gYXdhaXQKICAgICAgICBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
@@ -562,11 +578,11 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
