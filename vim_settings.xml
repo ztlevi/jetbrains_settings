@@ -41,6 +41,9 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
+        <mark key="'" line="412" column="16" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="2" column="29" />
@@ -132,13 +135,7 @@
         <mark key="." line="75" column="32" />
         <mark key="^" line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514756189800">
-        <mark key="'" line="29" column="30" />
-        <mark key="[" line="74" column="40" />
-        <mark key="]" line="75" column="9" />
-        <mark key="^" line="75" column="9" />
-        <mark key="." line="75" column="9" />
-      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514870507062" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="36" />
@@ -385,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="35" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" />
       <jump line="128" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="26" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
@@ -485,6 +481,7 @@
       <jump line="8" column="4" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
       <jump line="48" column="24" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
       <jump line="60" column="21" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
+      <jump line="412" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -527,7 +524,7 @@
         <text encoding="base64">ICAgICAgICAgIGhlYWRlcnMuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgYXV0aF9oZWFkZXIpCiAgICAgIGxldCByZXNwb25zZQogICAgICB0cnkgewogICAgICAgIHJlc3BvbnNlID0gYXdhaXQKICAgICAgICBmZXRjaCgnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8nLCB7CiAgICAgICAgICBoZWFkZXJzOiBoZWFkZXJzLAogICAgICAgIH0pCiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHRocm93IG5ldyBFcnJvcignQ2Fubm90IGF1dGhlbnRpY2F0aW9uJykKICAgICAgfQogICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -565,12 +562,12 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
