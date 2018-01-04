@@ -48,6 +48,13 @@
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1515087350996">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
         <mark key="[" line="91" column="0" />
@@ -427,10 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="20" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="46" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="27" column="62" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="18" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="96" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="35" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
@@ -527,13 +530,17 @@
       <jump line="182" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="73" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="18" column="45" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
+      <jump line="56" column="19" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
+      <jump line="59" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>range(10)</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -542,21 +549,30 @@
         <text encoding="base64">aW1wb3J0IFRvYXN0LCB7RFVSQVRJT059IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJBdXRvLWZpbHRlci1Bbmd1bGFyMiIK</text>
+        <text encoding="base64">ICAgICAgICBuYXJyYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2hvd1FROiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBzY2lweS5zawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhdmF0YXIxIjogImh0dHA6Ly93d3cuZGV2aW8ub3JnL2lvL0dpdEh1YlBvcHVsYXIvaW1nL2ljX2FwcC5wbmciLAogICAgImJhY2tncm91bmRJbWcxIjogImh0dHA6Ly93d3cucnVpMi5uZXQvdXBsb2FkZmlsZS9vdXRwdXQvMjAxNS8wMzIyLzQ0Yjg0NWJmOGFlNzU3YTIuanBnIiwK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucyA9IHJlcXVpcmUoIi4uLy4uLy4uL3Jlcy9hdmF0YXIvYXV0aG9yLmpwZyIpCg==</text>
+        <text encoding="base64">ICAgICJBdXRvLWZpbHRlci1Bbmd1bGFyMiIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2hvd1FROiBmYWxzZSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJhdmF0YXIxIjogImh0dHA6Ly93d3cuZGV2aW8ub3JnL2lvL0dpdEh1YlBvcHVsYXIvaW1nL2ljX2FwcC5wbmciLAogICAgImJhY2tncm91bmRJbWcxIjogImh0dHA6Ly93d3cucnVpMi5uZXQvdXBsb2FkZmlsZS9vdXRwdXQvMjAxNS8wMzIyLzQ0Yjg0NWJmOGFlNzU3YTIuanBnIiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMucyA9IHJlcXVpcmUoIi4uLy4uLy4uL3Jlcy9hdmF0YXIvYXV0aG9yLmpwZyIpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFib3V0Q29tbW9uLnJlbmRlcihjb250ZW50LCB0aGlzLnN0YXRlLmF1dGhvcikK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{
       'name': 'Github Popular',
       'description': 'This is a Github Mobile App built with React Native. This app aims to help developers keep tracking on Github\'s popular repositories.',
@@ -564,17 +580,8 @@
       'backgroundImg': require('../../../res/avatar/background.jpg')
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBGTEFHLlFROgogICAgICAgIHRoaXMudXBkYXRlU3RhdGUoe3Nob3dRUSA6IXRoaXMuc3RhdGUuc2hvd1FRfSkKICAgICAgICBicmVhawo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAiUVEiOiB7CiAgICAibmFtZSI6ICJFeGNoYW5nZSBncm91cCIsCiAgICAiaXRlbXMiOiB7CiAgICAgICJNRCI6IHsKICAgICAgICAidGl0bGUiOiAi56e75Yqo5byA5Y+R6ICF5oqA5pyv5YiG5Lqr576kIiwKICAgICAgICAiYWNjb3VudCI6ICIzMzU5MzkxOTciCiAgICAgIH0sCiAgICAgICJSTiI6IHsKICAgICAgICAidGl0bGUiOiAiUmVhY3QgTmF0aXZl5a2m5Lmg5Lqk5rWB576kIiwKICAgICAgICAiYWNjb3VudCI6ICIxNjU3NzQ4ODciCiAgICAgIH0KICAgIH0KICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIHtWaWV3VXRpbHMuZ2V0U2V0dGluZ0l0ZW0oKCkgPT4gdGhpcy5vbkNsaWNrKEZMQUcuUVEpLCByZXF1aXJlKCcuLi8uLi8uLi9yZXMvaW1hZ2VzL2ljX2NvbXB1dGVyLnBuZycpLCBGTEFHLlFRLm5hbWUsIHt0aW50Q29sb3I6ICcjMjE5NkYzJ30sIHRoaXMuZ2V0Q2xpY2tJY29uKHRoaXMuc3RhdGUuc2hvd1FRKSl9CiAgICAgIDxWaWV3IHN0eWxlPXtHbG9iYWxTdHlsZXMubGluZX0vPgogICAgICB7dGhpcy5zdGF0ZS5zaG93UVEgPyB0aGlzLnJlbmRlckl0ZW1zKEZMQUcuUVEuaXRlbXMsIHRydWUpOiBudWxsfQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -597,7 +604,6 @@
         <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleBookmark</entry>
         <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SelectInProjectView</entry>
@@ -617,6 +623,7 @@
         <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
