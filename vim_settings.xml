@@ -299,7 +299,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513919011097">
+      <file name="/Dummy.txt" timestamp="1515091937686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -333,11 +333,11 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1512686124025">
-        <mark key="[" line="152" column="36" />
-        <mark key="]" line="152" column="35" />
-        <mark key="^" line="152" column="35" />
-        <mark key="." line="152" column="35" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515091900830">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="63" column="9" />
+        <mark key="^" line="63" column="9" />
+        <mark key="." line="63" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -419,12 +419,13 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515091835751" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515091966144">
         <mark key="'" line="351" column="4" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+        <mark key="[" line="390" column="22" />
+        <mark key="]" line="390" column="22" />
+        <mark key="." line="390" column="22" />
+        <mark key="^" line="390" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -540,7 +541,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>range(10)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -581,7 +582,7 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -614,16 +615,16 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action RunClass</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
