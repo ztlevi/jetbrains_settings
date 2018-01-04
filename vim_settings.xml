@@ -50,10 +50,10 @@
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1515087350996">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="40" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -173,7 +173,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1513023973424">
+      <file name="/Python Console" timestamp="1515094404982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -333,11 +333,16 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515091900830">
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="9" />
-        <mark key="^" line="63" column="9" />
-        <mark key="." line="63" column="9" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515095518929">
+        <mark key="'" line="154" column="4" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="58" column="59" />
+        <mark key="^" line="58" column="59" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/utilities.py" timestamp="1515094170239">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -412,6 +417,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/calculate_statistics_features.py" timestamp="1515093812077">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="39" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -419,7 +428,10 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515091835751" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515093267034">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="19" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515091966144">
         <mark key="'" line="351" column="4" />
         <mark key="[" line="390" column="22" />
@@ -435,8 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="35" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
       <jump line="72" column="11" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
       <jump line="66" column="18" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
@@ -535,60 +545,57 @@
       <jump line="23" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="59" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
+      <jump line="154" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>GET</text>
+        <text encoding="base64">XDxzdGF0aXN0aWNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0LCB7RFVSQVRJT059IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBleGNlcHQgY2FzZXMgbGlrZSByYW1wLCB0aGlzIGRvZXMgbm90IGhhdmUgJ18nCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGN1cl9zY2VuYXJpb19pbmZyYXMsIGN1cl9zY2VuYXJpb190cmFmZmljID0gY3VyX3NjZW5hcmlvLnNwbGl0KCdfJykKICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgY3VyX3NjZW5hcmlvX2luZnJhcyA9IGN1cl9zY2VuYXJpbwogICAgICAgICAgICAgICAgY3VyX3NjZW5hcmlvX3RyYWZmaWMgPSAnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3VyX3NjZW5hcmlvKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzY2lweS5zawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYXJyYXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJBdXRvLWZpbHRlci1Bbmd1bGFyMiIK</text>
+        <text encoding="base64">ICAgICAgICBzY2lweS5zawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvd1FROiBmYWxzZSwK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdmF0YXIxIjogImh0dHA6Ly93d3cuZGV2aW8ub3JnL2lvL0dpdEh1YlBvcHVsYXIvaW1nL2ljX2FwcC5wbmciLAogICAgImJhY2tncm91bmRJbWcxIjogImh0dHA6Ly93d3cucnVpMi5uZXQvdXBsb2FkZmlsZS9vdXRwdXQvMjAxNS8wMzIyLzQ0Yjg0NWJmOGFlNzU3YTIuanBnIiwK</text>
+        <text encoding="base64">ICAgICJBdXRvLWZpbHRlci1Bbmd1bGFyMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucyA9IHJlcXVpcmUoIi4uLy4uLy4uL3Jlcy9hdmF0YXIvYXV0aG9yLmpwZyIpCg==</text>
+        <text encoding="base64">ICAgICAgc2hvd1FROiBmYWxzZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFib3V0Q29tbW9uLnJlbmRlcihjb250ZW50LCB0aGlzLnN0YXRlLmF1dGhvcikK</text>
+        <text encoding="base64">ICAgICJhdmF0YXIxIjogImh0dHA6Ly93d3cuZGV2aW8ub3JnL2lvL0dpdEh1YlBvcHVsYXIvaW1nL2ljX2FwcC5wbmciLAogICAgImJhY2tncm91bmRJbWcxIjogImh0dHA6Ly93d3cucnVpMi5uZXQvdXBsb2FkZmlsZS9vdXRwdXQvMjAxNS8wMzIyLzQ0Yjg0NWJmOGFlNzU3YTIuanBnIiwK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      'name': 'Github Popular',
-      'description': 'This is a Github Mobile App built with React Native. This app aims to help developers keep tracking on Github\'s popular repositories.',
-      'avatar': require('../../../res/avatar/author.jpg'),
-      'backgroundImg': require('../../../res/avatar/background.jpg')
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMucyA9IHJlcXVpcmUoIi4uLy4uLy4uL3Jlcy9hdmF0YXIvYXV0aG9yLmpwZyIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
-      <last-search>GET</last-search>
+      <last-search encoding="base64">XDxzdGF0aXN0aWNzXD4=</last-search>
       <last-offset />
-      <last-pattern>GET</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0aXN0aWNzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -603,9 +610,9 @@
         <entry>onFavrite</entry>
         <entry>onFav</entry>
         <entry>GET</entry>
+        <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
@@ -614,17 +621,18 @@
         <entry>action HideAllWindows</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Forward</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action RunClass</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
+        <entry>action DebugClass</entry>
+        <entry>action RunClass</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
