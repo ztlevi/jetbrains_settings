@@ -22,12 +22,12 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513567762475">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="19" />
-        <mark key="." line="115" column="17" />
-        <mark key="^" line="115" column="17" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513910473244">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="76" />
+        <mark key="." line="23" column="75" />
+        <mark key="^" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -41,19 +41,8 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1513727870625">
-        <mark key="'" line="85" column="19" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="249" column="4" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="182" column="69" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
-        <mark key="'" line="75" column="50" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="55" />
-        <mark key="^" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
+        <mark key="'" line="412" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
@@ -81,7 +70,7 @@
         <mark key="^" line="99" column="50" />
         <mark key="." line="101" column="74" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513462594931">
+      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513908674058">
         <mark key="'" line="96" column="37" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -94,6 +83,7 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react/cjs/react.development.js" timestamp="1514871775838" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
         <mark key="[" line="26" column="31" />
@@ -101,7 +91,7 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1513462973259">
+      <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1514346449502">
         <mark key="[" line="9" column="76" />
         <mark key="]" line="9" column="76" />
         <mark key="^" line="15" column="0" />
@@ -126,12 +116,18 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513715902120">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="115" column="2" />
-        <mark key="^" line="6" column="89" />
-        <mark key="." line="6" column="89" />
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1514348009355">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="53" />
+        <mark key="." line="81" column="53" />
+        <mark key="^" line="81" column="53" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -140,18 +136,22 @@
         <mark key="." line="75" column="32" />
         <mark key="^" line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1513568705189">
-        <mark key="'" line="29" column="30" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="62" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="56" column="29" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514871829120">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513568411162">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513916508696">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1513403395493">
         <mark key="'" line="51" column="0" />
@@ -159,6 +159,11 @@
         <mark key="]" line="85" column="3" />
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/android/app/src/main/AndroidManifest.xml" timestamp="1514344683890">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Python Console" timestamp="1513023973424">
         <mark key="[" line="0" column="0" />
@@ -173,25 +178,18 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" timestamp="1513728492787">
-        <mark key="'" line="74" column="16" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="34" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1513495554793">
-        <mark key="'" line="182" column="20" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="72" column="47" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
+        <mark key="'" line="284" column="10" />
+        <mark key="[" line="76" column="54" />
+        <mark key="]" line="76" column="80" />
+        <mark key="." line="76" column="80" />
+        <mark key="^" line="76" column="80" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
@@ -207,12 +205,12 @@
         <mark key="^" line="140" column="57" />
         <mark key="." line="140" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513567773114">
-        <mark key="'" line="31" column="40" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="19" />
-        <mark key="^" line="111" column="19" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513919129519">
+        <mark key="'" line="88" column="14" />
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="50" />
+        <mark key="^" line="79" column="50" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -220,31 +218,38 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1514617474452">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513490920615">
+      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="62" column="24" />
         <mark key="]" line="62" column="26" />
         <mark key="." line="62" column="26" />
         <mark key="^" line="62" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1513568698157">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1514617790681">
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513723104303">
+      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513918898826">
         <mark key="'" line="4" column="34" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
@@ -260,12 +265,11 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513569743083">
-        <mark key="'" line="51" column="18" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="42" />
-        <mark key="." line="36" column="42" />
-        <mark key="^" line="36" column="42" />
+      <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -273,32 +277,17 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513728349986">
+      <file name="/Dummy.txt" timestamp="1514405809055">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1513728449894">
-        <mark key="'" line="268" column="15" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="120" column="2" />
-        <mark key="^" line="140" column="8" />
-        <mark key="." line="163" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
-        <mark key="'" line="87" column="18" />
-        <mark key="[" line="64" column="58" />
-        <mark key="]" line="64" column="71" />
-        <mark key="^" line="64" column="71" />
-        <mark key="." line="64" column="71" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513481476284">
-        <mark key="'" line="123" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="59" />
-        <mark key="^" line="129" column="43" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
+        <mark key="[" line="70" column="3" />
+        <mark key="]" line="73" column="32" />
+        <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
         <mark key="'" line="96" column="0" />
@@ -312,6 +301,11 @@
         <mark key="]" line="152" column="35" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -332,6 +326,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
+        <mark key="'" line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -339,10 +336,10 @@
         <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/.babelrc" timestamp="1513487835207">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -350,13 +347,16 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/js/test/ListViewTest.js" timestamp="1513915734292">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="55" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Github-App-master/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1513803999130" />
       <file name="$USER_HOME$/Developer/react_github/js/test/FetchTest.js" timestamp="1513488509424">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -371,10 +371,10 @@
         <mark key="^" line="50" column="8" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513489221317">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="70" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -398,60 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="40" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
-      <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
-      <jump line="328" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="223" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="59" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="265" column="21" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="283" column="45" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
-      <jump line="98" column="4" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="29" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="69" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="17" column="20" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="46" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="27" column="62" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="18" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="96" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="35" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="72" column="11" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
-      <jump line="66" column="18" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
-      <jump line="73" column="44" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
-      <jump line="138" column="25" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="297" column="22" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="10" column="45" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="267" column="10" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="302" column="20" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="190" column="20" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="49" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="103" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="108" column="13" filename="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" />
-      <jump line="115" column="30" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="47" column="25" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="89" column="5" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
-      <jump line="116" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="72" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="211" column="54" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="222" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="242" column="44" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="234" column="54" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="78" column="47" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="83" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="89" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="86" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="300" column="17" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="51" column="1" filename="$USER_HOME$/Developer/react_github/js/common/Fade.js" />
-      <jump line="85" column="28" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="91" column="18" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
-      <jump line="193" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="79" column="49" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
-      <jump line="100" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
-      <jump line="97" column="16" filename="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" />
-      <jump line="85" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="35" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" />
       <jump line="128" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="26" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
@@ -498,55 +444,109 @@
       <jump line="30" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="62" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="59" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="80" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="274" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="84" column="14" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
+      <jump line="64" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="109" column="34" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
+      <jump line="105" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
+      <jump line="182" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="73" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="18" column="45" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
+      <jump line="119" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="9" column="23" filename="$USER_HOME$/Developer/react_github/package.json" />
+      <jump line="163" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="175" column="24" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="42" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="171" column="11" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="150" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="282" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="287" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="73" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="30" column="33" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="330" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="343" column="22" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="60" column="23" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="334" column="29" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="137" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="169" column="19" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="87" column="48" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="251" column="36" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="196" column="12" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="57" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="327" column="0" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="135" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" />
+      <jump line="31" column="52" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="342" column="48" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="324" column="41" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="24" column="23" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="38" column="9" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
+      <jump line="325" column="32" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="59" column="15" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="58" column="60" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="272" column="10" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
+      <jump line="12" column="24" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
+      <jump line="8" column="4" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
+      <jump line="48" column="24" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
+      <jump line="60" column="21" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
+      <jump line="412" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>RepositoryCell</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="/" type="4">
-        <text>GET</text>
+        <text>placement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
+        <text encoding="base64">ICAgICAgJ2F2YXRhcic6ICdodHRwczovL2F2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE2NjU1MDk2P3M9NDYwJnY9NCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUHJvamVjdE1vZGVsKHRoaXMucmVwb3NpdG9yaWVzW2ldLAogICAgICAgICkpCg==</text>
+        <text encoding="base64">aW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CmltcG9ydCBQb3B1bGFyUGFnZSBmcm9tICcuL1BvcHVsYXJQYWdlJzsKaW1wb3J0IE15UGFnZSBmcm9tICcuL215L015UGFnZSc7CmltcG9ydCBUb2FzdCwgeyBEVVJBVElPTiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0JzsKaW1wb3J0IFRyZW5kaW5nUGFnZSBmcm9tICcuL1RyZW5kaW5nUGFnZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVXRpbHMK</text>
+        <text encoding="base64">aW1wb3J0IEZhdm9yaXRlUGFnZSBmcm9tICcuL0Zhdm9yaXRlUGFnZSc7CmltcG9ydCB7IEljb24gfSBmcm9tICdyZWFjdC1uYXRpdmUtZWxlbWVudHMnOwppbXBvcnQgeyBOYXZpZ2F0aW9uQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb2plY3RNb2RlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmlzVmlzaWJsZSA/IDxQb3BvdmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb2plY3RNb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICA8UG9wb3ZlcgogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5pc1Zpc2libGV9CiAgICAgICAgICBmcm9tUmVjdD17dGhpcy5zdGF0ZS5wb3BvdmVyQW5jaG9yfQogICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy5jbG9zZVBvcG92ZXIoKX0KICAgICAgICAgIGNvbnRlbnRTdHlsZT17c3R5bGVzLmNvbnRlbnR9CiAgICAgICAgICBwbGFjZW1lbnQ9ImF1dG8iCiAgICAgICAgICBhcnJvd1N0eWxlPXtzdHlsZXMuYXJyb3d9CiAgICAgICAgICBiYWNrZ3JvdW5kU3R5bGU9e3N0eWxlcy5iYWNrZ3JvdW5kfQogICAgICAgICAgLy8gY29udGVudFN0eWxlPXt7YmFja2dyb3VuZENvbG9yOicjMzQzNDM0Jywgb3BhY2l0eTowLjgyfX0KICAgICAgICA+CiAgICAgICAgICB7dGltZVNwYW5UZXh0QXJyYXkubWFwKChyZXN1bHQsIGksIGFycikgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICB1bmRlcmxheUNvbG9yPSJ0cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TZWxlY3RUaW1lU3BhbihhcnJbaV0pfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogJzQwMCcsIHBhZGRpbmc6IDggfX0+CiAgICAgICAgICAgICAgICAgIHthcnJbaV0uc2hvd1RleHR9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9Qb3BvdmVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBpdGVtcyA9IHRoaXMucmVwb3NpdG9yaWVzCg==</text>
+        <text encoding="base64">CiAgICAiYXZhdGFyIjogcmVxdWlyZSgiLi4vYXZhdGFyL2F1dGhvci5qcGciKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBwcm9qZWN0TW9kZWxzID1bXQo=</text>
+        <text encoding="base64">bGV0IGltYWdlcyA9IFsiaHR0cHM6Ly9hdmF0YXJzMC5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNDQwNzg0Mz92PTQiXTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBqc29uID0gcmVzcC5qc29uKCk7IC8vIHRoZXJlJ3MgYWx3YXlzIGEgYm9keQogICAgICAgICAgICAgICAgaWYgKHJlc3Auc3RhdHVzID49IDIwMCAmJiByZXNwLnN0YXR1cyA8IDMwMCkgewogICAgICAgICAgICAgICAgICByZXR1cm4ganNvbjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBqc29uLnRoZW4oUHJvbWlzZS5yZWplY3QuYmluZChQcm9taXNlKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdDYW5ub3QgYXV0aGVudGljYXRpb24nKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGp1c3QgZm9yIHRlc3QKICAgIC8vIGFsd2F5cyB1c2UgbmV0d29yawogICAgLy8gcmV0dXJuIGZhbHNlCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>GET</last-search>
+      <last-search>placement</last-search>
       <last-offset />
-      <last-pattern>GET</last-pattern>
+      <last-pattern>placement</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -561,28 +561,29 @@
         <entry>onFavrite</entry>
         <entry>onFav</entry>
         <entry>GET</entry>
+        <entry>placement</entry>
       </history-search>
       <history-cmd>
-        <entry>action QuickJavaDoc</entry>
-        <entry>action Debug</entry>
-        <entry>action Run</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action ActivateStructureToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action ShowBookmarks</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action ExpandRegion</entry>
-        <entry>action Forward</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action ReformatCode</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
-        <entry>action RecentFiles</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action Forward</entry>
+        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
