@@ -83,7 +83,6 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react/cjs/react.development.js" timestamp="1514871775838" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
         <mark key="[" line="26" column="31" />
@@ -540,7 +539,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgcmVzcG9uc2UgPSBhd2FpdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -580,10 +579,10 @@
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
