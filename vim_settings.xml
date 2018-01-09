@@ -451,12 +451,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/calculate_statistics_features.py" timestamp="1515526022736">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="1" column="43" />
-        <mark key="." line="23" column="13" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/calculate_statistics_features.py" timestamp="1515527218450">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -599,7 +599,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>scipy.stats.</text>
+        <text>np.mean(arr)</text>
       </register>
       <register name="/" type="4">
         <text>placement</text>
@@ -608,31 +608,31 @@
         <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCgo=</text>
+        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FsX2xpc3QgPSBbJ21lYW4nLCAnbW9kZScsICdtZWRpYW4nLCAnc3RkJywgJ21heCcsICdtaW4nLCAnUTEnLCAnUTMnLCAnU2tldycsICdLdXJ0b3NpcyddCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgc2tldwo=</text>
+        <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">Y2FsX2xpc3QgPSBbJ21lYW4nLCAnbW9kZScsICdtZWRpYW4nLCAnc3RkJywgJ21heCcsICdtaW4nLCAnUTEnLCAnUTMnLCAnU2tldycsICdLdXJ0b3NpcyddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CmltcG9ydCBQb3B1bGFyUGFnZSBmcm9tICcuL1BvcHVsYXJQYWdlJzsKaW1wb3J0IE15UGFnZSBmcm9tICcuL215L015UGFnZSc7CmltcG9ydCBUb2FzdCwgeyBEVVJBVElPTiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0JzsKaW1wb3J0IFRyZW5kaW5nUGFnZSBmcm9tICcuL1RyZW5kaW5nUGFnZSc7Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
