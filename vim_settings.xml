@@ -55,10 +55,9 @@
         <mark key="^" line="271" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1515524892789">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -365,10 +364,6 @@
         <mark key="^" line="127" column="15" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/utilities.py" timestamp="1515094170239">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="13" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -415,10 +410,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/test/ListViewTest.js" timestamp="1513915734292">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="55" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -451,13 +442,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/calculate_statistics_features.py" timestamp="1515527218450">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
-      </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/calculate_statistics_features.py" timestamp="1515531622846" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -466,18 +451,7 @@
         <mark key="^" line="196" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515524818519">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="45" column="38" />
-        <mark key="." line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1513023832707">
-        <mark key="'" line="351" column="4" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+        <mark key="[" line="14" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
