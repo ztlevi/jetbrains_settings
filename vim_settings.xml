@@ -324,7 +324,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515523403126">
+      <file name="/Dummy.txt" timestamp="1515524328146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -358,12 +358,12 @@
         <mark key="^" line="47" column="94" />
         <mark key="." line="26" column="62" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515523697646">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515524295891">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="133" column="15" />
+        <mark key="]" line="133" column="15" />
+        <mark key="^" line="133" column="15" />
+        <mark key="." line="133" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/utilities.py" timestamp="1515094170239">
         <mark key="[" line="8" column="0" />
@@ -598,13 +598,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>placement</text>
       </register>
-      <register name="0" type="4">
-        <text>mean, v_mode, v_median, v_std, v_max, v_min, v_Q1, v_Q3, v_skew, v_kurtosis, v_zero_crossing_rate)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
@@ -634,7 +634,7 @@
         <text encoding="base64">ICAgICAgICA8UG9wb3ZlcgogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5pc1Zpc2libGV9CiAgICAgICAgICBmcm9tUmVjdD17dGhpcy5zdGF0ZS5wb3BvdmVyQW5jaG9yfQogICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy5jbG9zZVBvcG92ZXIoKX0KICAgICAgICAgIGNvbnRlbnRTdHlsZT17c3R5bGVzLmNvbnRlbnR9CiAgICAgICAgICBwbGFjZW1lbnQ9ImF1dG8iCiAgICAgICAgICBhcnJvd1N0eWxlPXtzdHlsZXMuYXJyb3d9CiAgICAgICAgICBiYWNrZ3JvdW5kU3R5bGU9e3N0eWxlcy5iYWNrZ3JvdW5kfQogICAgICAgICAgLy8gY29udGVudFN0eWxlPXt7YmFja2dyb3VuZENvbG9yOicjMzQzNDM0Jywgb3BhY2l0eTowLjgyfX0KICAgICAgICA+CiAgICAgICAgICB7dGltZVNwYW5UZXh0QXJyYXkubWFwKChyZXN1bHQsIGksIGFycikgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICB1bmRlcmxheUNvbG9yPSJ0cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TZWxlY3RUaW1lU3BhbihhcnJbaV0pfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogJzQwMCcsIHBhZGRpbmc6IDggfX0+CiAgICAgICAgICAgICAgICAgIHthcnJbaV0uc2hvd1RleHR9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9Qb3BvdmVyPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -656,7 +656,6 @@
         <entry>action ExpandRegion</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>actionlist</entry>
@@ -673,6 +672,7 @@
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
