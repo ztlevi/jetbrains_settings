@@ -341,12 +341,12 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515617331867">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="180" column="26" />
-        <mark key="]" line="180" column="26" />
-        <mark key="." line="180" column="26" />
-        <mark key="^" line="180" column="26" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515619040340">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
@@ -432,10 +432,11 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515617281015">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515619016400">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515616012887">
         <mark key="'" line="356" column="37" />
@@ -458,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="39" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="183" column="13" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="65" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="48" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
@@ -558,49 +558,50 @@
       <jump line="236" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="294" column="43" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="356" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">KCdmcmVld2F5JywgJ3NsdWdnaXNoVHJhZmZpYycpLCA=</text>
       </register>
       <register name="/" type="4">
         <text>has some error</text>
       </register>
       <register name="0" type="4">
-        <text>skew, v_kurtosis</text>
+        <text>('local', 'freeFlow'),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBtYXJrZXIgPSBkaWN0KAogICAgICAgICAgICAjICAgICBjb2xvciA9ICdyZ2IoMCwgMTI4LCAxMjgpJywKICAgICAgICAgICAgIyApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FsX2xpc3QgPSBbJ21lYW4nLCAnbW9kZScsICdtZWRpYW4nLCAnc3RkJywgJ21heCcsICdtaW4nLCAnUTEnLCAnUTMnLCAnU2tldycsICdLdXJ0b3NpcyddCg==</text>
+        <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Y2FsX2xpc3QgPSBbJ21lYW4nLCAnbW9kZScsICdtZWRpYW4nLCAnc3RkJywgJ21heCcsICdtaW4nLCAnUTEnLCAnUTMnLCAnU2tldycsICdLdXJ0b3NpcyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgc2tldwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgc2tldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CmltcG9ydCBQb3B1bGFyUGFnZSBmcm9tICcuL1BvcHVsYXJQYWdlJzsKaW1wb3J0IE15UGFnZSBmcm9tICcuL215L015UGFnZSc7CmltcG9ydCBUb2FzdCwgeyBEVVJBVElPTiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0JzsKaW1wb3J0IFRyZW5kaW5nUGFnZSBmcm9tICcuL1RyZW5kaW5nUGFnZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEZhdm9yaXRlUGFnZSBmcm9tICcuL0Zhdm9yaXRlUGFnZSc7CmltcG9ydCB7IEljb24gfSBmcm9tICdyZWFjdC1uYXRpdmUtZWxlbWVudHMnOwppbXBvcnQgeyBOYXZpZ2F0aW9uQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdmlnYXRpb24nOwo=</text>
+        <text encoding="base64">aW1wb3J0IFRhYk5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXRpdmUtdGFiLW5hdmlnYXRvcic7CmltcG9ydCBQb3B1bGFyUGFnZSBmcm9tICcuL1BvcHVsYXJQYWdlJzsKaW1wb3J0IE15UGFnZSBmcm9tICcuL215L015UGFnZSc7CmltcG9ydCBUb2FzdCwgeyBEVVJBVElPTiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0JzsKaW1wb3J0IFRyZW5kaW5nUGFnZSBmcm9tICcuL1RyZW5kaW5nUGFnZSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmlzVmlzaWJsZSA/IDxQb3BvdmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IEZhdm9yaXRlUGFnZSBmcm9tICcuL0Zhdm9yaXRlUGFnZSc7CmltcG9ydCB7IEljb24gfSBmcm9tICdyZWFjdC1uYXRpdmUtZWxlbWVudHMnOwppbXBvcnQgeyBOYXZpZ2F0aW9uQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8UG9wb3ZlcgogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5pc1Zpc2libGV9CiAgICAgICAgICBmcm9tUmVjdD17dGhpcy5zdGF0ZS5wb3BvdmVyQW5jaG9yfQogICAgICAgICAgb25DbG9zZT17KCkgPT4gdGhpcy5jbG9zZVBvcG92ZXIoKX0KICAgICAgICAgIGNvbnRlbnRTdHlsZT17c3R5bGVzLmNvbnRlbnR9CiAgICAgICAgICBwbGFjZW1lbnQ9ImF1dG8iCiAgICAgICAgICBhcnJvd1N0eWxlPXtzdHlsZXMuYXJyb3d9CiAgICAgICAgICBiYWNrZ3JvdW5kU3R5bGU9e3N0eWxlcy5iYWNrZ3JvdW5kfQogICAgICAgICAgLy8gY29udGVudFN0eWxlPXt7YmFja2dyb3VuZENvbG9yOicjMzQzNDM0Jywgb3BhY2l0eTowLjgyfX0KICAgICAgICA+CiAgICAgICAgICB7dGltZVNwYW5UZXh0QXJyYXkubWFwKChyZXN1bHQsIGksIGFycikgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICB1bmRlcmxheUNvbG9yPSJ0cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMub25TZWxlY3RUaW1lU3BhbihhcnJbaV0pfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogJzQwMCcsIHBhZGRpbmc6IDggfX0+CiAgICAgICAgICAgICAgICAgIHthcnJbaV0uc2hvd1RleHR9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9Qb3BvdmVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmlzVmlzaWJsZSA/IDxQb3BvdmVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -638,14 +639,14 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Run</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
