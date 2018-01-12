@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515718412258">
+      <file name="/Python Console" timestamp="1515719597338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -465,8 +465,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515718347922">
-        <mark key="'" line="428" column="37" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515719460757">
+        <mark key="'" line="285" column="8" />
+        <mark key="[" line="454" column="52" />
+        <mark key="]" line="448" column="2" />
+        <mark key="." line="448" column="2" />
+        <mark key="^" line="448" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -482,16 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="48" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="188" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="60" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="43" column="48" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="90" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="89" column="42" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="24" column="15" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="139" column="2" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="96" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="23" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="87" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
@@ -582,6 +576,16 @@
       <jump line="428" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="41" column="34" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
       <jump line="43" column="56" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
+      <jump line="123" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="136" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="137" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="161" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="164" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="224" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="227" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="282" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="285" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -591,46 +595,46 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>placement</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh3aWR0aD0xMDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZfbW9kZSA9IG1vZGUoYXJyKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtYXRjaGVkX3JvdXRlX2hlYWRlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpc3RpY3MK</text>
+        <text encoding="base64">ICAgIHZfbW9kZSA9IG1vZGUoYXJyKVswXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpc3RpY3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
+        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0cmkuc3RhdGlzdGljcy5jYWwK</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action DebugClass</text>
       </register>
     </registers>
     <search>
-      <last-search>placement</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>placement</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -641,6 +645,7 @@
         <entry>ComponentWill</entry>
         <entry>onPress</entry>
         <entry>nextProps</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>action ExpandRegion</entry>
@@ -652,7 +657,6 @@
         <entry>action Forward</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
@@ -661,6 +665,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action Debug</entry>
+        <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
       </history-cmd>
