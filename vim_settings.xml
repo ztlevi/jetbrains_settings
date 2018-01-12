@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515719597338">
+      <file name="/Python Console" timestamp="1515722079182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -223,7 +223,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1515533632541">
+      <file name="/fragment.py" timestamp="1515721891422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
@@ -465,12 +465,11 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515719460757">
-        <mark key="'" line="285" column="8" />
-        <mark key="[" line="454" column="52" />
-        <mark key="]" line="448" column="2" />
-        <mark key="." line="448" column="2" />
-        <mark key="^" line="448" column="2" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515722072591">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -486,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="6" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="23" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="87" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="56" column="58" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
@@ -586,6 +584,7 @@
       <jump line="227" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="282" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="285" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="253" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -601,31 +600,31 @@
         <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh3aWR0aD0xMDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtYXRjaGVkX3JvdXRlX2hlYWRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmVfbnVtKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZfbW9kZSA9IG1vZGUoYXJyKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtYXRjaGVkX3JvdXRlX2hlYWRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpc3RpY3MK</text>
+        <text encoding="base64">ICAgIHZfbW9kZSA9IG1vZGUoYXJyKVswXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpc3RpY3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
+        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action DebugClass</text>
