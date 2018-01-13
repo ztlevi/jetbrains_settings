@@ -628,7 +628,7 @@
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -650,7 +650,6 @@
       <history-cmd>
         <entry>action ExpandRegion</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>actionlist</entry>
@@ -668,6 +667,7 @@
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
