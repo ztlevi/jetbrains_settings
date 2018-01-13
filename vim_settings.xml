@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1515873401069">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="77" />
-        <mark key="." line="10" column="77" />
-        <mark key="^" line="10" column="77" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1515876094561">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="114" />
+        <mark key="]" line="17" column="117" />
+        <mark key="." line="17" column="117" />
+        <mark key="^" line="17" column="117" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="[" line="24" column="34" />
@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515873401945">
+      <file name="/Python Console" timestamp="1515875992255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -465,12 +465,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515873661159">
-        <mark key="'" line="435" column="34" />
-        <mark key="[" line="368" column="34" />
-        <mark key="]" line="368" column="34" />
-        <mark key="." line="368" column="34" />
-        <mark key="^" line="368" column="34" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515875717513">
+        <mark key="'" line="449" column="46" />
+        <mark key="[" line="459" column="52" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
+        <mark key="^" line="458" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -486,8 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="56" column="58" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="52" column="26" filename="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" />
       <jump line="100" column="29" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="80" column="37" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
@@ -586,49 +584,51 @@
       <jump line="285" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="253" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="430" column="34" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="372" column="45" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="449" column="46" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>start_time</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICdyJykgYXMgaW5wOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1N0YXJ0IHRpbWUnICsgc3RyKHNlZ21lbnRlZF9yZXN1bHRbJ3N0YXJ0X3RpbWUnXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmVfbnVtKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICdyJykgYXMgaW5wOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtYXRjaGVkX3JvdXRlX2hlYWRlcikK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICdyJykgYXMgaW5wOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZfbW9kZSA9IG1vZGUoYXJyKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IGxpc3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpc3RpY3MK</text>
+        <text encoding="base64">CiAgICBsaW5lcyA9IGxpc3QoKQogICAgd2l0aCBvcGVuKHNoaW1tZXJfZmlsZV9wYXRoLCAncicpIGFzIGlucDoKICAgICAgICBsaW5lcyA9IGxpbmVzICsgbGlzdChpbnApCiAgICAgICAgbGluZXNbMV0gPSAnJydUUklfVEVTVF9UaW1lc3RhbXBfRm9ybWF0dGVkVW5peF9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWF9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWV9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWl9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWF9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWV9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWl9DQUwJVFJJX1RFU1RfR1NSX1JhbmdlX0NBTAlUUklfVEVTVF9HU1JfU2tpbl9Db25kdWN0YW5jZV9DQUwJVFJJX1RFU1RfR1NSX1NraW5fUmVzaXN0YW5jZV9DQUwJVFJJX1RFU1RfR3lyb19YX0NBTAlUUklfVEVTVF9HeXJvX1lfQ0FMCVRSSV9URVNUX0d5cm9fWl9DQUwJVFJJX1RFU1RfTWFnX1hfQ0FMCVRSSV9URVNUX01hZ19ZX0NBTAlUUklfVEVTVF9NYWdfWl9DQUwJJycnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZfc3RkID0gbnAuc3RkKGFycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzaGltbWVyX2ZpbGVfcGF0aCwgJ3cnKSBhcyBvdXQ6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGxpbmVzKSk6CiAgICAgICAgICAgIGlmIGkgPT0gMToKICAgICAgICAgICAgICAgIG91dC53cml0ZSgnJydUUklfVEVTVF9UaW1lc3RhbXBfRm9ybWF0dGVkVW5peF9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWF9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWV9DQUwJVFJJX1RFU1RfQWNjZWxfTE5fWl9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWF9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWV9DQUwJVFJJX1RFU1RfQWNjZWxfV1JfWl9DQUwJVFJJX1RFU1RfR1NSX1JhbmdlX0NBTAlUUklfVEVTVF9HU1JfU2tpbl9Db25kdWN0YW5jZV9DQUwJVFJJX1RFU1RfR1NSX1NraW5fUmVzaXN0YW5jZV9DQUwJVFJJX1RFU1RfR3lyb19YX0NBTAlUUklfVEVTVF9HeXJvX1lfQ0FMCVRSSV9URVNUX0d5cm9fWl9DQUwJVFJJX1RFU1RfTWFnX1hfQ0FMCVRSSV9URVNUX01hZ19ZX0NBTAlUUklfVEVTVF9NYWdfWl9DQUwnJycpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBvdXQud3JpdGUobGluZXNbaV0pCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZfbWVhbiA9IG5wLm1lYW4oYXJyKQo=</text>
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgcm93IGluIGVudW1lcmF0ZShjc3YucmVhZGVyKG91dCkpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -662,12 +662,12 @@
         <entry>action DashLauncherAction</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Back</entry>
-        <entry>action Debug</entry>
         <entry>action RecentFiles</entry>
-        <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action Debug</entry>
+        <entry>action DebugClass</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
