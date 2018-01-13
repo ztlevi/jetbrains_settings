@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1515718410661">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1515873401069">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="10" column="77" />
         <mark key="]" line="10" column="77" />
@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515722079182">
+      <file name="/Python Console" timestamp="1515873401945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -465,11 +465,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515722072591">
-        <mark key="'" line="253" column="0" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1515873661159">
+        <mark key="'" line="435" column="34" />
+        <mark key="[" line="368" column="34" />
+        <mark key="]" line="368" column="34" />
+        <mark key="." line="368" column="34" />
+        <mark key="^" line="368" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -485,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="64" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="87" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="56" column="58" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="52" column="26" filename="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" />
@@ -585,19 +585,20 @@
       <jump line="282" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="285" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="253" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="430" column="34" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh3aWR0aD0xMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2hpbW1lcl9maWxlX3BhdGgsICdyJykgYXMgaW5wOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmVfbnVtKQo=</text>
@@ -627,7 +628,7 @@
         <text encoding="base64">CiAgICAgICAgIyBTdGFuZGFyZGl6YXRpb24KICAgICAgICBhcnIgPSAoYXJyIC0gbnAubWVhbihhcnIpKSAvIG5wLnN0ZChhcnIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -658,15 +659,15 @@
         <entry>action FileStructurePopup</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action Debug</entry>
         <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
