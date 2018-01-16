@@ -47,10 +47,12 @@
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1515125206414">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516139899128">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="8" />
+        <mark key="." line="107" column="8" />
+        <mark key="^" line="107" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -181,7 +183,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516137974227">
+      <file name="/Python Console" timestamp="1516139908896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -459,7 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
       <jump line="15" column="44" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
       <jump line="30" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
@@ -559,6 +560,7 @@
       <jump line="456" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="51" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="79" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -641,13 +643,13 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
