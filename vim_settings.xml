@@ -300,7 +300,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514405809055">
+      <file name="/Dummy.txt" timestamp="1516129680782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -432,6 +432,9 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516129724417">
+        <mark key="'" line="93" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="15" />
@@ -446,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="60" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="43" column="48" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="90" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
@@ -546,6 +548,7 @@
       <jump line="56" column="39" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
       <jump line="19" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
       <jump line="31" column="52" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
+      <jump line="93" column="24" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -588,7 +591,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -628,12 +631,12 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
-        <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
