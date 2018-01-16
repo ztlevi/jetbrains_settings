@@ -440,12 +440,12 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516136336667">
-        <mark key="'" line="79" column="8" />
-        <mark key="[" line="87" column="55" />
-        <mark key="]" line="87" column="55" />
-        <mark key="." line="87" column="55" />
-        <mark key="^" line="87" column="55" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516144580963">
+        <mark key="'" line="412" column="41" />
+        <mark key="[" line="466" column="46" />
+        <mark key="]" line="466" column="46" />
+        <mark key="." line="466" column="46" />
+        <mark key="^" line="466" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -461,7 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="44" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
       <jump line="30" column="13" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
@@ -561,13 +560,14 @@
       <jump line="51" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="79" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
+      <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -643,13 +643,13 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action DebugClass</entry>
+        <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
