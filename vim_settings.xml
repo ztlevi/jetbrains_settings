@@ -413,6 +413,7 @@
         <mark key="." line="50" column="8" />
         <mark key="^" line="50" column="8" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/funcs.py" timestamp="1516223072339" />
       <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513489221317">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -440,7 +441,7 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516216540962">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516223042352">
         <mark key="'" line="432" column="41" />
         <mark key="[" line="394" column="63" />
         <mark key="]" line="394" column="63" />
@@ -603,7 +604,7 @@
         <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neCBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neSBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -641,7 +642,6 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
@@ -651,6 +651,7 @@
         <entry>action RunClass</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
