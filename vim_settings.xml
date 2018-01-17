@@ -440,12 +440,12 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516145955577">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516207252118">
         <mark key="'" line="432" column="41" />
-        <mark key="[" line="466" column="52" />
-        <mark key="]" line="466" column="52" />
-        <mark key="." line="466" column="52" />
-        <mark key="^" line="466" column="52" />
+        <mark key="[" line="394" column="63" />
+        <mark key="]" line="394" column="63" />
+        <mark key="." line="394" column="63" />
+        <mark key="^" line="394" column="63" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -567,7 +567,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>\t</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -603,7 +603,7 @@
         <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neCBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neSBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -646,11 +646,11 @@
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
