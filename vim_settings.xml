@@ -440,12 +440,12 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516239497391">
-        <mark key="'" line="432" column="41" />
-        <mark key="[" line="466" column="52" />
-        <mark key="]" line="466" column="52" />
-        <mark key="." line="466" column="52" />
-        <mark key="^" line="466" column="52" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516245964753">
+        <mark key="'" line="436" column="41" />
+        <mark key="[" line="460" column="27" />
+        <mark key="]" line="460" column="33" />
+        <mark key="." line="460" column="33" />
+        <mark key="^" line="460" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -567,7 +567,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>bioharness</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -576,31 +576,31 @@
         <text encoding="base64">aW1wb3J0IHBsb3RseS5vZmZsaW5lIGFzIG9mZmxpbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KHJvd1swXSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBnby5GaWd1cmUoCiAgICAgICAgICAgIHRpdGxlPWNhbCArICcgc3RhdGlzdGljcycKICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBnby5GaWd1cmUoCiAgICAgICAgICAgIHRpdGxlPWNhbCArICcgc3RhdGlzdGljcycKICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neCBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neSBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -640,7 +640,6 @@
         <entry>action ExpandRegion</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action Forward</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
@@ -650,6 +649,7 @@
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Back</entry>
+        <entry>action Forward</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
