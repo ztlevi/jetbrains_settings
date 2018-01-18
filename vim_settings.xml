@@ -603,7 +603,7 @@
         <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neCBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neSBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -647,10 +647,10 @@
         <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
-        <entry>action RunClass</entry>
         <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Back</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
