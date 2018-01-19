@@ -134,11 +134,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1515360897992">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="40" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516393398712">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516392007638">
+      <file name="/Python Console" timestamp="1516393371155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -601,40 +601,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiBhcyA=</text>
+        <text>a+b</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5vZmZsaW5lIGFzIG9mZmxpbmUK</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gMSwgMgogICAgICAgIG0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYSwgYjogYStiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
+        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBnby5GaWd1cmUoCiAgICAgICAgICAgIHRpdGxlPWNhbCArICcgc3RhdGlzdGljcycKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBnby5GaWd1cmUoCiAgICAgICAgICAgIHRpdGxlPWNhbCArICcgc3RhdGlzdGljcycKICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neCBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICB0aXRsZT0neSBBeGlzJywKICAgICAgICAgICAgdGl0bGVmb250PWRpY3QoCiAgICAgICAgICAgICAgICBmYW1pbHk9J0NvdXJpZXIgTmV3LCBtb25vc3BhY2UnLAogICAgICAgICAgICAgICAgc2l6ZT0xOCwKICAgICAgICAgICAgICAgIGNvbG9yPScjN2Y3ZjdmJwogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -661,23 +661,23 @@
       <history-cmd>
         <entry>action GotoDeclaration</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action DebugClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action Debug</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
