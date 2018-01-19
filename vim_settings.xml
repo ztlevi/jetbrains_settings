@@ -326,7 +326,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516044549756">
+      <file name="/Dummy.txt" timestamp="1516334825556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -458,8 +458,8 @@
         <mark key="." line="196" column="49" />
         <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515718295591">
-        <mark key="'" line="43" column="56" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1516334904429">
+        <mark key="'" line="25" column="19" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="39" />
@@ -486,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="35" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="118" column="8" filename="$USER_HOME$/Developer/react_github/index.js" />
       <jump line="66" column="8" filename="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" />
       <jump line="31" column="40" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
@@ -586,6 +585,7 @@
       <jump line="59" column="47" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="428" column="53" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
+      <jump line="25" column="19" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
