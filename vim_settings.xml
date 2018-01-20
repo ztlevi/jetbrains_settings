@@ -134,11 +134,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1515360897992">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516395096056">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516139908896">
+      <file name="/Python Console" timestamp="1516393371155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -376,12 +376,12 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516479053112">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="50" column="16" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="42" column="22" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515619040340">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
@@ -474,12 +474,12 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516479304020">
-        <mark key="'" line="18" column="17" />
-        <mark key="[" line="466" column="52" />
-        <mark key="]" line="466" column="52" />
-        <mark key="^" line="466" column="52" />
-        <mark key="." line="466" column="52" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516223042352">
+        <mark key="'" line="432" column="41" />
+        <mark key="[" line="394" column="63" />
+        <mark key="]" line="394" column="63" />
+        <mark key="^" line="394" column="63" />
+        <mark key="." line="394" column="63" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -495,6 +495,14 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
+      <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
+      <jump line="62" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="59" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
+      <jump line="80" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
+      <jump line="274" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
+      <jump line="84" column="14" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
+      <jump line="64" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
       <jump line="54" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="109" column="34" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
       <jump line="105" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
@@ -587,63 +595,55 @@
       <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="432" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="18" column="17" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="54" column="66" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="55" column="10" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="1" column="1" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="30" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="43" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="90" column="5" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>a+b</text>
       </register>
       <register name="/" type="4">
-        <text>scipy</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGhpc3RfcGxvdF9zaWduYWwob3V0cHV0X3BhdGgsIHNjZW5hcmlvX3N0cl9hcnIsIGFycik6CiAgICB0cmFjZV9hcnIgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgIHRyYWNlID0gZ28uSGlzdG9ncmFtKAogICAgICAgICAgICB4PXNpZy5yZXNhbXBsZShhcnJbaV0sIEhJU1RHUkFNX1NBTVBMRV9TSVpFKSwKICAgICAgICAgICAgb3BhY2l0eT0wLjc1LAogICAgICAgICAgICBuYW1lPXNjZW5hcmlvX3N0cl9hcnJbaV0KICAgICAgICApCiAgICAgICAgdHJhY2VfYXJyLmFwcGVuZCh0cmFjZSkKCiAgICB0aXRsZSA9IG91dHB1dF9wYXRoW291dHB1dF9wYXRoLnJmaW5kKCcvJykgKyAxOm91dHB1dF9wYXRoLnJmaW5kKCcuJyldCiAgICBsYXlvdXQgPSBnby5MYXlvdXQoYmFybW9kZT0nb3ZlcmxheScsCiAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9dGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgeGF4aXM9ZGljdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9c2NlbmFyaW9fc3RyX2FycltpXSArICcgcmFuZ2UnCiAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICB5YXhpcz1kaWN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT0ndGltZXMnCiAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgIGZpZyA9IGdvLkZpZ3VyZShkYXRhPXRyYWNlX2FyciwgbGF5b3V0PWxheW91dCkKICAgIHB5LmlwbG90KGZpZykK</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gMSwgMgogICAgICAgIG0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYSwgYjogYStiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmRlZiBwbG90X2dyYXBocyhvdXRwdXRfcGF0aCwgc2lnbmFsLCBhcnIpOgogICAgZGF0YSA9IFtnby5IaXN0b2dyYW0oeD1hcnIpXQogICAgdGl0bGUgPSBvdXRwdXRfcGF0aFtvdXRwdXRfcGF0aC5yZmluZCgnLycpICsgMTpvdXRwdXRfcGF0aC5yZmluZCgnLicpXQogICAgbGF5b3V0ID0gZ28uTGF5b3V0KAogICAgICAgIHRpdGxlPXRpdGxlCiAgICApCiAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1kYXRhLCBsYXlvdXQ9bGF5b3V0KQogICAgcHkuaXBsb3QoZmlnLCBmaWxlbmFtZT1vdXRwdXRfcGF0aCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbCBhcyBzaWcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyByZWdpb24K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBnby5GaWd1cmUoCiAgICAgICAgICAgIHRpdGxlPWNhbCArICcgc3RhdGlzdGljcycKICAgICAgICApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
       </register>
     </registers>
     <search>
-      <last-search>scipy</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>scipy</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -657,29 +657,27 @@
         <entry>this.toast</entry>
         <entry>reorder</entry>
         <entry>GET</entry>
-        <entry>sig</entry>
-        <entry>scipy</entry>
       </history-search>
       <history-cmd>
+        <entry>action GotoDeclaration</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action DebugClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
-        <entry>action Debug</entry>
         <entry>action DashLauncherAction</entry>
+        <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action Back</entry>
-        <entry>action GotoAction</entry>
-        <entry>action CollapseRegion</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
