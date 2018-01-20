@@ -376,7 +376,7 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516478149517">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516479053112">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="50" column="16" />
@@ -474,7 +474,7 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516474986584">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516479304020">
         <mark key="'" line="18" column="17" />
         <mark key="[" line="466" column="52" />
         <mark key="]" line="466" column="52" />
@@ -601,7 +601,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>scipy</text>
@@ -637,7 +637,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -676,11 +676,11 @@
         <entry>action GotoAction</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action RunClass</entry>
         <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
