@@ -198,7 +198,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516514332126">
+      <file name="/Python Console" timestamp="1516514572606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -335,7 +335,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516514332194">
+      <file name="/Dummy.txt" timestamp="1516514650550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -640,7 +640,7 @@
         <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -667,7 +667,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
         <entry>action DashLauncherAction</entry>
-        <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleDistractionFreeMode</entry>
@@ -678,10 +677,11 @@
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
+        <entry>action Debug</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
