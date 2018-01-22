@@ -462,12 +462,12 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516662560544">
-        <mark key="'" line="382" column="40" />
-        <mark key="[" line="381" column="46" />
-        <mark key="]" line="381" column="48" />
-        <mark key="^" line="381" column="48" />
-        <mark key="." line="381" column="48" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516663915642">
+        <mark key="'" line="387" column="40" />
+        <mark key="[" line="480" column="52" />
+        <mark key="]" line="480" column="52" />
+        <mark key="^" line="480" column="52" />
+        <mark key="." line="480" column="52" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -589,7 +589,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -649,7 +649,6 @@
       <history-cmd>
         <entry>action GotoDeclaration</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action SelectInProjectView</entry>
@@ -666,6 +665,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
