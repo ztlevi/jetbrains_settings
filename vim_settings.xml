@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1516152436817">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1516662346335">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="10" column="77" />
         <mark key="]" line="10" column="77" />
@@ -196,7 +196,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516517087625">
+      <file name="/Python Console" timestamp="1516662381218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -371,13 +371,6 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1515619040340">
-        <mark key="'" line="188" column="0" />
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="74" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="38" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -469,6 +462,13 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516662560544">
+        <mark key="'" line="382" column="40" />
+        <mark key="[" line="381" column="46" />
+        <mark key="]" line="381" column="48" />
+        <mark key="^" line="381" column="48" />
+        <mark key="." line="381" column="48" />
+      </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="15" />
@@ -483,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="34" filename="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" />
       <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="62" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="59" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
@@ -583,13 +582,14 @@
       <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="432" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="382" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -664,8 +664,8 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
