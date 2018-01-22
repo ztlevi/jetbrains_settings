@@ -134,12 +134,7 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516581446348">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516586181185" />
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
         <mark key="[" line="7" column="21" />
@@ -198,7 +193,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516581405279">
+      <file name="/Python Console" timestamp="1516586203573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -637,7 +632,7 @@
         <text encoding="base64">ICAgICAgICBmaWd1cmVbJ2xheW91dCddLnVwZGF0ZSh0aXRsZT1jYWwgKyAnX3N0YXRpc3RpY3MnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -677,8 +672,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
