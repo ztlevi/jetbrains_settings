@@ -469,13 +469,6 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516223042352">
-        <mark key="'" line="432" column="41" />
-        <mark key="[" line="394" column="63" />
-        <mark key="]" line="394" column="63" />
-        <mark key="^" line="394" column="63" />
-        <mark key="." line="394" column="63" />
-      </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="15" />
@@ -632,7 +625,7 @@
         <text encoding="base64">ICAgICAgICB0YWJsZS5hcHBlbmQoW2NhbCsnIHN0YXRpc3RpY3MnXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -666,7 +659,6 @@
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
@@ -674,6 +666,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
