@@ -1,12 +1,16 @@
 <scheme name="One Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Lig" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="2db448" />
     <option name="CARET_COLOR" value="526fff" />
     <option name="CARET_ROW_COLOR" value="f2f2f2" />
     <option name="DELETED_LINES_COLOR" value="ff1414" />
+    <option name="DOCUMENTATION_COLOR" value="fafafa" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="d3d4d5" />
     <option name="LINE_NUMBERS_COLOR" value="9d9d9f" />
@@ -220,11 +224,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="526fff" />
