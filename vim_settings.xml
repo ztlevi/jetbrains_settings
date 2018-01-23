@@ -196,7 +196,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516662381218">
+      <file name="/Python Console" timestamp="1516741040600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -625,7 +625,7 @@
         <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -663,10 +663,10 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
