@@ -1,7 +1,7 @@
 <scheme name="One Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Lig" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="18" />

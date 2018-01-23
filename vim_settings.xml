@@ -462,11 +462,11 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516664973227">
-        <mark key="'" line="387" column="40" />
-        <mark key="[" line="482" column="4" />
-        <mark key="]" line="482" column="38" />
-        <mark key="." line="481" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516676871993">
+        <mark key="'" line="432" column="20" />
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="0" />
+        <mark key="." line="476" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513040988595">
         <mark key="[" line="0" column="29" />
@@ -580,51 +580,51 @@
       <jump line="79" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="432" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="382" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="432" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>print(re.match('this$/', 'sfthis'))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJC8nLCAnc2Z0aGlzJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUubWF0Y2goJ3RoaXMkLycsICdzZnRoaXMnKSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJCcsICdzZnRoaXMnKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcmUubWF0Y2gK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJC8nLCAnc2Z0aGlzJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgojIHYgPSBucC5hcnJheShbWzksIDEwLCAxMV0sIFs5LCAxMCwgMTFdXSkKIyB3ID0gbnAuYXJyYXkoW1s5LCAxMCwgMTFdLCBbOSwgMTAsIDExXV0pCiMgdyA9IG5wLmFycmF5KFtbMTEsIDJdLCBbMSwgMTJdLCBbMSwgM11dKQp2ID0gbnAuYXJyYXkoWzksIDEwLCAxMV0pCncgPSBucC5hcnJheShbOSwgMTAsIDExXSkKIyBwcmludCh2LnNoYXBlKQpucC50aWxlCgpwcmludCh2LmRvdCh3KSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUubWF0Y2goJ3RoaXMkLycsICdzZnRoaXMnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnByaW50KGFbMToyLCA6XSkKcHJpbnQoYVtbMSwwXSxbMiwtMV1dKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcmUubWF0Y2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
+        <text encoding="base64">CgojIHYgPSBucC5hcnJheShbWzksIDEwLCAxMV0sIFs5LCAxMCwgMTFdXSkKIyB3ID0gbnAuYXJyYXkoW1s5LCAxMCwgMTFdLCBbOSwgMTAsIDExXV0pCiMgdyA9IG5wLmFycmF5KFtbMTEsIDJdLCBbMSwgMTJdLCBbMSwgM11dKQp2ID0gbnAuYXJyYXkoWzksIDEwLCAxMV0pCncgPSBucC5hcnJheShbOSwgMTAsIDExXSkKIyBwcmludCh2LnNoYXBlKQpucC50aWxlCgpwcmludCh2LmRvdCh3KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
+        <text encoding="base64">CnByaW50KGFbMToyLCA6XSkKcHJpbnQoYVtbMSwwXSxbMiwtMV1dKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
+        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBnby5GaWd1cmUoZGF0YT1maWd1cmUsIGxheW91dD1sYXlvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -662,10 +662,10 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RunClass</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
