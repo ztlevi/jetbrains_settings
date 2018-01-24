@@ -56,12 +56,12 @@
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516139899128">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516760675855">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="8" />
-        <mark key="^" line="98" column="9" />
+        <mark key="[" line="107" column="24" />
+        <mark key="]" line="107" column="25" />
+        <mark key="." line="107" column="25" />
+        <mark key="^" line="107" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -589,7 +589,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>T118</text>
+        <text>STEP</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -598,34 +598,34 @@
         <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJC8nLCAnc2Z0aGlzJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJCcsICdzZnRoaXMnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkbyBub3QgcmVzYW1wbGUgaWYgYXJyIGlzIGVtcHR5CiAgICAgICAgICAgIGlmIGFycltpXToKICAgICAgICAgICAgICAgIGRhdGEgPSBzaWcucmVzYW1wbGUoYXJyW2ldLCBISVNUT0dSQU1fU0FNUExFX1NJWkUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkYXRhID0gW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJC8nLCAnc2Z0aGlzJykpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJyOgogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgdHJhY2VfYXJyID0gW10KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUubWF0Y2goJ3RoaXMkLycsICdzZnRoaXMnKSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJCcsICdzZnRoaXMnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcmUubWF0Y2gK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJC8nLCAnc2Z0aGlzJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgojIHYgPSBucC5hcnJheShbWzksIDEwLCAxMV0sIFs5LCAxMCwgMTFdXSkKIyB3ID0gbnAuYXJyYXkoW1s5LCAxMCwgMTFdLCBbOSwgMTAsIDExXV0pCiMgdyA9IG5wLmFycmF5KFtbMTEsIDJdLCBbMSwgMTJdLCBbMSwgM11dKQp2ID0gbnAuYXJyYXkoWzksIDEwLCAxMV0pCncgPSBucC5hcnJheShbOSwgMTAsIDExXSkKIyBwcmludCh2LnNoYXBlKQpucC50aWxlCgpwcmludCh2LmRvdCh3KSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUubWF0Y2goJ3RoaXMkLycsICdzZnRoaXMnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnByaW50KGFbMToyLCA6XSkKcHJpbnQoYVtbMSwwXSxbMiwtMV1dKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcmUubWF0Y2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
+        <text encoding="base64">CgojIHYgPSBucC5hcnJheShbWzksIDEwLCAxMV0sIFs5LCAxMCwgMTFdXSkKIyB3ID0gbnAuYXJyYXkoW1s5LCAxMCwgMTFdLCBbOSwgMTAsIDExXV0pCiMgdyA9IG5wLmFycmF5KFtbMTEsIDJdLCBbMSwgMTJdLCBbMSwgM11dKQp2ID0gbnAuYXJyYXkoWzksIDEwLCAxMV0pCncgPSBucC5hcnJheShbOSwgMTAsIDExXSkKIyBwcmludCh2LnNoYXBlKQpucC50aWxlCgpwcmludCh2LmRvdCh3KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjdXJfdGltZSAtIGZpcnN0X3RpbWUgKQogICAgICAgICAgICAgICAgICAgIHByaW50KGN1cl9lbmRfdGltZSkK</text>
+        <text encoding="base64">CnByaW50KGFbMToyLCA6XSkKcHJpbnQoYVtbMSwwXSxbMiwtMV1dKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWd1cmUubGF5b3V0LnVwZGF0ZSh7J3RpdGxlJzogY2FsICsgJyBzdGF0aXN0aWNzJ30pCg==</text>
+        <text encoding="base64">CmEsIGIgPSAxLCAyCm0gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGEgYjogYStiKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -661,12 +661,12 @@
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action RunClass</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
