@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1516817589686">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="10" column="77" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1516839583281">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -488,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="62" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="59" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="80" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
@@ -588,6 +587,7 @@
       <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="382" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="432" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="19" column="44" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -630,7 +630,7 @@
         <text encoding="base64">ICAgIGltcG9ydCByZQogICAgcHJpbnQocmUuc2VhcmNoKCd0aGlzJCcsICdzZnRoaXMnKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -663,7 +663,6 @@
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Debug</entry>
@@ -672,6 +671,7 @@
         <entry>action ExpandRegion</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
