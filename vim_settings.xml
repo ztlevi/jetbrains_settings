@@ -120,11 +120,10 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/pom.xml" timestamp="1517106928576">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/Developer/MavenTest/pom.xml" timestamp="1517196356111">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
@@ -332,11 +331,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517191591894">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517197101350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -514,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="19" filename="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" />
-      <jump line="274" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="84" column="14" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
       <jump line="64" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
       <jump line="54" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
@@ -614,49 +612,51 @@
       <jump line="19" column="44" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
       <jump line="11" column="8" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
+      <jump line="36" column="9" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gcHJlb3JkZXJUcmVlVHJhdmVyc2FsKExpc3ROb2RlIHJvb3QpIHsKICAgICAgICBMaXN0PEludGVnZXI+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsKICAgICAgICBpZiAocm9vdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgfQogICAgICAgIFN0YWNrPExpc3ROb2RlPiBzdGFjayA9IG5ldyBTdGFjazxMaXN0Tm9kZT4oKTsKCiAgICAgICAgc3RhY2sucHVzaChyb290KTsKICAgICAgICB3aGlsZSAoIXN0YWNrLmlzRW1wdHkoKSkgewogICAgICAgICAgICBMaXN0Tm9kZSBjdXIgPSBzdGFjay5wb3AoKTsKICAgICAgICAgICAgcmVzdWx0LmFkZChjdXIudmFsKTsKCiAgICAgICAgICAgIGlmIChjdXIucmlnaHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgc3RhY2sucHVzaChjdXIucmlnaHQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoY3VyLmxlZnQgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBzdGFjay5wdXNoKGN1ci5sZWZ0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwyLDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChjdXIucmlnaHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgc3RhY2sucHVzaChjdXIucmlnaHQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLmxlZnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgTGlzdE5vZGUgY3VyID0gcm9vdDsKCiAgICAgICAgd2hpbGUgKGN1ciE9bnVsbCkgewogICAgICAgICAgICBzdGFjay5wdXNoKGN1cik7CiAgICAgICAgICAgIGN1ciA9IGN1ci5sZWZ0OwogICAgICAgIH0KCiAgICAgICAgd2hpbGUgKCFzdGFjay5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgY3VyID0gc3RhY2sucG9wKCk7CiAgICAgICAgICAgIHJlc3VsdC5hZGQoY3VyLnZhbCk7CgogICAgICAgICAgICBpZiAoY3VyLnJpZ2h0IT0gbnVsbCkgewogICAgICAgICAgICAgICAgY3VyID0gY3VyLnJpZ2h0OwogICAgICAgICAgICAgICAgd2hpbGUgKGN1ciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhY2sucHVzaChjdXIpOwogICAgICAgICAgICAgICAgICAgIGN1ciA9IGN1ci5yaWdodDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3QoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ci5sZWZ0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHN0YWNrLnB1c2goY3VyLmxlZnQpOwogICAgICAgICAgICB9Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEludGVnZXI+IGlub3JkZXJUcmVlKExpc3ROb2RlIHJvb3QpIHsKICAgICAgICBTdGFjazxMaXN0Tm9kZT4gc3RhY2sgPSBuZXcgU3RhY2s8TGlzdE5vZGU+KCk7CiAgICAgICAgTGlzdDxJbnRlZ2VyPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCk7CgogICAgICAgIExpc3ROb2RlIGN1ciA9IHJvb3Q7CgogICAgICAgIHdoaWxlIChjdXIhPSBudWxsKSB7CiAgICAgICAgICAgIGN1ci5sZWZ0ID0gbnVsbDsKICAgICAgICB9CgogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoIXN0YWNrLmlzRW1wdHkoKSkgewogICAgICAgICAgICBMaXN0Tm9kZSBjdXJOb2RlID0gc3RhY2sucG9wKCk7CiAgICAgICAgICAgIGlmIChjdXJOb2RlLmxlZnQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgc3RhY2suYWRkKGN1ck5vZGUubGVmdCk7CiAgICAgICAgICAgICAgICBjdXJOb2RlLmxlZnQgPSBudWxsOwogICAgICAgICAgICAgICAgc3RhY2suYWRkKGN1ck5vZGUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzdWx0LmFkZChjdXJOb2RlLnZhbCk7CiAgICAgICAgICAgICAgICBpZiAoY3VyTm9kZS5yaWdodCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhY2suYWRkKGN1ck5vZGUucmlnaHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gcmVzID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPihBcnJheXMuYXNMaXN0KGFycikpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -690,14 +690,14 @@
         <entry>action DebugClass</entry>
         <entry>action Back</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Run</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
+        <entry>action Run</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
