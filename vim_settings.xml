@@ -331,12 +331,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517197101350">
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517199334036">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="41" column="28" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -620,7 +620,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -629,31 +629,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwyLDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
+        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gcmVzID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPihBcnJheXMuYXNMaXN0KGFycikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
@@ -687,8 +687,6 @@
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action DebugClass</entry>
-        <entry>action Back</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleDistractionFreeMode</entry>
@@ -697,6 +695,8 @@
         <entry>action Run</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
+        <entry>action Back</entry>
         <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
