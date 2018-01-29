@@ -120,11 +120,10 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/pom.xml" timestamp="1517106928576">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/Developer/MavenTest/pom.xml" timestamp="1517196356111">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
@@ -149,12 +148,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1517189150098">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516517839072">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -208,7 +206,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517189160421">
+      <file name="/Python Console" timestamp="1516910990409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -333,11 +331,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517112644691">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517197101350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -501,8 +500,8 @@
         <mark key="." line="480" column="52" />
         <mark key="^" line="480" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1513040988595">
-        <mark key="[" line="0" column="29" />
+      <file name="/fragment.java" timestamp="1517189825945">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -613,48 +612,48 @@
       <jump line="19" column="44" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
       <jump line="11" column="8" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
-      <jump line="19" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="36" column="9" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>TestMaven</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwyLDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTGlzdE5vZGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIExpc3ROb2RlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHZhbCk6CiAgICAgICAgc2VsZi52YWwgPSB2YWwKICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgc2VsZi5yaWdodCA9IE5vbmUKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYmluYXJ5U2VhcmNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzID0gbmV3IFN0cmluZ1tdeyJhYmMiLCAiMTIzIn07CiAgICAgICAgU2V0PEludGVnZXI+IGkgPSBuZXcgSGFzaFNldDxJbnRlZ2VyPihBcnJheXMuYXNMaXN0KDEsIDIpKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gaiA9IG5ldyBIYXNoU2V0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwgMikpOwogICAgICAgIFNldDxTZXQ8SW50ZWdlcj4+IHd3ID0gbmV3IEhhc2hTZXQ8U2V0PEludGVnZXI+PigpOwogICAgICAgIHd3LmFkZChpKTsKICAgICAgICB3dy5hZGQoaik7CiAgICAgICAgYm9vbGVhbiBnZyA9IGkuZXF1YWxzKGopOwogICAgICAgIFNldDxTdHJpbmdbXT4gYSA9IG5ldyBIYXNoU2V0KCk7CiAgICAgICAgYS5hZGQobmV3IFN0cmluZ1tdeyJmZGYiLCAiZGYifSk7CiAgICAgICAgc28uYWRkQm9sZFRhZygiYWJjeHl6MTIzIiwgcyk7Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgYWRkQm9sZFRhZyhTdHJpbmcgcywgU3RyaW5nW10gZGljdCkgewogICAgICAgIGJvb2xlYW5bXSBib2xkID0gbmV3IGJvb2xlYW5bcy5sZW5ndGgoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDAsIGVuZCA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgZm9yIChTdHJpbmcgd29yZCA6IGRpY3QpIHsKICAgICAgICAgICAgICAgIGlmIChzLnN0YXJ0c1dpdGgod29yZCwgaSkpIHsKICAgICAgICAgICAgICAgICAgICBlbmQgPSBNYXRoLm1heChlbmQsIGkgKyB3b3JkLmxlbmd0aCgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBib2xkW2ldID0gZW5kID4gaTsKICAgICAgICB9CgogICAgICAgIFN0cmluZ0J1aWxkZXIgcmVzdWx0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHMubGVuZ3RoKCk7IGkrKykgewogICAgICAgICAgICBpZiAoIWJvbGRbaV0pIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQocy5jaGFyQXQoaSkpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW50IGogPSBpOwogICAgICAgICAgICB3aGlsZSAoaiA8IHMubGVuZ3RoKCkgJiYgYm9sZFtqXSkgaisrOwogICAgICAgICAgICByZXN1bHQuYXBwZW5kKCI8Yj4iICsgcy5zdWJzdHJpbmcoaSwgaikgKyAiPC9iPiIpOwogICAgICAgICAgICBpID0gaiAtIDE7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gcmVzdWx0LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gcmVzID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPihBcnJheXMuYXNMaXN0KGFycikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
@@ -685,18 +684,18 @@
         <entry>action DashLauncherAction</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Run</entry>
         <entry>action ExpandRegion</entry>
         <entry>action DebugClass</entry>
         <entry>action Back</entry>
-        <entry>action RunClass</entry>
-        <entry>action GotoAction</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
+        <entry>action Run</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
       </history-cmd>
