@@ -656,7 +656,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -693,11 +693,11 @@
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
         <entry>action Run</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action Back</entry>
         <entry>action Debug</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
