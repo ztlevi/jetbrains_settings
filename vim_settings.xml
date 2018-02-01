@@ -148,11 +148,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1517464321608">
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="90" />
-        <mark key="." line="44" column="90" />
-        <mark key="^" line="44" column="90" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1517490714864">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -206,7 +206,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517462886147">
+      <file name="/Python Console" timestamp="1517490715678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -230,6 +230,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1517490705209">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
         <mark key="'" line="284" column="10" />
@@ -629,31 +632,31 @@
         <text encoding="base64">aW1wb3J0IG9zCgp5YXNuaXBwZXRfZGlyID0gJy9Vc2Vycy96dGxldmkvLnNwYWNlbWFjcy5kL3NuaXBwZXRzJwptb2Rlc19kaXIgPSBvcy5saXN0ZGlyKHlhc25pcHBldF9kaXIpCmZvciBkaXIgaW4gbW9kZXNfZGlyOgogICAgc25pcHBldHNfbGlzdF9wYXRoID0gb3MucGF0aC5qb2luKHlhc25pcHBldF9kaXIsIGRpcikKICAgIHNuaXBwZXRzX2xpc3QgPSBbXQogICAgaWYgb3MucGF0aC5pc2RpcihzbmlwcGV0c19saXN0X3BhdGgpOgogICAgICAgIHNuaXBwZXRzX2xpc3QgPSBvcy5saXN0ZGlyKHNuaXBwZXRzX2xpc3RfcGF0aCkKICAgIGZvciBzbmlwcGV0IGluIHNuaXBwZXRzX2xpc3Q6CiAgICAgICAgaWYgc25pcHBldCA9PSAnLnlhcy1wYXJlbnRzJyBvciBzbmlwcGV0ID09ICcueWFzLXNldHVwLmVsJzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzbmlwcGV0X2ZpbGVfcGF0aCA9IG9zLnBhdGguam9pbihzbmlwcGV0c19saXN0X3BhdGgsIHNuaXBwZXQpCiAgICAgICAgaWYgb3MucGF0aC5pc2ZpbGUoc25pcHBldF9maWxlX3BhdGgpOgogICAgICAgICAgICBpZl9lZGl0ID0gRmFsc2UKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbGluZXMgPSBvcGVuKHNuaXBwZXRfZmlsZV9wYXRoLCAncicpLnJlYWRsaW5lcygpCiAgICAgICAgICAgIGV4Y2VwdCBVbmljb2RlRGVjb2RlRXJyb3I6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgaGFzS2V5ID0gRmFsc2UKICAgICAgICAgICAgZm9yIGksIGxpbmUgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgICAgICAgICAgICAgIGlmIChsaW5lLnN0YXJ0c3dpdGgoJyNrZXk6Jykgb3IgbGluZS5zdGFydHN3aXRoKCcja2V5IDonKSkgb3IgbGluZS5zdGFydHN3aXRoKAogICAgICAgICAgICAgICAgICAgICAgICAnIyBrZXk6Jyk6CiAgICAgICAgICAgICAgICAgICAgaGFzS2V5ID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgIGlmIG5vdCBsaW5lLmVuZHN3aXRoKCctPlxuJyk6CiAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZVs6LTFdICsgJy0+XG4nCiAgICAgICAgICAgICAgICAgICAgICAgIGlmX2VkaXQgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgICAgZWxpZiBsaW5lLmVuZHN3aXRoKCctPicpOgogICAgICAgICAgICAgICAgICAgICAgICBsaW5lc1tpXSA9IGxpbmUgKyAnXG4nCiAgICAgICAgICAgICAgICAgICAgICAgIGlmX2VkaXQgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICBpZiBub3QgaGFzS2V5OgogICAgICAgICAgICAgICAgbGluZXMgPSBsaW5lc1s6MV0gKyBbJyNrZXk6IHt9LT5cbicuZm9ybWF0KHNuaXBwZXQpXSArIGxpbmVzWzE6XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBzbmlwcGV0X2ZpbGVfcGF0aCA9IG9zLnBhdGguam9pbihzbmlwcGV0c19saXN0X3BhdGgsIHNuaXBwZXQpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzbmlwcGV0X2ZpbGVfcGF0aCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzbmlwcGV0X2ZpbGVfcGF0aCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZfZWRpdCA9IEZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gb3BlbihzbmlwcGV0X2ZpbGVfcGF0aCkKICAgICAgICBsaW5lcyA9IGYucmVhZGxpbmVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWZfZWRpdCA9IEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbW9kZV9kaXIgPSBvcy5wYXRoLmpvaW4obW9kZV9kaXJzICsgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBmID0gb3BlbihzbmlwcGV0X2ZpbGVfcGF0aCkKICAgICAgICBsaW5lcyA9IGYucmVhZGxpbmVzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gbnAuYXJyYXkoWzFdKQogICAgICAgIGIgPSBhICsgWzFdCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfbW9kZV9kaXIgPSBvcy5wYXRoLmpvaW4obW9kZV9kaXJzICsgJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -694,9 +697,9 @@
         <entry>action DebugClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Debug</entry>
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
