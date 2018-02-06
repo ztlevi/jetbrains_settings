@@ -9,13 +9,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1517436647639">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="9" column="74" />
-        <mark key="]" line="9" column="76" />
-        <mark key="." line="9" column="76" />
-        <mark key="^" line="9" column="76" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="24" column="34" />
@@ -517,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
       <jump line="18" column="45" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
       <jump line="119" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
       <jump line="9" column="23" filename="$USER_HOME$/Developer/react_github/package.json" />
@@ -617,13 +609,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="13" column="19" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>===========================</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -659,7 +652,7 @@
         <text encoding="base64">ICAgICAgICBjdXJfbW9kZV9kaXIgPSBvcy5wYXRoLmpvaW4obW9kZV9kaXJzICsgJycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -688,7 +681,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action Back</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
@@ -701,6 +693,7 @@
         <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action RunClass</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
