@@ -9,11 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1517947045936">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1517950148926">
+        <mark key="'" line="51" column="67" />
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="55" column="93" />
+        <mark key="." line="55" column="93" />
+        <mark key="^" line="55" column="93" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -205,7 +206,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517945744591">
+      <file name="/Python Console" timestamp="1517949530288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -516,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="24" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="42" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="171" column="11" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="150" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
@@ -616,46 +616,47 @@
       <jump line="10" column="7" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="42" column="92" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="53" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="51" column="67" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>'null'</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0X3RyYWZmaWNfdHlwZS5yZW1vdmUoTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5mcmFzX2ZpbGUgPSB0cmFmZmljX3Jlc3VsdF9wYXRoICsgJy8nICsgdHJpcF9pZCArICcvX3RyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdC5qc29uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZXRfdHJhZmZpY190eXBlLnJlbW92ZSgnbnVsbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoc2V0X3NjZW5hcmlvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcsICcuam9pbihbc2NlbmFyaW8gZm9yIHNjZW5hcmlvIGluIHNldF9zY2VuYXJpbyBpZiBzY2VuYXJpbyBpcyBub3QgTm9uZV0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0X3NjZW5hcmlvLnJlbW92ZShOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRfc2NlbmFyaW8uYWRkKHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHByaW50KHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsndHJhZmZpY190eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgICB0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHRbaV1bJ3NjZW5hcmlvJ10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldF9zY2VuYXJpbyA9IHNldCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbl9maWxlID0gdHJhZmZpY19yZXN1bHRfcGF0aCArICcvJyArIGZpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHQpKToKICAgICAgICAgICAgICAgICAgICBwcmludCh0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHRbaV1bJ3RyYWZmaWNfdHlwZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkKICAgICAgICAgICAgICAgIHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZXRfdHJhZmZpY190eXBlLnJlbW92ZSgnbnVsbCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoc2V0X3NjZW5hcmlvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -691,14 +692,14 @@
         <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action DebugClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Back</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Debug</entry>
+        <entry>action DebugClass</entry>
+        <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action RunClass</entry>
       </history-cmd>
