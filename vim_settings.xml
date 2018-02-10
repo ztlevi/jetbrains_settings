@@ -305,12 +305,6 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/react_server_side_rendering/index.js" timestamp="1516236188313">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="2" column="22" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
         <mark key="'" line="89" column="3" />
         <mark key="[" line="68" column="27" />
@@ -629,34 +623,34 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwyLDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7CgovLyBDcmVhdGUgYSA8VGl0bGU+IHJlYWN0IGNvbXBvbmVudCB0aGF0IHJlbmRlcnMgYW4gPGgxPiB3aGljaCBpcwovLyBjZW50ZXJlZCwgcGFsZXZpb2xldHJlZCBhbmQgc2l6ZWQgYXQgMS41ZW0KY29uc3QgVGl0bGUgPSBzdHlsZWQuaDFgCiAgZm9udC1zaXplOiAxLjVlbTsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgY29sb3I6IHBhbGV2aW9sZXRyZWQ7CmA7CgovLyBDcmVhdGUgYSA8V3JhcHBlcj4gcmVhY3QgY29tcG9uZW50IHRoYXQgcmVuZGVycyBhIDxzZWN0aW9uPiB3aXRoCi8vIHNvbWUgcGFkZGluZyBhbmQgYSBwYXBheWF3aGlwIGJhY2tncm91bmQKY29uc3QgV3JhcHBlciA9IHN0eWxlZC5zZWN0aW9uYAogIHBhZGRpbmc6IDRlbTsKICBiYWNrZ3JvdW5kOiBwYXBheWF3aGlwOwpgOwoKLy8gVXNlIHRoZW0gbGlrZSBhbnkgb3RoZXIgUmVhY3QgY29tcG9uZW50IOKAkyBleGNlcHQgdGhleSdyZSBzdHlsZWQhCjxXcmFwcGVyPgogIDxUaXRsZT5IZWxsbyBXb3JsZCwgdGhpcyBpcyBteSBmaXJzdCBzdHlsZWQgY29tcG9uZW50ITwvVGl0bGU+CjwvV3JhcHBlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuc3RyZWFtKGFycikuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICByZXR1cm4gbGlzdC5zdWJMaXN0KGxvLCBsbytrKTsK</text>
+        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -683,7 +677,6 @@
         <entry>action FindInPath</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
@@ -698,6 +691,7 @@
         <entry>action Back</entry>
         <entry>action Debug</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
