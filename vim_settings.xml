@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1516945222749">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="9" column="77" />
-        <mark key="]" line="9" column="77" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="77" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1517971435109">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -148,11 +148,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1516517839072">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1517978252931">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -206,7 +206,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516910990409">
+      <file name="/Python Console" timestamp="1517978253688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -230,6 +230,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1517490705209">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
         <mark key="'" line="284" column="10" />
@@ -305,6 +308,12 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/react_server_side_rendering/index.js" timestamp="1516236188313">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
         <mark key="'" line="89" column="3" />
         <mark key="[" line="68" column="27" />
@@ -325,12 +334,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1517199334036">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="19" column="38" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1518131578722">
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="58" column="29" />
+        <mark key="." line="58" column="29" />
+        <mark key="^" line="58" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -338,7 +346,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516911000975">
+      <file name="/Dummy.txt" timestamp="1517859871665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -487,12 +495,12 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1516810727276">
-        <mark key="'" line="432" column="20" />
-        <mark key="[" line="480" column="46" />
-        <mark key="]" line="480" column="52" />
-        <mark key="." line="480" column="52" />
-        <mark key="^" line="480" column="52" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1517952287030">
+        <mark key="'" line="112" column="31" />
+        <mark key="[" line="492" column="57" />
+        <mark key="]" line="492" column="61" />
+        <mark key="." line="492" column="61" />
+        <mark key="^" line="492" column="61" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -508,20 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="14" filename="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" />
-      <jump line="64" column="36" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
-      <jump line="54" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="109" column="34" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
-      <jump line="105" column="38" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
-      <jump line="182" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
-      <jump line="73" column="31" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" />
-      <jump line="18" column="45" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" />
-      <jump line="119" column="32" filename="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" />
-      <jump line="9" column="23" filename="$USER_HOME$/Developer/react_github/package.json" />
-      <jump line="163" column="12" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
-      <jump line="175" column="24" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
-      <jump line="42" column="22" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
-      <jump line="171" column="11" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="150" column="23" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="282" column="7" filename="$USER_HOME$/Developer/react_github/js/pages/about/AboutCommon.js" />
       <jump line="34" column="16" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
@@ -608,55 +602,69 @@
       <jump line="11" column="8" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
       <jump line="36" column="9" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
+      <jump line="389" column="27" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="480" column="11" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="490" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="380" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="42" column="92" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="53" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="51" column="67" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="112" column="31" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KEFycmF5cy5hc0xpc3QoMSwyLDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5mcmFzX2ZpbGUgPSB0cmFmZmljX3Jlc3VsdF9wYXRoICsgJy8nICsgdHJpcF9pZCArICcvX3RyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdC5qc29uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7CgovLyBDcmVhdGUgYSA8VGl0bGU+IHJlYWN0IGNvbXBvbmVudCB0aGF0IHJlbmRlcnMgYW4gPGgxPiB3aGljaCBpcwovLyBjZW50ZXJlZCwgcGFsZXZpb2xldHJlZCBhbmQgc2l6ZWQgYXQgMS41ZW0KY29uc3QgVGl0bGUgPSBzdHlsZWQuaDFgCiAgZm9udC1zaXplOiAxLjVlbTsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgY29sb3I6IHBhbGV2aW9sZXRyZWQ7CmA7CgovLyBDcmVhdGUgYSA8V3JhcHBlcj4gcmVhY3QgY29tcG9uZW50IHRoYXQgcmVuZGVycyBhIDxzZWN0aW9uPiB3aXRoCi8vIHNvbWUgcGFkZGluZyBhbmQgYSBwYXBheWF3aGlwIGJhY2tncm91bmQKY29uc3QgV3JhcHBlciA9IHN0eWxlZC5zZWN0aW9uYAogIHBhZGRpbmc6IDRlbTsKICBiYWNrZ3JvdW5kOiBwYXBheWF3aGlwOwpgOwoKLy8gVXNlIHRoZW0gbGlrZSBhbnkgb3RoZXIgUmVhY3QgY29tcG9uZW50IOKAkyBleGNlcHQgdGhleSdyZSBzdHlsZWQhCjxXcmFwcGVyPgogIDxUaXRsZT5IZWxsbyBXb3JsZCwgdGhpcyBpcyBteSBmaXJzdCBzdHlsZWQgY29tcG9uZW50ITwvVGl0bGU+CjwvV3JhcHBlcj4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBhaW1zIHRvIGZpbmQgcG9zIHdoZXJlIEFbcG9zXSA+PSBuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGludCBzID0gMDsKICAgIGludCBlID0gQS5sZW5ndGggLSAxOwoKCi8vIEFbcy0xXSA8IHRhcmdldCA8PSBBW3NdCi8vIGFpbXMgdG8gZmluZCBwb3Mgd2hlcmUgQVtwb3NdID49IG4Kd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzKSAvLyAyOwogICAgICAgIGlmIChBW21dIDwgdGFyZ2V0KSB7CiAgICAgICAgICAgIHMgPSBtICsgMTsgLy8g5LiN5Y+v6IO9IDwKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlID0gbTsKICAgICAgICB9CiAgICB9CgoKLy8gQWltcyB0byBmaW5kIHBvcyB3aGVyZSBuIDw9IEFbcG9zXQogICAgcyA9IDA7CiAgICBlID0gQS5sZW5ndGggLSAxOwoKd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzICsgMSkgLy8gMjsKICAgICAgICBpZiAoQVttXSA+IHRhcmdldCl7CiAgICAgICAgICAgIGUgPSBtIC0gMTsgIOS4jeWPr+iDvSA+CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcyA9IG07CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">CiAgICAjIGJpc2VjdApiaXNlY3QuYmlzZWN0X2xlZnQoQSwgeCkgIyBhbGwodmFsIDwgeCBmb3IgdmFsIGluIEFbbG86aV0pCmJpc2VjdC5iaXNlY3RfcmlnaHQoQSwgeCkgIyBhbGwodmFsIDw9IHggZm9yIHZhbCBpbiBBW2xvOmldKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBhcnJheSA9IGJiLnN0cmVhbSgpLm1hcFRvSW50KGktPmkpLnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBiID0gQXJyYXlzLmNvcHlPZlJhbmdlKHQsIDEsMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcsICcuam9pbihbc2NlbmFyaW8gZm9yIHNjZW5hcmlvIGluIHNldF9zY2VuYXJpbyBpZiBzY2VuYXJpbyBpcyBub3QgTm9uZV0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRfc2NlbmFyaW8uYWRkKHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHByaW50KHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsndHJhZmZpY190eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgICB0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHRbaV1bJ3NjZW5hcmlvJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBhID0gbmV3IExpc3ROb2RlKDUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldF9zY2VuYXJpbyA9IHNldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhLmxlZnQgPSBuZXcgTGlzdE5vZGUoMyk7CiAgICAgICAgYS5sZWZ0LmxlZnQgPSBuZXcgTGlzdE5vZGUoMik7CiAgICAgICAgYS5sZWZ0LnJpZ2h0ID0gbmV3IExpc3ROb2RlKDQpOwogICAgICAgIGEucmlnaHQgPSBuZXcgTGlzdE5vZGUoNik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbl9maWxlID0gdHJhZmZpY19yZXN1bHRfcGF0aCArICcvJyArIGZpbGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -670,28 +678,29 @@
         <entry>this.toast</entry>
         <entry>reorder</entry>
         <entry>GET</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action FindInPath</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action RunClass</entry>
-        <entry>action Run</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action DebugClass</entry>
-        <entry>action Back</entry>
-        <entry>action Debug</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action RecentFiles</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Back</entry>
+        <entry>action DebugClass</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Run</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
