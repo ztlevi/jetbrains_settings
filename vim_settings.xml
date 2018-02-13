@@ -205,8 +205,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518559140141">
-        <mark key="[" line="0" column="30" />
+      <file name="/Python Console" timestamp="1518559217404">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -517,12 +517,12 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518559112873">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518565265716">
         <mark key="'" line="397" column="11" />
-        <mark key="[" line="397" column="28" />
-        <mark key="]" line="397" column="29" />
-        <mark key="." line="397" column="28" />
-        <mark key="^" line="397" column="27" />
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="404" column="17" />
+        <mark key="." line="404" column="17" />
+        <mark key="^" line="404" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -644,7 +644,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">IHByaW50KA==</text>
       </register>
       <register name="/" type="4">
         <text>re.find</text>
