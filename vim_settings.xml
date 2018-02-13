@@ -9,8 +9,8 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518482752648">
-        <mark key="[" line="10" column="54" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518556303344">
+        <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="52" />
         <mark key="." line="10" column="52" />
         <mark key="^" line="10" column="52" />
@@ -205,7 +205,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518486045282">
+      <file name="/Python Console" timestamp="1518555918114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -230,8 +230,11 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518482236873">
+      <file name="/fragment.py" timestamp="1518555576920">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
         <mark key="'" line="284" column="10" />
@@ -392,9 +395,6 @@
         <mark key="." line="64" column="71" />
         <mark key="^" line="64" column="71" />
       </file>
-      <file name="/code.py" timestamp="1516514486401">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513915725871">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="57" column="34" />
@@ -522,12 +522,11 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518486487274">
-        <mark key="'" line="302" column="20" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="91" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518556348172">
+        <mark key="[" line="412" column="58" />
+        <mark key="]" line="412" column="58" />
+        <mark key="." line="412" column="58" />
+        <mark key="^" line="412" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -543,12 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="15" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="58" column="60" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="272" column="10" filename="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" />
-      <jump line="12" column="24" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
-      <jump line="8" column="4" filename="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" />
-      <jump line="48" column="24" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
       <jump line="60" column="21" filename="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" />
       <jump line="412" column="16" filename="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" />
       <jump line="29" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -643,55 +636,63 @@
       <jump line="350" column="22" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="399" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="302" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="127" column="45" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="111" column="24" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="361" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="355" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sample_siz</text>
+        <text>segmented_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyaXBfZHJpdmVySUQgPSBpbnB1dF9wYXRoLnNwbGl0KCcvJylbLTFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgKGxpbmVfbnVtIC0gMSkgJSAxMDAgPT0gMDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TdGFydCB0byBzZWdtZW50IHRoZSBiaW9oYXJuZXNzIGRhdGEhID09PSIpCiAgICBwcmludCgiPT09U3RhcnQgdG8gc2VnbWVudCB0aGUgbWF0Y2hlY19yb3V0ZSBkYXRhISA9PT0iKQo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIG1hdGNoZWRfcm91dGUgZGF0YSEgPT09IikKICAgIHByaW50KCI9PT1TZWdtZW50ZWQgdGhlIGJpb2hhcm5lc3MgZGF0YSEgPT09XG4iKQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcmludCgiPT09U3RhcnQgdG8gc2VnbWVudCB0aGUgZGF0YWxvZ2dlciBkYXRhISA9PT0iKQogICAgcHJpbnQoIj09PVN0YXJ0IHRvIHNlZ21lbnQgdGhlIHNoaW1tZXIgZGF0YSEgPT09IikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc2FtcGxlX3NpemVfYXJyID0gW2xlbihkWyd0aW1lIFtzXSddKSBmb3IgZCBpbiBkYXRhbG9nZ2VyX2RhdGFdCiAgICBwcmludCgiPT09U2VnbWVudGVkIHRoZSBkYXRhbG9nZ2VyIGRhdGEhID09PSIpCiAgICBwcmludCgiPT09U2VnbWVudGVkIHRoZSBzaGltbWVyIGRhdGEhID09PVxuIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VnbWVudF9zaXplKToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VnbWVudF9zaXplID0gbGVuKHRpbWVfbGlzdCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWdtZW50ZWRfcmVzdWx0ID0gbG9hZF9vYmooJy9Vc2Vycy96dGxldmkvRG93bmxvYWRzL1RSSV9kYXRhL0lEMDAyX1QwMDEvSUQwMDJfVDAwMV9zZWdtZW50ZWRfZGF0YS5wa2wnKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlc2FtcGxlZF9kYXRhKGlucHV0X3BhdGgsIG91dHB1dF9wYXRoLCB0aW1lX2xpc3QsIHNjZW5hcmlvX2xpc3QpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNjZW5hcmlvX2xpc3QpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAjIHJlcmFuZ2UgdGhlIGRhdGEgc3RydWN0dXJlCiAgICBzZWdtZW50ZWRfcmVzdWx0ID0gWwogICAgICAgIGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxpc3QpIGZvciBfIGluIHJhbmdlKGxlbih0aW1lX2xpc3QpKQogICAgXQoKICAgICMgYmlvaGFybmVzczogMCwgbWF0Y2hlZF9yb3V0ZTogMSwgZGFnYWxvZ2dlcjogMiwgc2hpbW1lcjogMwogICAgZm9yIGksIHRpbWVfdHVwbGUgaW4gZW51bWVyYXRlKHRpbWVfbGlzdCk6CiAgICAgICAgaWYgc2NlbmFyaW9fbGlzdDoKICAgICAgICAgICAgc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSA9IHNjZW5hcmlvX2xpc3RbaV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydzdGFydF90aW1lJ10gPSB0aW1lX3R1cGxlWzBdCiAgICAgICAgc2VnbWVudGVkX3Jlc3VsdFtpXVsnZW5kX3RpbWUnXSA9IHRpbWVfdHVwbGVbMV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddID0gc2VnbWVudGVkX2RhdGFbMF1baV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydtYXRjaGVkX3JvdXRlJ10gPSBzZWdtZW50ZWRfZGF0YVsxXVtpXQogICAgICAgIHNlZ21lbnRlZF9yZXN1bHRbaV1bJ2RhdGFsb2dnZXJfZGF0YSddID0gc2VnbWVudGVkX2RhdGFbMl1baV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydzaGltbWVyX2RhdGEnXSA9IHNlZ21lbnRlZF9kYXRhWzNdW2ldCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKCcuLy4uLy4uL3Jlc3VsdC9TZWdtZW50ZWRfUmVzdWx0LycpOgogICAgICAgIG9zLm1ha2VkaXJzKCcuLy4uLy4uL3Jlc3VsdC9TZWdtZW50ZWRfUmVzdWx0LycpCgogICAgdHJ5OgogICAgICAgIHNhdmVfb2JqKHNlZ21lbnRlZF9yZXN1bHQsICcuLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nICsKICAgICAgICAgICAgICAgICB0cmlwX2RyaXZlcklEICsgJ19zZWdtZW50ZWRfZGF0YS5wa2wnKQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcHJpbnQoIkNhbm5vdCBzYXZlIG91dHB1dC4uLiIpCiAgICBwcmludCgiU3VjY2Vzc2Z1bGx5IHNlZ21lbnRlZCB0aGUgZGF0YSEhISIpCgoKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZCA9IHRpbWUudGltZSgpCiAgICBwcmludChlbmQgLSBzdGFydCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl90aW1lID0gLTEKCiAgICAgICAgICAgICAgICBpZiBsaW5lX251bSA9PSAyOgogICAgICAgICAgICAgICAgICAgICMgZ2V0IHRoZSBmaXJzdCB0aW1lLCB0byBjYWxjdWxhdGUgdGhlIHRpbWUgaW5kZXggdG8gY29tcGFyZSB3aXRoIHRpbWUgbGlzdAogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgZG90X3BvcyA9IHJvd1swXS5maW5kKCcuJykKICAgICAgICAgICAgICAgICAgICAgICAgeCA9IHRpbWUuc3RycHRpbWUocm93WzBdWzpyb3dbMF0uZmluZCgnLicpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiVZLyVtLyVkICVIOiVNOiVTIikKICAgICAgICAgICAgICAgICAgICAgICAgbWlsbGlzZWNvbmRzID0gZmxvYXQocm93WzBdW2RvdF9wb3M6ZG90X3BvcyArIDRdKQogICAgICAgICAgICAgICAgICAgICAgICBmaXJzdF90aW1lID0gZGF0ZXRpbWUudGltZWRlbHRhKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaG91cnM9eC50bV9ob3VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWludXRlcz14LnRtX21pbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZHM9eC50bV9zZWMpLnRvdGFsX3NlY29uZHMoKSArIG1pbGxpc2Vjb25kcwogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICAjIENhbm5vdCBzdHJwdGltZSEgRG8gaXQgVW5peCB0aW1lLgogICAgICAgICAgICAgICAgICAgICAgICBmaXJzdF90aW1lID0gZmxvYXQocm93WzBdWzpyb3dbMF0uZmluZCgnXHQnKV0pIC8gMTAwMAoKICAgICAgICAgICAgICAgIGVsaWYgbGluZV9udW0gPiAyOgogICAgICAgICAgICAgICAgICAgICMgZ2V0IHRoZSBjdXJyZW50IHRpbWUgYXMgc2Vjb25kcwogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgZG90X3BvcyA9IHJvd1swXS5maW5kKCcuJykKICAgICAgICAgICAgICAgICAgICAgICAgeCA9IHRpbWUuc3RycHRpbWUocm93WzBdWzpkb3RfcG9zXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiVZLyVtLyVkICVIOiVNOiVTIikKICAgICAgICAgICAgICAgICAgICAgICAgbWlsbGlzZWNvbmRzID0gZmxvYXQocm93WzBdW2RvdF9wb3M6ZG90X3BvcyArIDRdKQogICAgICAgICAgICAgICAgICAgICAgICBjdXJfdGltZSA9IGRhdGV0aW1lLnRpbWVkZWx0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvdXJzPXgudG1faG91ciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbnV0ZXM9eC50bV9taW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWNvbmRzPXgudG1fc2VjKS50b3RhbF9zZWNvbmRzKCkgKyBtaWxsaXNlY29uZHMKICAgICAgICAgICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBDYW5ub3Qgc3RycHRpbWUhIERvIGl0IFVuaXggdGltZS4KICAgICAgICAgICAgICAgICAgICAgICAgY3VyX3RpbWUgPSBmbG9hdChyb3dbMF1bOnJvd1swXS5maW5kKCdcdCcpXSkgLyAxMDAwCgogICAgICAgICAgICAgICAgICAgICMgY29tcGFyZSB0d28gb2YgdGhlbQogICAgICAgICAgICAgICAgICAgIGlmIGN1cl90aW1lIC0gZmlyc3RfdGltZSA+IGN1cl9lbmRfdGltZToKICAgICAgICAgICAgICAgICAgICAgICAgc2VnbWVudF9pZHggKz0gMQogICAgICAgICAgICAgICAgICAgICAgICBjdXJfc3RhcnRfdGltZSA9IHRpbWVfbGlzdFtzZWdtZW50X2lkeF1bMF0KICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGUgbGFzdCBjdXJfZW5kX3RpbWUgaXMgc2V0IHRvIGJlICdpbmYnIGluIGNhc2UgdGhlIHNlZ21lbnRfaWR4IGV4Y2VlZAogICAgICAgICAgICAgICAgICAgICAgICBjdXJfZW5kX3RpbWUgPSB0aW1lX2xpc3Rbc2VnbWVudF9pZHhdWzFdIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHNlZ21lbnRfaWR4IDwgbGVuKHRpbWVfbGlzdCkgLSAxIGVsc2UgZmxvYXQoJ2luZicpCg==</text>
+        <text encoding="base64">CiAgICAjIHJlcmFuZ2UgdGhlIGRhdGEgc3RydWN0dXJlCiAgICBzZWdtZW50ZWRfcmVzdWx0ID0gWwogICAgICAgIGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxpc3QpIGZvciBfIGluIHJhbmdlKGxlbih0aW1lX2xpc3QpKQogICAgXQoKICAgICMgYmlvaGFybmVzczogMCwgbWF0Y2hlZF9yb3V0ZTogMSwgZGFnYWxvZ2dlcjogMiwgc2hpbW1lcjogMwogICAgZm9yIGksIHRpbWVfdHVwbGUgaW4gZW51bWVyYXRlKHRpbWVfbGlzdCk6CiAgICAgICAgaWYgc2NlbmFyaW9fbGlzdDoKICAgICAgICAgICAgc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSA9IHNjZW5hcmlvX2xpc3RbaV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydzdGFydF90aW1lJ10gPSB0aW1lX3R1cGxlWzBdCiAgICAgICAgc2VnbWVudGVkX3Jlc3VsdFtpXVsnZW5kX3RpbWUnXSA9IHRpbWVfdHVwbGVbMV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddID0gc2VnbWVudGVkX2RhdGFbMF1baV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydtYXRjaGVkX3JvdXRlJ10gPSBzZWdtZW50ZWRfZGF0YVsxXVtpXQogICAgICAgIHNlZ21lbnRlZF9yZXN1bHRbaV1bJ2RhdGFsb2dnZXJfZGF0YSddID0gc2VnbWVudGVkX2RhdGFbMl1baV0KICAgICAgICBzZWdtZW50ZWRfcmVzdWx0W2ldWydzaGltbWVyX2RhdGEnXSA9IHNlZ21lbnRlZF9kYXRhWzNdW2ldCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKCcuLy4uLy4uL3Jlc3VsdC9TZWdtZW50ZWRfUmVzdWx0LycpOgogICAgICAgIG9zLm1ha2VkaXJzKCcuLy4uLy4uL3Jlc3VsdC9TZWdtZW50ZWRfUmVzdWx0LycpCgogICAgdHJ5OgogICAgICAgIHNhdmVfb2JqKHNlZ21lbnRlZF9yZXN1bHQsICcuLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nICsKICAgICAgICAgICAgICAgICB0cmlwX2RyaXZlcklEICsgJ19zZWdtZW50ZWRfZGF0YS5wa2wnKQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcHJpbnQoIkNhbm5vdCBzYXZlIG91dHB1dC4uLiIpCiAgICBwcmludCgiU3VjY2Vzc2Z1bGx5IHNlZ21lbnRlZCB0aGUgZGF0YSEhISIpCiAgICBlbmQgPSB0aW1lLnRpbWUoKQogICAgcHJpbnQoZW5kIC0gc3RhcnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdF90aW1lID0gLTEK</text>
+        <text encoding="base64">ICAgICAgICBOb25lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
-      <last-search>sample_siz</last-search>
+      <last-search>segmented_data</last-search>
       <last-offset />
-      <last-pattern>sample_siz</last-pattern>
+      <last-pattern>segmented_data</last-pattern>
+      <last-replace>resampled_data</last-replace>
+      <last-substitute>segmented_data</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -709,9 +710,9 @@
         <entry>traffic</entry>
         <entry>scenario</entry>
         <entry>sample_siz</entry>
+        <entry>segmented_data</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>action DashLauncherAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
@@ -719,18 +720,19 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action RunClass</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Back</entry>
         <entry>action DebugClass</entry>
+        <entry>1,113 s/segmented_data/resampled_data/gc</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action Debug</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
