@@ -9,12 +9,14 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518727133623">
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="56" column="43" />
-        <mark key="." line="56" column="43" />
-        <mark key="^" line="56" column="43" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="54" column="87" />
+        <mark key="]" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+        <mark key="^" line="55" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/PhotoGrid.js" timestamp="1518654562445" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="24" column="34" />
@@ -45,8 +47,8 @@
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="69" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Maven/pom.xml" timestamp="1517106389366">
         <mark key="[" line="17" column="0" />
@@ -137,10 +139,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/numpy/lib/shape_base.py" timestamp="1516517319365">
-        <mark key="[" line="874" column="0" />
-        <mark key="]" line="882" column="18" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="15" />
@@ -159,6 +157,12 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1514348009355">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
         <mark key="'" line="80" column="19" />
@@ -187,6 +191,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513916508696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -205,7 +215,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518727066286">
+      <file name="/Python Console" timestamp="1518569497324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -267,8 +277,8 @@
         <mark key="'" line="88" column="14" />
         <mark key="[" line="79" column="56" />
         <mark key="]" line="79" column="50" />
-        <mark key="." line="79" column="50" />
         <mark key="^" line="79" column="50" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -291,8 +301,8 @@
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
-        <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
@@ -335,18 +345,18 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513916744290">
         <mark key="'" line="73" column="31" />
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1518131578722">
         <mark key="'" line="0" column="0" />
@@ -385,8 +395,8 @@
         <mark key="'" line="268" column="15" />
         <mark key="[" line="70" column="3" />
         <mark key="]" line="73" column="32" />
-        <mark key="^" line="73" column="32" />
         <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
         <mark key="'" line="87" column="18" />
@@ -415,15 +425,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="152" column="35" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -443,6 +454,9 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
+        <mark key="'" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
@@ -523,11 +537,13 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518727856246">
-        <mark key="[" line="395" column="35" />
-        <mark key="]" line="395" column="38" />
-        <mark key="." line="395" column="38" />
-        <mark key="^" line="395" column="38" />
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/App.js" timestamp="1518655561626" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518569396515">
+        <mark key="'" line="400" column="23" />
+        <mark key="[" line="449" column="34" />
+        <mark key="]" line="449" column="41" />
+        <mark key="." line="449" column="41" />
+        <mark key="^" line="449" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -543,6 +559,9 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="37" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="88" column="50" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="118" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="119" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="121" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -640,51 +659,46 @@
       <jump line="447" column="18" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="365" column="50" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="400" column="23" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="448" column="33" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="342" column="38" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="391" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>segmented_result</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>not exist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2F2ZV9maWxlLCAncmInKSBhcyBmX2luOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc2VnbWVudGVkX3Jlc3VsdCkpOgogICAgICAgICAgICBwcmludChmJz09PT09PT09PSBTZWdtZW50IFN0YXJ0IHtpfSA9PT09PT09PT0nKQogICAgICAgICAgICBwcmludCgnU2NlbmFyaW86ICcgKyBzdHIoc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkpCiAgICAgICAgICAgIHByaW50KCdTdGFydCB0aW1lOiAnICsgc3RyKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSkpCiAgICAgICAgICAgIHByaW50KCdFbmQgdGltZTogJyArIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddKSkKICAgICAgICAgICAgcHJpbnQoJ1RpbWUgcGVyaW9kIGxlbmd0aDogJyArCiAgICAgICAgICAgICAgICAgIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddIC0KICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSArIDEpKQogICAgICAgICAgICBwcmludCgnZGF0YWxvZ2dlciBsZW5ndGg6ICcgKyBzdHIoCiAgICAgICAgICAgICAgICBsZW4oc2VnbWVudGVkX3Jlc3VsdFtpXVsnZGF0YWxvZ2dlcl9kYXRhJ11bJ2xvbmcgYWNjZWwgW2ddJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsKICAgICAgICAgICAgICAgICAgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCiAgICAgICAgICAgIHByaW50KCdtYXRjaGVkIHJvdXRlIGxlbmd0aDogJyArIHN0cigKICAgICAgICAgICAgICAgIGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydtYXRjaGVkX3JvdXRlJ11bJ0ZDJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ3NoaW1tZXIgbGVuZ3RoOiAnICsgc3RyKAogICAgICAgICAgICAgICAgbGVuKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3NoaW1tZXJfZGF0YSddWydBY2NlbF9MTl9YX0NBTCddKSkpCiAgICAgICAgICAgIHByaW50KGYnPT09PT09PT09IFNlZ21lbnQgRW5kIHtpfSA9PT09PT09PT1cbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGFiZWwgKyAnIHNlZ21lbnQgcmVzdWx0ISEhJykK</text>
       </register>
-      <register name="2" type="4">
-        <text>'../../../result/Segmented_Result/' +
-                 trip_driverID + '_label_segmented_data.pkl'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYnPT09PT09PT09IFNlZ21lbnQgU3RhcnQge2l9ID09PT09PT09PScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJy9ob21lL2pvZS9maWxlLnR4dCcsICdyYicpIGFzIGZfaW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdTY2VuYXJpbzogJyArIHN0cihzZWdtZW50ZWRfcmVzdWx0W2xhYmVsXVtpXVsnc2NlbmFyaW8nXSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgZ3ppcAogICAgICAgIGltcG9ydCBzaHV0aWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnemlwCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
       </register>
-      <register name="6" type="4">
-        <text>'../../../result/Segmented_Result/' +
-                 trip_driverID + '_segmented_data.pkl'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nKToKICAgICAgICBvcy5tYWtlZGlycygnLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJz09PT09PT09PSBTZWdtZW50IFN0YXJ0IHtpfSA9PT09PT09PT0nKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdkZicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJz09PT09PT09PSBTZWdtZW50IFN0YXJ0IHtsYWJlbH0gPT09PT09PT09JykK</text>
+        <text encoding="base64">ICAgICAgICAgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW4gc2VnbWVudGVkX3Jlc3VsdDoK</text>
+        <text encoding="base64">ICAgICMgcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -705,42 +719,34 @@
         <entry>ComponentWill</entry>
         <entry>onPress</entry>
         <entry>nextProps</entry>
-        <entry>Text</entry>
-        <entry>this.toast</entry>
-        <entry>reorder</entry>
+        <entry>key</entry>
+        <entry>dataRepository</entry>
+        <entry>onFavrite</entry>
+        <entry>onFav</entry>
         <entry>GET</entry>
-        <entry>time_list</entry>
-        <entry>traffic</entry>
-        <entry>scenario</entry>
-        <entry>sample_siz</entry>
-        <entry>segmented_data</entry>
-        <entry>match</entry>
-        <entry>re</entry>
-        <entry>re.match</entry>
-        <entry>re.find</entry>
-        <entry>not exist</entry>
+        <entry>placement</entry>
       </history-search>
       <history-cmd>
-        <entry>action DashLauncherAction</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action ExpandRegion</entry>
+        <entry>action CollapseRegion</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
+        <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>1,113 s/segmented_data/resampled_data/gc</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReformatCode</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action DebugClass</entry>
         <entry>action Back</entry>
-        <entry>action RunClass</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
