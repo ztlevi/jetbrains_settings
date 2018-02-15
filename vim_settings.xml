@@ -16,7 +16,6 @@
         <mark key="." line="55" column="24" />
         <mark key="^" line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/PhotoGrid.js" timestamp="1518654562445" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="24" column="34" />
@@ -425,7 +424,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1518736307321">
+        <mark key="'" line="166" column="43" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="152" column="35" />
@@ -537,7 +537,6 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/App.js" timestamp="1518655561626" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518569396515">
         <mark key="'" line="400" column="23" />
         <mark key="[" line="449" column="34" />
@@ -559,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="88" column="50" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="101" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="118" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -659,6 +657,7 @@
       <jump line="447" column="18" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="365" column="50" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="400" column="23" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="166" column="43" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -668,7 +667,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>not exist</text>
+        <text>rfind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc2VnbWVudGVkX3Jlc3VsdCkpOgogICAgICAgICAgICBwcmludChmJz09PT09PT09PSBTZWdtZW50IFN0YXJ0IHtpfSA9PT09PT09PT0nKQogICAgICAgICAgICBwcmludCgnU2NlbmFyaW86ICcgKyBzdHIoc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkpCiAgICAgICAgICAgIHByaW50KCdTdGFydCB0aW1lOiAnICsgc3RyKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSkpCiAgICAgICAgICAgIHByaW50KCdFbmQgdGltZTogJyArIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddKSkKICAgICAgICAgICAgcHJpbnQoJ1RpbWUgcGVyaW9kIGxlbmd0aDogJyArCiAgICAgICAgICAgICAgICAgIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddIC0KICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSArIDEpKQogICAgICAgICAgICBwcmludCgnZGF0YWxvZ2dlciBsZW5ndGg6ICcgKyBzdHIoCiAgICAgICAgICAgICAgICBsZW4oc2VnbWVudGVkX3Jlc3VsdFtpXVsnZGF0YWxvZ2dlcl9kYXRhJ11bJ2xvbmcgYWNjZWwgW2ddJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsKICAgICAgICAgICAgICAgICAgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCiAgICAgICAgICAgIHByaW50KCdtYXRjaGVkIHJvdXRlIGxlbmd0aDogJyArIHN0cigKICAgICAgICAgICAgICAgIGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydtYXRjaGVkX3JvdXRlJ11bJ0ZDJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ3NoaW1tZXIgbGVuZ3RoOiAnICsgc3RyKAogICAgICAgICAgICAgICAgbGVuKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3NoaW1tZXJfZGF0YSddWydBY2NlbF9MTl9YX0NBTCddKSkpCiAgICAgICAgICAgIHByaW50KGYnPT09PT09PT09IFNlZ21lbnQgRW5kIHtpfSA9PT09PT09PT1cbicpCg==</text>
@@ -705,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not exist</last-search>
+      <last-search>rfind</last-search>
       <last-offset />
-      <last-pattern>not exist</last-pattern>
+      <last-pattern>rfind</last-pattern>
       <last-replace>resampled_data</last-replace>
       <last-substitute>segmented_data</last-substitute>
       <last-dir>1</last-dir>
@@ -725,6 +724,7 @@
         <entry>onFav</entry>
         <entry>GET</entry>
         <entry>placement</entry>
+        <entry>rfind</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseRegion</entry>
