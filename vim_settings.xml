@@ -10,11 +10,13 @@
         <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="54" column="87" />
         <mark key="]" line="55" column="24" />
-        <mark key="^" line="55" column="24" />
         <mark key="." line="55" column="24" />
+        <mark key="^" line="55" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/PhotoGrid.js" timestamp="1518654562445" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="24" column="34" />
@@ -45,8 +47,8 @@
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="69" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Maven/pom.xml" timestamp="1517106389366">
         <mark key="[" line="17" column="0" />
@@ -137,10 +139,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/numpy/lib/shape_base.py" timestamp="1516517319365">
-        <mark key="[" line="874" column="0" />
-        <mark key="]" line="882" column="18" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="15" />
@@ -159,6 +157,12 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1514348009355">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
         <mark key="'" line="80" column="19" />
@@ -186,6 +190,12 @@
         <mark key="]" line="35" column="36" />
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
+      </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513916508696">
         <mark key="[" line="0" column="0" />
@@ -267,8 +277,8 @@
         <mark key="'" line="88" column="14" />
         <mark key="[" line="79" column="56" />
         <mark key="]" line="79" column="50" />
-        <mark key="." line="79" column="50" />
         <mark key="^" line="79" column="50" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -291,8 +301,8 @@
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
-        <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
@@ -335,18 +345,18 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513916744290">
         <mark key="'" line="73" column="31" />
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1518131578722">
         <mark key="'" line="0" column="0" />
@@ -385,8 +395,8 @@
         <mark key="'" line="268" column="15" />
         <mark key="[" line="70" column="3" />
         <mark key="]" line="73" column="32" />
-        <mark key="^" line="73" column="32" />
         <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
         <mark key="'" line="87" column="18" />
@@ -415,15 +425,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="152" column="35" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -443,6 +454,9 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
+        <mark key="'" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
@@ -523,6 +537,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/App.js" timestamp="1518655561626" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518569396515">
         <mark key="'" line="400" column="23" />
         <mark key="[" line="449" column="34" />
@@ -704,42 +719,34 @@
         <entry>ComponentWill</entry>
         <entry>onPress</entry>
         <entry>nextProps</entry>
-        <entry>Text</entry>
-        <entry>this.toast</entry>
-        <entry>reorder</entry>
+        <entry>key</entry>
+        <entry>dataRepository</entry>
+        <entry>onFavrite</entry>
+        <entry>onFav</entry>
         <entry>GET</entry>
-        <entry>time_list</entry>
-        <entry>traffic</entry>
-        <entry>scenario</entry>
-        <entry>sample_siz</entry>
-        <entry>segmented_data</entry>
-        <entry>match</entry>
-        <entry>re</entry>
-        <entry>re.match</entry>
-        <entry>re.find</entry>
-        <entry>not exist</entry>
+        <entry>placement</entry>
       </history-search>
       <history-cmd>
-        <entry>action DashLauncherAction</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action ExpandRegion</entry>
+        <entry>action CollapseRegion</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
+        <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>1,113 s/segmented_data/resampled_data/gc</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action Back</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReformatCode</entry>
-        <entry>action DebugClass</entry>
-        <entry>action RunClass</entry>
+        <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
