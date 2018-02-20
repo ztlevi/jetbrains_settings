@@ -424,12 +424,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1518736307321">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+        <mark key="[" line="144" column="16" />
+        <mark key="]" line="144" column="16" />
         <mark key="^" line="152" column="35" />
-        <mark key="." line="8" column="0" />
+        <mark key="." line="144" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
@@ -537,11 +537,11 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1518569396515">
-        <mark key="[" line="133" column="34" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="41" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1519166415057">
+        <mark key="[" line="457" column="0" />
+        <mark key="]" line="457" column="0" />
+        <mark key="." line="457" column="0" />
+        <mark key="^" line="462" column="52" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -663,40 +663,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc2VnbWVudGVkX3Jlc3VsdCkpOgogICAgICAgICAgICBwcmludChmJz09PT09PT09PSBTZWdtZW50IFN0YXJ0IHtpfSA9PT09PT09PT0nKQogICAgICAgICAgICBwcmludCgnU2NlbmFyaW86ICcgKyBzdHIoc2VnbWVudGVkX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkpCiAgICAgICAgICAgIHByaW50KCdTdGFydCB0aW1lOiAnICsgc3RyKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSkpCiAgICAgICAgICAgIHByaW50KCdFbmQgdGltZTogJyArIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddKSkKICAgICAgICAgICAgcHJpbnQoJ1RpbWUgcGVyaW9kIGxlbmd0aDogJyArCiAgICAgICAgICAgICAgICAgIHN0cihzZWdtZW50ZWRfcmVzdWx0W2ldWydlbmRfdGltZSddIC0KICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3N0YXJ0X3RpbWUnXSArIDEpKQogICAgICAgICAgICBwcmludCgnZGF0YWxvZ2dlciBsZW5ndGg6ICcgKyBzdHIoCiAgICAgICAgICAgICAgICBsZW4oc2VnbWVudGVkX3Jlc3VsdFtpXVsnZGF0YWxvZ2dlcl9kYXRhJ11bJ2xvbmcgYWNjZWwgW2ddJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ2Jpb2hhcm5lc3MgbGVuZ3RoOiAnICsKICAgICAgICAgICAgICAgICAgc3RyKGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydiaW9fZGF0YSddWydIUiddKSkpCiAgICAgICAgICAgIHByaW50KCdtYXRjaGVkIHJvdXRlIGxlbmd0aDogJyArIHN0cigKICAgICAgICAgICAgICAgIGxlbihzZWdtZW50ZWRfcmVzdWx0W2ldWydtYXRjaGVkX3JvdXRlJ11bJ0ZDJ10pKSkKICAgICAgICAgICAgcHJpbnQoJ3NoaW1tZXIgbGVuZ3RoOiAnICsgc3RyKAogICAgICAgICAgICAgICAgbGVuKHNlZ21lbnRlZF9yZXN1bHRbaV1bJ3NoaW1tZXJfZGF0YSddWydBY2NlbF9MTl9YX0NBTCddKSkpCiAgICAgICAgICAgIHByaW50KGYnPT09PT09PT09IFNlZ21lbnQgRW5kIHtpfSA9PT09PT09PT1cbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGFiZWwgKyAnIHNlZ21lbnQgcmVzdWx0ISEhJykK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYnPT09PT09PT09IFNlZ21lbnQgU3RhcnQge2l9ID09PT09PT09PScpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwogICAgICAgIGlmIGxhYmVsID09ICdZaWVsZCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3lpZWxkIHNpZ24gYXJlYScKICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwogICAgICAgIGVsaWYgbGFiZWwgaW4gWydMYW5lIENoYW5nZSBMZWZ0JywgJ0xhbmUgQ2hhbmdlIFJpZ2h0JywgJ1R1cm4gTGVmdCcsICdUdXJuIFJpZ2h0J106CiAgICAgICAgICAgIGxhYmVsID0gc3RyLmxvd2VyKGxhYmVsKQoKICAgICAgICBwcmludChsYWJlbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdTY2VuYXJpbzogJyArIHN0cihzZWdtZW50ZWRfcmVzdWx0W2xhYmVsXVtpXVsnc2NlbmFyaW8nXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nKToKICAgICAgICBvcy5tYWtlZGlycygnLi8uLi8uLi9yZXN1bHQvU2VnbWVudGVkX1Jlc3VsdC8nKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCiAgICAgICAgZWxpZiBsYWJlbCA9PSAnTGFuZSBDaGFuZ2UgUmlnaHQnOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdkZicpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zID0geydTdG9wJzogbGFtYmRhIDogbGFiZWwgPSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggbGFiZWw6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -726,7 +726,6 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseRegion</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
@@ -739,13 +738,14 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
