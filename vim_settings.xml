@@ -144,11 +144,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1518425235052">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519170530641">
+        <mark key="[" line="35" column="57" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -214,7 +214,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518569497324">
+      <file name="/Python Console" timestamp="1519170427688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -663,7 +663,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cnt</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -672,31 +672,31 @@
         <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWwgY250W3RdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwogICAgICAgIGlmIGxhYmVsID09ICdZaWVsZCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3lpZWxkIHNpZ24gYXJlYScKICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwogICAgICAgIGVsaWYgbGFiZWwgaW4gWydMYW5lIENoYW5nZSBMZWZ0JywgJ0xhbmUgQ2hhbmdlIFJpZ2h0JywgJ1R1cm4gTGVmdCcsICdUdXJuIFJpZ2h0J106CiAgICAgICAgICAgIGxhYmVsID0gc3RyLmxvd2VyKGxhYmVsKQoKICAgICAgICBwcmludChsYWJlbCkK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwogICAgICAgIGlmIGxhYmVsID09ICdZaWVsZCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3lpZWxkIHNpZ24gYXJlYScKICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwogICAgICAgIGVsaWYgbGFiZWwgaW4gWydMYW5lIENoYW5nZSBMZWZ0JywgJ0xhbmUgQ2hhbmdlIFJpZ2h0JywgJ1R1cm4gTGVmdCcsICdUdXJuIFJpZ2h0J106CiAgICAgICAgICAgIGxhYmVsID0gc3RyLmxvd2VyKGxhYmVsKQoKICAgICAgICBwcmludChsYWJlbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCiAgICAgICAgZWxpZiBsYWJlbCA9PSAnTGFuZSBDaGFuZ2UgUmlnaHQnOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0geydTdG9wJzogbGFtYmRhIDogbGFiZWwgPSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCiAgICAgICAgZWxpZiBsYWJlbCA9PSAnTGFuZSBDaGFuZ2UgUmlnaHQnOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggbGFiZWw6Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zID0geydTdG9wJzogbGFtYmRhIDogbGFiZWwgPSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggbGFiZWw6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -739,12 +739,12 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
