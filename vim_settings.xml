@@ -698,7 +698,7 @@
         <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -736,7 +736,6 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
@@ -745,6 +744,7 @@
         <entry>action RunClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
