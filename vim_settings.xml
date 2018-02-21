@@ -391,13 +391,6 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1517973280455">
-        <mark key="[" line="37" column="36" />
-        <mark key="k" line="27" column="17" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="37" column="36" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1516761630276">
         <mark key="'" line="188" column="0" />
         <mark key="[" line="8" column="0" />
@@ -662,7 +655,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZXRfdHJhZmZpY190eXBlLnJlbW92ZSgnbnVsbCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -696,7 +689,6 @@
         <entry>action RecentFiles</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
@@ -704,6 +696,7 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
