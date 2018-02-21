@@ -144,6 +144,12 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519195322460">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
         <mark key="[" line="7" column="21" />
@@ -693,7 +699,7 @@
         <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -736,10 +742,10 @@
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action RunClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
