@@ -144,18 +144,18 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1518425235052">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/package.json" timestamp="1514348009355">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
         <mark key="'" line="80" column="19" />
@@ -208,7 +208,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518569497324">
+      <file name="/Python Console" timestamp="1519173814932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -412,12 +412,11 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1519193610708">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="37" column="94" />
-        <mark key="." line="37" column="94" />
-        <mark key="^" line="37" column="94" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1517106514945">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
@@ -658,7 +657,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>copyofRange</text>
+        <text>cnt</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -667,34 +666,34 @@
         <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXIK</text>
+        <text encoding="base64">ICAgICAgICBhID0gY29sbGVjdGlvbnMuQ291bnRlcih0YXNrcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBhID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwogICAgICAgIGlmIGxhYmVsID09ICdZaWVsZCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3lpZWxkIHNpZ24gYXJlYScKICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwogICAgICAgIGVsaWYgbGFiZWwgaW4gWydMYW5lIENoYW5nZSBMZWZ0JywgJ0xhbmUgQ2hhbmdlIFJpZ2h0JywgJ1R1cm4gTGVmdCcsICdUdXJuIFJpZ2h0J106CiAgICAgICAgICAgIGxhYmVsID0gc3RyLmxvd2VyKGxhYmVsKQoKICAgICAgICBwcmludChsYWJlbCkK</text>
+        <text encoding="base64">ICAgICAgICBsYXN0VGFzayA9IE5vbmUKICAgICAgICByZXMgPSAwCiAgICAgICAgbnVsbFZhciA9IFtdCgogICAgICAgIHdoaWxlIGxlbihudWxsVmFyKSAhPSBsZW4oY250LmtleXMoKSk6CiAgICAgICAgICAgIG5ld1Rhc2sgPSAnJwogICAgICAgICAgICBmb3IgdCBpbiBjbnQ6CiAgICAgICAgICAgICAgICBpZiB0IGluIG51bGxWYXI6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGNudFt0XSAtPSAxCiAgICAgICAgICAgICAgICBpZiBjbnRbdF0gPT0gMDoKICAgICAgICAgICAgICAgICAgICBudWxsVmFyLmFwcGVuZCh0KQogICAgICAgICAgICAgICAgbmV3VGFzayArPSB0CiAgICAgICAgICAgIGlmIG5ld1Rhc2sgPT0gbGFzdFRhc2s6CiAgICAgICAgICAgICAgICByZXMgKz0gMQogICAgICAgICAgICByZXMgKz0gbGVuKG5ld1Rhc2spCiAgICAgICAgICAgIGxhc3RUYXNrID0gbmV3VGFzawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWwgY250W3RdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwogICAgICAgIGlmIGxhYmVsID09ICdZaWVsZCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3lpZWxkIHNpZ24gYXJlYScKICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwogICAgICAgIGVsaWYgbGFiZWwgaW4gWydMYW5lIENoYW5nZSBMZWZ0JywgJ0xhbmUgQ2hhbmdlIFJpZ2h0JywgJ1R1cm4gTGVmdCcsICdUdXJuIFJpZ2h0J106CiAgICAgICAgICAgIGxhYmVsID0gc3RyLmxvd2VyKGxhYmVsKQoKICAgICAgICBwcmludChsYWJlbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCiAgICAgICAgZWxpZiBsYWJlbCA9PSAnTGFuZSBDaGFuZ2UgUmlnaHQnOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0geydTdG9wJzogbGFtYmRhIDogbGFiZWwgPSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggbGFiZWw6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -721,8 +720,6 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
         <entry>actionlist</entry>
@@ -734,13 +731,15 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RunClass</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RunClass</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
