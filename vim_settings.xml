@@ -150,11 +150,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519336804541">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519421884991">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -220,7 +220,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519173814932">
+      <file name="/Python Console" timestamp="1519421873868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -245,7 +245,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518555576920">
+      <file name="/fragment.py" timestamp="1519421603470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -669,13 +669,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAnU3RvcCc6CiAgICAgICAgICAgIGxhYmVsID0gJ3N0b3Agc2lnbiBhcmVhJwo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgbXVsdGlwbHkoc2VsZiwgQSwgQik6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgQTogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnR5cGUgQjogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnJ0eXBlOiBMaXN0W0xpc3RbaW50XV0KICAgICAgICAiIiIKICAgICAgICBDID0gW1swXSAqIGxlbihCWzBdKSBmb3IgXyBpbiByYW5nZShsZW4oQSkpXQogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihBKSk6CgogICAgICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oQVswXSkpOgogICAgICAgICAgICAgICAgaWYgQVtpXVtqXSA9PSAwOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBmb3IgayBpbiByYW5nZShsZW4oQlswXSkpOgogICAgICAgICAgICAgICAgICAgIGlmIEJbal1ba10gPT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBDW2ldW2tdICs9IEFbaV1bal0gKiBCW2pdW2tdCiAgICAgICAgcmV0dXJuIEMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhID0gY29sbGVjdGlvbnMuQ291bnRlcih0YXNrcykK</text>
@@ -705,7 +705,7 @@
         <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDoKICAgICAgICAgICAgbGFiZWwgPSBzdHIubG93ZXIobGFiZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -746,12 +746,12 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action RunClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
