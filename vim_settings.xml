@@ -150,10 +150,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519426256469">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519426996601">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -219,7 +220,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519426297188">
+      <file name="/Python Console" timestamp="1519426998969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -704,7 +705,7 @@
         <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09ICdUcmFmZmljIExpZ2h0JzoKICAgICAgICAgICAgbGFiZWwgPSAndHJhZmZpYyBsaWdodCBhcmVhJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -749,8 +750,8 @@
         <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
