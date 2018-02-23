@@ -363,12 +363,12 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1519419198763">
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1519420385123">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="29" />
-        <mark key="." line="58" column="29" />
-        <mark key="^" line="58" column="29" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/case_statistics.py" timestamp="1518477714899">
         <mark key="'" line="30" column="0" />
@@ -669,7 +669,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -746,11 +746,11 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action ReformatCode</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
