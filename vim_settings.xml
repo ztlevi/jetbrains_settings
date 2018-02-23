@@ -334,11 +334,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1518131578722">
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="29" />
-        <mark key="." line="58" column="29" />
-        <mark key="^" line="58" column="29" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1519419115544">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -622,7 +622,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>{I</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -631,34 +631,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5mcmFzX2ZpbGUgPSB0cmFmZmljX3Jlc3VsdF9wYXRoICsgJy8nICsgdHJpcF9pZCArICcvX3RyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdC5qc29uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhaW1zIHRvIGZpbmQgcG9zIHdoZXJlIEFbcG9zXSA+PSBuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBzID0gMDsKICAgIGludCBlID0gQS5sZW5ndGggLSAxOwoKCi8vIEFbcy0xXSA8IHRhcmdldCA8PSBBW3NdCi8vIGFpbXMgdG8gZmluZCBwb3Mgd2hlcmUgQVtwb3NdID49IG4Kd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzKSAvLyAyOwogICAgICAgIGlmIChBW21dIDwgdGFyZ2V0KSB7CiAgICAgICAgICAgIHMgPSBtICsgMTsgLy8g5LiN5Y+v6IO9IDwKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlID0gbTsKICAgICAgICB9CiAgICB9CgoKLy8gQWltcyB0byBmaW5kIHBvcyB3aGVyZSBuIDw9IEFbcG9zXQogICAgcyA9IDA7CiAgICBlID0gQS5sZW5ndGggLSAxOwoKd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzICsgMSkgLy8gMjsKICAgICAgICBpZiAoQVttXSA+IHRhcmdldCl7CiAgICAgICAgICAgIGUgPSBtIC0gMTsgIOS4jeWPr+iDvSA+CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcyA9IG07CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCByZXMgPSBiaW5hcnlTZWFyY2gobmV3IGludFtdezEsMyw0LDYsNyw4fSwgMyk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzKTsKCiAgICAgICAgaW50W10gQSA9IG5ldyBpbnRbXXsxLCAzLCA0LCA2LCA3LCA4fTsKICAgICAgICBpbnQgcyA9IDA7CiAgICAgICAgaW50IGUgPSBBLmxlbmd0aDsKICAgICAgICBpbnQgdGFyZ2V0ID0gNTsKCgogICAgICAgIC8vIEFbc10gPj0gdGFyZ2V0CiAgICAgICAgd2hpbGUgKHMgPCBlIC0gMSkgewogICAgICAgICAgICBpbnQgbSA9IHMgKyAoZSAtIHMpIC8gMjsKICAgICAgICAgICAgaWYgKEFbbV0gPCB0YXJnZXQpIHsKICAgICAgICAgICAgICAgIHMgPSBtICsgMTsgLy8g5LiN5Y+v6IO9IDwKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGUgPSBtOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBW3NdKTsKCgogICAgICAgIC8vIEFbc10gPD0gdGFyZ2V0CiAgICAgICAgcyA9IDA7CiAgICAgICAgZSA9IEEubGVuZ3RoOwogICAgICAgIGludCBtID0gMDsKCiAgICAgICAgd2hpbGUgKHMgPCBlIC0gMSkgewogICAgICAgICAgICBtID0gcyArIChlIC0gcykgLyAyOwogICAgICAgICAgICBpZiAoQVttXSA+IHRhcmdldCkgewogICAgICAgICAgICAgICAgZSA9IG0gLSAxOyAvL+S4jeWPr+iDvSA+CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzID0gbTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFbZV0pOwoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIGJpc2VjdApiaXNlY3QuYmlzZWN0X2xlZnQoQSwgeCkgIyBhbGwodmFsIDwgeCBmb3IgdmFsIGluIEFbbG86aV0pCmJpc2VjdC5iaXNlY3RfcmlnaHQoQSwgeCkgIyBhbGwodmFsIDw9IHggZm9yIHZhbCBpbiBBW2xvOmldKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhaW1zIHRvIGZpbmQgcG9zIHdoZXJlIEFbcG9zXSA+PSBuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGludCBzID0gMDsKICAgIGludCBlID0gQS5sZW5ndGggLSAxOwoKCi8vIEFbcy0xXSA8IHRhcmdldCA8PSBBW3NdCi8vIGFpbXMgdG8gZmluZCBwb3Mgd2hlcmUgQVtwb3NdID49IG4Kd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzKSAvLyAyOwogICAgICAgIGlmIChBW21dIDwgdGFyZ2V0KSB7CiAgICAgICAgICAgIHMgPSBtICsgMTsgLy8g5LiN5Y+v6IO9IDwKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlID0gbTsKICAgICAgICB9CiAgICB9CgoKLy8gQWltcyB0byBmaW5kIHBvcyB3aGVyZSBuIDw9IEFbcG9zXQogICAgcyA9IDA7CiAgICBlID0gQS5sZW5ndGggLSAxOwoKd2hpbGUgKHMgPCBlKSB7CiAgICAgICAgaW50IG0gPSBzICsgKGUgLSBzICsgMSkgLy8gMjsKICAgICAgICBpZiAoQVttXSA+IHRhcmdldCl7CiAgICAgICAgICAgIGUgPSBtIC0gMTsgIOS4jeWPr+iDvSA+CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcyA9IG07CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcsICcuam9pbihbc2NlbmFyaW8gZm9yIHNjZW5hcmlvIGluIHNldF9zY2VuYXJpbyBpZiBzY2VuYXJpbyBpcyBub3QgTm9uZV0pKQo=</text>
+        <text encoding="base64">CiAgICAjIGJpc2VjdApiaXNlY3QuYmlzZWN0X2xlZnQoQSwgeCkgIyBhbGwodmFsIDwgeCBmb3IgdmFsIGluIEFbbG86aV0pCmJpc2VjdC5iaXNlY3RfcmlnaHQoQSwgeCkgIyBhbGwodmFsIDw9IHggZm9yIHZhbCBpbiBBW2xvOmldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRfc2NlbmFyaW8uYWRkKHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHByaW50KHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsndHJhZmZpY190eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgICB0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHRbaV1bJ3NjZW5hcmlvJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcsICcuam9pbihbc2NlbmFyaW8gZm9yIHNjZW5hcmlvIGluIHNldF9zY2VuYXJpbyBpZiBzY2VuYXJpbyBpcyBub3QgTm9uZV0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldF9zY2VuYXJpbyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRfc2NlbmFyaW8uYWRkKHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsnc2NlbmFyaW8nXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbl9maWxlID0gdHJhZmZpY19yZXN1bHRfcGF0aCArICcvJyArIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHByaW50KHRyYWZmaWNfc2VnbWVudGF0aW9uX3Jlc3VsdFtpXVsndHJhZmZpY190eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgICB0cmFmZmljX3NlZ21lbnRhdGlvbl9yZXN1bHRbaV1bJ3NjZW5hcmlvJ10pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -688,19 +688,19 @@
         <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action RecentFiles</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Back</entry>
-        <entry>action DebugClass</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
+        <entry>action Debug</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
