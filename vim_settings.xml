@@ -150,11 +150,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519426996601">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="15" />
-        <mark key="." line="41" column="15" />
-        <mark key="^" line="41" column="15" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519430096693">
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="35" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="50" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -220,7 +220,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519426998969">
+      <file name="/Python Console" timestamp="1519430100267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -669,13 +669,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgbXVsdGlwbHkoc2VsZiwgQSwgQik6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgQTogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnR5cGUgQjogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnJ0eXBlOiBMaXN0W0xpc3RbaW50XV0KICAgICAgICAiIiIKICAgICAgICBDID0gW1swXSAqIGxlbihCWzBdKSBmb3IgXyBpbiByYW5nZShsZW4oQSkpXQogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihBKSk6CgogICAgICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oQVswXSkpOgogICAgICAgICAgICAgICAgaWYgQVtpXVtqXSA9PSAwOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBmb3IgayBpbiByYW5nZShsZW4oQlswXSkpOgogICAgICAgICAgICAgICAgICAgIGlmIEJbal1ba10gPT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBDW2ldW2tdICs9IEFbaV1bal0gKiBCW2pdW2tdCiAgICAgICAgcmV0dXJuIEMK</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgc21hbGxlc3REaXN0YW5jZVBhaXIoc2VsZiwgbnVtcywgayk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbnVtczogTGlzdFtpbnRdCiAgICAgICAgOnR5cGUgazogaW50CiAgICAgICAgOnJ0eXBlOiBpbnQKICAgICAgICAiIiIKICAgICAgICBpZiBsZW4obnVtcykgPCAyOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIG51bXMuc29ydCgpCiAgICAgICAgbWkgPSBudW1zWzFdIC0gbnVtc1swXQogICAgICAgIG14ID0gbnVtc1sxXSAtIG51bXNbMF0KICAgICAgICBmb3IgaSBpbiByYW5nZSgyLCBsZW4obnVtcykpOgogICAgICAgICAgICBtaSA9IG1pbihtaSwgbnVtc1tpXSAtIG51bXNbaSAtIDFdKQogICAgICAgIG14ID0gbnVtc1stMV0gLSBudW1zWzBdCgogICAgICAgIGxvID0gbWkKICAgICAgICBoaSA9IG14CiAgICAgICAgd2hpbGUgbG8gPCBoaToKICAgICAgICAgICAgbWlkID0gKGxvICsgaGkpIC8vIDIKICAgICAgICAgICAgaWYgc2VsZi5jb3VudFBhaXJzKG51bXMsIG1pZCkgPCBrOgogICAgICAgICAgICAgICAgbG8gPSBtaWQgKyAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBoaSA9IG1pZAogICAgICAgIHJldHVybiBsbwoKICAgIGRlZiBjb3VudFBhaXJzKHNlbGYsIG51bXMsIGJvdW5kKToKICAgICAgICByZXMgPSAwCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG51bXMpKToKICAgICAgICAgICAgIyBqID0gaSArIDEKICAgICAgICAgICAgIyB3aGlsZSAoaiA8IGxlbihudW1zKSBhbmQgbnVtc1tqXSAtIG51bXNbaV0gPD0gYm91bmQpOgogICAgICAgICAgICAjICAgICBqICs9IDEKICAgICAgICAgICAgaWR4ID0gc2VsZi51cHBlckJvdW5kKG51bXMsIGksIGxlbihudW1zKSAtIDEsIGJvdW5kKQogICAgICAgICAgICByZXMgKz0gaWR4IC0gaSAtIDEKICAgICAgICByZXR1cm4gcmVzCgogICAgZGVmIHVwcGVyQm91bmQoc2VsZiwgbnVtcywgaSwgaiwgYm91bmQpOgogICAgICAgICMgZmluZCB0aGUgZmlyc3QgaW5kZXggd2hlcmUgbnVtc1tpbmRleF0gPiBib3VuZAogICAgICAgIGlmIG51bXNbal0gPD0gYm91bmQ6CiAgICAgICAgICAgIHJldHVybiBqICsgMQogICAgICAgIHdoaWxlIGkgPCBqOgogICAgICAgICAgICBtaWQgPSAoaSArIGopIC8vIDIKICAgICAgICAgICAgaWYgbnVtc1ttaWRdID4gYm91bmQ6CiAgICAgICAgICAgICAgICBqID0gbWlkCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpID0gbWlkICsgMQogICAgICAgIHJldHVybiBpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
