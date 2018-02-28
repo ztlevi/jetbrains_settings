@@ -49,6 +49,11 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Maven/pom.xml" timestamp="1517106389366">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
         <mark key="'" line="412" column="16" />
         <mark key="[" line="19" column="66" />
@@ -121,6 +126,11 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/Developer/MavenTest/pom.xml" timestamp="1517196356111">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
         <mark key="'" line="85" column="2" />
         <mark key="[" line="26" column="31" />
@@ -140,11 +150,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519336804541">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519719478049">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
@@ -204,7 +214,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519173814932">
+      <file name="$USER_HOME$/Developer/react_github/android/app/src/main/AndroidManifest.xml" timestamp="1514344683890">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1519719484714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -423,6 +438,11 @@
         <mark key="]" line="144" column="16" />
         <mark key="^" line="152" column="35" />
         <mark key="." line="144" column="16" />
+      </file>
+      <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -688,7 +708,7 @@
         <text encoding="base64">ICAgICAgICBsYXN0VGFzayA9IE5vbmUKICAgICAgICByZXMgPSAwCiAgICAgICAgbnVsbFZhciA9IFtdCgogICAgICAgIHdoaWxlIGxlbihudWxsVmFyKSAhPSBsZW4oY250LmtleXMoKSk6CiAgICAgICAgICAgIG5ld1Rhc2sgPSAnJwogICAgICAgICAgICBmb3IgdCBpbiBjbnQ6CiAgICAgICAgICAgICAgICBpZiB0IGluIG51bGxWYXI6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGNudFt0XSAtPSAxCiAgICAgICAgICAgICAgICBpZiBjbnRbdF0gPT0gMDoKICAgICAgICAgICAgICAgICAgICBudWxsVmFyLmFwcGVuZCh0KQogICAgICAgICAgICAgICAgbmV3VGFzayArPSB0CiAgICAgICAgICAgIGlmIG5ld1Rhc2sgPT0gbGFzdFRhc2s6CiAgICAgICAgICAgICAgICByZXMgKz0gMQogICAgICAgICAgICByZXMgKz0gbGVuKG5ld1Rhc2spCiAgICAgICAgICAgIGxhc3RUYXNrID0gbmV3VGFzawo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -712,11 +732,9 @@
         <entry>onFav</entry>
         <entry>GET</entry>
         <entry>placement</entry>
+        <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseRegion</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
         <entry>actionlist</entry>
@@ -727,13 +745,16 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
