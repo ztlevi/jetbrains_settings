@@ -54,6 +54,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/dao/firebase.js" timestamp="1519971658513" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
         <mark key="'" line="412" column="16" />
         <mark key="[" line="19" column="66" />
@@ -100,7 +101,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/bin/www" timestamp="1519969436168" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/bin/www" timestamp="1519971690265">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513490965087">
         <mark key="'" line="99" column="64" />
         <mark key="[" line="99" column="63" />
@@ -220,7 +226,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/app/dao/firebase.js" timestamp="1519969848997" />
       <file name="/Python Console" timestamp="1519719484714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -344,7 +349,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519969850625">
+      <file name="/JavaScript Console" timestamp="1519971700017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
@@ -674,7 +679,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
