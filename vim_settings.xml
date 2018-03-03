@@ -59,6 +59,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520112193008">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
         <mark key="'" line="412" column="16" />
         <mark key="[" line="19" column="66" />
@@ -226,7 +232,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520104468752" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520110065509">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="25" column="82" />
+        <mark key="^" line="25" column="82" />
+        <mark key="." line="25" column="82" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/hackathon2018/app/app.html" timestamp="1519627804947">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -315,6 +326,7 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/get_price.js" timestamp="1520110503920" />
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
@@ -356,7 +368,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520104475390">
+      <file name="/JavaScript Console" timestamp="1520112132563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
@@ -680,43 +692,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24oZGVjb2RlZFRva2VuKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>cachedCryptoPrice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLikK</text>
+        <text encoding="base64">ICAgICAgdmFyIG5ld0JhbGFuY2UgPSB1c2VyQmFsYW5jZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIG5ld0JhbGFuY2UgPSB7Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU0VMTCA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYWNoZWRDcnlwdG9QcmljZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmJvZHkoJ3Jlc3BvbnNlJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVpZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlcyA9IHJlc3BvbnNlLnRvSlNPTigpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgemxpYi5ndW56aXAoYm9keSwgZnVuY3Rpb24oZXJyLCBkZXppcHBlZCkgewogICAgICAgIGNvbnNvbGUubG9nKGRlemlwcGVkLnRvU3RyaW5nKCkpOwogICAgICB9KTsKICAgICAgaWYgKHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtZW5jb2RpbmcnXSA9PSAnZ3ppcCcpIHsKICAgICAgICB6bGliLmd1bnppcChib2R5LCBmdW5jdGlvbihlcnIsIGRlemlwcGVkKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhkZXppcHBlZC50b1N0cmluZygpKTsKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsKICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -754,7 +766,6 @@
         <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
@@ -763,6 +774,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action AceAction</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
