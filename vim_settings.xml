@@ -128,6 +128,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520126783153">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1519719484714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -307,11 +312,11 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520123846157">
-        <mark key="[" line="106" column="3" />
-        <mark key="]" line="106" column="3" />
-        <mark key="." line="106" column="3" />
-        <mark key="^" line="106" column="3" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520124849742">
+        <mark key="[" line="106" column="4" />
+        <mark key="]" line="106" column="5" />
+        <mark key="." line="106" column="5" />
+        <mark key="^" line="106" column="5" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -333,15 +338,16 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1519980375077">
+      <file name="/fragment.js" timestamp="1520125747757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520123722764">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520131320399">
+        <mark key="[" line="119" column="8" />
+        <mark key="]" line="119" column="11" />
+        <mark key="." line="119" column="11" />
+        <mark key="^" line="119" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
         <mark key="'" line="35" column="40" />
@@ -356,10 +362,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520120494531">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520131336679">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
         <mark key="'" line="42" column="0" />
@@ -473,12 +480,6 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520123895707">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="62" column="24" />
@@ -493,7 +494,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/api.js" timestamp="1520103604392" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/api.js" timestamp="1520130983138">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
         <mark key="[" line="3" column="4" />
@@ -501,8 +506,11 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520123851796">
+      <file name="/JavaScript Console" timestamp="1520130705181">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
         <mark key="'" line="89" column="3" />
@@ -600,9 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="121" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="122" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="142" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="143" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -700,49 +705,52 @@
       <jump line="166" column="43" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/dao/api.js" />
       <jump line="57" column="8" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" />
+      <jump line="61" column="26" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" />
+      <jump line="45" column="37" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" />
+      <jump line="11" column="15" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
       <register name="0" type="4">
-        <text>cachedCryptoPrice</text>
+        <text>suspendedList[uid][i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZldGNoQWxsVXNlcnMgPSAoKSA9PiB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGRiCiAgICAgIC5yZWYoJ3VzZXJzJykKICAgICAgLm9uY2UoJ2tleXMnKQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgaWYgKCFyZXNwb25zZSkgcmVzb2x2ZSgwKTsKICAgICAgICByZXNvbHZlKHJlc3BvbnNlKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgIHJlamVjdChlKTsKICAgICAgfSk7CiAgfSk7Cn07Cgo=</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PScpOwogIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUb1N1c3BlbmRlZExpc3QodHJhZGluZ09iamVjdCk7CgogICAgICAgIHJlcy5qc29ucCh7CiAgICAgICAgICBzdGF0dXM6ICdzdXNwZW5kJywKICAgICAgICAgIG1lc3NhZ2U6ICdUcmFkaW5nIHJlcXVlc3QgaGFzIGJlZW4gc3VzcGVuZGVkIScsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCclJSUlJSUlJSUlJSUnKTsKICAgIGNvbnNvbGUubG9nKHRyYWRpbmdfcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBzdWNjZWVkISEhJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBmYWlsZWQhISEnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgndWlkJyBpbiBuZXdUcmFkaW5nRGF0YS5rZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBzdWNjZWVkISEhJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcS51aWQgPSB1aWQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhJyk7CiAgICBjb25zb2xlLmxvZyh1aWQsIGtleSwgc3RhdHVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaXRlbSA9IHN1c3BlbmRlZExpc3RbdWlkXVtpXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRiCiAgICAgIC5yZWYoJ3VzZXJzLycgKyB1aWQgKyAnL3RyYWRpbmcnKQogICAgICAudXBkYXRlKHVwZGF0ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGl0ZW0gPSBzdXNwZW5kZWRMaXN0W3VpZF1baV07CiAgICAgIGxldCByZXF1ZXN0ID0gaXRlbS5kYXRhOwoKICAgICAgbGV0IGN1cnJlbnRUaW1lID0gbmV3IERhdGUoKS5nZXRUaW1lKCkgLyAxMDAwOwogICAgICBpZiAocmVxdWVzdC50aW1lc3RhbXAgKyByZXF1ZXN0LmV4cGlyYXRpb24gPiBjdXJyZW50VGltZSkgewogICAgICAgIGlmICghbmV3U3VzcGVuZGVkTGlzdFt1aWRdKSBuZXdTdXNwZW5kZWRMaXN0W3VpZF0gPSBbXTsKICAgICAgICBuZXdTdXNwZW5kZWRMaXN0W3VpZF0ucHVzaChpdGVtKTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -769,26 +777,26 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
         <entry>action DebugClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action AceAction</entry>
-        <entry>action Debug</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Debug</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action CollapseRegion</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action Back</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
