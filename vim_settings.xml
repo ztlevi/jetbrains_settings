@@ -195,7 +195,6 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/get_price.js" timestamp="1520110503920" />
       <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1514617790681">
         <mark key="'" line="60" column="21" />
         <mark key="[" line="36" column="33" />
@@ -261,7 +260,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/node_modules/firebase-admin/lib/index.d.ts" timestamp="1520123102296" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -338,16 +336,16 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1520125747757">
+      <file name="/fragment.js" timestamp="1520137845930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520131320399">
-        <mark key="[" line="119" column="8" />
-        <mark key="]" line="119" column="11" />
-        <mark key="." line="119" column="11" />
-        <mark key="^" line="119" column="11" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520137163980">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
         <mark key="'" line="35" column="40" />
@@ -362,11 +360,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520131336679">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520138094685">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
         <mark key="'" line="42" column="0" />
@@ -388,7 +386,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/app.js" timestamp="1520062147289" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513908674058">
         <mark key="'" line="96" column="37" />
         <mark key="[" line="10" column="0" />
@@ -480,6 +477,12 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520137785714">
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="67" column="27" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="67" column="27" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="62" column="24" />
@@ -506,7 +509,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520130705181">
+      <file name="/JavaScript Console" timestamp="1520137891467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -542,7 +545,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518568477447">
+      <file name="/Dummy.txt" timestamp="1520137787379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -714,7 +717,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IGVsc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -722,35 +725,35 @@
       <register name="0" type="4">
         <text>suspendedList[uid][i]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PScpOwogIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICByZVsnc3RhdHVzJ10gPSAnZmFpbGVkJzsKICAgICAgICByZVsnbWVzc2FnZSddID0gJ1RoZSB1c2VyIGhhcyB0b28gbWFueSBzdXNwZW5kZWQgcmVxdWVzdCEnOwogICAgICAgIGNvbnNvbGUubG9nKHJlWydtZXNzYWdlJ10pOwogICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdFt1aWRdKTsKICAgICAgaWYgKHVpZCAmJiBzdXNwZW5kZWRMaXN0W3VpZF0ubGVuZ3RoID49IDEwKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCclJSUlJSUlJSUlJSUnKTsKICAgIGNvbnNvbGUubG9nKHRyYWRpbmdfcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBzdWNjZWVkISEhJyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzdHIgPSBKU09OLnN0cmluZ2lmeSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBmYWlsZWQhISEnKTsK</text>
+        <text encoding="base64">ICAgIGxldCBzdHIgPSBKU09OLnN0cmluZ2lmeShzdXNwZW5kZWRMaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBjcnlwdG9jdXJyZW5jeSBwcmljZSBzdWNjZWVkISEhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhJyk7CiAgICBjb25zb2xlLmxvZyh1aWQsIGtleSwgc3RhdHVzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXNwZW5kZWRMaXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXRlbSA9IHN1c3BlbmRlZExpc3RbdWlkXVtpXTsK</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdCk7CiAgZmlyZWJhc2UudXBsb2FkU3VzcGVuZGVkTGlzdChzdXNwZW5kZWRMaXN0KS50aGVuKHJlc3BvbnNlID0+IHsKICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGl0ZW0gPSBzdXNwZW5kZWRMaXN0W3VpZF1baV07CiAgICAgIGxldCByZXF1ZXN0ID0gaXRlbS5kYXRhOwoKICAgICAgbGV0IGN1cnJlbnRUaW1lID0gbmV3IERhdGUoKS5nZXRUaW1lKCkgLyAxMDAwOwogICAgICBpZiAocmVxdWVzdC50aW1lc3RhbXAgKyByZXF1ZXN0LmV4cGlyYXRpb24gPiBjdXJyZW50VGltZSkgewogICAgICAgIGlmICghbmV3U3VzcGVuZGVkTGlzdFt1aWRdKSBuZXdTdXNwZW5kZWRMaXN0W3VpZF0gPSBbXTsKICAgICAgICBuZXdTdXNwZW5kZWRMaXN0W3VpZF0ucHVzaChpdGVtKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -777,7 +780,6 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -787,7 +789,6 @@
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
         <entry>action DebugClass</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action AceAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action Debug</entry>
@@ -796,7 +797,9 @@
         <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
