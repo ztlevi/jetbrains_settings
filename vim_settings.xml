@@ -20,12 +20,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520150272525">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520152834717">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="45" column="22" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/user.json" timestamp="1513947809024">
         <mark key="[" line="1" column="3" />
@@ -219,11 +219,10 @@
       <file name="vm:1509" timestamp="1520146841924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520149616701">
-        <mark key="[" line="98" column="3" />
-        <mark key="]" line="98" column="3" />
-        <mark key="." line="98" column="3" />
-        <mark key="^" line="98" column="3" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520151358976">
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
@@ -236,12 +235,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520150332078">
-        <mark key="'" line="161" column="8" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="13" />
-        <mark key="." line="50" column="13" />
-        <mark key="^" line="50" column="13" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520152921621">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="41" />
+        <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -302,12 +301,15 @@
         <mark key="^" line="67" column="27" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="events.js" timestamp="1520152256601">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/api.js" timestamp="1520130983138">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520148470008">
+      <file name="/JavaScript Console" timestamp="1520152931425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -360,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="230" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="233" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="288" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="291" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="461" column="25" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -460,49 +459,52 @@
       <jump line="161" column="8" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
       <jump line="3" column="34" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" />
       <jump line="46" column="36" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzIA==</text>
+        <text>userList</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      <register name="0" type="4">
+        <text>listAllUsers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBMaXN0IGJhdGNoIG9mIHVzZXJzLCAxMDAwIGF0IGEgdGltZS4KICBhZG1pbgogICAgLmF1dGgoKQogICAgLmxpc3RVc2VycygxMDAwLCBuZXh0UGFnZVRva2VuKQogICAgLnRoZW4oZnVuY3Rpb24obGlzdFVzZXJzUmVzdWx0KSB7CiAgICAgIGxldCB1aWRzID0gbGlzdFVzZXJzUmVzdWx0LnVzZXJzLm1hcCgKICAgICAgICB1c2VyUmVjb3JkID0+IHVzZXJSZWNvcmQudG9KU09OKCkudWlkLAogICAgICApOwogICAgICByZXNvbHZlKHVpZHMpOwogICAgICBpZiAobGlzdFVzZXJzUmVzdWx0LnBhZ2VUb2tlbikgewogICAgICAgIC8vIExpc3QgbmV4dCBiYXRjaCBvZiB1c2Vycy4KICAgICAgICBsaXN0QWxsVXNlcnMobGlzdFVzZXJzUmVzdWx0LnBhZ2VUb2tlbikudGhlbihyZXMgPT4gcmVzb2x2ZShyZXMpKTsKICAgICAgfQogICAgfSkKICAgIC5jYXRjaChmdW5jdGlvbihlcnJvcikgewogICAgICByZWplY3QoZXJyb3IpOwogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwcm9taXNlcyA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAvLyBMaXN0IGJhdGNoIG9mIHVzZXJzLCAxMDAwIGF0IGEgdGltZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXNwZW5kZWRMaXN0KTsK</text>
+        <text encoding="base64">ICBsZXQgZGVmZXJyZWQgPSBQcm9taXNlLmRlZmVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3VzcGVuZGVkTGlzdCB9IGZyb20gJy4uL3V0aWxzL3N1c3BlbmRlZExpc3QnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0Vycm9yIGxpc3RpbmcgdXNlcnM6JywgZXJyb3IpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyTGlzdCk7Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -538,17 +540,17 @@
         <entry>action GotoAction</entry>
         <entry>action DebugClass</entry>
         <entry>action AceAction</entry>
-        <entry>action Debug</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CollapseRegion</entry>
-        <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Back</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
