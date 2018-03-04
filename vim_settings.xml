@@ -9,27 +9,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/TrendingCell.js" timestamp="1513910473244">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="76" />
-        <mark key="." line="23" column="75" />
-        <mark key="^" line="23" column="75" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -41,12 +20,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/TrendingPage.js" timestamp="1514870431694">
-        <mark key="'" line="412" column="16" />
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="66" />
-        <mark key="." line="19" column="66" />
-        <mark key="^" line="271" column="49" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520150272525">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+        <mark key="^" line="42" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/user.json" timestamp="1513947809024">
         <mark key="[" line="1" column="3" />
@@ -54,25 +33,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/WebViewPage.js" timestamp="1513569716406">
-        <mark key="'" line="43" column="34" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="22" column="24" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-navbar/styles.js" timestamp="1513490812378">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513490965087">
-        <mark key="'" line="99" column="64" />
-        <mark key="[" line="99" column="63" />
-        <mark key="]" line="101" column="74" />
-        <mark key="^" line="99" column="50" />
-        <mark key="." line="101" column="74" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/MavenTest.iml" timestamp="1519419391561">
         <mark key="[" line="2" column="63" />
@@ -97,25 +62,11 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
-        <mark key="'" line="46" column="3" />
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="51" column="20" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
-        <mark key="'" line="80" column="19" />
-        <mark key="[" line="81" column="21" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
-        <mark key="^" line="81" column="53" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -128,10 +79,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520126783153">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520146938741">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="vm:1511" timestamp="1520146842554">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1519719484714">
         <mark key="[" line="0" column="0" />
@@ -157,25 +112,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
-        <mark key="'" line="284" column="10" />
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="76" column="80" />
-        <mark key="." line="76" column="80" />
-        <mark key="^" line="76" column="80" />
-      </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/reduxstagram.js" timestamp="1518288363111">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="39" />
         <mark key="." line="13" column="38" />
         <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513919129519">
-        <mark key="'" line="88" column="14" />
-        <mark key="[" line="79" column="56" />
-        <mark key="]" line="79" column="50" />
-        <mark key="^" line="79" column="50" />
-        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -183,11 +124,17 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="vm:1516" timestamp="1520146843871">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1514617474452">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="vm:1515" timestamp="1520146843575">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Main.js" timestamp="1518288415216">
         <mark key="[" line="10" column="45" />
@@ -195,12 +142,14 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/MoreMenu.js" timestamp="1514617790681">
-        <mark key="'" line="60" column="21" />
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="vm:1514" timestamp="1520146843358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="vm:1512" timestamp="1520146843082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="timers.js" timestamp="1520146844428">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_server_side_rendering/index.js" timestamp="1516236188313">
         <mark key="[" line="0" column="7" />
@@ -214,64 +163,25 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1519420385123">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
-      </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="19" />
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/Login.js" timestamp="1513943800912">
-        <mark key="'" line="72" column="72" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="46" column="28" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
-        <mark key="'" line="87" column="18" />
-        <mark key="[" line="64" column="58" />
-        <mark key="]" line="64" column="71" />
-        <mark key="." line="64" column="71" />
-        <mark key="^" line="64" column="71" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/index.html" timestamp="1513317650929">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="26" column="62" />
-        <mark key="." line="26" column="62" />
-        <mark key="^" line="47" column="94" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
-        <mark key="'" line="166" column="43" />
-        <mark key="[" line="144" column="16" />
-        <mark key="]" line="144" column="16" />
-        <mark key="^" line="152" column="35" />
-        <mark key="." line="144" column="16" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/BaseComponent.js" timestamp="1514872166829">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="vm:1508" timestamp="1520146840405">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513359382112">
-        <mark key="'" line="138" column="2" />
-        <mark key="[" line="68" column="32" />
-        <mark key="]" line="68" column="32" />
-        <mark key="." line="68" column="32" />
-        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
@@ -285,6 +195,9 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="vm:1506" timestamp="1520146834302">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/.babelrc" timestamp="1513487835207">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="4" />
@@ -297,38 +210,20 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/WordCount.java" timestamp="1513035420543">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="54" />
-        <mark key="." line="50" column="8" />
-        <mark key="^" line="50" column="8" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513489221317">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="70" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520144871714">
-        <mark key="[" line="110" column="1" />
-        <mark key="]" line="110" column="6" />
-        <mark key="^" line="110" column="6" />
-        <mark key="." line="110" column="6" />
+      <file name="vm:1509" timestamp="1520146841924">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
-        <mark key="'" line="130" column="4" />
-        <mark key="[" line="196" column="49" />
-        <mark key="]" line="196" column="49" />
-        <mark key="." line="196" column="49" />
-        <mark key="^" line="196" column="49" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/plot_funcs.py" timestamp="1515625201525">
-        <mark key="'" line="31" column="52" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="38" column="39" />
-        <mark key="^" line="38" column="39" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520149616701">
+        <mark key="[" line="98" column="3" />
+        <mark key="]" line="98" column="3" />
+        <mark key="." line="98" column="3" />
+        <mark key="^" line="98" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
@@ -336,23 +231,17 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1520137845930">
+      <file name="/fragment.js" timestamp="1520146878739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520144988247">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="67" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520150332078">
+        <mark key="'" line="161" column="8" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -360,25 +249,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520138094685">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="6" />
-        <mark key="." line="38" column="6" />
-        <mark key="^" line="38" column="36" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="106" column="23" />
-        <mark key="]" line="106" column="23" />
-        <mark key="." line="106" column="23" />
-        <mark key="^" line="106" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
-        <mark key="'" line="75" column="50" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="55" />
-        <mark key="^" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" timestamp="1520146698592">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/model/ProjectModel.js" timestamp="1512932726800">
         <mark key="[" line="0" column="56" />
@@ -386,45 +261,17 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/RepositoryDetail.js" timestamp="1513908674058">
-        <mark key="'" line="96" column="37" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="85" column="22" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" timestamp="1513044709081">
         <mark key="[" line="74" column="67" />
         <mark key="]" line="74" column="67" />
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepOne.java" timestamp="1513044368138">
-        <mark key="'" line="85" column="2" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="32" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519719478049">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
-        <mark key="'" line="32" column="52" />
-        <mark key="[" line="84" column="51" />
-        <mark key="]" line="75" column="32" />
-        <mark key="." line="75" column="32" />
-        <mark key="^" line="75" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/FavoritePage.js" timestamp="1514871829120">
-        <mark key="'" line="29" column="30" />
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
@@ -438,38 +285,10 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/WebViewTest.js" timestamp="1513403395493">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="85" column="3" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="57" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/hackathon2018/app/app.html" timestamp="1519627804947">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512971731537">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="121" column="14" />
-        <mark key="]" line="121" column="18" />
-        <mark key="." line="121" column="18" />
-        <mark key="^" line="121" column="18" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1513491048576">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="141" column="64" />
-        <mark key="]" line="140" column="57" />
-        <mark key="^" line="140" column="57" />
-        <mark key="." line="140" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
@@ -477,67 +296,25 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520137785714">
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="27" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520149786035">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="67" column="27" />
-        <mark key="." line="67" column="27" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
-        <mark key="'" line="52" column="26" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="62" column="26" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/expand/dao/RepositoryUtils.js" timestamp="1513918898826">
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/api.js" timestamp="1520130983138">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
-        <mark key="'" line="1682" column="35" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1520144990455">
+      <file name="/JavaScript Console" timestamp="1520148470008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
-        <mark key="'" line="89" column="3" />
-        <mark key="[" line="68" column="27" />
-        <mark key="]" line="68" column="38" />
-        <mark key="." line="68" column="38" />
-        <mark key="^" line="68" column="38" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513916744290">
-        <mark key="'" line="73" column="31" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
-      </file>
       <file name="vm:1283" timestamp="1520121173845">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/case_statistics.py" timestamp="1518477714899">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/1.html" timestamp="1519627792592">
         <mark key="[" line="0" column="0" />
@@ -545,25 +322,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520137787379">
+      <file name="/Dummy.txt" timestamp="1520149422574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
-        <mark key="'" line="268" column="15" />
-        <mark key="[" line="70" column="3" />
-        <mark key="]" line="73" column="32" />
-        <mark key="." line="73" column="32" />
-        <mark key="^" line="73" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513915725871">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="58" column="37" />
-        <mark key="^" line="58" column="37" />
-        <mark key="." line="58" column="37" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -583,20 +346,6 @@
         <mark key="^" line="34" column="39" />
         <mark key="." line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutMePage.js" timestamp="1513918335418">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1519336847312">
-        <mark key="'" line="400" column="23" />
-        <mark key="[" line="477" column="60" />
-        <mark key="]" line="477" column="60" />
-        <mark key="." line="477" column="60" />
-        <mark key="^" line="462" column="52" />
-      </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -611,11 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="142" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="143" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="168" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="170" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="230" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="233" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -711,49 +455,54 @@
       <jump line="61" column="26" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" />
       <jump line="45" column="37" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" />
       <jump line="11" column="15" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/trading_verification.js" />
+      <jump line="34" column="28" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
+      <jump line="160" column="23" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
+      <jump line="161" column="8" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" />
+      <jump line="3" column="34" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" />
+      <jump line="46" column="36" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ug</text>
+        <text encoding="base64">cmVzIA==</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
-      <register name="0" type="4">
-        <text>suspendedList[uid][i]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICByZVsnc3RhdHVzJ10gPSAnZmFpbGVkJzsKICAgICAgICByZVsnbWVzc2FnZSddID0gJ1RoZSB1c2VyIGhhcyB0b28gbWFueSBzdXNwZW5kZWQgcmVxdWVzdCEnOwogICAgICAgIGNvbnNvbGUubG9nKHJlWydtZXNzYWdlJ10pOwogICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdFt1aWRdKTsKICAgICAgaWYgKHVpZCAmJiBzdXNwZW5kZWRMaXN0W3VpZF0ubGVuZ3RoID49IDEwKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwcm9taXNlcyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzdHIgPSBKU09OLnN0cmluZ2lmeSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBzdHIgPSBKU09OLnN0cmluZ2lmeShzdXNwZW5kZWRMaXN0KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzdXNwZW5kZWRMaXN0KTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc3VzcGVuZGVkTGlzdCB9IGZyb20gJy4uL3V0aWxzL3N1c3BlbmRlZExpc3QnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdCk7CiAgZmlyZWJhc2UudXBsb2FkU3VzcGVuZGVkTGlzdChzdXNwZW5kZWRMaXN0KS50aGVuKHJlc3BvbnNlID0+IHsKICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICB9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyTGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -780,7 +529,6 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
@@ -790,16 +538,17 @@
         <entry>action GotoAction</entry>
         <entry>action DebugClass</entry>
         <entry>action AceAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Debug</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action CollapseRegion</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
         <entry>action FindInPath</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
