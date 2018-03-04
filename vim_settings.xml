@@ -256,6 +256,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/node_modules/firebase-admin/lib/index.d.ts" timestamp="1520123102296" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -306,6 +307,12 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520123846157">
+        <mark key="[" line="106" column="3" />
+        <mark key="]" line="106" column="3" />
+        <mark key="." line="106" column="3" />
+        <mark key="^" line="106" column="3" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -331,8 +338,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520122043326">
-        <mark key="[" line="47" column="43" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520123722764">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
         <mark key="'" line="35" column="40" />
@@ -464,10 +473,11 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520121253074">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520123895707">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
@@ -491,7 +501,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520121680568">
+      <file name="/JavaScript Console" timestamp="1520123851796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
@@ -696,7 +706,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>addToSuspendendList</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -705,34 +715,34 @@
         <text>cachedCryptoPrice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZldGNoQWxsVXNlcnMgPSAoKSA9PiB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGRiCiAgICAgIC5yZWYoJ3VzZXJzJykKICAgICAgLm9uY2UoJ2tleXMnKQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgaWYgKCFyZXNwb25zZSkgcmVzb2x2ZSgwKTsKICAgICAgICByZXNvbHZlKHJlc3BvbnNlKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgIHJlamVjdChlKTsKICAgICAgfSk7CiAgfSk7Cn07Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUb1N1c3BlbmRlZExpc3QodHJhZGluZ09iamVjdCk7CgogICAgICAgIHJlcy5qc29ucCh7CiAgICAgICAgICBzdGF0dXM6ICdzdXNwZW5kJywKICAgICAgICAgIG1lc3NhZ2U6ICdUcmFkaW5nIHJlcXVlc3QgaGFzIGJlZW4gc3VzcGVuZGVkIScsCiAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWU7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgndWlkJyBpbiBuZXdUcmFkaW5nRGF0YS5rZXkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcS51aWQgPSB1aWQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhZGRUb1N1c3BlbmRlZExpc3QodHJhZGluZ09iamVjdCk7CgogICAgICAgIHJlcy5qc29ucCh7CiAgICAgICAgICBzdGF0dXM6ICdzdXNwZW5kJywKICAgICAgICAgIG1lc3NhZ2U6ICdUcmFkaW5nIHJlcXVlc3QgaGFzIGJlZW4gc3VzcGVuZGVkIScsCiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29udGludWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICgndWlkJyBpbiBuZXdUcmFkaW5nRGF0YS5rZXkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcS51aWQgPSB1aWQ7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRiCiAgICAgIC5yZWYoJ3VzZXJzLycgKyB1aWQgKyAnL3RyYWRpbmcnKQogICAgICAudXBkYXRlKHVwZGF0ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBsZXQgdXBkYXRlcyA9IHt9OwogICAgdXBkYXRlc1snL3VzZXJzLycgKyB1aWQgKyAnL3RyYWRpbmcnICsgZW50cnldID0gc3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgIGRiCiAgICAgIC5yZWYoJ3VzZXJzLycgKyB1aWQgKyAnL3RyYWRpbmcnKQogICAgICAudXBkYXRlKHVwZGF0ZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExpandRegion</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -776,9 +786,9 @@
         <entry>action DebugClass</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action AceAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Debug</entry>
         <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
