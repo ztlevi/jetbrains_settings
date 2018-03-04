@@ -310,11 +310,11 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520124849742">
-        <mark key="[" line="106" column="4" />
-        <mark key="]" line="106" column="5" />
-        <mark key="." line="106" column="5" />
-        <mark key="^" line="106" column="5" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520144871714">
+        <mark key="[" line="110" column="1" />
+        <mark key="]" line="110" column="6" />
+        <mark key="^" line="110" column="6" />
+        <mark key="." line="110" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -341,11 +341,11 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520137163980">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520144988247">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/NavigatorBar.js" timestamp="1513490831474">
         <mark key="'" line="35" column="40" />
@@ -509,7 +509,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520137891467">
+      <file name="/JavaScript Console" timestamp="1520144990455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
