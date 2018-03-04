@@ -233,11 +233,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/cancel_trading.js" timestamp="1520176661393">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/cancel_trading.js" timestamp="1520178072826">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520176119678">
         <mark key="'" line="47" column="6" />
@@ -469,40 +468,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dWlkIGluIA==</text>
+        <text>failed</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text>!suspendedList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVzLmpzb25wKHsgc3RhdHVzOiAnZmFpbGVkJywgbWVzc2FnZTogJ0ZhaWxlZCBhdCB2ZXJpZnlJZFRva2VuIScgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVXBsb2FkIGxlYXJkYm9hcmQgdG8gZmlyZWJhc2Ugc3VjY2VzcyEhIScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codmEgLSB2Yik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZExlYWRlckJvYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVXBsb2FkIGxlYXJkYm9hcmQgdG8gZmlyZWJhc2Ugc3VjY2VzcyEhIScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codmEgLSB2Yik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
