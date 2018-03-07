@@ -319,6 +319,7 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520399182085" />
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="62" column="24" />
@@ -353,7 +354,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519982075732">
+      <file name="/JavaScript Console" timestamp="1520399834587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
@@ -414,6 +415,12 @@
         <mark key="]" line="46" column="28" />
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/redis.js" timestamp="1520399849789">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
         <mark key="'" line="268" column="15" />
@@ -485,6 +492,9 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="vm:1229" timestamp="1520399573820">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -677,40 +687,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>suspendedList</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogZ2VuZXJhdGUgY3J5cHRvIHJlcXVlc3QgdG8gZmV0Y2ggbXVsdGlwbGUgc3ltYm9scyBwcmljZQo=</text>
+        <text encoding="base64">ICBjbGllbnQuc2V0KCdzdXNwZW5kZWRMaXN0JywgbGlzdC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBjbGllbnQuZ2V0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmJvZHkoJ3Jlc3BvbnNlJykK</text>
+        <text encoding="base64">ICBjbGllbnQuc2V0KCdzdXNwZW5kZWRMaXN0JywgJycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlcyA9IHJlc3BvbnNlLnRvSlNPTigpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFlcnIpIHJlamVjdChlcnIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgemxpYi5ndW56aXAoYm9keSwgZnVuY3Rpb24oZXJyLCBkZXppcHBlZCkgewogICAgICAgIGNvbnNvbGUubG9nKGRlemlwcGVkLnRvU3RyaW5nKCkpOwogICAgICB9KTsKICAgICAgaWYgKHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtZW5jb2RpbmcnXSA9PSAnZ3ppcCcpIHsKICAgICAgICB6bGliLmd1bnppcChib2R5LCBmdW5jdGlvbihlcnIsIGRlemlwcGVkKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhkZXppcHBlZC50b1N0cmluZygpKTsKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsKICAgICAgfQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmJvZHkoJ3Jlc3BvbnNlJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHJlcyA9IHJlc3BvbnNlLnRvSlNPTigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN0ID0gSlNPTi5wYXJzZShkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgemxpYi5ndW56aXAoYm9keSwgZnVuY3Rpb24oZXJyLCBkZXppcHBlZCkgewogICAgICAgIGNvbnNvbGUubG9nKGRlemlwcGVkLnRvU3RyaW5nKCkpOwogICAgICB9KTsKICAgICAgaWYgKHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtZW5jb2RpbmcnXSA9PSAnZ3ppcCcpIHsKICAgICAgICB6bGliLmd1bnppcChib2R5LCBmdW5jdGlvbihlcnIsIGRlemlwcGVkKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhkZXppcHBlZC50b1N0cmluZygpKTsKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRvYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHRtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
