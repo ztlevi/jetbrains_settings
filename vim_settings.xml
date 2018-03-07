@@ -14,12 +14,23 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/cancel_trading.js" timestamp="1520404049753">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="98" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="54" column="87" />
         <mark key="]" line="55" column="24" />
         <mark key="." line="55" column="24" />
         <mark key="^" line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520404081965">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -319,7 +330,12 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520399182085" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520402663077">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ViewUtils.js" timestamp="1513915166990">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="62" column="24" />
@@ -354,7 +370,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520399834587">
+      <file name="/JavaScript Console" timestamp="1520403281441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
@@ -416,11 +432,10 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/redis.js" timestamp="1520399849789">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/redis.js" timestamp="1520404062854">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
         <mark key="'" line="268" column="15" />
@@ -540,6 +555,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520401846565">
+        <mark key="'" line="122" column="12" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -581,7 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="118" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="119" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="121" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -681,13 +702,14 @@
       <jump line="400" column="23" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="166" column="43" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/dao/api.js" />
+      <jump line="120" column="12" filename="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>suspendedList</text>
+        <text encoding="base64">c3VzcGVuZGVkTGlzdFt1aWRdID0g</text>
       </register>
       <register name="/" type="4">
         <text>rfind</text>
@@ -696,31 +718,31 @@
         <text encoding="base64">ICBjbGllbnQuc2V0KCdzdXNwZW5kZWRMaXN0JywgbGlzdC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGllbnQuZ2V0KCkK</text>
+        <text encoding="base64">Ci8vIGV4cG9ydCBjb25zdCB1cGxvYWRMZWFkZXJCb2FyZCA9IGJvYXJkID0+IHsKLy8gICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewovLyAgICAgZGIKLy8gICAgICAgLnJlZignbGVhZGVyYm9hcmQvJykKLy8gICAgICAgLnNldChib2FyZCkKLy8gICAgICAgLnRoZW4oKCkgPT4gewovLyAgICAgICAgIHJlc29sdmUoMSk7Ci8vICAgICAgIH0pCi8vICAgICAgIC5jYXRjaChlID0+IHJlamVjdChlKSk7Ci8vICAgfSk7Ci8vIH07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGllbnQuc2V0KCdzdXNwZW5kZWRMaXN0JywgJycpOwo=</text>
+        <text encoding="base64">Ci8vIGV4cG9ydCBjb25zdCB1cGxvYWRTdXNwZW5kZWRMaXN0ID0gc3VzcGVuZGVkTGlzdCA9PiB7Ci8vICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKLy8gICAgIGlmICghc3VzcGVuZGVkTGlzdCkgY29uc29sZS5sb2coJ05vIHN1c3BlbmRlZExpc3QhISEhIFJlZmVyZW5jZSBlcnJvciEhIScpOwoKLy8gICAgIGRiCi8vICAgICAgIC5yZWYoJ3N1c3BlbmRlZExpc3QvJykKLy8gICAgICAgLnNldChKU09OLnN0cmluZ2lmeShzdXNwZW5kZWRMaXN0KSkKLy8gICAgICAgLnRoZW4oKCkgPT4gewovLyAgICAgICAgIHJlc29sdmUoMSk7Ci8vICAgICAgIH0pCi8vICAgICAgIC5jYXRjaChlID0+IHJlamVjdChlKSk7Ci8vICAgfSk7Ci8vIH07CgovLyBleHBvcnQgY29uc3QgZmV0Y2hTdXNwZW5kZWRMaXN0ID0gKCkgPT4gewovLyAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Ci8vICAgICBkYgovLyAgICAgICAucmVmKCdzdXNwZW5kZWRMaXN0LycpCi8vICAgICAgIC5vbmNlKCd2YWx1ZScpCi8vICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHsKLy8gICAgICAgICBsZXQgcmVzdWx0ID0gSlNPTi5wYXJzZShyZXNwb25zZS52YWwoKSk7Ci8vICAgICAgICAgaWYgKCFyZXN1bHQpIHJlc29sdmUoMCk7Ci8vICAgICAgICAgcmVzb2x2ZShyZXN1bHQpOwovLyAgICAgICB9KQovLyAgICAgICAuY2F0Y2goZSA9PiB7Ci8vICAgICAgICAgcmVqZWN0KGUpOwovLyAgICAgICB9KTsKLy8gICB9KTsKLy8gfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFlcnIpIHJlamVjdChlcnIpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnU2V0IFN1c3BlbmRlZExpc3QgISEhISEhJywgbGlzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0ZldGNoIHN1c3BlbmRlZExpc3QhISEhISEhJywgcmVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmJvZHkoJ3Jlc3BvbnNlJykK</text>
+        <text encoding="base64">ICAvLyBjbGllbnQuZ2V0KCdsZWFkZXJib2FyZCcsIChlcnIsIHJlcGx5KSA9PiB7CiAgLy8gICBjb25zb2xlLmxvZyhyZXBseSk7CiAgLy8gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlcyA9IHJlc3BvbnNlLnRvSlNPTigpOwo=</text>
+        <text encoding="base64">Y2xpZW50LnNldCgnc3VzcGVuZGVkTGlzdCcsICcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgemxpYi5ndW56aXAoYm9keSwgZnVuY3Rpb24oZXJyLCBkZXppcHBlZCkgewogICAgICAgIGNvbnNvbGUubG9nKGRlemlwcGVkLnRvU3RyaW5nKCkpOwogICAgICB9KTsKICAgICAgaWYgKHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtZW5jb2RpbmcnXSA9PSAnZ3ppcCcpIHsKICAgICAgICB6bGliLmd1bnppcChib2R5LCBmdW5jdGlvbihlcnIsIGRlemlwcGVkKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhkZXppcHBlZC50b1N0cmluZygpKTsKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3VzcGVuZGVkTGlzdFt1aWRdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQuc2V0KCdzdXNwZW5kZWRMaXN0JywgJycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
