@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1520882635706">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520721611632">
+      <file name="/Python Console" timestamp="1520882616546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -760,7 +760,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
@@ -796,7 +796,7 @@
         <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codmEgLSB2Yik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -843,8 +843,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
-        <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
