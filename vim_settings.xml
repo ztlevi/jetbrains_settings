@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1520882635706">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1520884619341">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520882616546">
+      <file name="/Python Console" timestamp="1520883725194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -633,12 +633,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1520465756330">
-        <mark key="'" line="489" column="18" />
-        <mark key="[" line="407" column="62" />
-        <mark key="]" line="407" column="70" />
-        <mark key="." line="407" column="70" />
-        <mark key="^" line="407" column="70" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1520884596116">
+        <mark key="'" line="490" column="18" />
+        <mark key="[" line="478" column="60" />
+        <mark key="]" line="478" column="60" />
+        <mark key="." line="478" column="60" />
+        <mark key="^" line="478" column="60" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -760,7 +760,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
@@ -769,34 +769,34 @@
         <text encoding="base64">ICAgICAgcmVzLmpzb25wKHsgc3RhdHVzOiAnZmFpbGVkJywgbWVzc2FnZTogJ0ZhaWxlZCBhdCB2ZXJpZnlJZFRva2VuIScgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVXBsb2FkIGxlYXJkYm9hcmQgdG8gZmlyZWJhc2Ugc3VjY2VzcyEhIScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codmEgLSB2Yik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -829,7 +829,6 @@
         <entry>action FindInPath</entry>
         <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
@@ -843,8 +842,9 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
-        <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
