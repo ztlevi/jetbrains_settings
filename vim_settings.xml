@@ -450,10 +450,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1520882577488">
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1520981463893">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -760,43 +761,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzLmpzb25wKHsgc3RhdHVzOiAnZmFpbGVkJywgbWVzc2FnZTogJ0ZhaWxlZCBhdCB2ZXJpZnlJZFRva2VuIScgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBrdGhTbWFsbGVzdChzZWxmLCByb290LCBrKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSByb290OiBUcmVlTm9kZQogICAgICAgIDp0eXBlIGs6IGludAogICAgICAgIDpydHlwZTogaW50CiAgICAgICAgIiIiCiAgICAgICAgcmVzID0gW05vbmVdCiAgICAgICAgZGVmIHByZW9yZGVyKG5vZGUpOgogICAgICAgICAgICBpZiBub3Qgbm9kZToKICAgICAgICAgICAgICAgIHJldHVybgoKICAgICAgICAgICAgcHJlb3JkZXIobm9kZS5sZWZ0KQogICAgICAgICAgICBrIC09IDEKICAgICAgICAgICAgaWYgayA9PSAwOgogICAgICAgICAgICAgICAgcmVzWzBdID0gbm9kZS52YWwKICAgICAgICAgICAgcHJlb3JkZXIobm9kZS5yaWdodCkKICAgICAgICByZXR1cm4gcmVzWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBrID0gawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0KICAgICAgICBrID0gawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -838,13 +839,13 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action DebugClass</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RunClass</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
