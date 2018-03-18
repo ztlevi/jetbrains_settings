@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521057318833">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521333501471">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="40" column="34" />
         <mark key="]" line="40" column="34" />
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521331743221">
+      <file name="/Python Console" timestamp="1521336735636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -242,6 +242,12 @@
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" timestamp="1521336734403">
+        <mark key="[" line="270" column="16" />
+        <mark key="]" line="270" column="15" />
+        <mark key="." line="270" column="15" />
+        <mark key="^" line="270" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -655,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
       <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="382" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -755,13 +760,14 @@
       <jump line="60" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="482" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="489" column="18" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="115" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>0 ,</text>
+        <text>el</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
@@ -770,34 +776,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobSAsQVtpXS0xLCAtMSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGluZV9udW0gPT0gLTE6CiAgICAgICAgICAgICAgICAjIHdyaXRlIGhlYWRlcnMKICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyhyb3cpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c28ua3RoU21hbGxlc3QobWF0cml4LCA4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBrdGhTbWFsbGVzdChzZWxmLCBtYXRyaXgsIGspOgogICAgICAgIGxvLCBoaSA9IG1hdHJpeFswXVswXSwgbWF0cml4Wy0xXVstMV0KICAgICAgICB3aGlsZSBsbzxoaToKICAgICAgICAgICAgbWlkID0gKGxvK2hpKS8vMgogICAgICAgICAgICBpZiBzdW0oYmlzZWN0LmJpc2VjdF9yaWdodChyb3csIG1pZCkgZm9yIHJvdyBpbiBtYXRyaXgpIDwgazoKICAgICAgICAgICAgICAgIGxvID0gbWlkKzEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGhpID0gbWlkCiAgICAgICAgcmV0dXJuIGxvCgptYXRyaXggPSBbCiAgICBbIDEsICA1LCAgOV0sCiAgICBbMTAsIDExLCAxM10sCiAgICBbMTIsIDEzLCAxNV0KXQo=</text>
+        <text encoding="base64">c28ua3RoU21hbGxlc3QobWF0cml4LCA4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBrdGhTbWFsbGVzdChzZWxmLCBtYXRyaXgsIGspOgogICAgICAgIGxvLCBoaSA9IG1hdHJpeFswXVswXSwgbWF0cml4Wy0xXVstMV0KICAgICAgICB3aGlsZSBsbzxoaToKICAgICAgICAgICAgbWlkID0gKGxvK2hpKS8vMgogICAgICAgICAgICBpZiBzdW0oYmlzZWN0LmJpc2VjdF9yaWdodChyb3csIG1pZCkgZm9yIHJvdyBpbiBtYXRyaXgpIDwgazoKICAgICAgICAgICAgICAgIGxvID0gbWlkKzEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGhpID0gbWlkCiAgICAgICAgcmV0dXJuIGxvCgptYXRyaXggPSBbCiAgICBbIDEsICA1LCAgOV0sCiAgICBbMTAsIDExLCAxM10sCiAgICBbMTIsIDEzLCAxNV0KXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrID0gawo=</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0KICAgICAgICBrID0gawo=</text>
+        <text encoding="base64">ICAgICAgICBrID0gawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0KICAgICAgICBrID0gawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -842,10 +848,10 @@
         <entry>action GotoAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
-        <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action Debug</entry>
+        <entry>action DebugClass</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
