@@ -9,11 +9,11 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521333501471">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398292317">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="40" column="34" />
-        <mark key="]" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
         <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521338461726">
+      <file name="/Python Console" timestamp="1521398296406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -243,7 +243,7 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" timestamp="1521338460317">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" timestamp="1521398206937">
         <mark key="'" line="319" column="0" />
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -641,12 +641,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1520884596116">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1521398218329">
         <mark key="'" line="490" column="18" />
-        <mark key="[" line="478" column="60" />
-        <mark key="]" line="478" column="60" />
-        <mark key="." line="478" column="60" />
-        <mark key="^" line="478" column="60" />
+        <mark key="[" line="478" column="59" />
+        <mark key="]" line="478" column="59" />
+        <mark key="." line="478" column="59" />
+        <mark key="^" line="478" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -768,7 +768,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>line_num</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
