@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521138493051">
+      <file name="/Python Console" timestamp="1521331743221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -450,11 +450,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1521142638748">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1521331767598">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -761,43 +761,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>nt Start {i} =========')</text>
+        <text>0 ,</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBrdGhTbWFsbGVzdChzZWxmLCByb290LCBrKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSByb290OiBUcmVlTm9kZQogICAgICAgIDp0eXBlIGs6IGludAogICAgICAgIDpydHlwZTogaW50CiAgICAgICAgIiIiCiAgICAgICAgcmVzID0gW05vbmVdCiAgICAgICAgZGVmIHByZW9yZGVyKG5vZGUpOgogICAgICAgICAgICBpZiBub3Qgbm9kZToKICAgICAgICAgICAgICAgIHJldHVybgoKICAgICAgICAgICAgcHJlb3JkZXIobm9kZS5sZWZ0KQogICAgICAgICAgICBrIC09IDEKICAgICAgICAgICAgaWYgayA9PSAwOgogICAgICAgICAgICAgICAgcmVzWzBdID0gbm9kZS52YWwKICAgICAgICAgICAgcHJlb3JkZXIobm9kZS5yaWdodCkKICAgICAgICByZXR1cm4gcmVzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobSAsQVtpXS0xLCAtMSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrID0gawo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0KICAgICAgICBrID0gawo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">c28ua3RoU21hbGxlc3QobWF0cml4LCA4KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBrdGhTbWFsbGVzdChzZWxmLCBtYXRyaXgsIGspOgogICAgICAgIGxvLCBoaSA9IG1hdHJpeFswXVswXSwgbWF0cml4Wy0xXVstMV0KICAgICAgICB3aGlsZSBsbzxoaToKICAgICAgICAgICAgbWlkID0gKGxvK2hpKS8vMgogICAgICAgICAgICBpZiBzdW0oYmlzZWN0LmJpc2VjdF9yaWdodChyb3csIG1pZCkgZm9yIHJvdyBpbiBtYXRyaXgpIDwgazoKICAgICAgICAgICAgICAgIGxvID0gbWlkKzEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGhpID0gbWlkCiAgICAgICAgcmV0dXJuIGxvCgptYXRyaXggPSBbCiAgICBbIDEsICA1LCAgOV0sCiAgICBbMTAsIDExLCAxM10sCiAgICBbMTIsIDEzLCAxNV0KXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBrID0gawo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXMgPSBbTm9uZV0KICAgICAgICBrID0gawo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnN0cmlwKCkKICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJCcsIGxhYmVsLCAnJCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -826,7 +826,6 @@
         <entry>label_result</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ActivateStructureToolWindow</entry>
@@ -842,10 +841,11 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action DebugClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
