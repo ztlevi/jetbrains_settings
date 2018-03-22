@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398292317">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398452988">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-        <mark key="^" line="40" column="34" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521398296406">
+      <file name="/Python Console" timestamp="1521398454290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -805,7 +805,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action DebugClass</text>
       </register>
     </registers>
     <search>
@@ -852,8 +852,8 @@
         <entry>action Run</entry>
         <entry>action ReformatCode</entry>
         <entry>action Debug</entry>
-        <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
