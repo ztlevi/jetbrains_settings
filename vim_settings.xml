@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1518569675847">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398452988">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519719484714">
+      <file name="/Python Console" timestamp="1521784468608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -243,6 +243,13 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" timestamp="1521398206937">
+        <mark key="'" line="319" column="0" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="251" column="43" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="19" />
@@ -269,12 +276,6 @@
         <mark key="]" line="26" column="62" />
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
-      </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1521838985260">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
@@ -456,11 +457,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1519719478049">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1521784538991">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
         <mark key="'" line="32" column="52" />
@@ -640,12 +641,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1520465756330">
-        <mark key="'" line="489" column="18" />
-        <mark key="[" line="407" column="62" />
-        <mark key="]" line="407" column="70" />
-        <mark key="." line="407" column="70" />
-        <mark key="^" line="407" column="70" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1521398218329">
+        <mark key="'" line="490" column="18" />
+        <mark key="[" line="478" column="59" />
+        <mark key="]" line="478" column="59" />
+        <mark key="." line="478" column="59" />
+        <mark key="^" line="478" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -661,10 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" />
-      <jump line="412" column="41" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="382" column="40" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="432" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="19" column="44" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
@@ -761,49 +758,54 @@
       <jump line="60" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="482" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="489" column="18" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="115" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
+      <jump line="281" column="12" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
+      <jump line="252" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
+      <jump line="318" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>a==b</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzLmpzb25wKHsgc3RhdHVzOiAnZmFpbGVkJywgbWVzc2FnZTogJ0ZhaWxlZCBhdCB2ZXJpZnlJZFRva2VuIScgfSk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBmaW5kU2hvcnRlc3RTdWJBcnJheShzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBudW1zOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkKICAgICAgICBsb2MgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KQogICAgICAgIG1heF9jbnQgPSBmbG9hdCgnLWluZicpCiAgICAgICAgZm9yIGksIG4gaW4gZW51bWVyYXRlKG51bXMpOgogICAgICAgICAgICBjbnRbbl0gKz0gMQogICAgICAgICAgICBpZiBsZW4obG9jW25dKSA8IDI6CiAgICAgICAgICAgICAgICBsb2Nbbl0uYXBwZW5kKGkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2Nbbl1bMV0gPSBpCgogICAgICAgIGZvciBrLCB2IGluIGNudC5pdGVtcygpOgogICAgICAgICAgICBtYXhfY250ID0gbWF4KG1heF9jbnQsIHYpCgogICAgICAgIG1heF9kaXN0ID0gMQogICAgICAgIGZvciBrLCBsIGluIGxvYy5pdGVtcygpOgogICAgICAgICAgICBpZiBsZW4obCkgPiAxOgogICAgICAgICAgICAgICAgbWF4X2Rpc3QgPSBsWzFdIC0gbFswXSArIDEKICAgICAgICByZXR1cm4gbWF4X2Rpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIFJlYWQgbW9yZTogaHR0cDovL2phdmFyZXZpc2l0ZWQuYmxvZ3Nwb3QuY29tLzIwMTIvMTIvZGlmZmVyZW5jZS1iZXR3ZWVuLWVxdWFscy1tZXRob2QtYW5kLWVxdWFsaXR5LW9wZXJhdG9yLWphdmEuaHRtbCNpeHp6NUFibDZTbGZVCiAgICAgIFN0cmluZyBhID0gImRzZiI7CiAgICAgIFN0cmluZyBiID0iZHNmIjsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGE9PWIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHVibGljIExpc3Q8U3RyaW5nPiByZW1vdmVJbnZhbGlkUGFyZW50aGVzZXMoU3RyaW5nIHMpIHsKCiAgICBMaXN0PFN0cmluZz4gYW5zID0gbmV3IEFycmF5TGlzdDxTdHJpbmc+KCk7CiAgICBjaGFyW10gY2hhcnMgPSBzLnRvQ2hhckFycmF5KCk7CiAgICByZW1vdmUoY2hhcnMsIGFucywgMCwgMCwgbmV3IGNoYXJbXSB7JygnLCAnKSd9KTsKICAgIHJldHVybiBhbnM7CiAgfQoKICBwdWJsaWMgdm9pZCByZW1vdmUoY2hhcltdIHMsIExpc3Q8U3RyaW5nPiBhbnMsIGludCBsYXN0X2ksIGludCBsYXN0X2osIGNoYXJbXSBwYXIpIHsKICAgIGludCBzdGFjayA9IDA7CiAgICBmb3IgKGludCBpID0gbGFzdF9pOyBpIDwgcy5sZW5ndGg7IGkrKykgewogICAgICBpZiAoc1tpXSA9PSAnKCcpIHsKICAgICAgICBzdGFjaysrOwogICAgICB9IGVsc2UgaWYgKHNbaV0gPT0gJyknKSB7CiAgICAgICAgc3RhY2stLTsKICAgICAgfQogICAgICBpZiAoc3RhY2sgPj0gMCkgewogICAgICAgIGNvbnRpbnVlOwogICAgICB9CiAgICAgIGZvciAoaW50IGogPSBsYXN0X2o7IGogPCBpOyBqKyspIHsKICAgICAgICBpZiAoc1tqXSA9PSAnKScgJiYgc1tqXSAhPSBzW2ogLSAxXSkgewogICAgICAgICAgcmVtb3ZlKAogICAgICAgICAgICAgIEFycmF5cy5hZGRBbGwoQXJyYXlzLmNvcHlPZlJhbmdlKHMsIDAsIGopLCBBcnJheXMuY29weU9mUmFuZ2UocywgaiArIDEsIHMubGVuZ3RoKSksCiAgICAgICAgICAgICAgYW5zLAogICAgICAgICAgICAgIGksCiAgICAgICAgICAgICAgaiwKICAgICAgICAgICAgICBwYXIpOwogICAgICAgIH0KICAgICAgfQogICAgICByZXR1cm47CiAgICB9CiAgICBTdHJpbmcgcmV2ZXJzZWQgPSBuZXcgU3RyaW5nQnVpbGRlcihzLnRvU3RyaW5nKCkpLnJldmVyc2UoKS50b1N0cmluZygpOwogICAgaWYgKHBhclswXSA9PSAnKCcpIHsKICAgICAgcmVtb3ZlKHMsIGFucywgMCwgMCwgbmV3IGNoYXJbXSB7JyknLCAnKCd9KTsKICAgIH0gZWxzZSB7CiAgICAgIGFucy5hZGQocy50b1N0cmluZygpKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZW1vdmUoY2hhcltdIHMsIExpc3Q8U3RyaW5nPiBhbnMsIGludCBsYXN0X2ksIGludCBsYXN0X2osIGNoYXJbXSBwYXIpIHsKICAgIGludCBzdGFjayA9IDA7CiAgICBmb3IgKGludCBpID0gbGFzdF9pOyBpIDwgcy5sZW5ndGg7IGkrKykgewogICAgICBpZiAoc1tpXSA9PSAnKCcpIHsKICAgICAgICBzdGFjaysrOwogICAgICB9IGVsc2UgaWYgKHNbaV0gPT0gJyknKSB7CiAgICAgICAgc3RhY2stLTsKICAgICAgfQogICAgICBpZiAoc3RhY2sgPj0gMCkgewogICAgICAgIGNvbnRpbnVlOwogICAgICB9CiAgICAgIGZvciAoaW50IGogPSBsYXN0X2o7IGogPCBpOyBqKyspIHsKICAgICAgICBpZiAoc1tqXSA9PSAnKScgJiYgc1tqXSAhPSBzW2ogLSAxXSkgewogICAgICAgICAgcmVtb3ZlKAogICAgICAgICAgICAgIEFycmF5cy5hZGRBbGwoQXJyYXlzLmNvcHlPZlJhbmdlKHMsIDAsIGopLCBBcnJheXMuY29weU9mUmFuZ2UocywgaiArIDEsIHMubGVuZ3RoKSksCiAgICAgICAgICAgICAgYW5zLAogICAgICAgICAgICAgIGksCiAgICAgICAgICAgICAgaiwKICAgICAgICAgICAgICBwYXIpOwogICAgICAgIH0KICAgICAgfQogICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXMuanNvbnAoeyBzdGF0dXM6ICdjYW5jZWxsZWQnLCBtZXNzYWdlOiAnSnVzdCBmb3IgdGVzdCcgfSk7CiAgcmV0dXJuOwo=</text>
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmZmKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1c3BlbmRlZExpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGZyb20gbW92aWVweS5lZGl0b3IgaW1wb3J0IFZpZGVvRmlsZUNsaXAsIGNvbmNhdGVuYXRlX3ZpZGVvY2xpcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIGVjZ19zeW5jKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS52YWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyhyb3cpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, open(
+            ecg_output_path, 'w', newline='')</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -832,11 +834,8 @@
         <entry>label_result</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
-        <entry>action FindInPath</entry>
         <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
@@ -846,12 +845,15 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
