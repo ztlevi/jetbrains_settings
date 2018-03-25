@@ -277,6 +277,12 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1521940754723">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
         <mark key="[" line="144" column="16" />
@@ -648,11 +654,11 @@
         <mark key="." line="478" column="59" />
         <mark key="^" line="478" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1517189825945">
+      <file name="/fragment.java" timestamp="1521940342451">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/Github/react_github/android/build.gradle" timestamp="1515220670646">
         <mark key="[" line="4" column="0" />
@@ -768,44 +774,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBmaW5kU2hvcnRlc3RTdWJBcnJheShzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBudW1zOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkKICAgICAgICBsb2MgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KQogICAgICAgIG1heF9jbnQgPSBmbG9hdCgnLWluZicpCiAgICAgICAgZm9yIGksIG4gaW4gZW51bWVyYXRlKG51bXMpOgogICAgICAgICAgICBjbnRbbl0gKz0gMQogICAgICAgICAgICBpZiBsZW4obG9jW25dKSA8IDI6CiAgICAgICAgICAgICAgICBsb2Nbbl0uYXBwZW5kKGkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2Nbbl1bMV0gPSBpCgogICAgICAgIGZvciBrLCB2IGluIGNudC5pdGVtcygpOgogICAgICAgICAgICBtYXhfY250ID0gbWF4KG1heF9jbnQsIHYpCgogICAgICAgIG1heF9kaXN0ID0gMQogICAgICAgIGZvciBrLCBsIGluIGxvYy5pdGVtcygpOgogICAgICAgICAgICBpZiBsZW4obCkgPiAxOgogICAgICAgICAgICAgICAgbWF4X2Rpc3QgPSBsWzFdIC0gbFswXSArIDEKICAgICAgICByZXR1cm4gbWF4X2Rpc3QK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGEgPSBuZXcgU3RyaW5nKCJmZmYiKTsKICAgICAgU3RyaW5nIGIgPSBuZXcgU3RyaW5nKCJmZmYiKTsKICAgICAgU3RyaW5nIGMgPSAiZmZmIjsKICAgICAgU3RyaW5nIGQgPSAiZmZmIjsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGE9PWIpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYT09Yyk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkPT1jKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEuaGFzaENvZGUoKSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiLmhhc2hDb2RlKCkpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYy5oYXNoQ29kZSgpKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGQuaGFzaENvZGUoKSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uaWRlbnRpdHlIYXNoQ29kZShhKSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uaWRlbnRpdHlIYXNoQ29kZShiKSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uaWRlbnRpdHlIYXNoQ29kZShjKSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uaWRlbnRpdHlIYXNoQ29kZShkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiByID0gYT09YjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGMgPSAiZmZmIjsKICAgICAgU3RyaW5nIGQgPSAiZmZmIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoYSkK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHBlcnNvbmFsTG9hbiA9IG5ldyBTdHJpbmcoImNoZWFwIHBlcnNvbmFsIGxvYW5zIik7CiAgICAgIFN0cmluZyBob21lTG9hbiA9IG5ldyBTdHJpbmcoImNoZWFwIHBlcnNvbmFsIGxvYW5zIik7CgovL3NpbmNlIHR3byBzdHJpbmdzIGFyZSBkaWZmZXJlbnQgb2JqZWN0IHJlc3VsdCBzaG91bGQgYmUgZmFsc2UKICAgICAgYm9vbGVhbiByZXN1bHQgPSBwZXJzb25hbExvYW4gPT0gaG9tZUxvYW47CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29tcGFyaW5nIHR3byBzdHJpbmdzIHdpdGggPT0gb3BlcmF0b3I6ICIgKyByZXN1bHQpOwoKLy9zaW5jZSBzdHJpbmdzIGNvbnRhaW5zIHNhbWUgY29udGVudCAsIGVxdWFscygpIHNob3VsZCByZXR1cm4gdHJ1ZQogICAgICByZXN1bHQgPSBwZXJzb25hbExvYW4uZXF1YWxzKGhvbWVMb2FuKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDb21wYXJpbmcgdHdvIFN0cmluZ3Mgd2l0aCBzYW1lIGNvbnRlbnQgdXNpbmcgZXF1YWxzIG1ldGhvZDogIiArIHJlc3VsdCk7CgogICAgICBob21lTG9hbiA9IHBlcnNvbmFsTG9hbjsKLy9zaW5jZSBib3RoIGhvbWVMb2FuIGFuZCBwZXJzb25hbExvYW5kIHJlZmVyZW5jZSB2YXJpYWJsZSBhcmUgcG9pbnRpbmcgdG8gc2FtZSBvYmplY3QKLy8iPT0iIHNob3VsZCByZXR1cm4gdHJ1ZQogICAgICByZXN1bHQgPSAocGVyc29uYWxMb2FuID09IGhvbWVMb2FuKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDb21wYXJpbmcgdHdvIHJlZmVyZW5jZSBwb2ludGluZyB0byBzYW1lIFN0cmluZyB3aXRoID09IG9wZXJhdG9yOiAiICsgcmVzdWx0KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmZmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20gbW92aWVweS5lZGl0b3IgaW1wb3J0IFZpZGVvRmlsZUNsaXAsIGNvbmNhdGVuYXRlX3ZpZGVvY2xpcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjZ19zeW5jKCkK</text>
+        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyhyb3cpCg==</text>
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>, open(
-            ecg_output_path, 'w', newline='')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZmZmKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -846,14 +851,14 @@
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action DebugClass</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
