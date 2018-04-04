@@ -120,6 +120,10 @@
         <mark key="." line="81" column="53" />
         <mark key="^" line="81" column="53" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/js_imenu.js" timestamp="1522873106587">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="36" />
@@ -201,6 +205,12 @@
       </file>
       <file name="vm:1515" timestamp="1520146843575">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/frontend/src/containers/CurrentCurrency.js" timestamp="1522873433122">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Main.js" timestamp="1518288415216">
         <mark key="[" line="10" column="45" />
@@ -640,12 +650,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1522729766103">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1522785434300">
         <mark key="'" line="495" column="18" />
-        <mark key="[" line="483" column="48" />
-        <mark key="]" line="483" column="49" />
-        <mark key="." line="483" column="49" />
-        <mark key="^" line="483" column="49" />
+        <mark key="[" line="481" column="0" />
+        <mark key="]" line="481" column="0" />
+        <mark key="." line="481" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -767,43 +776,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBmaW5kU2hvcnRlc3RTdWJBcnJheShzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBudW1zOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkKICAgICAgICBsb2MgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KQogICAgICAgIG1heF9jbnQgPSBmbG9hdCgnLWluZicpCiAgICAgICAgZm9yIGksIG4gaW4gZW51bWVyYXRlKG51bXMpOgogICAgICAgICAgICBjbnRbbl0gKz0gMQogICAgICAgICAgICBpZiBsZW4obG9jW25dKSA8IDI6CiAgICAgICAgICAgICAgICBsb2Nbbl0uYXBwZW5kKGkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2Nbbl1bMV0gPSBpCgogICAgICAgIGZvciBrLCB2IGluIGNudC5pdGVtcygpOgogICAgICAgICAgICBtYXhfY250ID0gbWF4KG1heF9jbnQsIHYpCgogICAgICAgIG1heF9kaXN0ID0gMQogICAgICAgIGZvciBrLCBsIGluIGxvYy5pdGVtcygpOgogICAgICAgICAgICBpZiBsZW4obCkgPiAxOgogICAgICAgICAgICAgICAgbWF4X2Rpc3QgPSBsWzFdIC0gbFswXSArIDEKICAgICAgICByZXR1cm4gbWF4X2Rpc3QK</text>
+        <text encoding="base64">dmFyIGQgPSAoMSwgMiwgMyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5wdXRfcGF0aCwgJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MucGF0aC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5wdXRfcGF0aCwgJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoYSkK</text>
+        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmZmKCkK</text>
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -832,9 +841,7 @@
         <entry>label_result</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -846,12 +853,14 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
