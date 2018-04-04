@@ -140,7 +140,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521843050911">
+      <file name="/Python Console" timestamp="1522280291072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -276,13 +276,6 @@
         <mark key="]" line="26" column="62" />
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
-      </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1522867102370">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="45" column="61" />
-        <mark key="]" line="45" column="61" />
-        <mark key="^" line="45" column="61" />
-        <mark key="." line="45" column="61" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
@@ -647,12 +640,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1521398218329">
-        <mark key="'" line="490" column="18" />
-        <mark key="[" line="478" column="59" />
-        <mark key="]" line="478" column="59" />
-        <mark key="." line="478" column="59" />
-        <mark key="^" line="478" column="59" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1522729766103">
+        <mark key="'" line="495" column="18" />
+        <mark key="[" line="483" column="48" />
+        <mark key="]" line="483" column="49" />
+        <mark key="." line="483" column="49" />
+        <mark key="^" line="483" column="49" />
       </file>
       <file name="/fragment.java" timestamp="1517189825945">
         <mark key="[" line="0" column="0" />
@@ -668,6 +661,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="432" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="19" column="44" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
       <jump line="11" column="8" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
@@ -767,14 +761,13 @@
       <jump line="281" column="12" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
       <jump line="252" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
       <jump line="318" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" />
-      <jump line="46" column="18" filename="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>label_result</text>
@@ -783,31 +776,31 @@
         <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBmaW5kU2hvcnRlc3RTdWJBcnJheShzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBudW1zOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkKICAgICAgICBsb2MgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KQogICAgICAgIG1heF9jbnQgPSBmbG9hdCgnLWluZicpCiAgICAgICAgZm9yIGksIG4gaW4gZW51bWVyYXRlKG51bXMpOgogICAgICAgICAgICBjbnRbbl0gKz0gMQogICAgICAgICAgICBpZiBsZW4obG9jW25dKSA8IDI6CiAgICAgICAgICAgICAgICBsb2Nbbl0uYXBwZW5kKGkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2Nbbl1bMV0gPSBpCgogICAgICAgIGZvciBrLCB2IGluIGNudC5pdGVtcygpOgogICAgICAgICAgICBtYXhfY250ID0gbWF4KG1heF9jbnQsIHYpCgogICAgICAgIG1heF9kaXN0ID0gMQogICAgICAgIGZvciBrLCBsIGluIGxvYy5pdGVtcygpOgogICAgICAgICAgICBpZiBsZW4obCkgPiAxOgogICAgICAgICAgICAgICAgbWF4X2Rpc3QgPSBsWzFdIC0gbFswXSArIDEKICAgICAgICByZXR1cm4gbWF4X2Rpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsKICAgICAgICBsaXN0LmFkZCgyKTsKICAgICAgICBsaXN0LmFkZAogICAgICAgIFsxLDIsMyw0LDUsNl0KICAgICAgICBsaXN0LmFkZEFsbCg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5wdXRfcGF0aCwgJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbMSwyLDMsNCw1LDZdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGwpID4gMToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoYSkK</text>
+        <text encoding="base64">ICAgIGlmIFRydWU6CiAgICAgICAgYSA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmZmKCkK</text>
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gbW92aWVweS5lZGl0b3IgaW1wb3J0IFZpZGVvRmlsZUNsaXAsIGNvbmNhdGVuYXRlX3ZpZGVvY2xpcHMK</text>
+        <text encoding="base64">ZmZmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -850,14 +843,14 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
