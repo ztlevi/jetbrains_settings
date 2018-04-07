@@ -277,11 +277,10 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523142145900">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="58" column="8" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523142442453">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
@@ -785,28 +784,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lLmZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICBmZigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lLmZpZWxkCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG5hbWU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHEuYWRkKG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLmZpZWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
