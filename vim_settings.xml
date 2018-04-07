@@ -277,7 +277,12 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523140348279" />
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523142145900">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="58" column="8" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
         <mark key="[" line="144" column="16" />
@@ -777,34 +782,34 @@
         <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBmaW5kU2hvcnRlc3RTdWJBcnJheShzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBudW1zOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkKICAgICAgICBsb2MgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KQogICAgICAgIG1heF9jbnQgPSBmbG9hdCgnLWluZicpCiAgICAgICAgZm9yIGksIG4gaW4gZW51bWVyYXRlKG51bXMpOgogICAgICAgICAgICBjbnRbbl0gKz0gMQogICAgICAgICAgICBpZiBsZW4obG9jW25dKSA8IDI6CiAgICAgICAgICAgICAgICBsb2Nbbl0uYXBwZW5kKGkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2Nbbl1bMV0gPSBpCgogICAgICAgIGZvciBrLCB2IGluIGNudC5pdGVtcygpOgogICAgICAgICAgICBtYXhfY250ID0gbWF4KG1heF9jbnQsIHYpCgogICAgICAgIG1heF9kaXN0ID0gMQogICAgICAgIGZvciBrLCBsIGluIGxvYy5pdGVtcygpOgogICAgICAgICAgICBpZiBsZW4obCkgPiAxOgogICAgICAgICAgICAgICAgbWF4X2Rpc3QgPSBsWzFdIC0gbFswXSArIDEKICAgICAgICByZXR1cm4gbWF4X2Rpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHEuYWRkKG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBmZigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuYWRkQWxsKEFycmF5cy5hc0xpc3QocmVzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLmZpZWxkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcS5hZGQoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWluID0gSW50ZWdlci5NQVhfVkFMVUU7CgogICAgICAgIGZvciAoaW50IG4gOiBsaXN0KSB7CiAgICAgICAgICAgIGlmIChyZXMuc2l6ZSgpID49IDMpIHsKICAgICAgICAgICAgICAgIGlmIChuID4gbWluKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IGlkeCA9IHJlcy5pbmRleE9mKG1pbik7CiAgICAgICAgICAgICAgICAgICAgcmVzLnJlbW92ZShpZHgpOwogICAgICAgICAgICAgICAgICAgIHJlcy5hZGQobik7CiAgICAgICAgICAgICAgICAgICAgbWluID0gSW50ZWdlci5NQVhfVkFMVUU7CiAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA6IHJlcykgewogICAgICAgICAgICAgICAgICAgICAgICBtaW4gPSBNYXRoLm1pbihpLCBtaW4pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXMuYWRkKG4pOwogICAgICAgICAgICAgICAgbWluID0gTWF0aC5taW4obWluLCBuKTsKICAgICAgICAgICAgfQoKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5wdXRfcGF0aCwgJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLmZpZWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHEuYWRkKG4pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -845,7 +850,6 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
@@ -853,6 +857,7 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
