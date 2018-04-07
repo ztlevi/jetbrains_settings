@@ -277,12 +277,7 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1522869137120">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
+      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523140348279" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/scenario_statistics.py" timestamp="1519165525413">
         <mark key="'" line="166" column="43" />
         <mark key="[" line="144" column="16" />
@@ -601,7 +596,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520174904109">
+      <file name="/Dummy.txt" timestamp="1523140879127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -809,7 +804,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -841,23 +836,23 @@
         <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoAction</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
