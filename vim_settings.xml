@@ -809,7 +809,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dF9wYXRoLCAnXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -854,10 +854,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReformatCode</entry>
         <entry>action DebugClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
