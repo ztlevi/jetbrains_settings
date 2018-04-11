@@ -646,12 +646,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1523468950797">
-        <mark key="'" line="446" column="20" />
-        <mark key="[" line="479" column="26" />
-        <mark key="]" line="479" column="26" />
-        <mark key="." line="479" column="26" />
-        <mark key="^" line="479" column="26" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1523469636104">
+        <mark key="'" line="487" column="36" />
+        <mark key="[" line="479" column="27" />
+        <mark key="]" line="479" column="28" />
+        <mark key="." line="479" column="28" />
+        <mark key="^" line="479" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1523152781802">
         <mark key="[" line="0" column="0" />
@@ -667,7 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="27" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="480" column="11" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
@@ -767,13 +766,14 @@
       <jump line="429" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="445" column="54" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="446" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="487" column="36" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>period</text>
