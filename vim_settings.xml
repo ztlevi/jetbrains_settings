@@ -10,11 +10,7 @@
         <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398452988">
-        <mark key="'" line="21" column="0" />
         <mark key="[" line="10" column="47" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -140,7 +136,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1523468878168">
+      <file name="/Python Console" timestamp="1523489614365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -601,7 +597,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523468878266">
+      <file name="/Dummy.txt" timestamp="1523489614450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -646,10 +642,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1523469636104">
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1523490486608">
         <mark key="'" line="487" column="36" />
-        <mark key="[" line="479" column="27" />
-        <mark key="]" line="479" column="28" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="480" column="95" />
         <mark key="." line="479" column="28" />
         <mark key="^" line="479" column="28" />
       </file>
@@ -778,8 +774,8 @@
       <register name="/" type="4">
         <text>period</text>
       </register>
-      <register name="0" type="4">
-        <text>period</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciBkcml2ZXJJRCBpbiByYW5nZSgyLCAzKToKICAgICAgICBmb3IgaSBpbiByYW5nZSgxNywgMTgpOgogICAgICAgICAgICBpbnB1dF9wYXRoID0gIi9Vc2Vycy96dGxldmkvRG93bmxvYWRzL1RSSV9kYXRhL0lEezowM2R9X1R7OjAzZH0iLmZvcm1hdChkcml2ZXJJRCwgaSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
