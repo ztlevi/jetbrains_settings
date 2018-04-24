@@ -136,7 +136,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1523489614365">
+      <file name="/Python Console" timestamp="1524545990382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -597,7 +597,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523489614450">
+      <file name="/Dummy.txt" timestamp="1524545990492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -642,11 +642,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1523507128093">
-        <mark key="'" line="491" column="36" />
-        <mark key="[" line="450" column="0" />
-        <mark key="]" line="450" column="0" />
-        <mark key="." line="450" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1524546208566">
+        <mark key="'" line="487" column="36" />
+        <mark key="[" line="479" column="27" />
+        <mark key="]" line="479" column="26" />
+        <mark key="." line="479" column="26" />
+        <mark key="^" line="479" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1523152781802">
         <mark key="[" line="0" column="0" />
@@ -777,34 +778,34 @@
         <text encoding="base64">ICAgIGZvciBkcml2ZXJJRCBpbiByYW5nZSgyLCAzKToKICAgICAgICBmb3IgaSBpbiByYW5nZSgxNywgMTgpOgogICAgICAgICAgICBpbnB1dF9wYXRoID0gIi9Vc2Vycy96dGxldmkvRG93bmxvYWRzL1RSSV9kYXRhL0lEezowM2R9X1R7OjAzZH0iLmZvcm1hdChkcml2ZXJJRCwgaSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlucHV0X21hdF9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJTdGFydCBsYWJlbCBTZWdtZW50IikKCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGlucHV0X21hdF9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -857,8 +858,8 @@
         <entry>action Debug</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
