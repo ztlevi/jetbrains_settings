@@ -10,7 +10,11 @@
         <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398452988">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="10" column="47" />
+        <mark key="]" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+        <mark key="^" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
@@ -274,6 +278,7 @@
         <mark key="^" line="47" column="94" />
       </file>
       <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523151931438">
+        <mark key="'" line="22" column="8" />
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="15" />
         <mark key="." line="23" column="15" />
@@ -336,6 +341,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1524959171170">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/WordCount.java" timestamp="1513035420543">
         <mark key="'" line="58" column="0" />
@@ -462,6 +473,7 @@
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1521843054667">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
+        <mark key="^" line="24" column="24" />
         <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/FavoriteDAO.js" timestamp="1513462953581">
@@ -769,7 +781,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>period</text>
@@ -830,35 +842,27 @@
         <entry>GET</entry>
         <entry>placement</entry>
         <entry>rfind</entry>
-        <entry>label</entry>
-        <entry>label_result</entry>
-        <entry>res</entry>
-        <entry>keys</entry>
-        <entry>convert time</entry>
-        <entry>time</entry>
-        <entry>convert</entry>
-        <entry>period</entry>
       </history-search>
       <history-cmd>
+        <entry>action FileStructurePopup</entry>
+        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action DebugClass</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry>help</entry>
-        <entry>action</entry>
-        <entry>actionlist</entry>
-        <entry>action Run</entry>
         <entry>action RecentFiles</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action Debug</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action ReformatCode</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
