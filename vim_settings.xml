@@ -36,6 +36,12 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/.gitignore" timestamp="1524964953330">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/Developer/Maven/pom.xml" timestamp="1517106389366">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -343,10 +349,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1524960866452">
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="82" column="11" />
-        <mark key="^" line="82" column="11" />
+        <mark key="[" line="83" column="11" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
+        <mark key="^" line="83" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/WordCount.java" timestamp="1513035420543">
         <mark key="'" line="58" column="0" />
@@ -615,7 +621,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524545990492">
+      <file name="/Dummy.txt" timestamp="1524964979590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -796,34 +802,34 @@
         <text encoding="base64">ICAgIGZvciBkcml2ZXJJRCBpbiByYW5nZSgyLCAzKToKICAgICAgICBmb3IgaSBpbiByYW5nZSgxNywgMTgpOgogICAgICAgICAgICBpbnB1dF9wYXRoID0gIi9Vc2Vycy96dGxldmkvRG93bmxvYWRzL1RSSV9kYXRhL0lEezowM2R9X1R7OjAzZH0iLmZvcm1hdChkcml2ZXJJRCwgaSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ki5qYXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlucHV0X21hdF9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYXQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -855,7 +861,6 @@
         <entry>action HideAllWindows</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
@@ -870,6 +875,7 @@
         <entry>action ReformatCode</entry>
         <entry>action RunClass</entry>
         <entry>action Run</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
