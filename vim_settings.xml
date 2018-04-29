@@ -521,6 +521,9 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/generatorConfig.xml" timestamp="1525043841246">
+        <mark key="'" line="29" column="29" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/hackathon2018/app/app.html" timestamp="1519627804947">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -641,11 +644,11 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525042467124">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="92" />
+        <mark key="^" line="0" column="92" />
+        <mark key="." line="0" column="92" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -693,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="11" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="13" column="19" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
@@ -793,6 +795,7 @@
       <jump line="445" column="54" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="446" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="487" column="36" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/Developer/Github/mmall/src/main/resources/generatorConfig.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -802,7 +805,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>properity</text>
+        <text>dom</text>
       </register>
       <register name="0" type="4">
         <text>db.password</text>
@@ -839,9 +842,9 @@
       </register>
     </registers>
     <search>
-      <last-search>properity</last-search>
+      <last-search>dom</last-search>
       <last-offset />
-      <last-pattern>properity</last-pattern>
+      <last-pattern>dom</last-pattern>
       <last-replace>resampled_data</last-replace>
       <last-substitute>segmented_data</last-substitute>
       <last-dir>1</last-dir>
@@ -861,6 +864,7 @@
         <entry>placement</entry>
         <entry>rfind</entry>
         <entry>properity</entry>
+        <entry>dom</entry>
       </history-search>
       <history-cmd>
         <entry>action FindInPath</entry>
