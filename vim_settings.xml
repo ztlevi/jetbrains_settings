@@ -343,10 +343,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1524960866452">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="82" column="11" />
+        <mark key="^" line="82" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/WordCount.java" timestamp="1513035420543">
         <mark key="'" line="58" column="0" />
@@ -823,7 +823,7 @@
         <text encoding="base64">ICAgIHByaW50KGlucHV0X21hdF9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -850,7 +850,6 @@
         <entry>rfind</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
         <entry>actionlist</entry>
         <entry>action HideAllWindows</entry>
@@ -870,6 +869,7 @@
         <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action RunClass</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
