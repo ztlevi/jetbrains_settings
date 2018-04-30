@@ -235,6 +235,7 @@
         <mark key="." line="175" column="25" />
         <mark key="^" line="175" column="25" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1525053725097" />
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
@@ -342,6 +343,7 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class" timestamp="1525053866059" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -468,6 +470,11 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1525054177332">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1521843054667">
         <mark key="[" line="12" column="19" />
@@ -802,31 +809,31 @@
         <text>db.password</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT4vV0VCLUlORi88L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki5qYXIK</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ki5qYXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
