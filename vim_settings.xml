@@ -377,6 +377,12 @@
       <file name="/usr/local/anaconda3/lib/python3.6/threading.py" timestamp="1518485589786">
         <mark key="'" line="877" column="42" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1525050062524">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="196" column="49" />
@@ -423,7 +429,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/MybatisPluginKeygen-master/src/com/seventh7/mybatis/setting/MybatisSetting.java" timestamp="1525048123797" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="106" column="23" />
@@ -819,7 +824,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -860,7 +865,6 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
@@ -868,6 +872,7 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
