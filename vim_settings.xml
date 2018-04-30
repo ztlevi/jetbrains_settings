@@ -423,6 +423,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/MybatisPluginKeygen-master/src/com/seventh7/mybatis/setting/MybatisSetting.java" timestamp="1525048123797" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="106" column="23" />
@@ -618,6 +619,12 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Developer/MybatisPluginKeygen-master/src/main/java/Solution.java" timestamp="1525047721228">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="92" />
@@ -656,11 +663,11 @@
         <mark key="." line="479" column="26" />
         <mark key="^" line="479" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1525047387803">
+      <file name="/fragment.java" timestamp="1525047728778">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/Github/react_github/android/build.gradle" timestamp="1515220670646">
         <mark key="[" line="4" column="0" />
@@ -776,7 +783,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Main.</text>
+        <text>Main</text>
       </register>
       <register name="/" type="4">
         <text>dom</text>
@@ -855,11 +862,11 @@
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action HideAllWindows</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action Run</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
