@@ -630,6 +630,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/datasource.properties" timestamp="1525053496679">
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="92" />
@@ -824,7 +829,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -853,7 +858,6 @@
         <entry>dom</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
@@ -873,6 +877,7 @@
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
