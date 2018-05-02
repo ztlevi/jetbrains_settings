@@ -9,8 +9,8 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1521398452988">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1525125805186">
+        <mark key="'" line="112" column="8" />
         <mark key="[" line="10" column="47" />
         <mark key="]" line="55" column="24" />
         <mark key="." line="55" column="24" />
@@ -42,6 +42,9 @@
         <mark key="]" line="19" column="66" />
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520165401177">
+        <mark key="'" line="55" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/user.json" timestamp="1513947809024">
         <mark key="[" line="1" column="3" />
@@ -145,7 +148,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1524545990382">
+      <file name="/Python Console" timestamp="1525126085112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -318,6 +321,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
+        <mark key="'" line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/ProductMapper.xml" timestamp="1525046295831">
         <mark key="[" line="175" column="20" />
         <mark key="]" line="175" column="24" />
@@ -367,6 +373,9 @@
         <mark key="]" line="122" column="35" />
         <mark key="." line="122" column="35" />
         <mark key="^" line="122" column="35" />
+      </file>
+      <file name="/usr/local/anaconda3/lib/python3.6/threading.py" timestamp="1518485589786">
+        <mark key="'" line="877" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1525050062524">
         <mark key="[" line="15" column="40" />
@@ -510,6 +519,9 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/generatorConfig.xml" timestamp="1525043841246">
+        <mark key="'" line="29" column="29" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512971731537">
         <mark key="'" line="31" column="23" />
         <mark key="[" line="121" column="14" />
@@ -597,11 +609,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525302936474">
+      <file name="/Dummy.txt" timestamp="1524964979590">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
         <mark key="'" line="268" column="15" />
@@ -659,14 +671,14 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1524546208566">
-        <mark key="'" line="487" column="36" />
-        <mark key="[" line="479" column="27" />
-        <mark key="]" line="479" column="26" />
+      <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" timestamp="1525126094195">
+        <mark key="'" line="27" column="35" />
+        <mark key="[" line="359" column="4" />
+        <mark key="]" line="359" column="15" />
         <mark key="." line="479" column="26" />
         <mark key="^" line="479" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1525302871708">
+      <file name="/fragment.java" timestamp="1525048369857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -680,21 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="380" column="29" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="10" column="7" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="53" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="51" column="67" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="98" column="19" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="22" column="33" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/case_statistics.py" />
-      <jump line="267" column="18" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="490" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="65" column="11" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="100" column="65" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="112" column="34" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="496" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -780,6 +777,21 @@
       <jump line="51" column="6" filename="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/OrderItemMapper.xml" />
       <jump line="39" column="6" filename="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/OrderItemMapper.xml" />
       <jump line="23" column="23" filename="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/PayInfoMapper.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="39" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="41" column="47" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="42" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="43" column="47" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="45" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="46" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="48" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="50" column="36" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="52" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="54" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="61" column="16" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
+      <jump line="344" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="27" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -789,10 +801,10 @@
         <text>Main</text>
       </register>
       <register name="/" type="4">
-        <text>dom</text>
+        <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>db.password</text>
+        <text>trip_segment</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT4vV0VCLUlORi88L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
@@ -822,13 +834,13 @@
         <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>dom</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>dom</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>resampled_data</last-replace>
       <last-substitute>segmented_data</last-substitute>
       <last-dir>1</last-dir>
@@ -849,9 +861,10 @@
         <entry>rfind</entry>
         <entry>properity</entry>
         <entry>dom</entry>
+        <entry>result</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -869,8 +882,9 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
