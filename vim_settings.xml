@@ -43,9 +43,6 @@
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520165401177">
-        <mark key="'" line="55" column="13" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/user.json" timestamp="1513947809024">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="6" />
@@ -235,7 +232,6 @@
         <mark key="." line="175" column="25" />
         <mark key="^" line="175" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1525053725097" />
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
@@ -322,9 +318,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
-        <mark key="'" line="8" column="4" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/ProductMapper.xml" timestamp="1525046295831">
         <mark key="[" line="175" column="20" />
         <mark key="]" line="175" column="24" />
@@ -343,7 +336,6 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class" timestamp="1525053866059" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -375,9 +367,6 @@
         <mark key="]" line="122" column="35" />
         <mark key="." line="122" column="35" />
         <mark key="^" line="122" column="35" />
-      </file>
-      <file name="/usr/local/anaconda3/lib/python3.6/threading.py" timestamp="1518485589786">
-        <mark key="'" line="877" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1525050062524">
         <mark key="[" line="15" column="40" />
@@ -521,9 +510,6 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/generatorConfig.xml" timestamp="1525043841246">
-        <mark key="'" line="29" column="29" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512971731537">
         <mark key="'" line="31" column="23" />
         <mark key="[" line="121" column="14" />
@@ -611,11 +597,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524964979590">
+      <file name="/Dummy.txt" timestamp="1525302936474">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/PopularPage.js" timestamp="1514871955429">
         <mark key="'" line="268" column="15" />
@@ -680,7 +666,7 @@
         <mark key="." line="479" column="26" />
         <mark key="^" line="479" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1525048369857">
+      <file name="/fragment.java" timestamp="1525302871708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -836,7 +822,7 @@
         <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -883,8 +869,8 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
