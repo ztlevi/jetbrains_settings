@@ -16,6 +16,12 @@
         <mark key="." line="55" column="24" />
         <mark key="^" line="55" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/lifecycle/TestBeanLifecycle.java" timestamp="1525305843139">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/WelcomePage.js" timestamp="1513363292953">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="24" column="34" />
@@ -42,9 +48,6 @@
         <mark key="]" line="19" column="66" />
         <mark key="." line="19" column="66" />
         <mark key="^" line="271" column="49" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/asset.js" timestamp="1520165401177">
-        <mark key="'" line="55" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/user.json" timestamp="1513947809024">
         <mark key="[" line="1" column="3" />
@@ -90,6 +93,12 @@
         <mark key="]" line="162" column="24" />
         <mark key="." line="162" column="24" />
         <mark key="^" line="162" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/pom.xml" timestamp="1525305925937">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1514346449502">
         <mark key="[" line="9" column="76" />
@@ -321,9 +330,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.d.ts" timestamp="1514410639549">
-        <mark key="'" line="8" column="4" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/ProductMapper.xml" timestamp="1525046295831">
         <mark key="[" line="175" column="20" />
         <mark key="]" line="175" column="24" />
@@ -348,9 +354,9 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1524960866452">
-        <mark key="[" line="296" column="11" />
-        <mark key="]" line="296" column="11" />
+      <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1525305359296">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="76" />
         <mark key="." line="296" column="11" />
         <mark key="^" line="296" column="11" />
       </file>
@@ -373,9 +379,6 @@
         <mark key="]" line="122" column="35" />
         <mark key="." line="122" column="35" />
         <mark key="^" line="122" column="35" />
-      </file>
-      <file name="/usr/local/anaconda3/lib/python3.6/threading.py" timestamp="1518485589786">
-        <mark key="'" line="877" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1525050062524">
         <mark key="[" line="15" column="40" />
@@ -519,9 +522,6 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/generatorConfig.xml" timestamp="1525043841246">
-        <mark key="'" line="29" column="29" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/langs.json" timestamp="1512971731537">
         <mark key="'" line="31" column="23" />
         <mark key="[" line="121" column="14" />
@@ -635,6 +635,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/base/UnitTestBase.java" timestamp="1525305143941">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/datasource.properties" timestamp="1525053496679">
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
@@ -678,7 +684,7 @@
         <mark key="." line="479" column="26" />
         <mark key="^" line="479" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1525048369857">
+      <file name="/fragment.java" timestamp="1525305882067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -692,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="34" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="496" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -792,49 +797,50 @@
       <jump line="112" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="344" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="27" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/base/UnitTestBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>RunWith</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>trip_segment</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT4vV0VCLUlORi88L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki5qYXIK</text>
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXV0aWw8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7b3JnLnNwcmluZ2ZyYW1ld29yay52ZXJzaW9ufTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcub3cyLmpvbmFzLm9zZ2k8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZ2ZyYW1ld29yazwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NS4xLjc8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT4vV0VCLUlORi88L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBlcmlvZCkK</text>
+        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -861,10 +867,9 @@
         <entry>rfind</entry>
         <entry>properity</entry>
         <entry>dom</entry>
-        <entry>result</entry>
-        <entry>json</entry>
       </history-search>
       <history-cmd>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -884,7 +889,6 @@
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
