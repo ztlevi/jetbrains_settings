@@ -9,6 +9,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/resource/TestResource.java" timestamp="1525394253922">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/lifecycle/TestBeanLifecycle.java" timestamp="1525307239862">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="2" />
@@ -156,11 +162,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/autowiring/TestAutoWiring.java" timestamp="1525312765110">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="34" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/autowiring/TestAutoWiring.java" timestamp="1525391975712">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="99" />
+        <mark key="." line="7" column="99" />
+        <mark key="^" line="7" column="99" />
       </file>
       <file name="/Python Console" timestamp="1525126085112">
         <mark key="[" line="0" column="0" />
@@ -270,17 +276,22 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/autowiring/AutoWiringService.java" timestamp="1525378752707">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/autowiring/AutoWiringService.java" timestamp="1525392691563">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="19" />
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-resource.xml" timestamp="1525393064414">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/1.html" timestamp="1519627792592">
         <mark key="[" line="0" column="0" />
@@ -354,6 +365,13 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" timestamp="1525394225493">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -407,7 +425,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525305882067">
+      <file name="/fragment.java" timestamp="1525392935059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -421,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="496" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -521,50 +538,50 @@
       <jump line="344" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="27" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/base/UnitTestBase.java" />
+      <jump line="16" column="21" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>autoWiringDAO</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291cmNlLmNvbnRlbnRMZW5ndGgoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXV0b1dpcmluZ0RBTyA9IGF1dG9XaXJpbmdEQU87Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlLnJlc291cmNlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGVzdE1vb2NBcHBsaWNhdGlvbkNvbnRleHQ6IiArIHN1cGVyLmdldEJlYW4oIm1vb2NBcHBsaWNhdGlvbkNvbnRleHQiKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKAogICAgICAgIElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG5hbWU+PC9uYW1lPgo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0TW9vY0JlYW5OYW1lKCkgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJUZXN0TW9vY0JlYW5OYW1lOiIgKyBzdXBlci5nZXRCZWFuKCJtb29jQmVhbk5hbWUiKSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0ibW9vY0FwcGxpY2F0aW9uQ29udGV4dCIgY2xhc3M9ImNvbS5pbW9vYy5hd2FyZS5Nb29jQXBwbGljYXRpb25Db250ZXh0Ij48L2JlYW4+CiAgPGJlYW4gaWQ9Im1vb2NCZWFuTmFtZSIgY2xhc3M9ImNvbS5pbW9vYy5hd2FyZS5Nb29jQmVhbk5hbWUiPjwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwogICAgfSBjYXRjaCAoCiAgICAgICAgSU9FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>init-method=&quot;start&quot;
-    destroy-method=&quot;stop&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPGJlYW4gaWQ9ImJlYW5MaWZlQ3ljbGUiIGNsYXNzPSJjb20uaW1vb2MubGlmZWN5Y2xlLkJlYW5MaWZlQ3ljbGUiPjwvYmVhbj4tLT4K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iYmVhbkxpZmVDeWNsZSIgY2xhc3M9ImNvbS5pbW9vYy5saWZlY3ljbGUuQmVhbkxpZmVDeWNsZSIgaW5pdC1tZXRob2Q9ImRlZmF1bHRJbml0IgogICAgZGVzdHJveS1tZXRob2Q9ImRlZmF1bHREZXN0b3J5Ij48L2JlYW4+Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8IS0taW5pdC1tZXRob2Q9InN0YXJ0IiBkZXN0cm95LW1ldGhvZD0ic3RvcCItLT4K</text>
+        <text encoding="base64">ICA8YmVhbiBpZD0iYXV0b1dpcmluZ1NlcnZpY2UiIGNsYXNzPSJjb20uaW1vb2MuYXV0b3dpcmluZy5BdXRvV2lyaW5nU2VydmljZSI+CiAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImF1dG9XaXJpbmdEQU8iIHJlZj0iYXV0b1dpcmluZ0RBTyI+PC9wcm9wZXJ0eT4tLT4KICA8L2JlYW4+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -593,26 +610,26 @@
         <entry>dom</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action RunClass</entry>
+        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
