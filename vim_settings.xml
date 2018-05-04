@@ -96,11 +96,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/lifecycle/BeanLifeCycle.java" timestamp="1525308060760">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="^" line="12" column="43" />
-        <mark key="." line="8" column="44" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/lifecycle/BeanLifeCycle.java" timestamp="1525395810854">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1514346449502">
         <mark key="[" line="9" column="76" />
@@ -554,31 +554,31 @@
         <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291cmNlLmNvbnRlbnRMZW5ndGgoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlLnJlc291cmNlKCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKAogICAgICAgIElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhbiBzdG9wLiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlLnJlc291cmNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKAogICAgICAgIElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwogICAgfSBjYXRjaCAoCiAgICAgICAgSU9FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwogICAgfSBjYXRjaCAoCiAgICAgICAgSU9FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iYXV0b1dpcmluZ1NlcnZpY2UiIGNsYXNzPSJjb20uaW1vb2MuYXV0b3dpcmluZy5BdXRvV2lyaW5nU2VydmljZSI+CiAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImF1dG9XaXJpbmdEQU8iIHJlZj0iYXV0b1dpcmluZ0RBTyI+PC9wcm9wZXJ0eT4tLT4KICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
