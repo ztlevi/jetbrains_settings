@@ -158,17 +158,23 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanImplTwo.java" timestamp="1525554634765">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/routes/trading_request.js" timestamp="1520146938741">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestBeanAnnotation.java" timestamp="1525552462690">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestBeanAnnotation.java" timestamp="1525554423739">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/autowiring/TestAutoWiring.java" timestamp="1525391975712">
         <mark key="[" line="7" column="0" />
@@ -272,6 +278,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanInvoker.java" timestamp="1525554410816">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="63" />
+        <mark key="^" line="31" column="63" />
+        <mark key="." line="31" column="63" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/ShippingMapper.xml" timestamp="1525046327635">
         <mark key="[" line="175" column="20" />
         <mark key="]" line="175" column="25" />
@@ -289,6 +301,12 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
         <mark key="^" line="115" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanImplOne.java" timestamp="1525554631083">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
@@ -312,6 +330,12 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanInterface.java" timestamp="1525553683485">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/1.html" timestamp="1519627792592">
         <mark key="[" line="0" column="0" />
@@ -451,7 +475,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525396489236">
+      <file name="/fragment.java" timestamp="1525554610699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -571,40 +595,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>injectionS</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5qZWN0aW9uREFPID0gaW5qZWN0aW9uREFPOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">TWFwPFN0cmluZywgQmVhbkludGVyZmFjZT4gbWFw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlc3BvbnNlV3JhcHBlcgo=</text>
+        <text encoding="base64">ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">QFJlc3BvbnNlV3JhcHBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0QXV0b1dpcmluZ1NlcnZpY2UoKSB7CiAgICBBdXRvV2lyaW5nU2VydmljZSBzZXJ2aWNlID0gc3VwZXIuZ2V0QmVhbigiYXV0b1dpcmluZ1NlcnZpY2UiKTsKICAgIHNlcnZpY2Uuc2F5KCJUaGlzIGlzIGEgdGVzdC4iKTsKICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0QXV0b1dpcmluZ1NlcnZpY2UoKSB7CiAgICBBdXRvV2lyaW5nU2VydmljZSBzZXJ2aWNlID0gc3VwZXIuZ2V0QmVhbigiYXV0b1dpcmluZ1NlcnZpY2UiKTsKICAgIHNlcnZpY2Uuc2F5KCJUaGlzIGlzIGEgdGVzdC4iKTsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhbiBzdG9wLiIpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlLnJlc291cmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhbiBzdG9wLiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKAogICAgICAgIElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHJlc291cmNlLnJlc291cmNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKAogICAgICAgIElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZS5jb250ZW50TGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
