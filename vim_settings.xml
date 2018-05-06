@@ -141,11 +141,11 @@
         <mark key="^" line="197" column="24" />
         <mark key="." line="197" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/Store.java" timestamp="1525556635972">
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/Store.java" timestamp="1525645787384">
         <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -273,11 +273,11 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StringStore.java" timestamp="1525557160966">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StringStore.java" timestamp="1525644634333">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/utils/suspendedList.js" timestamp="1520176391904">
         <mark key="[" line="4" column="7" />
@@ -285,11 +285,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/IntegerStore.java" timestamp="1525556645545">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/IntegerStore.java" timestamp="1525644646291">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/react_server_side_rendering/index.js" timestamp="1516236188313">
         <mark key="[" line="0" column="7" />
@@ -421,11 +421,11 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJavaBased.java" timestamp="1525561174222">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="40" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="33" column="40" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJavaBased.java" timestamp="1525645618007">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="40" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -481,12 +481,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" timestamp="1525642904848">
-        <mark key="'" line="13" column="17" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="69" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" timestamp="1525645379568">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/MyDriverManager.java" timestamp="1525559758340">
         <mark key="[" line="7" column="32" />
@@ -626,40 +626,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>, proxyMode = ScopedProxyMode.TARGET_CLASS</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3RvcmUgc3RvcmUgPSBzdXBlci5nZXRCZWFuKCJzdHJpbmdTdG9yZSIpOyAgICAgIAogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpO30K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiczE6ICIgKyBzMS5nZXRDbGFzcygpLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU3RyaW5nU3RvcmUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJlYW5Bbm5vdGF0aW9uIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOyBiZWFuLnNheSgiVGhpcyBpcyBhIHRlc3QhIik7Cg==</text>
+        <text encoding="base64">ICBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIiwgcHJveHlNb2RlID0gU2NvcGVkUHJveHlNb2RlLlRBUkdFVF9DTEFTUykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCB0ZXN0SmF2YUJhc2VkKCkgewogIH0K</text>
+        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEJlYW5Bbm5vdGF0aW9uIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOyBiZWFuLnNheSgiVGhpcyBpcyBhIHRlc3QhIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0U2NvcGUoKSB7CiAgICBCZWFuQW5ub3RhdGlvbiBiZWFuID0gc3VwZXIuZ2V0QmVhbigiYmVhbkFubm90YXRpb24iKTsKICAgIGJlYW4ubXlIYXNoQ29kZSgpOwoKICAgIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOwogICAgYmVhbi5teUhhc2hDb2RlKCk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RBdXRvV2lyZWQoKSB7CiAgICBJbmplY3Rpb25TZXJ2aWNlIHNlcnZpY2UgPSBzdXBlci5nZXRCZWFuKCJpbmplY3Rpb25TZXJ2aWNlSW1wbCIpOwogICAgc2VydmljZS5zYXZlKCJUaGlzIGlzIGF1dG93aXJlZC4iKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdE11bHRpQmVhbigpIHsKICAgIEJlYW5JbnZva2VyIGludm9rZXIgPSBzdXBlci5nZXRCZWFuKCJiZWFuSW52b2tlciIpOwogICAgaW52b2tlci5zYXkoKTsKICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCB0ZXN0SmF2YUJhc2VkKCkgewogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuSW50ZXJmYWNlLmdldENsYXNzKCkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgIEJlYW5Bbm5vdGF0aW9uIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOyBiZWFuLnNheSgiVGhpcyBpcyBhIHRlc3QhIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXIK</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0U2NvcGUoKSB7CiAgICBCZWFuQW5ub3RhdGlvbiBiZWFuID0gc3VwZXIuZ2V0QmVhbigiYmVhbkFubm90YXRpb24iKTsKICAgIGJlYW4ubXlIYXNoQ29kZSgpOwoKICAgIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOwogICAgYmVhbi5teUhhc2hDb2RlKCk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RBdXRvV2lyZWQoKSB7CiAgICBJbmplY3Rpb25TZXJ2aWNlIHNlcnZpY2UgPSBzdXBlci5nZXRCZWFuKCJpbmplY3Rpb25TZXJ2aWNlSW1wbCIpOwogICAgc2VydmljZS5zYXZlKCJUaGlzIGlzIGF1dG93aXJlZC4iKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdE11bHRpQmVhbigpIHsKICAgIEJlYW5JbnZva2VyIGludm9rZXIgPSBzdXBlci5nZXRCZWFuKCJiZWFuSW52b2tlciIpOwogICAgaW52b2tlci5zYXkoKTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlc3BvbnNlV3JhcHBlcgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuSW50ZXJmYWNlLmdldENsYXNzKCkuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -707,9 +707,9 @@
         <entry>action GotoAction</entry>
         <entry>w</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
