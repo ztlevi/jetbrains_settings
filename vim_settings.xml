@@ -481,12 +481,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" timestamp="1525561255011">
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" timestamp="1525642904848">
         <mark key="'" line="13" column="17" />
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="69" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
         <mark key="^" line="27" column="69" />
-        <mark key="." line="27" column="69" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/MyDriverManager.java" timestamp="1525559758340">
         <mark key="[" line="7" column="32" />
@@ -626,7 +626,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT</text>
+        <text>, proxyMode = ScopedProxyMode.TARGET_CLASS</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
