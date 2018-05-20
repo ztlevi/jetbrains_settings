@@ -360,11 +360,10 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1526845382195">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1526848221067">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/electron-quick-start/package.json" timestamp="1513197930311">
         <mark key="[" line="21" column="20" />
@@ -664,31 +663,31 @@
         <text encoding="base64">ICBwcml2YXRlIEpzckRBTyBqc3JEQU87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAUmVzb3VyY2UK</text>
+        <text encoding="base64">ICBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBAUmVzb3VyY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsKCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0RHJpdmVyTWFuYWdlcigpIHsKICAgIE15RHJpdmVyTWFuYWdlciBtYW5hZ2VyID0gc3VwZXIuZ2V0QmVhbigibXlEcml2ZXJNYW5hZ2VyIik7CgogICAgU3lzdGVtLm91dC5wcmludGxuKG1hbmFnZXIuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0U2NvcGUoKSB7CiAgICBTdG9yZSBzdG9yZSA9IHN1cGVyLmdldEJlYW4oInN0cmluZ1N0b3JlIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuaGFzaENvZGUoKSk7CiAgICBzdG9yZSA9IHN1cGVyLmdldEJlYW4oInN0cmluZ1N0b3JlIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuaGFzaENvZGUoKSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZW5lcmljKCkgewogICAgU3RyaW5nU3RvcmUgc3RvcmUgPSBzdXBlci5nZXRCZWFuKCJzdHJpbmdTdG9yZVRlc3QiKTsK</text>
+        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsKCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgU3RyaW5nU3RvcmUoKTsK</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0RHJpdmVyTWFuYWdlcigpIHsKICAgIE15RHJpdmVyTWFuYWdlciBtYW5hZ2VyID0gc3VwZXIuZ2V0QmVhbigibXlEcml2ZXJNYW5hZ2VyIik7CgogICAgU3lzdGVtLm91dC5wcmludGxuKG1hbmFnZXIuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0U2NvcGUoKSB7CiAgICBTdG9yZSBzdG9yZSA9IHN1cGVyLmdldEJlYW4oInN0cmluZ1N0b3JlIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuaGFzaENvZGUoKSk7CiAgICBzdG9yZSA9IHN1cGVyLmdldEJlYW4oInN0cmluZ1N0b3JlIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcmUuaGFzaENvZGUoKSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZW5lcmljKCkgewogICAgU3RyaW5nU3RvcmUgc3RvcmUgPSBzdXBlci5nZXRCZWFuKCJzdHJpbmdTdG9yZVRlc3QiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIiwgcHJveHlNb2RlID0gU2NvcGVkUHJveHlNb2RlLlRBUkdFVF9DTEFTUykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU3RyaW5nU3RvcmUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsK</text>
+        <text encoding="base64">ICBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIiwgcHJveHlNb2RlID0gU2NvcGVkUHJveHlNb2RlLlRBUkdFVF9DTEFTUykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJlYW5Bbm5vdGF0aW9uIGJlYW4gPSBzdXBlci5nZXRCZWFuKCJiZWFuQW5ub3RhdGlvbiIpOyBiZWFuLnNheSgiVGhpcyBpcyBhIHRlc3QhIik7Cg==</text>
+        <text encoding="base64">ICAgIFN0b3JlIHN0b3JlID0gc3VwZXIuZ2V0QmVhbigic3RyaW5nU3RvcmUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
