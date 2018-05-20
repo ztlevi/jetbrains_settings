@@ -198,7 +198,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526858261246">
+      <file name="/Python Console" timestamp="1526859666464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -603,12 +603,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526858798132">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526859720296">
+        <mark key="'" line="44" column="30" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="70" column="116" />
+        <mark key="^" line="70" column="116" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -878,7 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="491" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="102" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -978,19 +977,20 @@
       <jump line="62" column="10" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="11" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="44" column="30" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>pa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhIG5vdCBpbiBzZWxmLnA6CiAgICAgICAgICAgIHNlbGYucFthXSA9IGEK</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCgoKY2xhc3MgVW5pb25GaW5kOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHdvcmRzKToKICAgICAgICBzZWxmLnAgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChzdHIpCiAgICAgICAgZm9yIHdvcmQgaW4gd29yZHM6CiAgICAgICAgICAgIHNlbGYucFt3b3JkXSA9IHdvcmQKICAgICAgICBzZWxmLnJhbmsgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChpbnQpCgogICAgZGVmIHVuaW9uKHNlbGYsIGEsIGIpOgogICAgICAgIGlmIGEgbm90IGluIHNlbGYucDoKICAgICAgICAgICAgc2VsZi5wW2FdID0gYQogICAgICAgIGlmIGIgbm90IGluIHNlbGYucDoKICAgICAgICAgICAgc2VsZi5wW2JdID0gYgogICAgICAgIHBhID0gc2VsZi5maW5kKGEpCiAgICAgICAgcGIgPSBzZWxmLmZpbmQoYikKICAgICAgICByMSA9IHNlbGYucmFua1twYV0KICAgICAgICByMiA9IHNlbGYucmFua1twYl0KICAgICAgICBpZiByMSA8IHIyOgogICAgICAgICAgICBzZWxmLnBbYV0gPSBiCiAgICAgICAgICAgIHNlbGYucmFua1twYl0gPSByMSArIHIyCiAgICAgICAgZWxpZiByMSA+IHIyOgogICAgICAgICAgICBzZWxmLnBbYl0gPSBhCiAgICAgICAgICAgIHNlbGYucmFua1twYV0gPSByMSArIHIyCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5yYW5rW3BhXSArPSAxCiAgICAgICAgICAgIHNlbGYucFtiXSA9IGEKCiAgICBkZWYgZmluZChzZWxmLCB4KToKICAgICAgICB3aGlsZSB4ICE9IHNlbGYucFt4XToKICAgICAgICAgICAgeCA9IHNlbGYucFt4XQogICAgICAgIHJldHVybiB4CgogICAgZGVmIGlzX2Nvbm5lY3RlZChzZWxmLCBhLCBiKToKICAgICAgICBwYSA9IHNlbGYuZmluZChhKQogICAgICAgIHBiID0gc2VsZi5maW5kKGIpCiAgICAgICAgaWYgbm90IHBhIG9yIG5vdCBwYjoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgICAgIHJldHVybiBwYSA9PSBwYgoKCmNsYXNzIFNvbHV0aW9uOgogICAgZGVmIGFyZVNlbnRlbmNlc1NpbWlsYXJUd28oc2VsZiwgd29yZHMxLCB3b3JkczIsIHBhaXJzKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSB3b3JkczE6IExpc3Rbc3RyXQogICAgICAgIDp0eXBlIHdvcmRzMjogTGlzdFtzdHJdCiAgICAgICAgOnR5cGUgcGFpcnM6IExpc3RbTGlzdFtzdHJdXQogICAgICAgIDpydHlwZTogYm9vbAogICAgICAgICIiIgogICAgICAgIGlmIGxlbih3b3JkczEpICE9IGxlbih3b3JkczIpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgdWYgPSBVbmlvbkZpbmQod29yZHMxICsgd29yZHMyKQogICAgICAgIGZvciBhLCBiIGluIHBhaXJzOgogICAgICAgICAgICBpZiBub3QgdWYuaXNfY29ubmVjdGVkKGEsIGIpOgogICAgICAgICAgICAgICAgdWYudW5pb24oYSwgYikKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHdvcmRzMSkpOgogICAgICAgICAgICB3MSA9IHdvcmRzMVtpXQogICAgICAgICAgICB3MiA9IHdvcmRzMltpXQogICAgICAgICAgICBpZiB3MSA9PSB3MjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIG5vdCB1Zi5pc19jb25uZWN0ZWQodzEsIHcyKToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
@@ -1068,9 +1068,9 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
         <entry>%s/pa/p1/g</entry>
-        <entry>action DebugClass</entry>
         <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
