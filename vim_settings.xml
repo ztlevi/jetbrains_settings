@@ -198,7 +198,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526852469532">
+      <file name="/Python Console" timestamp="1526852835887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -603,11 +603,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526852572137">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526853010809">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -983,7 +983,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
