@@ -198,7 +198,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526852835887">
+      <file name="/Python Console" timestamp="1526858261246">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -216,7 +216,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518555576920">
+      <file name="/fragment.py" timestamp="1526858028865">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -603,11 +603,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526853010809">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1526858798132">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -877,10 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="501" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="89" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="485" column="17" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="491" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="102" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -977,57 +974,61 @@
       <jump line="16" column="21" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" />
       <jump line="11" column="17" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" />
       <jump line="15" column="46" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="62" column="10" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>pa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEpzckRBTyBqc3JEQU87Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhIG5vdCBpbiBzZWxmLnA6CiAgICAgICAgICAgIHNlbGYucFthXSA9IGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBVbmlvbkZpbmQ6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbik6CiAgICAgICAgc2VsZi5wID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGFtYmRhIDogLTEpCiAgICAgICAgc2VsZi5yYW5rID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoaW50KQoKICAgIGRlZiB1bmlvbihzZWxmLCBhLCBiKToKICAgICAgICByMSA9IHNlbGYucmFua1thXQogICAgICAgIHIyID0gc2VsZi5yYW5rW2JdCiAgICAgICAgaWYgcjEgPCByMjoKICAgICAgICAgICAgc2VsZi5wW2FdID0gYgogICAgICAgIGVsaWYgcjEgPiByMjoKICAgICAgICAgICAgc2VsZi5wW2JdID0gYQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucFthXSArPSAxCiAgICAgICAgICAgIHNlbGYucFtiXSA9IGEKCiAgICBkZWYgZmluZChzZWxmLCB4KToKICAgICAgICBpZiBzZWxmLnBbeF0gIT0gLTE6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBbeF0KICAgICAgICBzZWxmLnBbeF0gPSBmaW5kKHNlbGYucFt4XSkKICAgICAgICByZXR1cm4gc2VsZi5wW3hdCiAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWluKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYSA9PSBwYjoKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHggPSBweAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcHggIT0geDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHggPSBzZWxmLnBbeF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAUmVzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICBweCA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHggPSBzZWxmLmZpbmQoc2VsZi5wW3hdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>pa</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
-      <last-replace>resampled_data</last-replace>
-      <last-substitute>segmented_data</last-substitute>
+      <last-pattern>pa</last-pattern>
+      <last-replace>p1</last-replace>
+      <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1048,26 +1049,27 @@
         <entry>dom</entry>
         <entry>result</entry>
         <entry>json</entry>
+        <entry>pa</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>%s/pa/p1/g</entry>
+        <entry>action DebugClass</entry>
+        <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
