@@ -111,17 +111,17 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="23" column="31" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/pom.xml" timestamp="1525653498304">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/OrderItemMapper.xml" timestamp="1525046148354">
         <mark key="'" line="39" column="6" />
         <mark key="[" line="162" column="20" />
         <mark key="]" line="162" column="24" />
         <mark key="." line="162" column="24" />
         <mark key="^" line="162" column="24" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/pom.xml" timestamp="1525653498304">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/README.md" timestamp="1514346449502">
         <mark key="[" line="9" column="76" />
@@ -135,6 +135,12 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/userDao.js" timestamp="1512851365409">
         <mark key="'" line="46" column="3" />
         <mark key="[" line="7" column="21" />
@@ -142,11 +148,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
+      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/OrderMapper.xml" timestamp="1525046199521">
+        <mark key="[" line="197" column="20" />
+        <mark key="]" line="197" column="24" />
+        <mark key="^" line="197" column="24" />
+        <mark key="." line="197" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/DataRepository.js" timestamp="1513899790370">
         <mark key="'" line="80" column="19" />
@@ -154,12 +160,6 @@
         <mark key="]" line="81" column="53" />
         <mark key="." line="81" column="53" />
         <mark key="^" line="81" column="53" />
-      </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/OrderMapper.xml" timestamp="1525046199521">
-        <mark key="[" line="197" column="20" />
-        <mark key="]" line="197" column="24" />
-        <mark key="^" line="197" column="24" />
-        <mark key="." line="197" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/PayInfoMapper.xml" timestamp="1525046245630">
         <mark key="'" line="23" column="23" />
@@ -222,6 +222,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/reduxstagram.js" timestamp="1518288363111">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/UserDao.js" timestamp="1514404637567">
         <mark key="'" line="284" column="10" />
         <mark key="[" line="76" column="54" />
@@ -229,17 +235,17 @@
         <mark key="." line="76" column="80" />
         <mark key="^" line="76" column="80" />
       </file>
-      <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/reduxstagram.js" timestamp="1518288363111">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="18" column="33" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1525046375954">
         <mark key="[" line="150" column="20" />
         <mark key="]" line="150" column="24" />
         <mark key="." line="150" column="24" />
         <mark key="^" line="150" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513919129519">
         <mark key="'" line="88" column="14" />
@@ -247,12 +253,6 @@
         <mark key="]" line="79" column="50" />
         <mark key="^" line="79" column="50" />
         <mark key="." line="79" column="50" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
@@ -327,12 +327,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1526848221067">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="31" column="27" />
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" timestamp="1526860824363">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="165" column="66" />
+        <mark key="]" line="166" column="25" />
+        <mark key="." line="166" column="25" />
+        <mark key="^" line="166" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/synchronization/UMTRI_data_sync.py" timestamp="1521398206937">
         <mark key="'" line="319" column="0" />
@@ -394,13 +394,6 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513359382112">
-        <mark key="'" line="138" column="2" />
-        <mark key="[" line="68" column="32" />
-        <mark key="]" line="68" column="32" />
-        <mark key="." line="68" column="32" />
-        <mark key="^" line="68" column="32" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="2" column="3" />
@@ -418,6 +411,13 @@
         <mark key="]" line="21" column="32" />
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/Github/electron-quick-start/renderer.js" timestamp="1513359382112">
+        <mark key="'" line="138" column="2" />
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="32" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
@@ -475,6 +475,12 @@
         <mark key="^" line="50" column="14" />
         <mark key="." line="50" column="14" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/MyDriverManager.java" timestamp="1525559758340">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/bin/www" timestamp="1520168111345">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="33" />
@@ -482,17 +488,17 @@
         <mark key="." line="122" column="35" />
         <mark key="^" line="122" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/MyDriverManager.java" timestamp="1525559758340">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1525050062524">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="3" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/styles/style.css" timestamp="1513318162638">
         <mark key="'" line="130" column="4" />
@@ -507,12 +513,6 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
-      </file>
-      <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="81" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/src/dao/firebase.js" timestamp="1520176119678">
         <mark key="'" line="47" column="6" />
@@ -540,18 +540,18 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocBeanName.java" timestamp="1525311185204">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/statistics_test.py" timestamp="1516761932719">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="106" column="23" />
         <mark key="]" line="106" column="23" />
         <mark key="." line="106" column="23" />
         <mark key="^" line="106" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocBeanName.java" timestamp="1525311185204">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="46" />
-        <mark key="^" line="19" column="46" />
-        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/node_modules/react-native-modal-popover/lib/Popover.js" timestamp="1513369952734">
         <mark key="'" line="75" column="50" />
@@ -667,6 +667,12 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/dao/InjectionDAO.java" timestamp="1525398985106">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/keys.json" timestamp="1512972037358">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="24" column="13" />
@@ -680,12 +686,6 @@
         <mark key="]" line="140" column="57" />
         <mark key="^" line="140" column="57" />
         <mark key="." line="140" column="57" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/dao/InjectionDAO.java" timestamp="1525398985106">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJsr.java" timestamp="1525651748355">
         <mark key="[" line="24" column="0" />
@@ -725,6 +725,12 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanInvoker.java" timestamp="1525556078823">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
         <mark key="[" line="3" column="4" />
@@ -732,11 +738,9 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/multibean/BeanInvoker.java" timestamp="1525556078823">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-beanannotation.xml" timestamp="1525559292824">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/HomePage.js" timestamp="1513479842346">
         <mark key="'" line="89" column="3" />
@@ -744,10 +748,6 @@
         <mark key="]" line="68" column="38" />
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-beanannotation.xml" timestamp="1525559292824">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/about/AboutPage.js" timestamp="1513916744290">
         <mark key="'" line="73" column="31" />
@@ -877,7 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="501" column="0" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="89" column="4" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="485" column="17" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -977,46 +976,47 @@
       <jump line="16" column="21" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" />
       <jump line="11" column="17" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" />
       <jump line="15" column="46" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/Developer/MavenTest/src/main/java/Solution.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEpzckRBTyBqc3JEQU87Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdW10gcGFpcnMgPSB7eyJ5dXRhaGRwbHkiLCAieXV0YWhkcGx5In0seyJ4b3pveWFxeHRidXN0cnltbyIsICJ4b3pveWFxeHRidXN0cnltbyJdLFsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29kbGxlY3RvcnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBVbmlvbkZpbmQ6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbik6CiAgICAgICAgc2VsZi5wID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGFtYmRhIDogLTEpCiAgICAgICAgc2VsZi5yYW5rID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoaW50KQoKICAgIGRlZiB1bmlvbihzZWxmLCBhLCBiKToKICAgICAgICByMSA9IHNlbGYucmFua1thXQogICAgICAgIHIyID0gc2VsZi5yYW5rW2JdCiAgICAgICAgaWYgcjEgPCByMjoKICAgICAgICAgICAgc2VsZi5wW2FdID0gYgogICAgICAgIGVsaWYgcjEgPiByMjoKICAgICAgICAgICAgc2VsZi5wW2JdID0gYQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucFthXSArPSAxCiAgICAgICAgICAgIHNlbGYucFtiXSA9IGEKCiAgICBkZWYgZmluZChzZWxmLCB4KToKICAgICAgICBpZiBzZWxmLnBbeF0gIT0gLTE6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBbeF0KICAgICAgICBzZWxmLnBbeF0gPSBmaW5kKHNlbGYucFt4XSkKICAgICAgICByZXR1cm4gc2VsZi5wW3hdCiAgICAK</text>
+        <text encoding="base64">ICAgIGludFtdIGEgPSBuZXcgaW50W117MSwgMiwgM307CiAgICBMaXN0PEludGVnZXI+IGIgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCk7Ci8vICAgICAgICBiLmFkZCgxKTtiLmFkZCgyKTtiLmFkZCgzKTsKICAgIGIgPSBBcnJheXMuc3RyZWFtKGEpLmJveGVkKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICBpbnRbXSBjID0gYi5zdHJlYW0oKS5tYXBUb0ludChOdW1iZXI6OmludFZhbHVlKS50b0FycmF5KCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oY1t+LTFdKTsKICAgIEludGVnZXIgZCA9IDM7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oZC5pbnRWYWx1ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWluKHNlbGYpOgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGFzcyBTb2x1dGlvbiB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">CgpjbGFzcyBVbmlvbkZpbmQ6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbik6CiAgICAgICAgc2VsZi5wID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGFtYmRhIDogLTEpCiAgICAgICAgc2VsZi5yYW5rID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoaW50KQoKICAgIGRlZiB1bmlvbihzZWxmLCBhLCBiKToKICAgICAgICByMSA9IHNlbGYucmFua1thXQogICAgICAgIHIyID0gc2VsZi5yYW5rW2JdCiAgICAgICAgaWYgcjEgPCByMjoKICAgICAgICAgICAgc2VsZi5wW2FdID0gYgogICAgICAgIGVsaWYgcjEgPiByMjoKICAgICAgICAgICAgc2VsZi5wW2JdID0gYQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucFthXSArPSAxCiAgICAgICAgICAgIHNlbGYucFtiXSA9IGEKCiAgICBkZWYgZmluZChzZWxmLCB4KToKICAgICAgICBpZiBzZWxmLnBbeF0gIT0gLTE6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBbeF0KICAgICAgICBzZWxmLnBbeF0gPSBmaW5kKHNlbGYucFt4XSkKICAgICAgICByZXR1cm4gc2VsZi5wW3hdCiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">ICAgIGRlZiBtYWluKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAUmVzb3VyY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RunClass</text>
@@ -1046,29 +1046,27 @@
         <entry>rfind</entry>
         <entry>properity</entry>
         <entry>dom</entry>
-        <entry>result</entry>
-        <entry>json</entry>
       </history-search>
       <history-cmd>
+        <entry>action ActivateStructureToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ExpandRegion</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action RecentFiles</entry>
+        <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action ExpandRegion</entry>
+        <entry>action RecentFiles</entry>
+        <entry>w</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Run</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action Debug</entry>
         <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
