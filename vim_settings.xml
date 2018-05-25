@@ -136,7 +136,7 @@
       <file name="vm:1511" timestamp="1520146842554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524545990382">
+      <file name="/Python Console" timestamp="1527232887371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -597,7 +597,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524545990492">
+      <file name="/Dummy.txt" timestamp="1527232887469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -805,7 +805,7 @@
         <text encoding="base64">ICAgIHByaW50KGlucHV0X21hdF9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -840,7 +840,6 @@
         <entry>period</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action ToggleDistractionFreeMode</entry>
@@ -851,15 +850,16 @@
         <entry>action ReformatCode</entry>
         <entry>help</entry>
         <entry>action</entry>
-        <entry>actionlist</entry>
         <entry>action Run</entry>
         <entry>action RecentFiles</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action Debug</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
