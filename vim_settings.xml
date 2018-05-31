@@ -467,6 +467,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1527791253377" />
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -871,7 +872,7 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1525651688232">
+      <file name="/fragment.java" timestamp="1527791155289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1021,7 +1022,7 @@
         <text encoding="base64">ICAgICAgICBweCA9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1061,7 +1062,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -1071,8 +1071,9 @@
         <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
-        <entry>action RunClass</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
