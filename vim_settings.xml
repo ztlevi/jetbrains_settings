@@ -578,6 +578,12 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="47" column="94" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/FormulaeRestController.java" timestamp="1527726070275">
+        <mark key="[" line="242" column="4" />
+        <mark key="]" line="242" column="3" />
+        <mark key="^" line="242" column="3" />
+        <mark key="." line="242" column="3" />
+      </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -742,10 +748,6 @@
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-beanannotation.xml" timestamp="1525559292824">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/1.html" timestamp="1519627792592">
         <mark key="[" line="0" column="0" />
