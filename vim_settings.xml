@@ -9,6 +9,9 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="/MSreplication_options [@localhost]" timestamp="1528135652483">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/statistics/case_statistics.py" timestamp="1518477714899">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="22" />
@@ -41,6 +44,7 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/AssayBase.java" timestamp="1528136463769" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StringStore.java" timestamp="1525644634333">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="47" />
@@ -60,6 +64,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Assay.java" timestamp="1528136720488" />
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="92" />
@@ -77,11 +82,6 @@
         <mark key="]" line="2" column="49" />
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/Developer/spring.io/imooc/pom.xml" timestamp="1525653498304">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" timestamp="1525125805186">
         <mark key="'" line="112" column="8" />
@@ -214,6 +214,9 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
+      <file name="/spt_fallback_db [@localhost]" timestamp="1528135650650">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/LoginPage.js" timestamp="1513495191540">
         <mark key="'" line="87" column="18" />
         <mark key="[" line="64" column="58" />
@@ -293,6 +296,9 @@
         <mark key="]" line="17" column="2" />
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
+      </file>
+      <file name="/spt_monitor [@localhost]" timestamp="1528135666855">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/CustomKeyPage.js" timestamp="1513491048576">
         <mark key="'" line="142" column="0" />
@@ -385,11 +391,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1525054177332">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -461,6 +462,9 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="/spt_fallback_usg [@localhost]" timestamp="1528135645849">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/MyPage.js" timestamp="1513915725871">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="57" column="34" />
@@ -499,6 +503,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="/spt_values [@localhost]" timestamp="1528135674151">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/common/RepositoryCell.js" timestamp="1513919129519">
         <mark key="'" line="88" column="14" />
@@ -661,6 +668,9 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="/assay [@localhost]" timestamp="1528136071415">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1523151931438">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="23" column="16" />
@@ -756,6 +766,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
+      <file name="/spt_fallback_dev [@localhost]" timestamp="1528135649160">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/my/SortKeyPage.js" timestamp="1513490965087">
         <mark key="'" line="99" column="64" />
         <mark key="[" line="99" column="63" />
@@ -803,6 +816,9 @@
         <mark key="." line="479" column="26" />
         <mark key="^" line="479" column="26" />
       </file>
+      <file name="/dummy.sql" timestamp="1528136240501">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/input_common/Sample4.txt" timestamp="1513044199441">
         <mark key="'" line="1682" column="35" />
         <mark key="[" line="3" column="4" />
@@ -817,10 +833,10 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527191939481">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1528135495356">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/react_server_side_rendering/index.js" timestamp="1516236188313">
@@ -1022,7 +1038,7 @@
         <text encoding="base64">ICAgICAgICBweCA9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1054,15 +1070,10 @@
         <entry>pa</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ShowErrorDescription</entry>
@@ -1074,6 +1085,11 @@
         <entry>action SearchEverywhere</entry>
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
