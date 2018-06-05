@@ -9,7 +9,6 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/AssayInfoRestController.java" timestamp="1528160563113" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -22,14 +21,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/ClientPlatformInterceptor.java" timestamp="1528158578994" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/autowiring/AutoWiringDAO.java" timestamp="1525312398854">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/AssayBase.java" timestamp="1528136463769" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StringStore.java" timestamp="1525644634333">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="47" />
@@ -42,7 +39,6 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Assay.java" timestamp="1528136720488" />
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="92" />
@@ -125,7 +121,6 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/controller/AssayInfoRestController.java" timestamp="1528160820375" />
       <file name="$USER_HOME$/Developer/react_github/res/data/config.js" timestamp="1513919078734">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -174,7 +169,6 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/assay/JasperAssayDefinitionReport.java" timestamp="1528160835143" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/assay/DecisionCmdModel.java" timestamp="1528160092124">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -263,7 +257,6 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/assay/AssayParameters.java" timestamp="1528160401533" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -341,7 +334,6 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/junit/client/com/cepheid/assayxpert/ui/assay/core/IdAssayUI.java" timestamp="1528133012740" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJavaBased.java" timestamp="1525651809031">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="4" />
@@ -396,7 +388,7 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/AssayInfoRequestController.java" timestamp="1528161392047">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/AssayInfoRequestController.java" timestamp="1528218245703">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="35" column="0" />
@@ -460,7 +452,6 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/AssayReportSection.java" timestamp="1528159905349" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/funcs.py" timestamp="1518568418075">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="39" />
@@ -503,7 +494,6 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="115" column="24" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/AssayInfoRestController.java" timestamp="1528160278773" />
       <file name="$USER_HOME$/Developer/react_github/js/common/Popover.js" timestamp="1512885316419">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -534,7 +524,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AssayRestService.java" timestamp="1528160737946" />
       <file name="/Dummy.txt" timestamp="1528135495356">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
