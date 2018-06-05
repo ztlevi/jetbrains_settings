@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
@@ -259,6 +259,12 @@
         <mark key="]" line="17" column="2" />
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/TestAboutController.java" timestamp="1528223648758">
+        <mark key="[" line="18" column="68" />
+        <mark key="]" line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+        <mark key="." line="18" column="68" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/test/FetchTest.js" timestamp="1513488509424">
         <mark key="[" line="10" column="28" />
