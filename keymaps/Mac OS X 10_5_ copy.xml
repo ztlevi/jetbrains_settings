@@ -15,6 +15,10 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="ctrl meta comma" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Run" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
