@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
@@ -38,6 +38,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" timestamp="1528221253699">
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="129" column="25" />
+        <mark key="." line="129" column="25" />
+        <mark key="^" line="129" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resource/datasource.properties" timestamp="1525043661559">
         <mark key="[" line="0" column="18" />
@@ -227,6 +233,9 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/WebApplicationConfig.java" timestamp="1528219826342">
+        <mark key="[" line="31" column="40" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="1" />
@@ -340,6 +349,12 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528221628431">
+        <mark key="[" line="58" column="87" />
+        <mark key="]" line="58" column="102" />
+        <mark key="^" line="58" column="102" />
+        <mark key="." line="58" column="102" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -363,6 +378,9 @@
         <mark key="]" line="17" column="23" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528220266858">
+        <mark key="[" line="71" column="51" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/Store.java" timestamp="1525645787384">
         <mark key="[" line="2" column="7" />
@@ -388,11 +406,10 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/AssayInfoRequestController.java" timestamp="1528218245703">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/AssayInfoRequestController.java" timestamp="1528220634020">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/FormulaeRestController.java" timestamp="1527726070275">
         <mark key="[" line="242" column="4" />
@@ -421,6 +438,12 @@
         <mark key="]" line="15" column="76" />
         <mark key="." line="296" column="11" />
         <mark key="^" line="296" column="11" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/TstAboutController.java" timestamp="1528222093180">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1514617474452">
         <mark key="[" line="6" column="9" />
@@ -572,7 +595,7 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1528161100923">
+      <file name="/fragment.java" timestamp="1528222073956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="3" />
@@ -686,7 +709,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>ResponseE</text>
@@ -695,31 +718,31 @@
         <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSBBU1NBWV9MSVNUX1JFUVVFU1RfQVBJLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgcHVibGljIFJlc3BvbnNlRW50aXR5PExpc3RTVk8+IHZpZXdMaXN0IChAUmVxdWVzdEJvZHkgU3RyaW5nIHZpZXcpCiAgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG9rUmVzcG9uc2UoX2Fzc2F5UmVzdFNlcnZpY2UuZ2V0QWxsQXNzYXlzKHZpZXcpKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgIHJldHVybiBmYWlsUmVzcG9uc2UoMSwgZXhjZXB0aW9uKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZXBoZWlkLnVpY29yZS5yZXN0LnNlcnZpY2UuUmVzdENvbnRyb2xsZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb1tdKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFJlc3RDb250cm9sbGVyU2VydmljZSBfcmVzdENvbnRyb2xsZXJTZXJ2aWNlOwoK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFzc2F5SW5mb1JlcXVlc3RDb250cm9sbGVyIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmludChhbnMpCg==</text>
+        <text encoding="base64">ICBAUmVzdENvbnRyb2xsZXIKICBAQ29tcG9uZW50U2NhbigiY29tLmNlcGhlaWQiKQogIHB1YmxpYyBjbGFzcyBBc3NheUluZm9SZXN0Q29udHJvbGxlciBleHRlbmRzIEFic3RyYWN0QXNzYXlSZXN0Q29udHJvbGxlciB7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVNTQVlfTElTVF9SRVFVRVNUX0FQSSA9ICIvYXBpL2Fzc2F5L2Fzc2F5SW5mb0xpc3QiOwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBBc3NheVJlc3RTZXJ2aWNlIF9hc3NheVJlc3RTZXJ2aWNlOwoKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IEFTU0FZX0xJU1RfUkVRVUVTVF9BUEksIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdChAUmVxdWVzdEJvZHkgU3RyaW5nIHZpZXcpIHsKICAgICAgdHJ5IHsKICAgICAgICByZXR1cm4gb2tSZXNwb25zZShfYXNzYXlSZXN0U2VydmljZS5nZXRBbGxBc3NheXModmlldykpOwogICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgcmV0dXJuIGZhaWxSZXNwb25zZSgxLCBleGNlcHRpb24pOwogICAgICB9CiAgICB9CgogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZXBoZWlkLnVpY29yZS5yZXN0LnNlcnZpY2UuUmVzdENvbnRyb2xsZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFJlc3RDb250cm9sbGVyU2VydmljZSBfcmVzdENvbnRyb2xsZXJTZXJ2aWNlOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">cmludChhbnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYSA9PSBwYjoKICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHggPSBweAo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcHggIT0geDoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
@@ -771,9 +794,9 @@
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
