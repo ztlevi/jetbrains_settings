@@ -331,6 +331,9 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/settings/view/settingsCtrl.js" timestamp="1528230347472">
+        <mark key="'" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/reduxstagram.js" timestamp="1518288363111">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="39" />
@@ -385,8 +388,14 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528220266858">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
+        <mark key="]" line="84" column="12" />
+        <mark key="^" line="84" column="12" />
+        <mark key="." line="84" column="12" />
+      </file>
+      <file name="/DummyFile.xpath" timestamp="1528230271196">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/Store.java" timestamp="1525645787384">
         <mark key="[" line="2" column="7" />
@@ -609,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="877" column="42" filename="/usr/local/anaconda3/lib/python3.6/threading.py" />
       <jump line="350" column="22" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="399" column="37" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
       <jump line="302" column="20" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
@@ -709,6 +717,7 @@
       <jump line="446" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="374" column="22" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
+      <jump line="20" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/settings/view/settingsCtrl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -718,7 +727,7 @@
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>ResponseE</text>
+        <text>tab</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSBBU1NBWV9MSVNUX1JFUVVFU1RfQVBJLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgcHVibGljIFJlc3BvbnNlRW50aXR5PExpc3RTVk8+IHZpZXdMaXN0IChAUmVxdWVzdEJvZHkgU3RyaW5nIHZpZXcpCiAgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG9rUmVzcG9uc2UoX2Fzc2F5UmVzdFNlcnZpY2UuZ2V0QWxsQXNzYXlzKHZpZXcpKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgIHJldHVybiBmYWlsUmVzcG9uc2UoMSwgZXhjZXB0aW9uKTsKICAgIH0KICB9Cg==</text>
@@ -751,13 +760,13 @@
         <text encoding="base64">ICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>ResponseE</last-search>
+      <last-search>tab</last-search>
       <last-offset />
-      <last-pattern>ResponseE</last-pattern>
+      <last-pattern>tab</last-pattern>
       <last-replace>p1</last-replace>
       <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
@@ -782,6 +791,8 @@
         <entry>json</entry>
         <entry>pa</entry>
         <entry>ResponseE</entry>
+        <entry>tabs</entry>
+        <entry>tab</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.QuickListPopupAction</entry>
@@ -798,12 +809,12 @@
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Back</entry>
-        <entry>action FindInPath</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
