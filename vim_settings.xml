@@ -760,7 +760,7 @@
         <text encoding="base64">ICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -798,7 +798,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
         <entry>%s/pa/p1/g</entry>
         <entry>action Run</entry>
@@ -812,9 +811,10 @@
         <entry>action SelectInProjectView</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
