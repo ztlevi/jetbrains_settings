@@ -228,6 +228,11 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/WebApplicationConfig.java" timestamp="1528219826342">
         <mark key="[" line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1528410315998">
+        <mark key="[" line="75" column="38" />
+        <mark key="]" line="75" column="38" />
+        <mark key="." line="75" column="38" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="1" />
@@ -301,6 +306,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/organism/view/editOrganismTarget.html" timestamp="1528410713127" />
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="36" />
@@ -739,7 +745,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>umns</text>
       </register>
       <register name="/" type="4">
         <text>simulate</text>
@@ -775,7 +781,7 @@
         <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -815,7 +821,6 @@
         <entry>action Run</entry>
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action RunClass</entry>
         <entry>actionlist</entry>
         <entry>action ExpandRegion</entry>
@@ -825,12 +830,13 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
