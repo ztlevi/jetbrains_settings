@@ -476,9 +476,10 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="/config [@localhost]" timestamp="1528396959876">
+      <file name="/config [@localhost]" timestamp="1528400909436">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/rest/controller/AbstractRestController.java" timestamp="1528400500243" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/funcs.py" timestamp="1518568418075">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="39" />
@@ -555,7 +556,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="/dummy.sql" timestamp="1528394778822">
+      <file name="/dummy.sql" timestamp="1528400917130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1528394718269">
@@ -605,6 +606,11 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1528395097959">
         <mark key="[" line="0" column="0" />
@@ -756,7 +762,7 @@
         <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -792,7 +798,6 @@
         <entry>canRe</entry>
       </history-search>
       <history-cmd>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>%s/pa/p1/g</entry>
         <entry>action Run</entry>
@@ -809,9 +814,10 @@
         <entry>action HideAllWindows</entry>
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
