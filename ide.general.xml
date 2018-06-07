@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="inactiveTimeout" value="1" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
