@@ -405,8 +405,8 @@
         <mark key="." line="74" column="67" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" timestamp="1528395292298">
-        <mark key="[" line="72" column="26" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" timestamp="1528403928737">
+        <mark key="[" line="95" column="27" />
         <mark key="]" line="72" column="45" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/FormulaeRestController.java" timestamp="1527726070275">
@@ -762,7 +762,7 @@
         <text encoding="base64">ICAgIGRlZiBmaW5kKHNlbGYsIHgpOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -798,7 +798,6 @@
         <entry>canRe</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentFiles</entry>
         <entry>%s/pa/p1/g</entry>
         <entry>action Run</entry>
         <entry>action Debug</entry>
@@ -806,7 +805,6 @@
         <entry>action SearchEverywhere</entry>
         <entry>action RunClass</entry>
         <entry>actionlist</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindInPath</entry>
         <entry>action ShowErrorDescription</entry>
@@ -818,6 +816,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
