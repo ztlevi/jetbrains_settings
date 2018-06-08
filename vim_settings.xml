@@ -1020,7 +1020,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHggPSBzZWxmLmZpbmQoc2VsZi5wW3hdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1061,7 +1061,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -1072,6 +1071,7 @@
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
