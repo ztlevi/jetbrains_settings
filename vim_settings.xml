@@ -81,6 +81,7 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="23" column="31" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/service/TestInfoService.java" timestamp="1528736808906" />
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="56" />
@@ -355,7 +356,7 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528736538612">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528736899537">
         <mark key="[" line="58" column="87" />
         <mark key="]" line="58" column="87" />
         <mark key="^" line="58" column="102" />
@@ -518,7 +519,6 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/core/AssayUIProperties.java" timestamp="1528736441976" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/jsr/JsrDAO.java" timestamp="1525651638088">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="8" column="38" />
@@ -609,7 +609,7 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AxAboutRestService.java" timestamp="1528735859609">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AxAboutRestService.java" timestamp="1528736833565">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
@@ -788,7 +788,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -833,7 +833,6 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Forward</entry>
@@ -844,6 +843,7 @@
         <entry>action GotoAction</entry>
         <entry>actionlist</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
