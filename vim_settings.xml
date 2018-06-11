@@ -81,12 +81,6 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" timestamp="1528397216321">
-        <mark key="'" line="568" column="4" />
-        <mark key="[" line="568" column="0" />
-        <mark key="]" line="568" column="0" />
-        <mark key="." line="568" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="56" />
@@ -252,11 +246,11 @@
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/TestAboutController.java" timestamp="1528223648758">
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="18" column="68" />
-        <mark key="^" line="18" column="68" />
-        <mark key="." line="18" column="68" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/TestAboutController.java" timestamp="1528735802208">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/test/FetchTest.js" timestamp="1513488509424">
         <mark key="[" line="10" column="28" />
@@ -276,7 +270,6 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1528496283566" />
       <file name="$USER_HOME$/Developer/react_github/.babelrc" timestamp="1513487835207">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="4" />
@@ -356,11 +349,17 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528221628431">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/iq/AXIQReport.java" timestamp="1528735936322">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528736538612">
         <mark key="[" line="58" column="87" />
-        <mark key="]" line="58" column="102" />
+        <mark key="]" line="58" column="87" />
         <mark key="^" line="58" column="102" />
-        <mark key="." line="58" column="102" />
+        <mark key="." line="58" column="87" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
@@ -453,7 +452,6 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResultsCtrl.js" timestamp="1528495878016" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1528395272418">
         <mark key="'" line="24" column="9" />
       </file>
@@ -520,6 +518,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/core/AssayUIProperties.java" timestamp="1528736441976" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/jsr/JsrDAO.java" timestamp="1525651638088">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="8" column="38" />
@@ -610,6 +609,12 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AxAboutRestService.java" timestamp="1528735859609">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/config.json" timestamp="1513916508696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -628,13 +633,12 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="96" column="32" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1528496028754" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1528395097959">
+      <file name="/fragment.java" timestamp="1528736024596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="3" />
@@ -748,7 +752,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>, &quot;../assayxpert&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getMbo</text>
@@ -784,7 +788,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -823,7 +827,6 @@
         <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
-        <entry>actionlist</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindInPath</entry>
         <entry>action FindUsages</entry>
@@ -832,14 +835,15 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Forward</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
+        <entry>actionlist</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
