@@ -27,6 +27,12 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
       </file>
+      <file name="/a.dummy" timestamp="1528828100974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StringStore.java" timestamp="1525644634333">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="47" />
@@ -171,6 +177,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/util/Log.java" timestamp="1528827412875" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/dao/InjectionDAO.java" timestamp="1525398985106">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="3" column="30" />
@@ -252,6 +259,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/testsupporttool/config/app/template/view/userView.xml" timestamp="1528828434596" />
       <file name="$USER_HOME$/Developer/react_github/js/test/FetchTest.js" timestamp="1513488509424">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -355,7 +363,7 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528736899537">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1528827761099">
         <mark key="[" line="58" column="87" />
         <mark key="]" line="58" column="87" />
         <mark key="^" line="58" column="102" />
@@ -789,7 +797,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVmLmZpbmQodzEpKQogICAgICAgICAgICAgICAgcHJpbnQodWYuZmluZCh3MikpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -825,7 +833,6 @@
         <entry>getMbo</entry>
       </history-search>
       <history-cmd>
-        <entry>action RunClass</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindInPath</entry>
         <entry>action FindUsages</entry>
@@ -837,14 +844,15 @@
         <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>actionlist</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action SelectInProjectView</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>:action ActivateProjectToolWindow</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
