@@ -260,6 +260,10 @@
         <mark key="." line="150" column="24" />
         <mark key="^" line="150" column="24" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/testsupporttool/resources/en_US/uistrings/tstLabelsEnglishOnly.csv" timestamp="1528929926101">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="43" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
@@ -516,6 +520,10 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResultsCtrl.js" timestamp="1528929022048">
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="26" />
+      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/service/com/cepheid/appcore/service/AssayPersistenceService.java" timestamp="1528840629303">
         <mark key="[" line="201" column="0" />
         <mark key="]" line="218" column="2" />
@@ -621,6 +629,10 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/resources/en_US/uistrings/axLabelsEnglishOnly.csv" timestamp="1528929899774">
+        <mark key="[" line="435" column="0" />
+        <mark key="]" line="435" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/CategoryMapper.xml" timestamp="1525046021148">
         <mark key="[" line="115" column="20" />
@@ -893,7 +905,7 @@
         <text>canRefre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVNTQVlfRU1QVFlfUkVRVUVTVF9BUEkgPSAiL2FwaS9hc3NheS9lbXB0eUFzc2F5IjsK</text>
+        <text encoding="base64">YXNrX2Zvb3Rlcl9hYm91dCwgICJBYm91dCBBc3NheSBTdXBwb3J0IEtpdCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhc2tTZXJ2aWNlLAo=</text>
@@ -923,7 +935,7 @@
         <text encoding="base64">ICAgIDx2aWV3IG5hbWU9ImxvY2tBc3NheVZpZXciIHJvb3RDbGFzcz0iVGFyZ2V0QmFzZWRBc3NheSI+CiAgICAgICAgPGRhdGE+CiAgICAgICAgICAgIDxjbGFzcyBuYW1lPSJUYXJnZXRCYXNlZEFzc2F5Ii8+CiAgICAgICAgICAgIDxjbGFzcyBuYW1lPSJSZXN1bHRSdWxlSW50ZXJwcmV0YXRpb24iLz4KICAgICAgICA8L2RhdGE+CiAgICA8L3ZpZXc+Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -977,8 +989,8 @@
         <entry>action Run</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
