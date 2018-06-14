@@ -390,8 +390,8 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" timestamp="1528997061653">
-        <mark key="'" line="4" column="12" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" timestamp="1528999896132">
+        <mark key="'" line="456" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJavaBased.java" timestamp="1525651809031">
         <mark key="[" line="41" column="4" />
@@ -780,9 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="47" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="42" column="49" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="43" column="47" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="45" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="46" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="48" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
@@ -880,6 +877,9 @@
       <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
       <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
+      <jump line="136" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
+      <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
+      <jump line="456" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -889,7 +889,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>getView</text>
+        <text>getAsListCvo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXNrX2Zvb3Rlcl9hYm91dCwgICJBYm91dCBBc3NheSBTdXBwb3J0IEtpdCIK</text>
@@ -926,9 +926,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getView</last-search>
+      <last-search>getAsListCvo</last-search>
       <last-offset />
-      <last-pattern>getView</last-pattern>
+      <last-pattern>getAsListCvo</last-pattern>
       <last-replace>p1</last-replace>
       <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
@@ -936,7 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Can</entry>
         <entry>can</entry>
         <entry>canRe</entry>
         <entry>simulate</entry>
@@ -956,6 +955,7 @@
         <entry>canRefre</entry>
         <entry>error</entry>
         <entry>getView</entry>
+        <entry>getAsListCvo</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
