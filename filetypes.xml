@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="spring-autowiring" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
