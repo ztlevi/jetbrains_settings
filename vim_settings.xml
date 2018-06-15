@@ -390,7 +390,7 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" timestamp="1529081824192">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" timestamp="1529082494660">
         <mark key="'" line="456" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/test/beanannotation/TestJavaBased.java" timestamp="1525651809031">
@@ -615,6 +615,7 @@
         <mark key="[" line="261" column="0" />
         <mark key="]" line="277" column="2" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/core/AssayUIProperties.java" timestamp="1529082744328" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/jsr/JsrDAO.java" timestamp="1525651638088">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="8" column="38" />
@@ -928,7 +929,7 @@
         <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJhbmFseXRlSW50ZXJwcmV0YXRpb25Ub0hleCIgY2xhc3M9ImNvbS5jZXBoZWlkLm5leHVzLmNvbW1vbi5jb3JlLlRlc3RDb25zdGFudHMiPgogICAgICAgIDxwIGtleT0iUkVQT1JURVJfUkVTVUxUX0lOVkFMSUQiIGNvbW1lbnRzPSJJTlZBTElEIiB2YWw9IiNmZmZmMDAiLz4KICAgICAgICA8cCBrZXk9IlJFUE9SVEVSX1JFU1VMVF9GQUlMIiBjb21tZW50cz0iRkFJTCIgdmFsPSIjNzdiODAwIi8+CiAgICAgICAgPHAga2V5PSJSRVBPUlRFUl9SRVNVTFRfUEFTUyIgY29tbWVudHM9IlBBU1MiIHZhbD0iI2ZmMDAwMCIvPgogICAgICAgIDxwIGtleT0iUkVQT1JURVJfUkVTVUxUX05FRyIgY29tbWVudHM9Ik5FRyIgdmFsPSIjNzdiODAwIi8+CiAgICAgICAgPHAga2V5PSJSRVBPUlRFUl9SRVNVTFRfUE9TIiBjb21tZW50cz0iUE9TIiB2YWw9IiNmZjAwMDAiLz4KICAgIDwvcHJvcGVydHk+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -964,7 +965,6 @@
         <entry>getAsListCvo</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -972,7 +972,6 @@
         <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>actionlist</entry>
-        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action RunDashboard.Stop</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -984,6 +983,8 @@
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
