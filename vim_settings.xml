@@ -519,9 +519,6 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" timestamp="1529099207894">
         <mark key="'" line="44" column="14" />
         <mark key="[" line="76" column="72" />
-        <mark key="]" line="80" column="3" />
-        <mark key="." line="80" column="3" />
-        <mark key="^" line="80" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
@@ -955,7 +952,7 @@
         <text encoding="base64">ICBTdHJpbmcgTVNHX0FESlVTVF9NRUxUX1NFVFRJTkdTID0gIm1zZ19hZGp1c3RfbWVsdF9zZXR0aW5ncyI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -991,7 +988,6 @@
         <entry>getAsListCvo</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
@@ -1011,6 +1007,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
