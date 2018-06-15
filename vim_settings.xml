@@ -99,7 +99,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/AxValidationService.java" timestamp="1529084013742" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/targetBasedAssayView.xml" timestamp="1528849151065">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -517,11 +516,12 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" timestamp="1528931666058">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" timestamp="1529099207894">
         <mark key="'" line="44" column="14" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="[" line="76" column="72" />
+        <mark key="]" line="80" column="3" />
+        <mark key="." line="80" column="3" />
+        <mark key="^" line="80" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
@@ -660,6 +660,9 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/usermanagement/view/loginCtrl.js" timestamp="1529099805296">
+        <mark key="[" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/CategoryMapper.xml" timestamp="1525046021148">
         <mark key="[" line="115" column="20" />
@@ -952,7 +955,7 @@
         <text encoding="base64">ICBTdHJpbmcgTVNHX0FESlVTVF9NRUxUX1NFVFRJTkdTID0gIm1zZ19hZGp1c3RfbWVsdF9zZXR0aW5ncyI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -995,7 +998,6 @@
         <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>actionlist</entry>
-        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action RunDashboard.Stop</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1008,6 +1010,7 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
