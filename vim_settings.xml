@@ -21,7 +21,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1529357737609">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1529359256823">
         <mark key="[" line="67" column="14" />
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
@@ -311,7 +311,7 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1529358153015" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1529359512789" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -929,7 +929,7 @@
         <text encoding="base64">ICBTdHJpbmcgTVNHX0NBUlRSSURHRV9DQU5OT1RfREVMRVRFRCA9ICJtc2dfY2FydHJpZGdlX2Nhbm5vdF9kZWxldGVkIjsKICBTdHJpbmcgTVNHX0RCX0JBQ0tVUF9SRU1JTkRFUiA9ICJtc2dfZGJfYmFja3VwX3JlbWluZGVyIjsKCiAgU3RyaW5nIExBQkVMX1NZUklOR0VfTUFYX1ZPTFVNRSA9ICJsYWJlbF9zeXJpbmdlX21heF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9TWVJJTkdFX01JTl9UUkFOU0ZFUl9WT0xVTUUgPSAibGFiZWxfc3lyaW5nZV9taW5fdHJhbnNmZXJfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfU1lSSU5HRV9NQVhfVFJBTlNGRVJfVk9MVU1FID0gImxhYmVsX3N5cmluZ2VfbWF4X3RyYW5zZmVyX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfU1RSSVBfUE9TSVRJT04gPSAibGFiZWxfcGx1bmdlcl9zdHJpcF9wb3NpdGlvbiI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfUElDS1VQX1BPU0lUSU9OID0gImxhYmVsX3BsdW5nZXJfcGlja3VwX3Bvc2l0aW9uIjsKICBTdHJpbmcgTEFCRUxfQ0FSVFJJREdFX0ZPT1RfSEVJR0hUID0gImxhYmVsX2NhcnRyaWRnZV9mb290X2hlaWdodCI7CiAgU3RyaW5nIExBQkVMX1RVQkVfU1lSSU5HRV9QQVRIX1ZPTFVNRSA9ICJsYWJlbF90dWJlX3N5cmluZ2VfcGF0aF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9UVUJFX0NIQU1CRVJfUEFUSF9WT0xVTUUgPSAibGFiZWxfdHViZV9jaGFtYmVyX3BhdGhfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfRElSRUNUX0ZMT1dfUkFURV9NSU4gPSAibGFiZWxfZGlyZWN0X2Zsb3dfcmF0ZV9taW4iOwogIFN0cmluZyBMQUJFTF9ESVJFQ1RfRkxPV19SQVRFX01BWCA9ICJsYWJlbF9kaXJlY3RfZmxvd19yYXRlX21heCI7CiAgU3RyaW5nIExBQkVMX0ZJTFRFUl9GTE9XX1JBVEVfTUlOID0gImxhYmVsX2ZpbHRlcl9mbG93X3JhdGVfbWluIjsKICBTdHJpbmcgTEFCRUxfRklMVEVSX0ZMT1dfUkFURV9NQVggPSAibGFiZWxfZmlsdGVyX2Zsb3dfcmF0ZV9tYXgiOwogIFN0cmluZyBMQUJFTF9JTklUSUFMX0FTUElSQVRFX1ZPTFVNRSA9ICJsYWJlbF9pbml0aWFsX2FzcGlyYXRlX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX0lOSVRJQUxfQVNQSVJBVEVfRkxPV19SQVRFID0gImxhYmVsX2luaXRpYWxfYXNwaXJhdGVfZmxvd19yYXRlIjsKICBTdHJpbmcgTEFCRUxfQ0hBTUJFUl9OQU1FID0gImxhYmVsX2NoYW1iZXJfbmFtZSI7CiAgU3RyaW5nIExBQkVMX01JQ1JPTElURVJTX1BFUl9SRVZPTFVUSU9OID0gImxhYmVsX21pY3JvbGl0ZXJzX3Blcl9yZXZvbHV0aW9uIjsKICBTdHJpbmcgTEFCRUxfQURDXzJfUFNJID0gImxhYmVsX2FkY18yX3BzaSI7CiAgU3RyaW5nIExBQkVMX1RVQkVfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfdHViZV9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX1BBVEhfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfcGF0aF9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX0FOR1VMQVJfT0ZGU0VUID0gImxhYmVsX2FuZ3VsYXJfb2Zmc2V0IjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -979,12 +979,12 @@
         <entry>action SelectInProjectView</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action GotoAction</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
