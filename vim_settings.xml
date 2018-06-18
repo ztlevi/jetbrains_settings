@@ -21,7 +21,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1529083497535">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1529357737609">
         <mark key="[" line="67" column="14" />
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
@@ -246,10 +246,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/testsupporttool/resources/en_US/uistrings/tstLabelsEnglishOnly.csv" timestamp="1528929926101">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="43" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="1" />
@@ -315,6 +311,7 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1529358153015" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -379,10 +376,6 @@
         <mark key="]" line="13" column="39" />
         <mark key="." line="13" column="38" />
         <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/command/UiCommandFactory.java" timestamp="1528843805505">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="154" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/autowiring/TestAutoWiring.java" timestamp="1525312147082">
         <mark key="[" line="10" column="9" />
@@ -526,10 +519,6 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResultsCtrl.js" timestamp="1528929022048">
-        <mark key="[" line="114" column="15" />
-        <mark key="]" line="114" column="26" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/react_github/android/build.gradle" timestamp="1515220670646">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -600,15 +589,7 @@
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/config/app/init/uiConfig.xml" timestamp="1528931869729">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="153" column="14" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/command/UiCommand.java" timestamp="1529346059838" />
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/RestService.java" timestamp="1528843304871">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="78" column="2" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/rest/controller/AbstractRestController.java" timestamp="1529084350932">
         <mark key="[" line="36" column="37" />
         <mark key="]" line="28" column="113" />
@@ -627,10 +608,6 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/CommandSequenceService.java" timestamp="1528843935656">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="277" column="2" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendStepOne.java" timestamp="1513037539652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -648,10 +625,6 @@
         <mark key="]" line="19" column="46" />
         <mark key="^" line="19" column="46" />
         <mark key="." line="19" column="46" />
-      </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/resources/en_US/uistrings/axLabelsEnglishOnly.csv" timestamp="1528929899774">
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/expand/dao/LanguageDao.js" timestamp="1513059512027">
         <mark key="[" line="48" column="0" />
@@ -686,6 +659,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/apiService.js" timestamp="1529357751888" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/AxPrivilegeService.java" timestamp="1528833784477">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="34" />
@@ -733,7 +707,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/CommandSequenceRestController.java" timestamp="1528849850631">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/CommandSequenceRestController.java" timestamp="1529357730061">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="117" column="2" />
       </file>
@@ -748,6 +722,7 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/commandSequenceService.js" timestamp="1529357795430" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AxAboutRestService.java" timestamp="1528736833565">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="34" />
@@ -776,10 +751,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/config/app/template/view/assayView.xml" timestamp="1528848426733">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="45" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
@@ -958,7 +929,7 @@
         <text encoding="base64">ICBTdHJpbmcgTVNHX0NBUlRSSURHRV9DQU5OT1RfREVMRVRFRCA9ICJtc2dfY2FydHJpZGdlX2Nhbm5vdF9kZWxldGVkIjsKICBTdHJpbmcgTVNHX0RCX0JBQ0tVUF9SRU1JTkRFUiA9ICJtc2dfZGJfYmFja3VwX3JlbWluZGVyIjsKCiAgU3RyaW5nIExBQkVMX1NZUklOR0VfTUFYX1ZPTFVNRSA9ICJsYWJlbF9zeXJpbmdlX21heF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9TWVJJTkdFX01JTl9UUkFOU0ZFUl9WT0xVTUUgPSAibGFiZWxfc3lyaW5nZV9taW5fdHJhbnNmZXJfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfU1lSSU5HRV9NQVhfVFJBTlNGRVJfVk9MVU1FID0gImxhYmVsX3N5cmluZ2VfbWF4X3RyYW5zZmVyX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfU1RSSVBfUE9TSVRJT04gPSAibGFiZWxfcGx1bmdlcl9zdHJpcF9wb3NpdGlvbiI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfUElDS1VQX1BPU0lUSU9OID0gImxhYmVsX3BsdW5nZXJfcGlja3VwX3Bvc2l0aW9uIjsKICBTdHJpbmcgTEFCRUxfQ0FSVFJJREdFX0ZPT1RfSEVJR0hUID0gImxhYmVsX2NhcnRyaWRnZV9mb290X2hlaWdodCI7CiAgU3RyaW5nIExBQkVMX1RVQkVfU1lSSU5HRV9QQVRIX1ZPTFVNRSA9ICJsYWJlbF90dWJlX3N5cmluZ2VfcGF0aF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9UVUJFX0NIQU1CRVJfUEFUSF9WT0xVTUUgPSAibGFiZWxfdHViZV9jaGFtYmVyX3BhdGhfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfRElSRUNUX0ZMT1dfUkFURV9NSU4gPSAibGFiZWxfZGlyZWN0X2Zsb3dfcmF0ZV9taW4iOwogIFN0cmluZyBMQUJFTF9ESVJFQ1RfRkxPV19SQVRFX01BWCA9ICJsYWJlbF9kaXJlY3RfZmxvd19yYXRlX21heCI7CiAgU3RyaW5nIExBQkVMX0ZJTFRFUl9GTE9XX1JBVEVfTUlOID0gImxhYmVsX2ZpbHRlcl9mbG93X3JhdGVfbWluIjsKICBTdHJpbmcgTEFCRUxfRklMVEVSX0ZMT1dfUkFURV9NQVggPSAibGFiZWxfZmlsdGVyX2Zsb3dfcmF0ZV9tYXgiOwogIFN0cmluZyBMQUJFTF9JTklUSUFMX0FTUElSQVRFX1ZPTFVNRSA9ICJsYWJlbF9pbml0aWFsX2FzcGlyYXRlX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX0lOSVRJQUxfQVNQSVJBVEVfRkxPV19SQVRFID0gImxhYmVsX2luaXRpYWxfYXNwaXJhdGVfZmxvd19yYXRlIjsKICBTdHJpbmcgTEFCRUxfQ0hBTUJFUl9OQU1FID0gImxhYmVsX2NoYW1iZXJfbmFtZSI7CiAgU3RyaW5nIExBQkVMX01JQ1JPTElURVJTX1BFUl9SRVZPTFVUSU9OID0gImxhYmVsX21pY3JvbGl0ZXJzX3Blcl9yZXZvbHV0aW9uIjsKICBTdHJpbmcgTEFCRUxfQURDXzJfUFNJID0gImxhYmVsX2FkY18yX3BzaSI7CiAgU3RyaW5nIExBQkVMX1RVQkVfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfdHViZV9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX1BBVEhfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfcGF0aF9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX0FOR1VMQVJfT0ZGU0VUID0gImxhYmVsX2FuZ3VsYXJfb2Zmc2V0IjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1003,7 +974,6 @@
         <entry>action RunDashboard.Stop</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Stop</entry>
-        <entry>action FindUsages</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action SelectInProjectView</entry>
@@ -1014,6 +984,7 @@
         <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
