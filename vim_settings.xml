@@ -543,7 +543,6 @@
         <mark key="^" line="242" column="3" />
         <mark key="." line="242" column="3" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/assayView.xml" timestamp="1529364364643" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/routesService.js" timestamp="1528931651614">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="68" column="0" />
@@ -695,7 +694,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/IAxConstants.java" timestamp="1529363556565" />
       <file name="$USER_HOME$/Developer/MavenTest/MavenTest.iml" timestamp="1519419391561">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="63" />
@@ -740,7 +738,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529364834159">
+      <file name="/Dummy.txt" timestamp="1529365292458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
