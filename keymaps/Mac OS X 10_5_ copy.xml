@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="DatabaseView.PropertiesAction" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -15,18 +16,21 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="ctrl meta comma" />
   </action>
-  <action id="FileChooser.TogglePathShowing" />
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta a" />
-    <keyboard-shortcut first-keystroke="shift meta p" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="ParameterInfo" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="Run" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
+  <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
