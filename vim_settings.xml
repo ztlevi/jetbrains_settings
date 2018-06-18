@@ -219,7 +219,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1529274523759">
+      <file name="/Python Console" timestamp="1529290686691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -616,12 +616,12 @@
         <mark key="^" line="149" column="21" />
         <mark key="." line="149" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529275846963">
-        <mark key="'" line="15" column="38" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529290682986">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -883,7 +883,6 @@
       <jump line="44" column="30" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="71" column="9769" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="35" column="7" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="348" column="25" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/service/com/cepheid/assayxpert/service/AxAssayService.java" />
       <jump line="171" column="63" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/report/CommandSequenceReportModel.java" />
       <jump line="381" column="8" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
@@ -963,49 +962,50 @@
       <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="456" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="15" column="38" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="0" column="11" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>summary</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
-      <register name="0" type="4">
-        <text>Log.summary.error(</text>
+      <register name="0" type="2">
+        <text encoding="base64">YSA9IExpc3ROb2RlKDEpCmEubmV4dCA9IExpc3ROb2RlKDQpCmEubmV4dC5uZXh0ID0gTGlzdE5vZGUoNSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBkdXBsaWNhdGlvbiA9IExvZ2dlci5nZXRMb2dnZXIoImNvbS5jZXBoZWlkLnJlc3VsdHNpbXVsYXRvci5kdXBsaWNhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0NBTk5PVF9DSEFOR0VfUkVTVUxUX1RFWFRfVFlQRSA9ICJtc2dfY2Fubm90X2NoYW5nZV9yZXN1bHRfdGV4dF90eXBlIjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9BU1NBWV9DQVJUUklER0VfTkFNRV9FUlJPUiA9ICJtc2dfZHVwbGljYXRlX2Fzc2F5X2NhcnRyaWRnZV9uYW1lX2Vycm9yIjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBkdXBsaWNhdGlvbiA9IExvZ2dlci5nZXRMb2dnZXIoImNvbS5jZXBoZWlkLnJlc3VsdHNpbXVsYXRvci5kdXBsaWNhdGlvbiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0FYSVFfU1VNTUFSWSA9ICJtc2dfYXhpcV9zdW1tYXJ5IjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9sT1RfTlVNQkVSX0lTX0ZPVU5EID0gIm1zZ19kdXBsaWNhdGVfbG90X251bWJlcl9pc19mb3VuZCI7CgogIFN0cmluZyBNU0dfREJfUkVNSU5ERVJfUEVSSU9EX1JBTkdFID0gIm1zZ19kYl9yZW1pbmRlcl9wZXJpb2RfcmFuZ2UiOwogIFN0cmluZyBMQUJFTF9QUklWX0RVUExJQ0FURV9BU1NBWV9UWVBFX0lOVE9fUkVTRUFSQ0hfQVNTQVkgPSAibGFiZWxfcHJpdl9kdXBsaWNhdGVfYXNzYXlfdHlwZV9pbnRvX3Jlc2VhcmNoX2Fzc2F5IjsKICBTdHJpbmcgTEFCRUxfUEVSQ0VOVF9SQVRJT19MT0dfVFJBTlNGT1JNX1RZUEUgPSAibGFiZWxfcGVyY2VudF9yYXRpb19sb2dfdHJhbnNmb3JtX3R5cGUiOwo=</text>
+        <text encoding="base64">ICBTdHJpbmcgTVNHX0NBTk5PVF9DSEFOR0VfUkVTVUxUX1RFWFRfVFlQRSA9ICJtc2dfY2Fubm90X2NoYW5nZV9yZXN1bHRfdGV4dF90eXBlIjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9BU1NBWV9DQVJUUklER0VfTkFNRV9FUlJPUiA9ICJtc2dfZHVwbGljYXRlX2Fzc2F5X2NhcnRyaWRnZV9uYW1lX2Vycm9yIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTdHJpbmcgTVNHX0FYSVFfU1VNTUFSWSA9ICJtc2dfYXhpcV9zdW1tYXJ5IjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9sT1RfTlVNQkVSX0lTX0ZPVU5EID0gIm1zZ19kdXBsaWNhdGVfbG90X251bWJlcl9pc19mb3VuZCI7CgogIFN0cmluZyBNU0dfREJfUkVNSU5ERVJfUEVSSU9EX1JBTkdFID0gIm1zZ19kYl9yZW1pbmRlcl9wZXJpb2RfcmFuZ2UiOwogIFN0cmluZyBMQUJFTF9QUklWX0RVUExJQ0FURV9BU1NBWV9UWVBFX0lOVE9fUkVTRUFSQ0hfQVNTQVkgPSAibGFiZWxfcHJpdl9kdXBsaWNhdGVfYXNzYXlfdHlwZV9pbnRvX3Jlc2VhcmNoX2Fzc2F5IjsKICBTdHJpbmcgTEFCRUxfUEVSQ0VOVF9SQVRJT19MT0dfVFJBTlNGT1JNX1RZUEUgPSAibGFiZWxfcGVyY2VudF9yYXRpb19sb2dfdHJhbnNmb3JtX3R5cGUiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0FTU0FZX1RZUEVfRE9FU19OT1RfU1VQUE9SVF9BTkFMWVRFX1VTQUdFID0gIm1zZ19hc3NheV90eXBlX2RvZXNfbm90X3N1cHBvcnRfYW5hbHl0ZV91c2FnZSI7CiAgU3RyaW5nIE1TR19SRVBPUlRFUl9JU19OT1RfVU5JUVVFID0gIm1zZ19yZXBvcnRlcl9pc19ub3RfdW5pcXVlIjsKICBTdHJpbmcgTVNHX1JFU1RPUkVfREJfU1VDQ0VTUyA9ICJtc2dfcmVzdG9yZV9kYl9zdWNjZXNzIjsKICBTdHJpbmcgTVNHX1NFVFRJTkdTX1NVQ0NFU1NGVUxMWV9TQVZFRCA9ICJtc2dfc2V0dGluZ3Nfc3VjY2Vzc2Z1bGx5X3NhdmVkIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0NBUlRSSURHRV9DQU5OT1RfREVMRVRFRCA9ICJtc2dfY2FydHJpZGdlX2Nhbm5vdF9kZWxldGVkIjsKICBTdHJpbmcgTVNHX0RCX0JBQ0tVUF9SRU1JTkRFUiA9ICJtc2dfZGJfYmFja3VwX3JlbWluZGVyIjsKCiAgU3RyaW5nIExBQkVMX1NZUklOR0VfTUFYX1ZPTFVNRSA9ICJsYWJlbF9zeXJpbmdlX21heF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9TWVJJTkdFX01JTl9UUkFOU0ZFUl9WT0xVTUUgPSAibGFiZWxfc3lyaW5nZV9taW5fdHJhbnNmZXJfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfU1lSSU5HRV9NQVhfVFJBTlNGRVJfVk9MVU1FID0gImxhYmVsX3N5cmluZ2VfbWF4X3RyYW5zZmVyX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfU1RSSVBfUE9TSVRJT04gPSAibGFiZWxfcGx1bmdlcl9zdHJpcF9wb3NpdGlvbiI7CiAgU3RyaW5nIExBQkVMX1BMVU5HRVJfUElDS1VQX1BPU0lUSU9OID0gImxhYmVsX3BsdW5nZXJfcGlja3VwX3Bvc2l0aW9uIjsKICBTdHJpbmcgTEFCRUxfQ0FSVFJJREdFX0ZPT1RfSEVJR0hUID0gImxhYmVsX2NhcnRyaWRnZV9mb290X2hlaWdodCI7CiAgU3RyaW5nIExBQkVMX1RVQkVfU1lSSU5HRV9QQVRIX1ZPTFVNRSA9ICJsYWJlbF90dWJlX3N5cmluZ2VfcGF0aF92b2x1bWUiOwogIFN0cmluZyBMQUJFTF9UVUJFX0NIQU1CRVJfUEFUSF9WT0xVTUUgPSAibGFiZWxfdHViZV9jaGFtYmVyX3BhdGhfdm9sdW1lIjsKICBTdHJpbmcgTEFCRUxfRElSRUNUX0ZMT1dfUkFURV9NSU4gPSAibGFiZWxfZGlyZWN0X2Zsb3dfcmF0ZV9taW4iOwogIFN0cmluZyBMQUJFTF9ESVJFQ1RfRkxPV19SQVRFX01BWCA9ICJsYWJlbF9kaXJlY3RfZmxvd19yYXRlX21heCI7CiAgU3RyaW5nIExBQkVMX0ZJTFRFUl9GTE9XX1JBVEVfTUlOID0gImxhYmVsX2ZpbHRlcl9mbG93X3JhdGVfbWluIjsKICBTdHJpbmcgTEFCRUxfRklMVEVSX0ZMT1dfUkFURV9NQVggPSAibGFiZWxfZmlsdGVyX2Zsb3dfcmF0ZV9tYXgiOwogIFN0cmluZyBMQUJFTF9JTklUSUFMX0FTUElSQVRFX1ZPTFVNRSA9ICJsYWJlbF9pbml0aWFsX2FzcGlyYXRlX3ZvbHVtZSI7CiAgU3RyaW5nIExBQkVMX0lOSVRJQUxfQVNQSVJBVEVfRkxPV19SQVRFID0gImxhYmVsX2luaXRpYWxfYXNwaXJhdGVfZmxvd19yYXRlIjsKICBTdHJpbmcgTEFCRUxfQ0hBTUJFUl9OQU1FID0gImxhYmVsX2NoYW1iZXJfbmFtZSI7CiAgU3RyaW5nIExBQkVMX01JQ1JPTElURVJTX1BFUl9SRVZPTFVUSU9OID0gImxhYmVsX21pY3JvbGl0ZXJzX3Blcl9yZXZvbHV0aW9uIjsKICBTdHJpbmcgTEFCRUxfQURDXzJfUFNJID0gImxhYmVsX2FkY18yX3BzaSI7CiAgU3RyaW5nIExBQkVMX1RVQkVfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfdHViZV9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX1BBVEhfQ0hBTUJFUl9OVU1CRVIgPSAibGFiZWxfcGF0aF9jaGFtYmVyX251bWJlciI7CiAgU3RyaW5nIExBQkVMX0FOR1VMQVJfT0ZGU0VUID0gImxhYmVsX2FuZ3VsYXJfb2Zmc2V0IjsK</text>
+        <text encoding="base64">ICBTdHJpbmcgTVNHX0FTU0FZX1RZUEVfRE9FU19OT1RfU1VQUE9SVF9BTkFMWVRFX1VTQUdFID0gIm1zZ19hc3NheV90eXBlX2RvZXNfbm90X3N1cHBvcnRfYW5hbHl0ZV91c2FnZSI7CiAgU3RyaW5nIE1TR19SRVBPUlRFUl9JU19OT1RfVU5JUVVFID0gIm1zZ19yZXBvcnRlcl9pc19ub3RfdW5pcXVlIjsKICBTdHJpbmcgTVNHX1JFU1RPUkVfREJfU1VDQ0VTUyA9ICJtc2dfcmVzdG9yZV9kYl9zdWNjZXNzIjsKICBTdHJpbmcgTVNHX1NFVFRJTkdTX1NVQ0NFU1NGVUxMWV9TQVZFRCA9ICJtc2dfc2V0dGluZ3Nfc3VjY2Vzc2Z1bGx5X3NhdmVkIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -1041,7 +1041,6 @@
         <entry>getMbo</entry>
       </history-search>
       <history-cmd>
-        <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action RunClass</entry>
         <entry>actionlist</entry>
@@ -1057,10 +1056,11 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Forward</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
