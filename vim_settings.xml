@@ -734,11 +734,8 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529425956546">
+      <file name="/Dummy.txt" timestamp="1529427947914">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/service/InjectionServiceImpl.java" timestamp="1525399684505">
         <mark key="[" line="11" column="0" />
