@@ -338,6 +338,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1529429115456">
+        <mark key="[" line="67" column="56" />
+        <mark key="]" line="67" column="55" />
+        <mark key="." line="67" column="55" />
+        <mark key="^" line="67" column="55" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -539,7 +545,7 @@
         <mark key="^" line="242" column="3" />
         <mark key="." line="242" column="3" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/routesService.js" timestamp="1528931651614">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/routesService.js" timestamp="1529428493696">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -801,12 +807,9 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1528922622762">
-        <mark key="'" line="70" column="38" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="70" column="38" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529428565991">
+        <mark key="'" line="68" column="38" />
+        <mark key="^" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
         <mark key="[" line="17" column="0" />
@@ -932,43 +935,46 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YSA9IExpc3ROb2RlKDEpCmEubmV4dCA9IExpc3ROb2RlKDQpCmEubmV4dC5uZXh0ID0gTGlzdE5vZGUoNSkK</text>
+      <register name="0" type="4">
+        <text>commandSequenceService.getAllCommands();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIF9pc0VkaXRhYmxlID0gaXNFZGl0YWJsZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
+      <register name="3" type="4">
+        <text>.then(function() {
+      defer.resolve();
+    });
+    return defer.promise;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBkdXBsaWNhdGlvbiA9IExvZ2dlci5nZXRMb2dnZXIoImNvbS5jZXBoZWlkLnJlc3VsdHNpbXVsYXRvci5kdXBsaWNhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0NBTk5PVF9DSEFOR0VfUkVTVUxUX1RFWFRfVFlQRSA9ICJtc2dfY2Fubm90X2NoYW5nZV9yZXN1bHRfdGV4dF90eXBlIjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9BU1NBWV9DQVJUUklER0VfTkFNRV9FUlJPUiA9ICJtc2dfZHVwbGljYXRlX2Fzc2F5X2NhcnRyaWRnZV9uYW1lX2Vycm9yIjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0FYSVFfU1VNTUFSWSA9ICJtc2dfYXhpcV9zdW1tYXJ5IjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9sT1RfTlVNQkVSX0lTX0ZPVU5EID0gIm1zZ19kdXBsaWNhdGVfbG90X251bWJlcl9pc19mb3VuZCI7CgogIFN0cmluZyBNU0dfREJfUkVNSU5ERVJfUEVSSU9EX1JBTkdFID0gIm1zZ19kYl9yZW1pbmRlcl9wZXJpb2RfcmFuZ2UiOwogIFN0cmluZyBMQUJFTF9QUklWX0RVUExJQ0FURV9BU1NBWV9UWVBFX0lOVE9fUkVTRUFSQ0hfQVNTQVkgPSAibGFiZWxfcHJpdl9kdXBsaWNhdGVfYXNzYXlfdHlwZV9pbnRvX3Jlc2VhcmNoX2Fzc2F5IjsKICBTdHJpbmcgTEFCRUxfUEVSQ0VOVF9SQVRJT19MT0dfVFJBTlNGT1JNX1RZUEUgPSAibGFiZWxfcGVyY2VudF9yYXRpb19sb2dfdHJhbnNmb3JtX3R5cGUiOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBzdW1tYXJ5ID0gTG9nZ2VyLmdldExvZ2dlcigiY29tLmNlcGhlaWQucmVzdWx0c2ltdWxhdG9yLnN1bW1hcnkiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIExvZ2dlciBkdXBsaWNhdGlvbiA9IExvZ2dlci5nZXRMb2dnZXIoImNvbS5jZXBoZWlkLnJlc3VsdHNpbXVsYXRvci5kdXBsaWNhdGlvbiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTdHJpbmcgTVNHX0FTU0FZX1RZUEVfRE9FU19OT1RfU1VQUE9SVF9BTkFMWVRFX1VTQUdFID0gIm1zZ19hc3NheV90eXBlX2RvZXNfbm90X3N1cHBvcnRfYW5hbHl0ZV91c2FnZSI7CiAgU3RyaW5nIE1TR19SRVBPUlRFUl9JU19OT1RfVU5JUVVFID0gIm1zZ19yZXBvcnRlcl9pc19ub3RfdW5pcXVlIjsKICBTdHJpbmcgTVNHX1JFU1RPUkVfREJfU1VDQ0VTUyA9ICJtc2dfcmVzdG9yZV9kYl9zdWNjZXNzIjsKICBTdHJpbmcgTVNHX1NFVFRJTkdTX1NVQ0NFU1NGVUxMWV9TQVZFRCA9ICJtc2dfc2V0dGluZ3Nfc3VjY2Vzc2Z1bGx5X3NhdmVkIjsK</text>
+        <text encoding="base64">ICBTdHJpbmcgTVNHX0NBTk5PVF9DSEFOR0VfUkVTVUxUX1RFWFRfVFlQRSA9ICJtc2dfY2Fubm90X2NoYW5nZV9yZXN1bHRfdGV4dF90eXBlIjsKICBTdHJpbmcgTVNHX0RVUExJQ0FURV9BU1NBWV9DQVJUUklER0VfTkFNRV9FUlJPUiA9ICJtc2dfZHVwbGljYXRlX2Fzc2F5X2NhcnRyaWRnZV9uYW1lX2Vycm9yIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1009,7 +1015,6 @@
         <entry>actionlist</entry>
         <entry>action ExpandRegion</entry>
         <entry>action FindInPath</entry>
-        <entry>action FindUsages</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1020,10 +1025,11 @@
         <entry>action Forward</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
