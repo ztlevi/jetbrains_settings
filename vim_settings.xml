@@ -819,7 +819,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529431510736">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529439241438">
         <mark key="'" line="68" column="38" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -986,7 +986,7 @@
         <text encoding="base64">ICB2YXIgX2lzRWRpdGFibGUgPSB0cnVlOyAvLyBpcyB0aGUgYXNzYXkgZWRpdGFibGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1038,10 +1038,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
