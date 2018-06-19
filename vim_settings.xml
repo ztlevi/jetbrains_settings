@@ -381,13 +381,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/config.js" timestamp="1528931640602">
-        <mark key="'" line="257" column="10" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="29" column="6" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529439931044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -817,7 +810,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529439241438">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529440636131">
         <mark key="'" line="68" column="38" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
