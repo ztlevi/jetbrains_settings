@@ -9,6 +9,9 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="/start_script.py" timestamp="1529439876152">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -290,7 +293,6 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/WebApplicationConfig.java" timestamp="1528219826342">
         <mark key="[" line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1529430178650" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="1" />
@@ -386,12 +388,10 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529290682986">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="37" column="19" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="37" column="19" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529439931044">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -465,7 +465,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/model/AssaySVORequest.java" timestamp="1529432689269" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/jsr/JsrService.java" timestamp="1525653712992">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
@@ -708,7 +707,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/apiService.js" timestamp="1529429331828" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/AxPrivilegeService.java" timestamp="1528833784477">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="34" />
@@ -741,7 +739,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529431255851">
+      <file name="/Dummy.txt" timestamp="1529439596457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/service/InjectionServiceImpl.java" timestamp="1525399684505">
@@ -959,34 +957,34 @@
         <text>getAllCommands</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21tYW5kU2VxdWVuY2VTZXJ2aWNlLAo=</text>
+        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnY29tbWFuZFNlcXVlbmNlU2VydmljZScsCg==</text>
+        <text encoding="base64">aW1wb3J0IGhlYXBxCiMgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0LgpjbGFzcyBMaXN0Tm9kZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLm5leHQgPSBOb25lCgogICAgZGVmIF9fbHRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsIDwgb3RoZXIudmFsCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtZXJnZUtMaXN0cyhzZWxmLCBsaXN0cyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbGlzdHM6IExpc3RbTGlzdE5vZGVdCiAgICAgICAgOnJ0eXBlOiBMaXN0Tm9kZQogICAgICAgICIiIgogICAgICAgIHBxID0gWyhub2RlLnZhbCwgbm9kZSkgZm9yIG5vZGUgaW4gbGlzdHMgaWYgbm9kZV0KICAgICAgICBoZWFwcS5oZWFwaWZ5KHBxKQoKICAgICAgICBhbnMgPSBbXQogICAgICAgIHdoaWxlIHBxOgogICAgICAgICAgICBudW0sIG5vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBhbnMuYXBwZW5kKG51bSkKICAgICAgICAgICAgaWYgbm9kZS5uZXh0OgogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIChub2RlLm5leHQudmFsLCBub2RlLm5leHQpKQoKICAgICAgICByZXR1cm4gYW5zCgphID0gTGlzdE5vZGUoMSkKYS5uZXh0ID0gTGlzdE5vZGUoNCkKYS5uZXh0Lm5leHQgPSBMaXN0Tm9kZSg1KQoKYiA9IExpc3ROb2RlKDEpCmIubmV4dCA9IExpc3ROb2RlKDMpCmIubmV4dC5uZXh0ID0gTGlzdE5vZGUoNCkKc28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImRlZmluZWFzc2F5L2NyZWF0ZU5ld0Fzc2F5L3NlcnZpY2UvY29tbWFuZFNlcXVlbmNlU2VydmljZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ic2VydmljZS9jb21tYW5kU2VxdWVuY2VTZXJ2aWNlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">c28ubWVyZ2VLTGlzdHMoW2EsIGJdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgYXNzYXlDdm9TZXJ2aWNlLmdldENvbW1hbmRzID0gZnVuY3Rpb24oYXNzYXlJbmRleCkgewogICAgcmV0dXJuIGNvbW1hbmRTZXF1ZW5jZVNlcnZpY2UuZ2V0Q29tbWFuZHMoYXNzYXlJbmRleCk7CiAgfTsKCg==</text>
+        <text encoding="base64">ICBjb21tYW5kU2VxdWVuY2VTZXJ2aWNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhc3NheUN2b1NlcnZpY2UuZ2V0QWxsQ29tbWFuZHMgPSBmdW5jdGlvbigpIHsKICAgIHJldHVybiBjb21tYW5kU2VxdWVuY2VTZXJ2aWNlLmdldEFsbENvbW1hbmRzKCk7CiAgfTsK</text>
+        <text encoding="base64">ICAnY29tbWFuZFNlcXVlbmNlU2VydmljZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgYXNzYXlDdm9TZXJ2aWNlLmlzTXVsdGlDYXJ0QXNzYXkgPSBmdW5jdGlvbigpIHsKICAgIHJldHVybiBfbWJvRGF0YS5jaGlsZEFzc2F5cy5sZW5ndGggPiAwOwogIH07Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImRlZmluZWFzc2F5L2NyZWF0ZU5ld0Fzc2F5L3NlcnZpY2UvY29tbWFuZFNlcXVlbmNlU2VydmljZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5tdWx0aUNhcnRyaWRnZSA9IGFzc2F5Q3ZvU2VydmljZS5pc011bHRpQ2FydEFzc2F5KCk7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ic2VydmljZS9jb21tYW5kU2VxdWVuY2VTZXJ2aWNlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgX2lzRWRpdGFibGUgPSB0cnVlOyAvLyBpcyB0aGUgYXNzYXkgZWRpdGFibGUK</text>
+        <text encoding="base64">CiAgYXNzYXlDdm9TZXJ2aWNlLmdldENvbW1hbmRzID0gZnVuY3Rpb24oYXNzYXlJbmRleCkgewogICAgcmV0dXJuIGNvbW1hbmRTZXF1ZW5jZVNlcnZpY2UuZ2V0Q29tbWFuZHMoYXNzYXlJbmRleCk7CiAgfTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1022,7 +1020,6 @@
         <entry>getMbo</entry>
       </history-search>
       <history-cmd>
-        <entry>action RunClass</entry>
         <entry>actionlist</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -1042,6 +1039,7 @@
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
