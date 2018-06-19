@@ -72,6 +72,11 @@
         <mark key="." line="129" column="25" />
         <mark key="^" line="129" column="25" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/.prettierrc" timestamp="1529442523923">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -726,7 +731,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529441204669">
+      <file name="/Dummy.txt" timestamp="1529442509199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/service/InjectionServiceImpl.java" timestamp="1525399684505">
@@ -944,34 +949,34 @@
         <text>getAllCommands</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGhlYXBxCiMgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0LgpjbGFzcyBMaXN0Tm9kZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLm5leHQgPSBOb25lCgogICAgZGVmIF9fbHRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsIDwgb3RoZXIudmFsCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtZXJnZUtMaXN0cyhzZWxmLCBsaXN0cyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbGlzdHM6IExpc3RbTGlzdE5vZGVdCiAgICAgICAgOnJ0eXBlOiBMaXN0Tm9kZQogICAgICAgICIiIgogICAgICAgIHBxID0gWyhub2RlLnZhbCwgbm9kZSkgZm9yIG5vZGUgaW4gbGlzdHMgaWYgbm9kZV0KICAgICAgICBoZWFwcS5oZWFwaWZ5KHBxKQoKICAgICAgICBhbnMgPSBbXQogICAgICAgIHdoaWxlIHBxOgogICAgICAgICAgICBudW0sIG5vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBhbnMuYXBwZW5kKG51bSkKICAgICAgICAgICAgaWYgbm9kZS5uZXh0OgogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIChub2RlLm5leHQudmFsLCBub2RlLm5leHQpKQoKICAgICAgICByZXR1cm4gYW5zCgphID0gTGlzdE5vZGUoMSkKYS5uZXh0ID0gTGlzdE5vZGUoNCkKYS5uZXh0Lm5leHQgPSBMaXN0Tm9kZSg1KQoKYiA9IExpc3ROb2RlKDEpCmIubmV4dCA9IExpc3ROb2RlKDMpCmIubmV4dC5uZXh0ID0gTGlzdE5vZGUoNCkKc28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c28ubWVyZ2VLTGlzdHMoW2EsIGJdKQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21tYW5kU2VxdWVuY2VTZXJ2aWNlLAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnY29tbWFuZFNlcXVlbmNlU2VydmljZScsCg==</text>
+        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzYXlSZXN0U2VydmljZSBfYXNzYXlSZXN0U2VydmljZTsKCiAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gQVNTQVlfTElTVF9SRVFVRVNUX0FQSSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdCAoQFJlcXVlc3RCb2R5IFN0cmluZyB2aWV3KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImRlZmluZWFzc2F5L2NyZWF0ZU5ld0Fzc2F5L3NlcnZpY2UvY29tbWFuZFNlcXVlbmNlU2VydmljZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FOX1JFRlJFU0ggPSAiYXBpL2Fzc2F5L2NhblJlZnJlc2giOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ic2VydmljZS9jb21tYW5kU2VxdWVuY2VTZXJ2aWNlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgYXNzYXlDdm9TZXJ2aWNlLmdldENvbW1hbmRzID0gZnVuY3Rpb24oYXNzYXlJbmRleCkgewogICAgcmV0dXJuIGNvbW1hbmRTZXF1ZW5jZVNlcnZpY2UuZ2V0Q29tbWFuZHMoYXNzYXlJbmRleCk7CiAgfTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IGhlYXBxCiMgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0LgpjbGFzcyBMaXN0Tm9kZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLm5leHQgPSBOb25lCgogICAgZGVmIF9fbHRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsIDwgb3RoZXIudmFsCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtZXJnZUtMaXN0cyhzZWxmLCBsaXN0cyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbGlzdHM6IExpc3RbTGlzdE5vZGVdCiAgICAgICAgOnJ0eXBlOiBMaXN0Tm9kZQogICAgICAgICIiIgogICAgICAgIHBxID0gWyhub2RlLnZhbCwgbm9kZSkgZm9yIG5vZGUgaW4gbGlzdHMgaWYgbm9kZV0KICAgICAgICBoZWFwcS5oZWFwaWZ5KHBxKQoKICAgICAgICBhbnMgPSBbXQogICAgICAgIHdoaWxlIHBxOgogICAgICAgICAgICBudW0sIG5vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBhbnMuYXBwZW5kKG51bSkKICAgICAgICAgICAgaWYgbm9kZS5uZXh0OgogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIChub2RlLm5leHQudmFsLCBub2RlLm5leHQpKQoKICAgICAgICByZXR1cm4gYW5zCgphID0gTGlzdE5vZGUoMSkKYS5uZXh0ID0gTGlzdE5vZGUoNCkKYS5uZXh0Lm5leHQgPSBMaXN0Tm9kZSg1KQoKYiA9IExpc3ROb2RlKDEpCmIubmV4dCA9IExpc3ROb2RlKDMpCmIubmV4dC5uZXh0ID0gTGlzdE5vZGUoNCkKc28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -1021,12 +1026,12 @@
         <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RunClass</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
