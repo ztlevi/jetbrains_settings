@@ -27,11 +27,11 @@
         <mark key="." line="67" column="19" />
         <mark key="^" line="67" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1529364797706">
+      <file name="/a.dummy" timestamp="1529365932123">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/autowiring/AutoWiringDAO.java" timestamp="1525312398854">
         <mark key="[" line="2" column="28" />
@@ -738,7 +738,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529365292458">
+      <file name="/Dummy.txt" timestamp="1529365870428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -975,7 +975,7 @@
         <text encoding="base64">ICBTdHJpbmcgTVNHX0FTU0FZX1RZUEVfRE9FU19OT1RfU1VQUE9SVF9BTkFMWVRFX1VTQUdFID0gIm1zZ19hc3NheV90eXBlX2RvZXNfbm90X3N1cHBvcnRfYW5hbHl0ZV91c2FnZSI7CiAgU3RyaW5nIE1TR19SRVBPUlRFUl9JU19OT1RfVU5JUVVFID0gIm1zZ19yZXBvcnRlcl9pc19ub3RfdW5pcXVlIjsKICBTdHJpbmcgTVNHX1JFU1RPUkVfREJfU1VDQ0VTUyA9ICJtc2dfcmVzdG9yZV9kYl9zdWNjZXNzIjsKICBTdHJpbmcgTVNHX1NFVFRJTkdTX1NVQ0NFU1NGVUxMWV9TQVZFRCA9ICJtc2dfc2V0dGluZ3Nfc3VjY2Vzc2Z1bGx5X3NhdmVkIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1025,12 +1025,12 @@
         <entry>action SelectInProjectView</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action Forward</entry>
-        <entry>action GotoAction</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
