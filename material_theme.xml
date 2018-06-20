@@ -1,11 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.4.1.2-2018.1" />
     <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="1e90ff" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="userId" value="18a7a1d5:1641e20f72f:-7fff" />
   </component>
 </application>
