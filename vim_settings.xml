@@ -306,7 +306,7 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="/Python Console" timestamp="1529290686691">
+      <file name="/Python Console" timestamp="1529453233805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -376,10 +376,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529439931044">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529453239241">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -843,7 +845,6 @@
       <jump line="58" column="0" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/base/UnitTestBase.java" />
       <jump line="16" column="21" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" />
       <jump line="11" column="17" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="62" column="10" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="11" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
@@ -930,13 +931,14 @@
       <jump line="456" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="15" column="38" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="0" column="11" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="24" column="40" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>getCUrrent</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
@@ -972,7 +974,7 @@
         <text encoding="base64">aW1wb3J0IGhlYXBxCiMgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0LgpjbGFzcyBMaXN0Tm9kZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLm5leHQgPSBOb25lCgogICAgZGVmIF9fbHRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsIDwgb3RoZXIudmFsCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtZXJnZUtMaXN0cyhzZWxmLCBsaXN0cyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbGlzdHM6IExpc3RbTGlzdE5vZGVdCiAgICAgICAgOnJ0eXBlOiBMaXN0Tm9kZQogICAgICAgICIiIgogICAgICAgIHBxID0gWyhub2RlLnZhbCwgbm9kZSkgZm9yIG5vZGUgaW4gbGlzdHMgaWYgbm9kZV0KICAgICAgICBoZWFwcS5oZWFwaWZ5KHBxKQoKICAgICAgICBhbnMgPSBbXQogICAgICAgIHdoaWxlIHBxOgogICAgICAgICAgICBudW0sIG5vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBhbnMuYXBwZW5kKG51bSkKICAgICAgICAgICAgaWYgbm9kZS5uZXh0OgogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIChub2RlLm5leHQudmFsLCBub2RlLm5leHQpKQoKICAgICAgICByZXR1cm4gYW5zCgphID0gTGlzdE5vZGUoMSkKYS5uZXh0ID0gTGlzdE5vZGUoNCkKYS5uZXh0Lm5leHQgPSBMaXN0Tm9kZSg1KQoKYiA9IExpc3ROb2RlKDEpCmIubmV4dCA9IExpc3ROb2RlKDMpCmIubmV4dC5uZXh0ID0gTGlzdE5vZGUoNCkKc28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1008,9 +1010,7 @@
         <entry>getMbo</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action ShowErrorDescription</entry>
@@ -1028,6 +1028,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RunClass</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
