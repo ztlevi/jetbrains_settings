@@ -386,7 +386,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529515550696">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529517935501">
         <mark key="'" line="17" column="40" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -822,9 +822,9 @@
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529440636131">
         <mark key="'" line="68" column="38" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
         <mark key="^" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
@@ -987,7 +987,7 @@
         <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1039,10 +1039,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
