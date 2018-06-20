@@ -363,11 +363,10 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1528496283566">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1529526557892">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/.babelrc" timestamp="1513487835207">
         <mark key="[" line="10" column="5" />
@@ -820,11 +819,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529440636131">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529526445285">
         <mark key="'" line="68" column="38" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
@@ -960,31 +959,31 @@
         <text>getAllCommands</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzYXlSZXN0U2VydmljZSBfYXNzYXlSZXN0U2VydmljZTsKCiAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gQVNTQVlfTElTVF9SRVFVRVNUX0FQSSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdCAoQFJlcXVlc3RCb2R5IFN0cmluZyB2aWV3KQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FOX1JFRlJFU0ggPSAiYXBpL2Fzc2F5L2NhblJlZnJlc2giOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
+        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzYXlSZXN0U2VydmljZSBfYXNzYXlSZXN0U2VydmljZTsKCiAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gQVNTQVlfTElTVF9SRVFVRVNUX0FQSSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdCAoQFJlcXVlc3RCb2R5IFN0cmluZyB2aWV3KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
