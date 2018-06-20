@@ -360,7 +360,6 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="$USER_HOME$/Developer/Maven/src/main/java/Solution.java" timestamp="1529478147182" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/WebApplicationConfig.java" timestamp="1528219826342">
         <mark key="[" line="31" column="40" />
       </file>
@@ -608,12 +607,12 @@
         <mark key="^" line="149" column="21" />
         <mark key="." line="149" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529453239241">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529481353763">
         <mark key="'" line="25" column="40" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="0" column="11" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="33" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -754,7 +753,6 @@
       <file name="/dummy.sql" timestamp="1528400917130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/C_test/main.cpp" timestamp="1529477982125" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/autowiring/AutoWiringDAO.java" timestamp="1525312398854">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="5" column="47" />
@@ -953,7 +951,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
@@ -962,34 +960,34 @@
         <text>getAllCommands</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
+        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzYXlSZXN0U2VydmljZSBfYXNzYXlSZXN0U2VydmljZTsKCiAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gQVNTQVlfTElTVF9SRVFVRVNUX0FQSSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdCAoQFJlcXVlc3RCb2R5IFN0cmluZyB2aWV3KQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FOX1JFRlJFU0ggPSAiYXBpL2Fzc2F5L2NhblJlZnJlc2giOwo=</text>
+        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzYXlSZXN0U2VydmljZSBfYXNzYXlSZXN0U2VydmljZTsKCiAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gQVNTQVlfTElTVF9SRVFVRVNUX0FQSSwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0U1ZPPiB2aWV3TGlzdCAoQFJlcXVlc3RCb2R5IFN0cmluZyB2aWV3KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FOX1JFRlJFU0ggPSAiYXBpL2Fzc2F5L2NhblJlZnJlc2giOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGhlYXBxCiMgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0LgpjbGFzcyBMaXN0Tm9kZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLm5leHQgPSBOb25lCgogICAgZGVmIF9fbHRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsIDwgb3RoZXIudmFsCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtZXJnZUtMaXN0cyhzZWxmLCBsaXN0cyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbGlzdHM6IExpc3RbTGlzdE5vZGVdCiAgICAgICAgOnJ0eXBlOiBMaXN0Tm9kZQogICAgICAgICIiIgogICAgICAgIHBxID0gWyhub2RlLnZhbCwgbm9kZSkgZm9yIG5vZGUgaW4gbGlzdHMgaWYgbm9kZV0KICAgICAgICBoZWFwcS5oZWFwaWZ5KHBxKQoKICAgICAgICBhbnMgPSBbXQogICAgICAgIHdoaWxlIHBxOgogICAgICAgICAgICBudW0sIG5vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBhbnMuYXBwZW5kKG51bSkKICAgICAgICAgICAgaWYgbm9kZS5uZXh0OgogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIChub2RlLm5leHQudmFsLCBub2RlLm5leHQpKQoKICAgICAgICByZXR1cm4gYW5zCgphID0gTGlzdE5vZGUoMSkKYS5uZXh0ID0gTGlzdE5vZGUoNCkKYS5uZXh0Lm5leHQgPSBMaXN0Tm9kZSg1KQoKYiA9IExpc3ROb2RlKDEpCmIubmV4dCA9IExpc3ROb2RlKDMpCmIubmV4dC5uZXh0ID0gTGlzdE5vZGUoNCkKc28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">cHJpbnQoJ2hla2snKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1043,8 +1041,8 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
