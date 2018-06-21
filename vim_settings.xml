@@ -357,6 +357,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/barcode/com/cepheid/nexus/barcode/core/BarcodeData.java" timestamp="1529600365320">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -755,7 +760,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529538641321">
+      <file name="/Dummy.txt" timestamp="1529600611917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -973,37 +978,37 @@
         <text>getAsListCvo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGd4X2Fzc2F5IE9OCiAgKCBGSUxFTkFNRSA9IE4nL2Rldi9kaXNrMC9Vc2Vycy90aW5nemhvdS9Eb3dubG9hZHMvZ3hfYXNzYXkubWRmJyApLAogICggRklMRU5BTUUgPSBOJy9kZXYvZGlzazAvVXNlcnMvdGluZ3pob3UvRG93bmxvYWRzL2d4X2Fzc2F5X2xvZy5sZGYnICkKRk9SIEFUVEFDSCA7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYgPSAiRkYiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
+        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1053,12 +1058,12 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
