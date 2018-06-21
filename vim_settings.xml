@@ -328,7 +328,7 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="/Python Console" timestamp="1529515553745">
+      <file name="/Python Console" timestamp="1529604537263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -413,12 +413,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529517935501">
-        <mark key="'" line="17" column="40" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529605622342">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -983,43 +982,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>%s</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MucGxhdGZvcm0gPT0gJ3dpbjMyJwo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgZW5jb2RlKHNlbGYsIHMsIG1lbSA9IHt9KToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBzOiBzdHIKICAgICAgICA6cnR5cGU6IHN0cgogICAgICAgICIiIgogICAgICAgIGlmIHMgbm90IGluIG1lbToKICAgICAgICAgICAgbiA9IGxlbihzKQogICAgICAgICAgICBpID0gKHMrcykuZmluZChzLCAxKQogICAgICAgICAgICBvbmUgPSAne31be31dJy5mb3JtYXQobi8vaSxzZWxmLmVuY29kZShzWzppXSkpIGlmIGkgPCBuIGVsc2UgcwogICAgICAgICAgICBtdWx0aSA9IFtzZWxmLmVuY29kZShzWzppXSkgKyBzZWxmLmVuY29kZShzW2k6XSkgZm9yIGkgaW4gcmFuZ2UoMSwgbildCiAgICAgICAgICAgIG1lbVtzXSA9IG1pbihbb25lLCBzXSArIG11bHRpLCBrZXk9bGVuKQoKICAgICAgICByZXR1cm4gbWVtW3NdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLnBsYXRmb3JtKTsKCg==</text>
+        <text encoding="base64">c28ubWlubWF4R2FzRGlzdChbMSwyLDMsNCw1LDYsNyw4LDksMTBdLCA5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5zdXJlU2luZ2xlSW5zdGFuY2UoIkFESyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGhlYXBxLCBtYXRoCgpjbGFzcyBTb2x1dGlvbjoKICAgIGRlZiBtaW5tYXhHYXNEaXN0KHNlbGYsIHN0LCBLKToKICAgICAgICBsZWZ0LCByaWdodCA9IDAsIHN0Wy0xXSAtIHN0WzBdCiAgICAgICAgd2hpbGUgbGVmdCA8IHJpZ2h0OgogICAgICAgICAgICBtaWQgPSAobGVmdCArIHJpZ2h0KSAvIDIKICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgIGZvciBhLCBiIGluIHppcChzdCwgc3RbMTpdKToKICAgICAgICAgICAgICAgIGNvdW50ICs9IG1hdGguY2VpbCgoYiAtIGEpIC8gbWlkKSAtIDEKICAgICAgICAgICAgaWYgY291bnQgPiBLOgogICAgICAgICAgICAgICAgbGVmdCA9IG1pZAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmlnaHQgPSBtaWQKICAgICAgICByZXR1cm4gcmlnaHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLnBsYXRmb3JtKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
+        <text encoding="base64">ZW5zdXJlU2luZ2xlSW5zdGFuY2UoIkFESyIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1069,12 +1068,12 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
-        <entry>action GotoAction</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
