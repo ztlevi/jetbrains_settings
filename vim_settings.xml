@@ -368,6 +368,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/branches/platform/0_9/src/jni/com/cepheid/util/external/CepheidExternal.java" timestamp="1529619016245" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/barcode/com/cepheid/nexus/barcode/core/BarcodeData.java" timestamp="1529600365320">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -596,6 +597,10 @@
       <file name="/gx_assay [@localhost]" timestamp="1529538129932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/branches/dx/main/dx/resources/en_US/strings/CepheidJavaUtilsTextResources.csv" timestamp="1529618695174">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1526069085193">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="76" />
@@ -770,7 +775,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529602497329">
+      <file name="/Dummy.txt" timestamp="1529615272176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -839,6 +844,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/branches/platform/0_9/src/app/com/cepheid/app/i18n/ICJUResourceKeys.java" timestamp="1529618717887" />
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -851,13 +857,6 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1529526445285">
-        <mark key="'" line="68" column="38" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="68" column="33" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/constants/uiCoreConfig.js" timestamp="1528400827005">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="14" />
@@ -868,12 +867,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1529602376615">
+      <file name="/fragment.java" timestamp="1529619262027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/branches/platform/0_9/src/jni/com/cepheid/genexpert/external/GxUtils.java" timestamp="1529619277438" />
     </filemarks>
     <jumps>
       <jump line="45" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
@@ -987,8 +987,8 @@
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgZW5jb2RlKHNlbGYsIHMsIG1lbSA9IHt9KToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBzOiBzdHIKICAgICAgICA6cnR5cGU6IHN0cgogICAgICAgICIiIgogICAgICAgIGlmIHMgbm90IGluIG1lbToKICAgICAgICAgICAgbiA9IGxlbihzKQogICAgICAgICAgICBpID0gKHMrcykuZmluZChzLCAxKQogICAgICAgICAgICBvbmUgPSAne31be31dJy5mb3JtYXQobi8vaSxzZWxmLmVuY29kZShzWzppXSkpIGlmIGkgPCBuIGVsc2UgcwogICAgICAgICAgICBtdWx0aSA9IFtzZWxmLmVuY29kZShzWzppXSkgKyBzZWxmLmVuY29kZShzW2k6XSkgZm9yIGkgaW4gcmFuZ2UoMSwgbildCiAgICAgICAgICAgIG1lbVtzXSA9IG1pbihbb25lLCBzXSArIG11bHRpLCBrZXk9bGVuKQoKICAgICAgICByZXR1cm4gbWVtW3NdCg==</text>
+      <register name="0" type="4">
+        <text>msg_dll_not_available</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c28ubWlubWF4R2FzRGlzdChbMSwyLDMsNCw1LDYsNyw4LDksMTBdLCA5KQo=</text>
@@ -1018,7 +1018,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1054,7 +1054,6 @@
         <entry>getAsListCvo</entry>
       </history-search>
       <history-cmd>
-        <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>actionlist</entry>
         <entry>action RecentFiles</entry>
@@ -1063,17 +1062,18 @@
         <entry>action Stop</entry>
         <entry>action FindUsages</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action FindInPath</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
