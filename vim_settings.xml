@@ -136,6 +136,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/build/gulpfile.js" timestamp="1529601790181">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="15" />
@@ -289,6 +294,12 @@
         <mark key="]" line="197" column="24" />
         <mark key="^" line="197" column="24" />
         <mark key="." line="197" column="24" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/build/electronDev.js" timestamp="1529601330061">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="69" column="1" />
+        <mark key="." line="69" column="30" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/aware/TestAware.java" timestamp="1525310799190">
         <mark key="[" line="21" column="64" />
@@ -760,10 +771,10 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529600611917">
+      <file name="/Dummy.txt" timestamp="1529602163241">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/service/InjectionServiceImpl.java" timestamp="1525399684505">
@@ -972,40 +983,40 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>new_database</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYgPSAiRkYiOwo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MucGxhdGZvcm0gPT0gJ3dpbjMyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLnBsYXRmb3JtKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
+        <text encoding="base64">ZW5zdXJlU2luZ2xlSW5zdGFuY2UoIkFESyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5hcHBWZXJzaW9uID0gZGF0YTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFzc2F5UmVzdFNlcnZpY2UgX2Fzc2F5UmVzdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Y3ZvU2VydmljZSA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateTerminalToolWindow</text>
