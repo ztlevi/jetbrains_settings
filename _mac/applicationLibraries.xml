@@ -2,8 +2,8 @@
   <component name="libraryTable">
     <library name="Python 3.6 interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.6.4_3/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+        <root url="file:///usr/local/Cellar/python/3.6.4_3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" />
         <root url="file:///usr/local/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1199943127" />
@@ -19,8 +19,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.6.4_3/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+        <root url="file:///usr/local/Cellar/python/3.6.4_3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" />
         <root url="file:///usr/local/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1199943127" />
