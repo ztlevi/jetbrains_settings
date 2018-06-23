@@ -134,7 +134,7 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Test.java" timestamp="1529711202480">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Test.java" timestamp="1529711950192">
         <mark key="'" line="165" column="80" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
@@ -342,6 +342,7 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/renderer/ResultTypeDropdownRenderer.java" timestamp="1529712213064" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -399,7 +400,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/LDAOrganismResultLisLogic.java" timestamp="1529710785369" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/LDAOrganismResultLisLogic.java" timestamp="1529712020696" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/config.properties" timestamp="1525560163985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -552,7 +553,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/OrganismResultLisLogic.java" timestamp="1529711263660" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/OrganismResultLisLogic.java" timestamp="1529712077995" />
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1514617474452">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="10" />
@@ -908,7 +909,7 @@
         <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateStructureToolWindow</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -960,10 +961,10 @@
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action ActivateStructureToolWindow</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateStructureToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
