@@ -200,8 +200,8 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1529875759795">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1529879213742">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -566,13 +566,6 @@
         <mark key="^" line="58" column="102" />
         <mark key="." line="58" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529875758796">
-        <mark key="'" line="8" column="43" />
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="32" />
-        <mark key="^" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -793,7 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="32" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="48" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="50" column="36" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
       <jump line="52" column="30" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
@@ -893,49 +885,50 @@
       <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="456" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="6" column="43" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>(()(()))</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXNrX2Zvb3Rlcl9hYm91dCwgICJBYm91dCBBc3NheSBTdXBwb3J0IEtpdCIK</text>
+      <register name="0" type="4">
+        <text>p**2//q*times</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXZlbCAtPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WzAgXQpbMV0gWzJdCg==</text>
+        <text encoding="base64">ICAgICAgICBsID0gcCoqMi9xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WzFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcCoqMi9xKnRpbWVzICUgMiA9PSAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXZlbCAtPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFNbaS0xXSA9PSAnKCc6Cg==</text>
+        <text encoding="base64">WzAgXQpbMV0gWzJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
+        <text encoding="base64">WzFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFNbaS0xXSA9PSAnKCc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWxsbygpe30KICBnb0hlbGxvKCl7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -989,8 +982,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
