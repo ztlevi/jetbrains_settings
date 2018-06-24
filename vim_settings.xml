@@ -200,7 +200,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526859666464">
+      <file name="/Python Console" timestamp="1529875759795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -566,12 +566,12 @@
         <mark key="^" line="58" column="102" />
         <mark key="." line="58" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529874760032">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529875758796">
         <mark key="'" line="8" column="43" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="32" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="26" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -899,7 +899,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(()(()))</text>
       </register>
       <register name="/" type="4">
         <text>getAsListCvo</text>
@@ -908,34 +908,34 @@
         <text encoding="base64">YXNrX2Zvb3Rlcl9hYm91dCwgICJBYm91dCBBc3NheSBTdXBwb3J0IEtpdCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXZlbCAtPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
+        <text encoding="base64">WzAgXQpbMV0gWzJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">WzFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWxsbygpe30KICBnb0hlbGxvKCl7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVsbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFNbaS0xXSA9PSAnKCc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVhY3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVhY3QuRgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldmVsICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIC5zdGF0ZShyb3V0ZXNTZXJ2aWNlLnNpbXVsYXRlUmVzdWx0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5zdGF0ZShyb3V0ZXNTZXJ2aWNlLmVycm9yKQo=</text>
+        <text encoding="base64">ICBoZWxsbygpe30KICBnb0hlbGxvKCl7fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -973,7 +973,6 @@
       <history-cmd>
         <entry>action Forward</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action Debug</entry>
         <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>actionlist</entry>
@@ -986,11 +985,12 @@
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Run</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
