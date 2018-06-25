@@ -6,6 +6,5 @@
     <entry key="mac.editor.thumb.default.alpha.base" value="102" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.svg.icon" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
