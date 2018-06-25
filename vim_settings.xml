@@ -9,13 +9,6 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1529698785173">
-        <mark key="'" line="676" column="6" />
-        <mark key="[" line="680" column="94" />
-        <mark key="]" line="680" column="94" />
-        <mark key="." line="680" column="94" />
-        <mark key="^" line="24" column="55" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -67,12 +60,11 @@
         <mark key="." line="67" column="21" />
         <mark key="^" line="67" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/CommandSimulator.java" timestamp="1529698668654">
-        <mark key="'" line="299" column="15" />
-        <mark key="[" line="12" column="89" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/ResultTextRestService.java" timestamp="1529950197535">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/README.md" timestamp="1513316161928">
         <mark key="[" line="6" column="2" />
@@ -136,8 +128,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Test.java" timestamp="1529946160723">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/Test.java" timestamp="1529949879874">
         <mark key="'" line="448" column="3" />
+        <mark key="[" line="551" column="44" />
+        <mark key="]" line="551" column="25" />
+        <mark key="^" line="551" column="25" />
+        <mark key="." line="551" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/util/ArrayUtils.js" timestamp="1512793768528">
         <mark key="[" line="39" column="15" />
@@ -222,13 +218,6 @@
         <mark key="]" line="197" column="36" />
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
-      </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" timestamp="1529698884129">
-        <mark key="'" line="73" column="9" />
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="31" />
-        <mark key="." line="71" column="31" />
-        <mark key="^" line="74" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
@@ -376,7 +365,7 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/OrganismResult.java" timestamp="1529944577153" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/OrganismResult.java" timestamp="1529949919373" />
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1529713175825">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="2" column="67" />
@@ -450,8 +439,8 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/service/com/cepheid/nexus/service/ResultService.java" timestamp="1529945464869">
-        <mark key="[" line="926" column="0" />
-        <mark key="]" line="944" column="2" />
+        <mark key="[" line="927" column="0" />
+        <mark key="]" line="945" column="2" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/command/AspirateUiCommand.java" timestamp="1528846033787">
         <mark key="[" line="6" column="19" />
@@ -543,6 +532,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/assayxpert.iml" timestamp="1529949183003" />
       <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1526069085193">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="76" />
@@ -729,7 +719,7 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RestService.java" timestamp="1529699611793">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RestService.java" timestamp="1529950203812">
         <mark key="[" line="36" column="79" />
         <mark key="]" line="36" column="79" />
         <mark key="^" line="10" column="0" />
@@ -759,7 +749,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1529619262027">
+      <file name="/fragment.java" timestamp="1529946539579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="3" />
@@ -909,7 +899,7 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTERfRkYyID0gIkZGIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -945,26 +935,26 @@
         <entry>java</entry>
       </history-search>
       <history-cmd>
-        <entry>action Stop</entry>
         <entry>action DebugClass</entry>
         <entry>action FindInPath</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action ActivateStructureToolWindow</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action ExpandRegion</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Back</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Back</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1017,6 +1007,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
