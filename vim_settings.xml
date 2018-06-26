@@ -342,9 +342,11 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/LisUploadResultThread.java" timestamp="1530031967362">
         <mark key="'" line="184" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/util/com/cepheid/nexus/util/io/FileUtil.java" timestamp="1530044553151">
-        <mark key="[" line="231" column="37" />
-        <mark key="]" line="231" column="71" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/util/com/cepheid/nexus/util/io/FileUtil.java" timestamp="1530047215693">
+        <mark key="[" line="229" column="3" />
+        <mark key="]" line="230" column="33" />
+        <mark key="." line="230" column="33" />
+        <mark key="^" line="230" column="33" />
       </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
@@ -604,7 +606,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/migrate/com/cepheid/appcore/migrate/MigrateGxAssayToGxDB.java" timestamp="1530044446576" />
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/CategoryMapper.xml" timestamp="1525046021148">
         <mark key="[" line="115" column="20" />
         <mark key="]" line="115" column="24" />
@@ -648,6 +649,13 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" timestamp="1530047773997">
+        <mark key="'" line="282" column="58" />
+        <mark key="[" line="289" column="56" />
+        <mark key="]" line="289" column="56" />
+        <mark key="." line="289" column="56" />
+        <mark key="^" line="289" column="56" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/ResultService.java" timestamp="1529970897699">
         <mark key="[" line="10" column="13" />
@@ -746,17 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/test/data_segment_test.py" />
-      <jump line="344" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="27" column="35" filename="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/segment_data.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/base/UnitTestBase.java" />
-      <jump line="16" column="21" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/resource/MoocResource.java" />
-      <jump line="11" column="17" filename="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/javabased/StoreConfig.java" />
-      <jump line="15" column="46" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="62" column="10" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="11" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="44" column="30" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="71" column="9769" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="35" column="7" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
@@ -846,56 +843,67 @@
       <jump line="184" column="34" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/LisUploadResultThread.java" />
       <jump line="160" column="19" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/service/com/cepheid/appcore/service/LisUploadPersistenceService.java" />
       <jump line="304" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/UserPasswordValidator.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="43" column="92" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="44" column="9" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="63" column="64" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="66" column="44" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="67" column="17" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="275" column="31" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="276" column="41" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="279" column="51" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="280" column="40" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
+      <jump line="282" column="58" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.27</text>
+        <text encoding="base64">ID09IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getAsListCvo</text>
+        <text>drive</text>
       </register>
       <register name="0" type="4">
-        <text>Target drive not available for file</text>
+        <text>validateDrive</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIChwYXRoLmxlbmd0aCgpIDwgMykgewogICAgICBtc2cgPSBSZXNvdXJjZVNlcnZpY2UuZ2V0U2VydmljZSgpLmdldFN0cmluZyhJQXBwQ29yZVJlc291cmNlS2V5cy5NU0dfRFJJVkVfTk9UX0FWQUlMQUJMRSwgcGF0aCk7CiAgICAgIHRocm93IG5ldyBJbnZhbGlkRmlsZVBhdGhFeGNlcHRpb24obXNnKTsKICAgIH0KCiAgICBTdHJpbmcgdGFyZ2V0RHJpdmUgPSBuZXcgU3RyaW5nKHBhdGguc3Vic3RyaW5nKDAsIDMpKTsKICAgIGlmICghaXNGb3JPdXRwdXQpIHsKICAgICAgRmlsZSBpbnB1dERyaXZlID0gbmV3IEZpbGUodGFyZ2V0RHJpdmUpOwogICAgICBpZiAoIWlucHV0RHJpdmUuZXhpc3RzKCkpIHsKICAgICAgICBtc2cgPSBSZXNvdXJjZVNlcnZpY2UuZ2V0U2VydmljZSgpLmdldFN0cmluZyhJQXBwQ29yZVJlc291cmNlS2V5cy5NU0dfRFJJVkVfTk9UX0FWQUlMQUJMRSwgcGF0aCk7CiAgICAgICAgdGhyb3cgbmV3IEludmFsaWRGaWxlUGF0aEV4Y2VwdGlvbihtc2csIHRhcmdldERyaXZlKTsKICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSSBnb3QgaGVyZSIpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jZXBoZWlkLm5leHVzLmJhc2UuVGVzdDsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>ResultService.getService().
         localizedTestResultText(_test.getResultText()), _test.getResultColor()</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgQXNzZXJ0LnRoYXQodGVzdCA9PSBudWxsIHx8ICF0ZXN0LmlzTXVsdGlDYXJ0Q2hpbGRUZXN0KCksICJOb3Qgc3VwcG9ydGVkIGZvciBjaGlsZCB0ZXN0cyIpOwogIF90ZXN0ID0gdGVzdDsKICAgIGlmIChfdGVzdCAhPSBudWxsKSB7CiAgc2V0UmVzdWx0VGV4dChUZXN0UmVzdWx0Rm9ybWF0dGVyLmdldEh0bWxSZXN1bHRUZXh0KFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLgogICAgbG9jYWxpemVkVGVzdFJlc3VsdFRleHQoX3Rlc3QuZ2V0UmVzdWx0VGV4dCgpKSwgX3Rlc3QuZ2V0UmVzdWx0Q29sb3IoKSkpOwogIHNldFNhbXBsZUlEVGV4dChfdGVzdC5nZXRTYW1wbGVJZCgpKTsKCiAgc2V0UGF0aWVudElEVGV4dChTdHJpbmdVdGlsLnRvQmxhbmtJZk51bGwoX3Rlc3QuZ2V0R3hQYXRpZW50SWQoKSkpOwogIHNldFByYWN0aWNlUGF0aWVudElEVGV4dChTdHJpbmdVdGlsLnRvQmxhbmtJZk51bGwoX3Rlc3QuZ2V0UHJhY3RpY2VQYXRpZW50SWQoKSkpOwoKICBzZXRBc3NheU5hbWVUZXh0KF90ZXN0LmdldEFzc2F5KCkuZ2V0TmFtZSgpKTsKICBzZXRBc3NheVZlcnNpb24oX3Rlc3QuZ2V0QXNzYXkoKS5nZXRBc3NheVZlcnNpb25TdHJpbmcoKSk7Cn0KICAgIGVsc2UgewogIHNldFJlc3VsdFRleHQoIiIpOwogIHNldFNhbXBsZUlEVGV4dCgiIik7CiAgc2V0UGF0aWVudElEVGV4dCgiIik7CiAgc2V0UHJhY3RpY2VQYXRpZW50SURUZXh0KCIiKTsKICBzZXRBc3NheU5hbWVUZXh0KCIiKTsKICBzZXRBc3NheVZlcnNpb24oIiIpOwp9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">UmVtb3ZlIGNvbW1hbmQgc2VydmljZXMK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TmV3IGNoYW5nZWxpc3QK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoIm9zLm5hbWUiKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWRkIHVwcGVyIGNhc2UgZmlsZXMK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBoZWxsbygpe30KICBnb0hlbGxvKCl7fQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVsbG8K</text>
-      </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>getAsListCvo</last-search>
+      <last-search>drive</last-search>
       <last-offset />
-      <last-pattern>getAsListCvo</last-pattern>
+      <last-pattern>drive</last-pattern>
       <last-replace>p1</last-replace>
       <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
@@ -903,7 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
         <entry>canRe</entry>
         <entry>simulate</entry>
         <entry>get</entry>
@@ -923,6 +930,7 @@
         <entry>error</entry>
         <entry>getView</entry>
         <entry>getAsListCvo</entry>
+        <entry>drive</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -938,13 +946,13 @@
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoAction</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FindInPath</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
