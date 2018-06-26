@@ -405,7 +405,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/ViewResultsPanel.java" timestamp="1529971865841">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/ViewResultsPanel.java" timestamp="1529973139326">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="27" />
       </file>
@@ -693,8 +693,8 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529969757534">
-        <mark key="[" line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1529972642316">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -778,10 +778,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" timestamp="1529971329904">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" timestamp="1529973126426">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="27" />
-        <mark key="^" line="20" column="99" />
+        <mark key="^" line="22" column="99" />
         <mark key="." line="13" column="0" />
       </file>
     </filemarks>
@@ -965,7 +965,6 @@
         <entry>getAsListCvo</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReformatCode</entry>
         <entry>actionlist</entry>
         <entry>action GotoAction</entry>
         <entry>action RunDashboard.Stop</entry>
@@ -979,10 +978,11 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action RecentFiles</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action ReformatCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
       </history-cmd>

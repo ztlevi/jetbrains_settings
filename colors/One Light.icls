@@ -1,16 +1,17 @@
 <scheme name="One Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono Lig" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="2db448" />
     <option name="CARET_COLOR" value="526fff" />
     <option name="CARET_ROW_COLOR" value="f2f2f2" />
     <option name="DELETED_LINES_COLOR" value="ff1414" />
-    <option name="DOCUMENTATION_COLOR" value="fafafa" />
+    <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="d3d4d5" />
     <option name="LINE_NUMBERS_COLOR" value="9d9d9f" />
