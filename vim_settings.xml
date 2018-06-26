@@ -72,7 +72,6 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/service/com/cepheid/nova/service/NvTestService.java" timestamp="1529966775948" />
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -262,7 +261,6 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/persistence/com/cepheid/nexus/persistence/core/HibernateSessionManager.java" timestamp="1529966700481" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="1" />
@@ -344,7 +342,7 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/lis/com/cepheid/nova/lis/testresult/LisUploadResultThread.java" timestamp="1530031967362">
         <mark key="'" line="184" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/util/com/cepheid/nexus/util/io/FileUtil.java" timestamp="1530034494130" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/util/com/cepheid/nexus/util/io/FileUtil.java" timestamp="1530034703256" />
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -406,8 +404,6 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/BasicViewResultsPanel.java" timestamp="1529971274951" />
-      <file name="/dbConfig.xml" timestamp="1529966569606" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/command/AspirateUiCommand.java" timestamp="1528846033787">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="34" />
@@ -556,7 +552,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/lib/hibernate-core-4.3.11.Final.jar!/org/hibernate/cfg/Configuration.class" timestamp="1529966028643" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/CartridgeIdOutstandingLisTestOrderFilter.java" timestamp="1529966726938">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -570,7 +565,6 @@
         <mark key="^" line="303" column="15" />
         <mark key="." line="303" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSValidationService.java" timestamp="1529964567458" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/tri/data_segment/funcs.py" timestamp="1518568418075">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="39" />
@@ -589,14 +583,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/util/CepheidFilePicker.java" timestamp="1530033955847" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/jsr/JsrDAO.java" timestamp="1525651638088">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/resources/en_US/strings/CepheidJavaUtilsTextResources.csv" timestamp="1530033935601" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocBeanName.java" timestamp="1525311185204">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="46" />
@@ -736,7 +728,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1530034362974">
+      <file name="/fragment.java" timestamp="1530034717048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
