@@ -924,7 +924,7 @@
         <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Stop</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -968,7 +968,6 @@
         <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ShowErrorDescription</entry>
@@ -980,6 +979,7 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action Resume</entry>
         <entry>action Stop</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
