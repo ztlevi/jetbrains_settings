@@ -9,8 +9,8 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530131715006">
-        <mark key="'" line="485" column="25" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530141883720">
+        <mark key="'" line="181" column="37" />
         <mark key="[" line="588" column="4" />
         <mark key="]" line="588" column="8" />
         <mark key="^" line="588" column="8" />
@@ -64,11 +64,6 @@
         <mark key="." line="67" column="21" />
         <mark key="^" line="67" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/ResultTextRestService.java" timestamp="1530056409746">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/CommandSimulator.java" timestamp="1528844962473">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="34" />
@@ -81,8 +76,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/junit/src/result/com/cepheid/nexus/result/testResult/AbstractTestResultTest.java" timestamp="1530133336027" />
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/service/com/cepheid/nova/service/NvTestService.java" timestamp="1530131870827">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/service/com/cepheid/nova/service/NvTestService.java" timestamp="1530141182785">
         <mark key="'" line="416" column="63" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="163" column="54" />
@@ -222,6 +216,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/service/com/cepheid/appcore/service/TestPersistenceService.java" timestamp="1530141386144" />
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
@@ -234,7 +229,6 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/base/com/cepheid/nova/base/TestNv.java" timestamp="1530121727222" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/dao/InjectionDAO.java" timestamp="1525398985106">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="3" column="30" />
@@ -274,6 +268,12 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/DefineAssayPanel.java" timestamp="1530058760599">
         <mark key="[" line="775" column="23" />
         <mark key="]" line="775" column="65" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/gulpfile.js" timestamp="1530141334198">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="^" line="174" column="87" />
+        <mark key="." line="174" column="99" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/res/styles/GlobalStyles.js" timestamp="1513568735069">
         <mark key="[" line="18" column="21" />
@@ -371,11 +371,6 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="230" column="4" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/service/com/cepheid/assayxpert/service/AxAssayService.java" timestamp="1530120412080">
-        <mark key="'" line="276" column="4" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="500" column="2" />
-      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/webapp/index.jsp" timestamp="1524960251899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -427,11 +422,6 @@
       <file name="/ResultTextRestService.java" timestamp="1530058107089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/core/RSApplication.java" timestamp="1530118012984">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/ViewResultsPanel.java" timestamp="1530058192462">
         <mark key="[" line="1048" column="0" />
         <mark key="]" line="1053" column="6" />
@@ -442,7 +432,6 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/service/com/cepheid/nexus/service/ResultService.java" timestamp="1530133181390" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/junit/src/result/com/cepheid/nexus/result/core/OrganismBasedTestResultCalculatorAutoTest.java" timestamp="1530136549977">
         <mark key="[" line="378" column="0" />
         <mark key="]" line="399" column="72" />
@@ -513,7 +502,6 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/testsupporttool/src/server/com/cepheid/testsupporttool/rest/service/TestInfoService.java" timestamp="1530119695663" />
       <file name="$USER_HOME$/Developer/Github/HadoopExamples/src/main/java/CommonFriendsStepTwo.java" timestamp="1513044709081">
         <mark key="[" line="74" column="67" />
         <mark key="]" line="74" column="67" />
@@ -686,11 +674,17 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
+      <file name="/JavaScript Console" timestamp="1530138477798">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/.gitignore" timestamp="1513291397535">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/resources/en_US/strings/rsLabels.csv" timestamp="1530140153038">
+        <mark key="." line="80" column="25" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSTestService.java" timestamp="1530118136312">
         <mark key="[" line="15" column="16" />
@@ -710,11 +704,11 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530134208415">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1530141281689">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/gxcore/src/service/com/cepheid/gxcore/service/GxTestService.java" timestamp="1530059469665">
         <mark key="[" line="94" column="0" />
@@ -762,7 +756,6 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/junit/src/result/com/cepheid/nexus/result/calc/CrosstalkCorrOpticCalculationAutoTest.java" timestamp="1530133025806" />
       <file name="/RSInfoService.java" timestamp="1530055572167">
         <mark key="[" line="0" column="0" />
       </file>
@@ -781,13 +774,14 @@
       <file name="/RestService.java" timestamp="1530121625587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530134208430">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1530138850054" />
+      <file name="/fragment.java" timestamp="1530137566536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" timestamp="1530120598825">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" timestamp="1530141455778">
         <mark key="'" line="17" column="60" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="83" column="49" />
@@ -796,7 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="26" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="449" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="569" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="24" column="9" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" />
@@ -896,55 +889,56 @@
       <jump line="22" column="60" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" />
       <jump line="71" column="28" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
       <jump line="485" column="25" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
+      <jump line="181" column="37" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Test.getResultTextLabel(AssayConstants.RESULT_NO_RESULT))</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>Test test</text>
+        <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9yZ2FuaXNtQmFzZWRUZXN0IHRlc3QgPSBjcmVhdGVUZXN0KCk7CiAgICBBYnN0cmFjdFRlc3RSZXN1bHRDYWxjdWxhdG9yPE9yZ2FuaXNtQmFzZWRUZXN0PiBjYWxjdWxhdG9yID0gY3JlYXRlQ2FsY3VsYXRvcigpOwogICAgZm9yIChfb3JnYW5pc21UeXBlID0gMjsgX29yZ2FuaXNtVHlwZSA+PSAwOyBfb3JnYW5pc21UeXBlLS0pIHsKICAgICAgYWRkT3JnYW5pc21SZXN1bHQodGVzdCk7CiAgICAgIE9yZ2FuaXNtUmVzdWx0IG9yID0gdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQodGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5zaXplKCkgLSAxKTsKICAgICAgb3Iuc2V0UmVzdWx0VGV4dChBc3NheUNvbnN0YW50cy5SRVNVTFRfUE9TSVRJVkUgKyBfb3JnYW5pc21UeXBlKTsKICAgICAgb3Iuc2V0UmVzdWx0Q29sb3IoQXNzYXlDb25zdGFudHMuUkVTVUxUX0NPTE9SX0dSQVkgKyBfb3JnYW5pc21UeXBlKTsKICAgIH0KCiAgICBSZXN1bHRUZXh0QW5kQ29sb3IgcnRjID0gY2FsY3VsYXRvci5nZXRVbkxvY2FsaXplZFJlc3VsdFRleHRBbmRDb2xvcih0ZXN0KTsKCiAgICBTdHJpbmdKb2luZXIgZXhwUmVzdWx0VGV4dCA9IG5ldyBTdHJpbmdKb2luZXIoInwiKTsKICAgIGV4cFJlc3VsdFRleHQuYWRkKCJPcmcxICIgKyBUZXN0LmdldFJlc3VsdFRleHRMYWJlbChBc3NheUNvbnN0YW50cy5SRVNVTFRfUE9TSVRJVkUgKyAyKSk7CiAgICBleHBSZXN1bHRUZXh0LmFkZCgiT3JnMiAiICsgVGVzdC5nZXRSZXN1bHRUZXh0TGFiZWwoQXNzYXlDb25zdGFudHMuUkVTVUxUX1BPU0lUSVZFICsgMSkpOwogICAgZXhwUmVzdWx0VGV4dC5hZGQoIk9yZzMgIiArIFRlc3QuZ2V0UmVzdWx0VGV4dExhYmVsKEFzc2F5Q29uc3RhbnRzLlJFU1VMVF9QT1NJVElWRSkpOwogICAgQXNzZXJ0LmFzc2VydEVxdWFscyhleHBSZXN1bHRUZXh0LnRvU3RyaW5nKCksIHJ0Yy5nZXRSZXN1bHRUZXh0KCkpOwoKICAgIFN0cmluZ0pvaW5lciBleHBSZXN1bHRDb2xvciA9IG5ldyBTdHJpbmdKb2luZXIoInwiKTsKICAgIGV4cFJlc3VsdENvbG9yLmFkZChTdHJpbmcudmFsdWVPZihBc3NheUNvbnN0YW50cy5SRVNVTFRfQ09MT1JfR1JBWSArIDIpKTsKICAgIGV4cFJlc3VsdENvbG9yLmFkZChTdHJpbmcudmFsdWVPZihBc3NheUNvbnN0YW50cy5SRVNVTFRfQ09MT1JfR1JBWSArIDEpKTsKICAgIGV4cFJlc3VsdENvbG9yLmFkZChTdHJpbmcudmFsdWVPZihBc3NheUNvbnN0YW50cy5SRVNVTFRfQ09MT1JfR1JBWSkpOwogICAgQXNzZXJ0LmFzc2VydEVxdWFscyhleHBSZXN1bHRDb2xvci50b1N0cmluZygpLCBydGMuZ2V0UmVzdWx0Q29sb3IoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>'../resources/**/uistrings/*.csv'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QucmVzZXRUZXN0UmVzdWx0cygpOwo=</text>
+        <text encoding="base64">ICAgICcuLi9yZXNvdXJjZXMvKiovc3RyaW5ncy8qLmNzdicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QucmVzZXRUZXN0UmVzdWx0cygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgcmVzdWx0VGV4dCA9IFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLmxvY2FsaXplZFRlc3RSZXN1bHRUZXh0KHRlc3QuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIFN0cmluZyByZXN1bHRDb2xvciA9IHRlc3QuZ2V0UmVzdWx0Q29sb3IoKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFRlc3QgY3JlYXRlVGVzdEluc3RhbmNlIChBc3NheSBhc3NheSkgdGhyb3dzIFJlc3VsdEV4Y2VwdGlvbgogIHsKICAgIGlmIChhc3NheSBpbnN0YW5jZW9mIFRhcmdldEJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIFRhcmdldEJhc2VkVGVzdC5uZXdJbnN0YW5jZSgoVGFyZ2V0QmFzZWRBc3NheSlhc3NheSk7CiAgICB9CiAgICBpZiAoYXNzYXkgaW5zdGFuY2VvZiBPcmdhbmlzbUJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIE9yZ2FuaXNtQmFzZWRUZXN0Lm5ld0luc3RhbmNlKChPcmdhbmlzbUJhc2VkQXNzYXkpYXNzYXkpOwogICAgfQogICAgaWYoYXNzYXkgaW5zdGFuY2VvZiBQZXJjZW50UmF0aW9Bc3NheSkgewogICAgICByZXR1cm4gUGVyY2VudFJhdGlvVGVzdC5uZXdJbnN0YW5jZSgoUGVyY2VudFJhdGlvQXNzYXkpYXNzYXkpOwogICAgfQoKICAgIHRocm93IG5ldyBSZXN1bHRFeGNlcHRpb24oCiAgICAgICJBc3NheSB3aXRoIHJlc3VsdCB0ZXh0IHR5cGUgezB9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIGV2YWx1YXRvciBzaW11bGF0aW9uIiwgYXNzYXkuZ2V0UmVzdWx0VGV4dFR5cGUoKSk7CiAgfQo=</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgcmVzdWx0VGV4dCA9IFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLmxvY2FsaXplZFRlc3RSZXN1bHRUZXh0KHRlc3QuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIFN0cmluZyByZXN1bHRDb2xvciA9IHRlc3QuZ2V0UmVzdWx0Q29sb3IoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbmdsZSBjYXJ0IHRlc3RzIHdpdGggc3RhdHVzIGxlc3MgdGhhbiBDT01QTEVURQogICAgU3RyaW5nIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC50ZXN0RGF0YSB0ZCIgKwogICAgICAiIFdIRVJFIHQucGFyZW50IElTIE5VTEwgQU5EIHQuc3dWZXJzaW9uIElTIE5PVCBOVUxMIEFORCB0ZC5zdGF0ZSA8IDIiOwogICAgQmFzZVF1ZXJ5IGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IHRlc3RzID0gUGVyc2lzdGVuY2VTZXJ2aWNlLmdldFNlcnZpY2UoKS5ydW4oaHFsKTsKCiAgICAvLyBNdWx0aSBjYXJ0IHRlc3RzIHdpdGggYXQgbGVhc3Qgb25lIGNoaWxkIHN0YXR1cyBsZXNzIHRoYW4gQ09NUExFVEUKICAgIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC5jaGlsZFRlc3RzIGN0IiArCiAgICAgICIgV0hFUkUgdC5wYXJlbnQgSVMgTlVMTCBBTkQgdC5zd1ZlcnNpb24gSVMgTlVMTCBBTkQgY3QudGVzdERhdGEuc3RhdGUgPCAyIjsKICAgIGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IG11bHRpVGVzdHMgPSBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnJ1bihocWwpOwoKICAgIGZvciAoVGVzdCBtdWx0aVRlc3QgOiBtdWx0aVRlc3RzKSB7CiAgICAgIGlmICghdGVzdHMuc3RyZWFtKCkuYW55TWF0Y2godCAtPiB0LmdldElkKCkuZXF1YWxzKG11bHRpVGVzdC5nZXRJZCgpKSkpIHsKICAgICAgICB0ZXN0cy5hZGQobXVsdGlUZXN0KTsKICAgICAgfQogICAgfQoKICAgIC8vIFNldCB0aGVzZSB0ZXN0IGRhdGEgdG8gSU5DT01QTEVURQogICAgTGlzdDxUZXN0RGF0YT4gdGVzdERhdGFMaXN0ID0gTGlzdFV0aWwubGlzdCgpOwogICAgZm9yIChUZXN0IHRlc3QgOiB0ZXN0cykgewogICAgICB0ZXN0LnNldEFzc2F5KEFzc2F5U2VydmljZS5nZXRTZXJ2aWNlKCkuZ2V0QXNzYXlCeUlkKHRlc3QuZ2V0QXNzYXlJZCgpKSk7CiAgICAgIHRlc3QuZ2V0VGVzdE9yQ2hpbGRUZXN0cyh0cnVlKS5zdHJlYW0oKS5tYXAodCAtPiB0LmdldFRlc3REYXRhKCkpLgogICAgICAgIGZpbHRlcih0ZCAtPiB0ZC5nZXRTdGF0ZSgpIDwgVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19DT01QTEVURUQpLmZvckVhY2godGQgLT4KICAgICAgewogICAgICAgIHRkLnNldFRlc3REYXRhU3RhdGUoVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19JTkNPTVBMRVRFKTsKICAgICAgICB0ZXN0RGF0YUxpc3QuYWRkKHRkKTsKICAgICAgfSk7CiAgICAgIGlmICh0ZXN0LmlzTXVsdGlDYXJ0UGFyZW50VGVzdCgpKSB7CiAgICAgICAgdGVzdERhdGFMaXN0LmFkZCh0ZXN0LmdldFRlc3REYXRhKCkpOwogICAgICB9CiAgICB9CgogICAgLy8gU2F2ZSB0aGUgdGVzdCBkYXRhIHdpdGggbmV3IHN0YXRlCiAgICBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnNhdmUodGVzdERhdGFMaXN0KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIFRlc3QgY3JlYXRlVGVzdEluc3RhbmNlIChBc3NheSBhc3NheSkgdGhyb3dzIFJlc3VsdEV4Y2VwdGlvbgogIHsKICAgIGlmIChhc3NheSBpbnN0YW5jZW9mIFRhcmdldEJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIFRhcmdldEJhc2VkVGVzdC5uZXdJbnN0YW5jZSgoVGFyZ2V0QmFzZWRBc3NheSlhc3NheSk7CiAgICB9CiAgICBpZiAoYXNzYXkgaW5zdGFuY2VvZiBPcmdhbmlzbUJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIE9yZ2FuaXNtQmFzZWRUZXN0Lm5ld0luc3RhbmNlKChPcmdhbmlzbUJhc2VkQXNzYXkpYXNzYXkpOwogICAgfQogICAgaWYoYXNzYXkgaW5zdGFuY2VvZiBQZXJjZW50UmF0aW9Bc3NheSkgewogICAgICByZXR1cm4gUGVyY2VudFJhdGlvVGVzdC5uZXdJbnN0YW5jZSgoUGVyY2VudFJhdGlvQXNzYXkpYXNzYXkpOwogICAgfQoKICAgIHRocm93IG5ldyBSZXN1bHRFeGNlcHRpb24oCiAgICAgICJBc3NheSB3aXRoIHJlc3VsdCB0ZXh0IHR5cGUgezB9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIGV2YWx1YXRvciBzaW11bGF0aW9uIiwgYXNzYXkuZ2V0UmVzdWx0VGV4dFR5cGUoKSk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFNpbmdsZSBjYXJ0IHRlc3RzIHdpdGggc3RhdHVzIGxlc3MgdGhhbiBDT01QTEVURQogICAgU3RyaW5nIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC50ZXN0RGF0YSB0ZCIgKwogICAgICAiIFdIRVJFIHQucGFyZW50IElTIE5VTEwgQU5EIHQuc3dWZXJzaW9uIElTIE5PVCBOVUxMIEFORCB0ZC5zdGF0ZSA8IDIiOwogICAgQmFzZVF1ZXJ5IGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IHRlc3RzID0gUGVyc2lzdGVuY2VTZXJ2aWNlLmdldFNlcnZpY2UoKS5ydW4oaHFsKTsKCiAgICAvLyBNdWx0aSBjYXJ0IHRlc3RzIHdpdGggYXQgbGVhc3Qgb25lIGNoaWxkIHN0YXR1cyBsZXNzIHRoYW4gQ09NUExFVEUKICAgIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC5jaGlsZFRlc3RzIGN0IiArCiAgICAgICIgV0hFUkUgdC5wYXJlbnQgSVMgTlVMTCBBTkQgdC5zd1ZlcnNpb24gSVMgTlVMTCBBTkQgY3QudGVzdERhdGEuc3RhdGUgPCAyIjsKICAgIGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IG11bHRpVGVzdHMgPSBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnJ1bihocWwpOwoKICAgIGZvciAoVGVzdCBtdWx0aVRlc3QgOiBtdWx0aVRlc3RzKSB7CiAgICAgIGlmICghdGVzdHMuc3RyZWFtKCkuYW55TWF0Y2godCAtPiB0LmdldElkKCkuZXF1YWxzKG11bHRpVGVzdC5nZXRJZCgpKSkpIHsKICAgICAgICB0ZXN0cy5hZGQobXVsdGlUZXN0KTsKICAgICAgfQogICAgfQoKICAgIC8vIFNldCB0aGVzZSB0ZXN0IGRhdGEgdG8gSU5DT01QTEVURQogICAgTGlzdDxUZXN0RGF0YT4gdGVzdERhdGFMaXN0ID0gTGlzdFV0aWwubGlzdCgpOwogICAgZm9yIChUZXN0IHRlc3QgOiB0ZXN0cykgewogICAgICB0ZXN0LnNldEFzc2F5KEFzc2F5U2VydmljZS5nZXRTZXJ2aWNlKCkuZ2V0QXNzYXlCeUlkKHRlc3QuZ2V0QXNzYXlJZCgpKSk7CiAgICAgIHRlc3QuZ2V0VGVzdE9yQ2hpbGRUZXN0cyh0cnVlKS5zdHJlYW0oKS5tYXAodCAtPiB0LmdldFRlc3REYXRhKCkpLgogICAgICAgIGZpbHRlcih0ZCAtPiB0ZC5nZXRTdGF0ZSgpIDwgVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19DT01QTEVURUQpLmZvckVhY2godGQgLT4KICAgICAgewogICAgICAgIHRkLnNldFRlc3REYXRhU3RhdGUoVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19JTkNPTVBMRVRFKTsKICAgICAgICB0ZXN0RGF0YUxpc3QuYWRkKHRkKTsKICAgICAgfSk7CiAgICAgIGlmICh0ZXN0LmlzTXVsdGlDYXJ0UGFyZW50VGVzdCgpKSB7CiAgICAgICAgdGVzdERhdGFMaXN0LmFkZCh0ZXN0LmdldFRlc3REYXRhKCkpOwogICAgICB9CiAgICB9CgogICAgLy8gU2F2ZSB0aGUgdGVzdCBkYXRhIHdpdGggbmV3IHN0YXRlCiAgICBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnNhdmUodGVzdERhdGFMaXN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJTUmVzdWx0U2VydmljZSByc3MgPSBuZXcgUlNSZXN1bHRTZXJ2aWNlKCk7CiAgICBUZXN0IGFhID0gcnNzLmdldFRlc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQKICBMREFUZXN0IHRlc3QgPSBuZXcgTERBVGVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIFJTUmVzdWx0U2VydmljZSByc3MgPSBuZXcgUlNSZXN1bHRTZXJ2aWNlKCk7CiAgICBUZXN0IGFhID0gcnNzLmdldFRlc3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRlc3QgPSBUZXN0UGVyc2lzdGVuY2VTZXJ2aWNlLmdldFNlcnZpY2UoKS5nZXRNb3N0UmVjZW50VGVzdCgpOwogICAgfQogICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICBMb2cudGVzdC5lcnJvcigiRXJyb3IgZ2V0dGluZyBtb3N0IHJlY2VudCB0ZXN0IiwgZXgpOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQKICBMREFUZXN0IHRlc3QgPSBuZXcgTERBVGVzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action DebugClass</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>Test test</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>Test test</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>p1</last-replace>
       <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
@@ -952,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getMbo</entry>
         <entry>ASSAY_LIST_REQUEST_API</entry>
         <entry>Map</entry>
         <entry>getAssayById</entry>
@@ -972,28 +965,29 @@
         <entry>getService</entry>
         <entry>Test</entry>
         <entry>Test test</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action $SelectAll</entry>
-        <entry>action RunClass</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Stop</entry>
         <entry>action Resume</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Back</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action StepInto</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action DebugClass</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action FindUsages</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action GotoAction</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
