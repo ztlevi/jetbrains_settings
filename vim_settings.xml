@@ -9,12 +9,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530143612531">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530143731837">
         <mark key="'" line="555" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="99" />
-        <mark key="." line="363" column="14" />
-        <mark key="^" line="3" column="99" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="99" />
+        <mark key="." line="152" column="99" />
+        <mark key="^" line="152" column="99" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -216,7 +216,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/service/com/cepheid/appcore/service/TestPersistenceService.java" timestamp="1530141386144" />
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
@@ -758,7 +757,6 @@
       <file name="/RestService.java" timestamp="1530121625587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1530138850054" />
       <file name="/fragment.java" timestamp="1530142875866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -916,7 +914,7 @@
         <text encoding="base64">ICAgIFJTUmVzdWx0U2VydmljZSByc3MgPSBuZXcgUlNSZXN1bHRTZXJ2aWNlKCk7CiAgICBUZXN0IGFhID0gcnNzLmdldFRlc3QoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -960,7 +958,6 @@
         <entry>action Debug</entry>
         <entry>action StepInto</entry>
         <entry>action DebugClass</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
@@ -972,6 +969,7 @@
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
