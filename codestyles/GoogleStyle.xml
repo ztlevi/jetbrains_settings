@@ -42,7 +42,6 @@
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
-    <option name="USE_FQ_CLASS_NAMES" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
