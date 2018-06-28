@@ -669,7 +669,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1530223485505">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1530224544221">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
@@ -801,10 +801,11 @@
       <file name="/RestService.java" timestamp="1530121625587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1530223405472">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1530224613439">
+        <mark key="[" line="169" column="33" />
+        <mark key="]" line="169" column="33" />
+        <mark key="." line="169" column="33" />
+        <mark key="^" line="169" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1530209598466">
         <mark key="[" line="0" column="0" />
@@ -927,7 +928,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -963,7 +964,7 @@
         <text encoding="base64">ICAgIG9yZ2FuaXNtcy5nZXQoMikuZ2Uuc2V0Ugo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -1014,11 +1015,11 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
