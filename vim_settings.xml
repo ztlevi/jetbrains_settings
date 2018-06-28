@@ -9,12 +9,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530143910495">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530144492053">
         <mark key="'" line="555" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="99" />
-        <mark key="." line="152" column="99" />
-        <mark key="^" line="152" column="99" />
+        <mark key="[" line="620" column="73" />
+        <mark key="]" line="620" column="90" />
+        <mark key="." line="620" column="90" />
+        <mark key="^" line="620" column="90" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -423,9 +423,9 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/junit/src/result/com/cepheid/nexus/result/core/OrganismBasedTestResultCalculatorAutoTest.java" timestamp="1530142995651">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="399" column="72" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/junit/src/result/com/cepheid/nexus/result/core/OrganismBasedTestResultCalculatorAutoTest.java" timestamp="1530144440834">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="79" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/command/AspirateUiCommand.java" timestamp="1528846033787">
         <mark key="[" line="6" column="19" />
@@ -757,11 +757,11 @@
       <file name="/RestService.java" timestamp="1530121625587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530142875866">
+      <file name="/fragment.java" timestamp="1530144506979">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+        <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSResultService.java" timestamp="1530141455778">
         <mark key="'" line="17" column="60" />
@@ -878,43 +878,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>getTestOrParentTest</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>'../resources/**/uistrings/*.csv'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJlc3VsdFRleHRBbmRDb2xvciBydGMgPSBjYWxjdWxhdG9yLmdldFVuTG9jYWxpemVkUmVzdWx0VGV4dEFuZENvbG9yKHRlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIHRlc3QucmVzZXRUZXN0UmVzdWx0cygpOwogICAgLy8gICAgLy8gUmVzZXQgb3JnYW5pc20gcmVzdWx0cwogICAgLy8gICAgaW5pdE9yZ2FuaXNtUmVzdWx0TGlzdCgpOwogICAgLy8KICAgIC8vICAgIC8vIFJlc2V0IHJlc3VsdCB0ZXh0IGFuZCBjb2xvcgogICAgLy8gICAgc2V0UmVzdWx0Q29sb3IoU3RyaW5nLnZhbHVlT2YoQXNzYXlDb25zdGFudHMuUkVTVUxUX0NPTE9SX05PX1JFU1VMVCkpOwogICAgLy8gICAgc2V0UmVzdWx0VGV4dChUZXN0LmdldFJlc3VsdFRleHRMYWJlbChBc3NheUNvbnN0YW50cy5SRVNVTFRfTk9fUkVTVUxUKSk7CgogICAgU3RyaW5nIHJlc3VsdFRleHQgPSBSZXN1bHRTZXJ2aWNlLmdldFNlcnZpY2UoKS5sb2NhbGl6ZWRUZXN0UmVzdWx0VGV4dCh0ZXN0LmdldFJlc3VsdFRleHQoKSk7CiAgICBTdHJpbmcgcmVzdWx0Q29sb3IgPSB0ZXN0LmdldFJlc3VsdENvbG9yKCk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICcuLi9yZXNvdXJjZXMvKiovc3RyaW5ncy8qLmNzdicsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHRlc3QucmVzZXRUZXN0UmVzdWx0cygpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICcuLi9yZXNvdXJjZXMvKiovc3RyaW5ncy8qLmNzdicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgcmVzdWx0VGV4dCA9IFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLmxvY2FsaXplZFRlc3RSZXN1bHRUZXh0KHRlc3QuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIFN0cmluZyByZXN1bHRDb2xvciA9IHRlc3QuZ2V0UmVzdWx0Q29sb3IoKTsK</text>
+        <text encoding="base64">ICAgIHRlc3QucmVzZXRUZXN0UmVzdWx0cygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFRlc3QgY3JlYXRlVGVzdEluc3RhbmNlIChBc3NheSBhc3NheSkgdGhyb3dzIFJlc3VsdEV4Y2VwdGlvbgogIHsKICAgIGlmIChhc3NheSBpbnN0YW5jZW9mIFRhcmdldEJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIFRhcmdldEJhc2VkVGVzdC5uZXdJbnN0YW5jZSgoVGFyZ2V0QmFzZWRBc3NheSlhc3NheSk7CiAgICB9CiAgICBpZiAoYXNzYXkgaW5zdGFuY2VvZiBPcmdhbmlzbUJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIE9yZ2FuaXNtQmFzZWRUZXN0Lm5ld0luc3RhbmNlKChPcmdhbmlzbUJhc2VkQXNzYXkpYXNzYXkpOwogICAgfQogICAgaWYoYXNzYXkgaW5zdGFuY2VvZiBQZXJjZW50UmF0aW9Bc3NheSkgewogICAgICByZXR1cm4gUGVyY2VudFJhdGlvVGVzdC5uZXdJbnN0YW5jZSgoUGVyY2VudFJhdGlvQXNzYXkpYXNzYXkpOwogICAgfQoKICAgIHRocm93IG5ldyBSZXN1bHRFeGNlcHRpb24oCiAgICAgICJBc3NheSB3aXRoIHJlc3VsdCB0ZXh0IHR5cGUgezB9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIGV2YWx1YXRvciBzaW11bGF0aW9uIiwgYXNzYXkuZ2V0UmVzdWx0VGV4dFR5cGUoKSk7CiAgfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbmdsZSBjYXJ0IHRlc3RzIHdpdGggc3RhdHVzIGxlc3MgdGhhbiBDT01QTEVURQogICAgU3RyaW5nIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC50ZXN0RGF0YSB0ZCIgKwogICAgICAiIFdIRVJFIHQucGFyZW50IElTIE5VTEwgQU5EIHQuc3dWZXJzaW9uIElTIE5PVCBOVUxMIEFORCB0ZC5zdGF0ZSA8IDIiOwogICAgQmFzZVF1ZXJ5IGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IHRlc3RzID0gUGVyc2lzdGVuY2VTZXJ2aWNlLmdldFNlcnZpY2UoKS5ydW4oaHFsKTsKCiAgICAvLyBNdWx0aSBjYXJ0IHRlc3RzIHdpdGggYXQgbGVhc3Qgb25lIGNoaWxkIHN0YXR1cyBsZXNzIHRoYW4gQ09NUExFVEUKICAgIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC5jaGlsZFRlc3RzIGN0IiArCiAgICAgICIgV0hFUkUgdC5wYXJlbnQgSVMgTlVMTCBBTkQgdC5zd1ZlcnNpb24gSVMgTlVMTCBBTkQgY3QudGVzdERhdGEuc3RhdGUgPCAyIjsKICAgIGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IG11bHRpVGVzdHMgPSBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnJ1bihocWwpOwoKICAgIGZvciAoVGVzdCBtdWx0aVRlc3QgOiBtdWx0aVRlc3RzKSB7CiAgICAgIGlmICghdGVzdHMuc3RyZWFtKCkuYW55TWF0Y2godCAtPiB0LmdldElkKCkuZXF1YWxzKG11bHRpVGVzdC5nZXRJZCgpKSkpIHsKICAgICAgICB0ZXN0cy5hZGQobXVsdGlUZXN0KTsKICAgICAgfQogICAgfQoKICAgIC8vIFNldCB0aGVzZSB0ZXN0IGRhdGEgdG8gSU5DT01QTEVURQogICAgTGlzdDxUZXN0RGF0YT4gdGVzdERhdGFMaXN0ID0gTGlzdFV0aWwubGlzdCgpOwogICAgZm9yIChUZXN0IHRlc3QgOiB0ZXN0cykgewogICAgICB0ZXN0LnNldEFzc2F5KEFzc2F5U2VydmljZS5nZXRTZXJ2aWNlKCkuZ2V0QXNzYXlCeUlkKHRlc3QuZ2V0QXNzYXlJZCgpKSk7CiAgICAgIHRlc3QuZ2V0VGVzdE9yQ2hpbGRUZXN0cyh0cnVlKS5zdHJlYW0oKS5tYXAodCAtPiB0LmdldFRlc3REYXRhKCkpLgogICAgICAgIGZpbHRlcih0ZCAtPiB0ZC5nZXRTdGF0ZSgpIDwgVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19DT01QTEVURUQpLmZvckVhY2godGQgLT4KICAgICAgewogICAgICAgIHRkLnNldFRlc3REYXRhU3RhdGUoVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19JTkNPTVBMRVRFKTsKICAgICAgICB0ZXN0RGF0YUxpc3QuYWRkKHRkKTsKICAgICAgfSk7CiAgICAgIGlmICh0ZXN0LmlzTXVsdGlDYXJ0UGFyZW50VGVzdCgpKSB7CiAgICAgICAgdGVzdERhdGFMaXN0LmFkZCh0ZXN0LmdldFRlc3REYXRhKCkpOwogICAgICB9CiAgICB9CgogICAgLy8gU2F2ZSB0aGUgdGVzdCBkYXRhIHdpdGggbmV3IHN0YXRlCiAgICBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnNhdmUodGVzdERhdGFMaXN0KTsK</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgcmVzdWx0VGV4dCA9IFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLmxvY2FsaXplZFRlc3RSZXN1bHRUZXh0KHRlc3QuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIFN0cmluZyByZXN1bHRDb2xvciA9IHRlc3QuZ2V0UmVzdWx0Q29sb3IoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFRlc3QgY3JlYXRlVGVzdEluc3RhbmNlIChBc3NheSBhc3NheSkgdGhyb3dzIFJlc3VsdEV4Y2VwdGlvbgogIHsKICAgIGlmIChhc3NheSBpbnN0YW5jZW9mIFRhcmdldEJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIFRhcmdldEJhc2VkVGVzdC5uZXdJbnN0YW5jZSgoVGFyZ2V0QmFzZWRBc3NheSlhc3NheSk7CiAgICB9CiAgICBpZiAoYXNzYXkgaW5zdGFuY2VvZiBPcmdhbmlzbUJhc2VkQXNzYXkpIHsKICAgICAgcmV0dXJuIE9yZ2FuaXNtQmFzZWRUZXN0Lm5ld0luc3RhbmNlKChPcmdhbmlzbUJhc2VkQXNzYXkpYXNzYXkpOwogICAgfQogICAgaWYoYXNzYXkgaW5zdGFuY2VvZiBQZXJjZW50UmF0aW9Bc3NheSkgewogICAgICByZXR1cm4gUGVyY2VudFJhdGlvVGVzdC5uZXdJbnN0YW5jZSgoUGVyY2VudFJhdGlvQXNzYXkpYXNzYXkpOwogICAgfQoKICAgIHRocm93IG5ldyBSZXN1bHRFeGNlcHRpb24oCiAgICAgICJBc3NheSB3aXRoIHJlc3VsdCB0ZXh0IHR5cGUgezB9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIGV2YWx1YXRvciBzaW11bGF0aW9uIiwgYXNzYXkuZ2V0UmVzdWx0VGV4dFR5cGUoKSk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJTUmVzdWx0U2VydmljZSByc3MgPSBuZXcgUlNSZXN1bHRTZXJ2aWNlKCk7CiAgICBUZXN0IGFhID0gcnNzLmdldFRlc3QoKTsK</text>
+        <text encoding="base64">ICAgIC8vIFNpbmdsZSBjYXJ0IHRlc3RzIHdpdGggc3RhdHVzIGxlc3MgdGhhbiBDT01QTEVURQogICAgU3RyaW5nIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC50ZXN0RGF0YSB0ZCIgKwogICAgICAiIFdIRVJFIHQucGFyZW50IElTIE5VTEwgQU5EIHQuc3dWZXJzaW9uIElTIE5PVCBOVUxMIEFORCB0ZC5zdGF0ZSA8IDIiOwogICAgQmFzZVF1ZXJ5IGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IHRlc3RzID0gUGVyc2lzdGVuY2VTZXJ2aWNlLmdldFNlcnZpY2UoKS5ydW4oaHFsKTsKCiAgICAvLyBNdWx0aSBjYXJ0IHRlc3RzIHdpdGggYXQgbGVhc3Qgb25lIGNoaWxkIHN0YXR1cyBsZXNzIHRoYW4gQ09NUExFVEUKICAgIHF1ZXJ5U3RyaW5nID0gIkZST00gIiArIFRlc3QuY2xhc3MuZ2V0TmFtZSgpICsgIiB0IElOTkVSIEpPSU4gRkVUQ0ggdC5jaGlsZFRlc3RzIGN0IiArCiAgICAgICIgV0hFUkUgdC5wYXJlbnQgSVMgTlVMTCBBTkQgdC5zd1ZlcnNpb24gSVMgTlVMTCBBTkQgY3QudGVzdERhdGEuc3RhdGUgPCAyIjsKICAgIGhxbCA9IEJhc2VRdWVyeUZhY3RvcnkuZ2V0RmFjdG9yeSgpLm5ld0hRTChxdWVyeVN0cmluZyk7CiAgICBMaXN0PFRlc3Q+IG11bHRpVGVzdHMgPSBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnJ1bihocWwpOwoKICAgIGZvciAoVGVzdCBtdWx0aVRlc3QgOiBtdWx0aVRlc3RzKSB7CiAgICAgIGlmICghdGVzdHMuc3RyZWFtKCkuYW55TWF0Y2godCAtPiB0LmdldElkKCkuZXF1YWxzKG11bHRpVGVzdC5nZXRJZCgpKSkpIHsKICAgICAgICB0ZXN0cy5hZGQobXVsdGlUZXN0KTsKICAgICAgfQogICAgfQoKICAgIC8vIFNldCB0aGVzZSB0ZXN0IGRhdGEgdG8gSU5DT01QTEVURQogICAgTGlzdDxUZXN0RGF0YT4gdGVzdERhdGFMaXN0ID0gTGlzdFV0aWwubGlzdCgpOwogICAgZm9yIChUZXN0IHRlc3QgOiB0ZXN0cykgewogICAgICB0ZXN0LnNldEFzc2F5KEFzc2F5U2VydmljZS5nZXRTZXJ2aWNlKCkuZ2V0QXNzYXlCeUlkKHRlc3QuZ2V0QXNzYXlJZCgpKSk7CiAgICAgIHRlc3QuZ2V0VGVzdE9yQ2hpbGRUZXN0cyh0cnVlKS5zdHJlYW0oKS5tYXAodCAtPiB0LmdldFRlc3REYXRhKCkpLgogICAgICAgIGZpbHRlcih0ZCAtPiB0ZC5nZXRTdGF0ZSgpIDwgVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19DT01QTEVURUQpLmZvckVhY2godGQgLT4KICAgICAgewogICAgICAgIHRkLnNldFRlc3REYXRhU3RhdGUoVGVzdENvbnN0YW50cy5URVNUX1NUQVRVU19JTkNPTVBMRVRFKTsKICAgICAgICB0ZXN0RGF0YUxpc3QuYWRkKHRkKTsKICAgICAgfSk7CiAgICAgIGlmICh0ZXN0LmlzTXVsdGlDYXJ0UGFyZW50VGVzdCgpKSB7CiAgICAgICAgdGVzdERhdGFMaXN0LmFkZCh0ZXN0LmdldFRlc3REYXRhKCkpOwogICAgICB9CiAgICB9CgogICAgLy8gU2F2ZSB0aGUgdGVzdCBkYXRhIHdpdGggbmV3IHN0YXRlCiAgICBQZXJzaXN0ZW5jZVNlcnZpY2UuZ2V0U2VydmljZSgpLnNhdmUodGVzdERhdGFMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -953,23 +953,23 @@
         <entry>action Stop</entry>
         <entry>action Resume</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action StepInto</entry>
-        <entry>action DebugClass</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
-        <entry>action ShowBookmarks</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
         <entry>action GotoAction</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
