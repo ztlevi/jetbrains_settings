@@ -525,6 +525,11 @@
         <mark key="^" line="242" column="3" />
         <mark key="." line="242" column="3" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/assayView.xml" timestamp="1530216469439">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/MavenTest/src/main/java/test.java" timestamp="1517106629307">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -901,34 +906,34 @@
         <text encoding="base64">ICAgIC8vIGxvY2F0ZSBvcmdhbmlzbQogICAgaWYgKHJlcXVlc3QuZ2V0SW5wdXQoKS5nZXQoIm9yZ2FuaXNtSW5kZXgiKSA9PSBudWxsKSB7CiAgICAgIHRocm93IG5ldyBDZXBoZWlkUnVudGltZUV4Y2VwdGlvbigKICAgICAgICAiT3JnYW5pc20gaW5kZXggd2FzIG5vdCBzcGVjaWZpZWQgd2hlbiBhdHRlbXB0aW5nIHRvIHNpbXVsYXRlIHJlc3VsdHMiKTsKICAgIH0KICAgIGludCBvcmdhbmlzbUluZGV4ID0gKGludClNZXRhRmllbGRWYWx1ZVV0aWwKICAgICAgLnBhcnNlKHJlcXVlc3QuZ2V0SW5wdXQoKS5nZXQoIm9yZ2FuaXNtSW5kZXgiKSwgRmllbGRNZXRhVHlwZS5JTlQpOwogICAgT3JnYW5pc20gb3JnYW5pc20gPSBhc3NheS5nZXRPcmdhbmlzbShvcmdhbmlzbUluZGV4KTsKICAgIGlmIChvcmdhbmlzbSA9PSBudWxsKSB7CiAgICAgIHRocm93IG5ldyBDZXBoZWlkUnVudGltZUV4Y2VwdGlvbigKICAgICAgICAiVW5hYmxlIHRvIGxvY2F0ZSBvcmdhbmlzbSB3aXRoIGluZGV4ICVzIHdoaWxlIGF0dGVtcHRpbmcgdG8gc2ltdWxhdGUgcmVzdWx0cyIsCiAgICAgICAgb3JnYW5pc21JbmRleCk7CiAgICB9CgogICAgVmFsaWRhdGlvblJlc3VsdCB2YWxpZGF0aW9uUmVzdWx0ID0gb3JnYW5pc20udmFsaWRhdGUoKTsKICAgIGlmICh2YWxpZGF0aW9uUmVzdWx0LmZhaWxzKCkpIHsKICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24odmFsaWRhdGlvblJlc3VsdC5nZXRGaXJzdFJlYXNvbigpKTsKICAgIH0KICAgIC8vIGNvbnN0cnVjdCB0aGUgc2ltdWxhdGUgb3B0aW9ucwogICAgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucyBzaW11bGF0ZTsKICAgIGlmIChyZXF1ZXN0LmdldElucHV0KCkuY29udGFpbnNLZXkoImFuYWx5dGVPcHRpb25zIikpIHsKICAgICAgLy8gQ3JlYXRlIHRoZSBkZWZhdWx0IHNldCBvZiBzaW11bGF0b3Igb3B0aW9ucwogICAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIG9wdGlvbnMgPSBuZXcgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucygpOwogICAgICBMaXN0PE1hcD4gYW5hbHl0ZU9wdGlvbnMgPSAoTGlzdDxNYXA+KXJlcXVlc3QuZ2V0SW5wdXQoKS5nZXQoImFuYWx5dGVPcHRpb25zIik7CiAgICAgIExpc3Q8U2ltdWxhdGVBbmFseXRlT3B0aW9ucz4gc2ltdWxhdGVPcHRpb25zID0gTGlzdFV0aWwubGlzdCgpOwogICAgICBmb3IgKE1hcDxTdHJpbmcsIE9iamVjdD4gYW5hbHl0ZU1hcCA6IGFuYWx5dGVPcHRpb25zKSB7CiAgICAgICAgQW5hbHl0ZSBhbmFseXRlID0gcmV0cmlldmVBbmFseXRlRm9yQW5hbHl0ZU5hbWUoYXNzYXksIChTdHJpbmcpYW5hbHl0ZU1hcC5nZXQoImFuYWx5dGUiKSk7CiAgICAgICAgc2ltdWxhdGVPcHRpb25zLmFkZChuZXcgU2ltdWxhdGVBbmFseXRlT3B0aW9ucyhhbmFseXRlLCBhbmFseXRlTWFwKSk7CiAgICAgIH0KICAgICAgb3B0aW9ucy5zZXRBbmFseXRlT3B0aW9ucyhzaW11bGF0ZU9wdGlvbnMpOwogICAgICBzaW11bGF0ZSA9IFJTQXNzYXlTZXJ2aWNlLmdldFNlcnZpY2UoKS5zaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIG51bGwpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHNpbXVsYXRlID0gUlNBc3NheVNlcnZpY2UuZ2V0U2VydmljZSgpLnNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgbnVsbCk7CiAgICB9CiAgICByZXR1cm4gY29udmVydFNpbXVsYXRlRXZhbHVhdG9yc1RvTWFwKHNpbXVsYXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFJTQXNzYXlTZXJ2aWNlLmdldFNlcnZpY2UoKS5jYWxjdWxhdGVSZXN1bHRUZXh0KGFzc2F5KTsKICAgIH0KICAgIGNhdGNoIChDZXBoZWlkRXhjZXB0aW9uIGNlKSB7CiAgICAgIGNlLmdldFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzIG5hbWU9IkFuYWx5dGVPcHRpb25zIj4KICAgICAgICAgICAgICAgIDxleHRyaW5zaWM+CiAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImN1cnJlbnRWb2wiLz4KICAgICAgICAgICAgICAgIDwvZXh0cmluc2ljPgogICAgICAgICAgICA8L2NsYXNzPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT3JnYW5pc20gb3JnID0gb3JnYW5pc21zLmdldChpKTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFJTQXNzYXlTZXJ2aWNlLmdldFNlcnZpY2UoKS5jYWxjdWxhdGVSZXN1bHRUZXh0KGFzc2F5KTsKICAgIH0KICAgIGNhdGNoIChDZXBoZWlkRXhjZXB0aW9uIGNlKSB7CiAgICAgIGNlLmdldFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDIpLnNldFJlc3VsdFRleHQoMyk7CiAgICB0ZXN0LmdldE9yZ2FuaXNtUmVzdWx0cygpLmdldCgyKS5zZXRSZXN1bHRDb2xvcigxKTsKICAgIC8vICAgIGZvciAoT3JnYW5pc20gb3JnIDogb3JnYW5pc21zKSB7CiAgICAvLyAgICAgIHNpbXVsYXRlRXZhbHVhdG9ycyhvcmcsIHRlc3QpOwogICAgLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgT3JnYW5pc20gb3JnID0gb3JnYW5pc21zLmdldChpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9yZ2FuaXNtcy5nZXQoMikuZ2Uuc2V0Ugo=</text>
+        <text encoding="base64">ICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDIpLnNldFJlc3VsdFRleHQoMyk7CiAgICB0ZXN0LmdldE9yZ2FuaXNtUmVzdWx0cygpLmdldCgyKS5zZXRSZXN1bHRDb2xvcigxKTsKICAgIC8vICAgIGZvciAoT3JnYW5pc20gb3JnIDogb3JnYW5pc21zKSB7CiAgICAvLyAgICAgIHNpbXVsYXRlRXZhbHVhdG9ycyhvcmcsIHRlc3QpOwogICAgLy8gICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9yZy5nZXRSZXN1bHRUZXh0cygpKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9yZy5zZXRSZSk7Cg==</text>
+        <text encoding="base64">ICAgIG9yZ2FuaXNtcy5nZXQoMikuZ2Uuc2V0Ugo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNhbGN1bGF0ZVJlc3VsdFRleHQoYXNzYXkpOwogICAgfQogICAgY2F0Y2ggKENlcGhlaWRFeGNlcHRpb24gY2UpIHsKICAgICAgY2UuZ2V0U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9yZy5nZXRSZXN1bHRUZXh0cygpKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9yZy5zZXRSZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgdGVzdCkK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNhbGN1bGF0ZVJlc3VsdFRleHQoYXNzYXkpOwogICAgfQogICAgY2F0Y2ggKENlcGhlaWRFeGNlcHRpb24gY2UpIHsKICAgICAgY2UuZ2V0U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgX3Rlc3QgPSBjcmVhdGVUZXN0SW5zdGFuY2UoYXNzYXkpOwo=</text>
+        <text encoding="base64">ICAgIHNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgdGVzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBjcmVhdGVUZXN0SW5zdGFuY2UoYXNzYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgX3Rlc3QgPSBjcmVhdGVUZXN0SW5zdGFuY2UoYXNzYXkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -964,11 +969,9 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action Stop</entry>
         <entry>action Resume</entry>
         <entry>action StepInto</entry>
         <entry>action DebugClass</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action Back</entry>
@@ -976,14 +979,16 @@
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
