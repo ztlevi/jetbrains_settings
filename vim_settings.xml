@@ -9,11 +9,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530146517623">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530147488803">
         <mark key="'" line="636" column="4" />
         <mark key="[" line="68" column="51" />
         <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
+        <mark key="." line="646" column="21" />
         <mark key="^" line="69" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
@@ -914,7 +914,7 @@
         <text encoding="base64">CiAgICBTdHJpbmcgcmVzdWx0VGV4dCA9IFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLmxvY2FsaXplZFRlc3RSZXN1bHRUZXh0KHRlc3QuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIFN0cmluZyByZXN1bHRDb2xvciA9IHRlc3QuZ2V0UmVzdWx0Q29sb3IoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -966,10 +966,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Debug</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
