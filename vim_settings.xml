@@ -29,10 +29,10 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1530217820666">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" timestamp="1530235279783">
         <mark key="'" line="28" column="34" />
-        <mark key="[" line="87" column="20" />
-        <mark key="]" line="87" column="19" />
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="88" />
         <mark key="." line="87" column="19" />
         <mark key="^" line="87" column="19" />
       </file>
@@ -222,7 +222,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" timestamp="1530207965471">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" timestamp="1530235074823">
         <mark key="'" line="89" column="1" />
         <mark key="[" line="93" column="4" />
         <mark key="]" line="128" column="52" />
@@ -343,7 +343,7 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1530228699098" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1530235404340" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="25" />
@@ -907,8 +907,8 @@
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8cD57e2FuYWx5dGVPcHRpb25zTGlzdH19PC9wPgo=</text>
+      <register name="0" type="4">
+        <text>api/assay/rules/calcTestResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
