@@ -66,12 +66,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1528404441743">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-        <mark key="^" line="67" column="21" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/CommandSimulator.java" timestamp="1528844962473">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="34" />
@@ -942,7 +936,7 @@
         <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LmdldElucHV0KCkuY29udGFpbnNLZXkoImFuYWx5dGVPcHRpb25zIikpIHsKICAgICAgLy8gQ3JlYXRlIHRoZSBkZWZhdWx0IHNldCBvZiBzaW11bGF0b3Igb3B0aW9ucwogICAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIG9wdGlvbnMgPSBuZXcgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucygpOwogICAgICBMaXN0PE1hcD4gYW5hbHl0ZU9wdGlvbnMgPSAoTGlzdDxNYXA+KXJlcXVlc3QuZ2V0SW5wdXQoKS5nZXQoImFuYWx5dGVPcHRpb25zIik7CiAgICAgIExpc3Q8U2ltdWxhdGVBbmFseXRlT3B0aW9ucz4gc2ltdWxhdGVPcHRpb25zID0gTGlzdFV0aWwubGlzdCgpOwogICAgICBmb3IgKE1hcDxTdHJpbmcsIE9iamVjdD4gYW5hbHl0ZU1hcCA6IGFuYWx5dGVPcHRpb25zKSB7CiAgICAgICAgQW5hbHl0ZSBhbmFseXRlID0gcmV0cmlldmVBbmFseXRlRm9yQW5hbHl0ZU5hbWUoYXNzYXksIChTdHJpbmcpYW5hbHl0ZU1hcC5nZXQoImFuYWx5dGUiKSk7CiAgICAgICAgc2ltdWxhdGVPcHRpb25zLmFkZChuZXcgU2ltdWxhdGVBbmFseXRlT3B0aW9ucyhhbmFseXRlLCBhbmFseXRlTWFwKSk7CiAgICAgIH0KICAgICAgb3B0aW9ucy5zZXRBbmFseXRlT3B0aW9ucyhzaW11bGF0ZU9wdGlvbnMpOwogICAgICBzaW11bGF0ZSA9IFJTQXNzYXlTZXJ2aWNlLmdldFNlcnZpY2UoKS5zaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIG51bGwpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHNpbXVsYXRlID0gUlNBc3NheVNlcnZpY2UuZ2V0U2VydmljZSgpLnNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgbnVsbCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -978,7 +972,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action Resume</entry>
         <entry>action StepInto</entry>
         <entry>action DebugClass</entry>
         <entry>action Forward</entry>
@@ -998,6 +991,7 @@
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
