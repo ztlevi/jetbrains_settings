@@ -9,8 +9,8 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530294293248">
-        <mark key="'" line="691" column="63" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1530296300079">
+        <mark key="'" line="707" column="90" />
         <mark key="[" line="700" column="39" />
         <mark key="]" line="700" column="39" />
         <mark key="." line="700" column="39" />
@@ -714,6 +714,10 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/localStorageService.js" timestamp="1530296823425">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AssayRestService.java" timestamp="1529969719872">
         <mark key="[" line="108" column="33" />
         <mark key="]" line="108" column="32" />
@@ -796,7 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="7" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/routesService.js" />
       <jump line="142" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/service/assayCvoService.js" />
       <jump line="156" column="42" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/service/assayCvoService.js" />
       <jump line="63" column="16" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/service/assayCvoService.js" />
@@ -896,6 +899,7 @@
       <jump line="27" column="34" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="89" column="1" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" />
       <jump line="691" column="63" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
+      <jump line="707" column="90" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -907,8 +911,8 @@
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgb3B0aW9ucywgdGVzdCk7Cg==</text>
+      <register name="0" type="4">
+        <text>$window.localStorage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIHRlc3QpOwo=</text>
@@ -938,7 +942,7 @@
         <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LmdldElucHV0KCkuY29udGFpbnNLZXkoImFuYWx5dGVPcHRpb25zIikpIHsKICAgICAgLy8gQ3JlYXRlIHRoZSBkZWZhdWx0IHNldCBvZiBzaW11bGF0b3Igb3B0aW9ucwogICAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIG9wdGlvbnMgPSBuZXcgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucygpOwogICAgICBMaXN0PE1hcD4gYW5hbHl0ZU9wdGlvbnMgPSAoTGlzdDxNYXA+KXJlcXVlc3QuZ2V0SW5wdXQoKS5nZXQoImFuYWx5dGVPcHRpb25zIik7CiAgICAgIExpc3Q8U2ltdWxhdGVBbmFseXRlT3B0aW9ucz4gc2ltdWxhdGVPcHRpb25zID0gTGlzdFV0aWwubGlzdCgpOwogICAgICBmb3IgKE1hcDxTdHJpbmcsIE9iamVjdD4gYW5hbHl0ZU1hcCA6IGFuYWx5dGVPcHRpb25zKSB7CiAgICAgICAgQW5hbHl0ZSBhbmFseXRlID0gcmV0cmlldmVBbmFseXRlRm9yQW5hbHl0ZU5hbWUoYXNzYXksIChTdHJpbmcpYW5hbHl0ZU1hcC5nZXQoImFuYWx5dGUiKSk7CiAgICAgICAgc2ltdWxhdGVPcHRpb25zLmFkZChuZXcgU2ltdWxhdGVBbmFseXRlT3B0aW9ucyhhbmFseXRlLCBhbmFseXRlTWFwKSk7CiAgICAgIH0KICAgICAgb3B0aW9ucy5zZXRBbmFseXRlT3B0aW9ucyhzaW11bGF0ZU9wdGlvbnMpOwogICAgICBzaW11bGF0ZSA9IFJTQXNzYXlTZXJ2aWNlLmdldFNlcnZpY2UoKS5zaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIG51bGwpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHNpbXVsYXRlID0gUlNBc3NheVNlcnZpY2UuZ2V0U2VydmljZSgpLnNpbXVsYXRlRXZhbHVhdG9ycyhvcmdhbmlzbSwgbnVsbCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -991,9 +995,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Back</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
