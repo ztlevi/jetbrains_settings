@@ -315,7 +315,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/core/ResultTextAndColor.java" timestamp="1530318475478" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/lifecycle/TestBeanLifecycle.java" timestamp="1525307239862">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="2" />
@@ -942,7 +941,7 @@
         <text encoding="base64">ICAgICAgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucyBvcHRpb25zID0gbmV3IFNpbXVsYXRlRXZhbHVhdG9yc09wdGlvbnMoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -982,7 +981,6 @@
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -998,6 +996,7 @@
         <entry>action Forward</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
