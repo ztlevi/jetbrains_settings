@@ -203,7 +203,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526859666464">
+      <file name="/Python Console" timestamp="1530484188929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -602,7 +602,6 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1530421249057" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="84" column="12" />
@@ -638,6 +637,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1530484796690">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/core/AbstractTestResultCalculator.java" timestamp="1530315413071">
         <mark key="[" line="102" column="28" />
@@ -731,8 +736,8 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530141281689">
-        <mark key="[" line="6" column="0" />
+      <file name="/Dummy.txt" timestamp="1530484184062">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="11" />
@@ -916,8 +921,8 @@
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>rtcMap</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjMSwgYzIgPSBDb3VudGVyKHMpLCB7fQogICAgICAgIGZvciBrLHYgaW4gYzEuaXRlbXMoKToKICAgICAgICAgICAgYzIuc2V0ZGVmYXVsdCh2LCBbXSkuYXBwZW5kKGsqdikKICAgICAgICByZXR1cm4gIiIuam9pbihbIiIuam9pbihjMltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHMpLCAtMSwgLTEpIGlmIGkgaW4gYzJdKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLl9sYXN0Q29tbWFuZHMuCg==</text>
@@ -947,7 +952,7 @@
         <text encoding="base64">ICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtLCBvcHRpb25zLCB0ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -983,7 +988,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action SelectInProjectView</entry>
@@ -993,7 +997,6 @@
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
-        <entry>action Debug</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -1001,8 +1004,10 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry>action Debug</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
