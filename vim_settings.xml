@@ -947,7 +947,7 @@
         <text encoding="base64">ICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtLCBvcHRpb25zLCB0ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -986,7 +986,6 @@
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action RecentFiles</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -1003,6 +1002,7 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
