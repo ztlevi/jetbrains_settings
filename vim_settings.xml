@@ -211,7 +211,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1526859666464">
+      <file name="/Python Console" timestamp="1530597626688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -589,7 +589,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Github/oni/browser/src/Editor/NeovimEditor/Definition.ts" timestamp="1530587963405" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/TestAboutController.java" timestamp="1528735802208">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="34" />
@@ -655,6 +654,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1530597625485">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/BeanAnnotation.java" timestamp="1525397129480">
         <mark key="[" line="12" column="0" />
@@ -934,7 +939,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getUnLocal</text>
@@ -970,7 +975,7 @@
         <text encoding="base64">ICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtLCBvcHRpb25zLCB0ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1017,8 +1022,6 @@
         <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action Debug</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RecentFiles</entry>
@@ -1026,6 +1029,8 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
