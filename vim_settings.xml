@@ -203,7 +203,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1530484188929">
+      <file name="/Python Console" timestamp="1530490742440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -638,11 +638,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1530484796690">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="81" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1530490880422">
+        <mark key="'" line="10" column="87" />
+        <mark key="[" line="10" column="83" />
+        <mark key="]" line="10" column="96" />
+        <mark key="^" line="10" column="96" />
+        <mark key="." line="10" column="96" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/core/AbstractTestResultCalculator.java" timestamp="1530315413071">
         <mark key="[" line="102" column="28" />
@@ -810,8 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="16" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/service/assayCvoService.js" />
-      <jump line="65" column="38" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
       <jump line="462" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="55" column="30" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="56" column="51" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/controller/AssayInfoRestController.java" />
@@ -910,49 +909,51 @@
       <jump line="707" column="90" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/index.html" />
       <jump line="703" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="9" column="87" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_lastCo</text>
+        <text>&quot;,.!?&quot;</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjMSwgYzIgPSBDb3VudGVyKHMpLCB7fQogICAgICAgIGZvciBrLHYgaW4gYzEuaXRlbXMoKToKICAgICAgICAgICAgYzIuc2V0ZGVmYXVsdCh2LCBbXSkuYXBwZW5kKGsqdikKICAgICAgICByZXR1cm4gIiIuam9pbihbIiIuam9pbihjMltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHMpLCAtMSwgLTEpIGlmIGkgaW4gYzJdKQo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgbW9zdENvbW1vbldvcmQoc2VsZiwgcGFyYWdyYXBoLCBiYW5uZWQpOgogICAgICAgICIiIgogICAgICAgIDp0eXBlIHBhcmFncmFwaDogc3RyCiAgICAgICAgOnR5cGUgYmFubmVkOiBMaXN0W3N0cl0KICAgICAgICA6cnR5cGU6IHN0cgogICAgICAgICIiIgogICAgICAgIGJhbm5lZCA9IHNldChiYW5uZWQpCiAgICAgICAgd29yZHMgPSBjb2xsZWN0aW9ucy5Db3VudGVyKG1hcChsYW1iZGEgcyA6IHNbOi0xXSAgaWYgc1stMV0gaW4gIiwuIT8iIGVsc2UgcywgcGFyYWdyYXBoLmxvd2VyKCkuc3BsaXQoKSkpCiAgICAgICAgZGljID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBtYXhfY250ID0gZmxvYXQoJy1pbmYnKQogICAgICAgIGZvciB3b3JkLCBjbnQgaW4gd29yZHMuaXRlbXMoKToKICAgICAgICAgICAgZGljW2NudF0uYXBwZW5kKHdvcmQpCiAgICAgICAgICAgIG1heF9jbnQgPSBtYXgobWF4X2NudCwgY250KQoKICAgICAgICBmb3IgaSBpbiByYW5nZShtYXhfY250LCAwLCAtMSk6CiAgICAgICAgICAgIGZvciB3b3JkIGluIGRpY1tpXToKICAgICAgICAgICAgICAgIGlmIHdvcmQgaW4gYmFubmVkOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHJldHVybiB3b3JkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9sYXN0Q29tbWFuZHMuCg==</text>
+        <text encoding="base64">diA9IHN0cmluZy4oJ2ZkZicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hcCBvcHRpb25NYXAgPSBvcHRpb25zLmdldE1hcFZpZXcoKTsKICAgIExpc3Q8TWFwPiBsaXN0T2ZBbmFseXRlT3B0aW9ucyA9IExpc3RVdGlsLmxpc3QoKTsKICAgIGZvciAoU2ltdWxhdGVBbmFseXRlT3B0aW9ucyBhbmFseXRlT3B0aW9uIDogb3B0aW9ucy5nZXRBbmFseXRlT3B0aW9ucygpKSB7CiAgICAgIGxpc3RPZkFuYWx5dGVPcHRpb25zLmFkZChhbmFseXRlT3B0aW9uLmdldFNpbXVsYXRlVmlldygpKTsKICAgIH0KICAgIG9wdGlvbk1hcC5wdXQoImFuYWx5dGVPcHRpb25zIiwgbGlzdE9mQW5hbHl0ZU9wdGlvbnMpOwogICAgcmV0dXJuIG9wdGlvbk1hcDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9sYXN0Q29tbWFuZHMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyAgICAvL3Rlc3RpbmcKICAgIC8vICAgIGZvciAoaW50IGkgPSAwLCBsID0gb3JnYW5pc21zLnNpemUoKTsgaSA8IGwgLSAyOyBpKyspIHsKICAgIC8vICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtcy5nZXQoaSksIHRlc3QpOwogICAgLy8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoaSkuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIC8vICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KGkpLmdldFJlc3VsdENvbG9yKCkpOwogICAgLy8gICAgfQogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMSkuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDEpLnNldFJlc3VsdENvbG9yKDEpOwogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMikuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDIpLnNldFJlc3VsdENvbG9yKDEpOwoK</text>
+        <text encoding="base64">ICAgIE1hcCBvcHRpb25NYXAgPSBvcHRpb25zLmdldE1hcFZpZXcoKTsKICAgIExpc3Q8TWFwPiBsaXN0T2ZBbmFseXRlT3B0aW9ucyA9IExpc3RVdGlsLmxpc3QoKTsKICAgIGZvciAoU2ltdWxhdGVBbmFseXRlT3B0aW9ucyBhbmFseXRlT3B0aW9uIDogb3B0aW9ucy5nZXRBbmFseXRlT3B0aW9ucygpKSB7CiAgICAgIGxpc3RPZkFuYWx5dGVPcHRpb25zLmFkZChhbmFseXRlT3B0aW9uLmdldFNpbXVsYXRlVmlldygpKTsKICAgIH0KICAgIG9wdGlvbk1hcC5wdXQoImFuYWx5dGVPcHRpb25zIiwgbGlzdE9mQW5hbHl0ZU9wdGlvbnMpOwogICAgcmV0dXJuIG9wdGlvbk1hcDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFic3RyYWN0VGVzdFJlc3VsdENhbGN1bGF0b3I8T3JnYW5pc21CYXNlZFRlc3Q+IGNhbGN1bGF0b3IgPSBuZXcKICAgICAgT3JnYW5pc21CYXNlZFRlc3RSZXN1bHRDYWxjdWxhdG9yKCk7Cgo=</text>
+        <text encoding="base64">CiAgICAvLyAgICAvL3Rlc3RpbmcKICAgIC8vICAgIGZvciAoaW50IGkgPSAwLCBsID0gb3JnYW5pc21zLnNpemUoKTsgaSA8IGwgLSAyOyBpKyspIHsKICAgIC8vICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtcy5nZXQoaSksIHRlc3QpOwogICAgLy8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoaSkuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIC8vICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KGkpLmdldFJlc3VsdENvbG9yKCkpOwogICAgLy8gICAgfQogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMSkuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDEpLnNldFJlc3VsdENvbG9yKDEpOwogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMikuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDIpLnNldFJlc3VsdENvbG9yKDEpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIHNpbXVsYXRlID0gbmV3IFNpbXVsYXRlRXZhbHVhdG9yc09wdGlvbnMoKTsKICAgIHJldHVybiBjb252ZXJ0U2ltdWxhdGVFdmFsdWF0b3JzVG9NYXAoc2ltdWxhdGUpOwo=</text>
+        <text encoding="base64">ICAgIEFic3RyYWN0VGVzdFJlc3VsdENhbGN1bGF0b3I8T3JnYW5pc21CYXNlZFRlc3Q+IGNhbGN1bGF0b3IgPSBuZXcKICAgICAgT3JnYW5pc21CYXNlZFRlc3RSZXN1bHRDYWxjdWxhdG9yKCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEFic3RyYWN0VGVzdFJlc3VsdENhbGN1bGF0b3IgY2FsY3VsYXRvciA9IF9jYWxjdWxhdG9yTWFwLmdldCh0ZXN0LmdldENsYXNzKCkpOwogICAgLy8gICAgUmVzdWx0VGV4dEFuZENvbG9yIHJ0YyA9IGNhbGN1bGF0b3IuZ2V0VW5Mb2NhbGl6ZWRSZXN1bHRUZXh0QW5kQ29sb3IodGVzdCk7CgogICAgLy8gICAgQWJzdHJhY3RUZXN0UmVzdWx0Q2FsY3VsYXRvcjxPcmdhbmlzbUJhc2VkVGVzdD4gY2FsY3VsYXRvciA9IG5ldwogICAgLy8gICAgICBPcmdhbmlzbUJhc2VkVGVzdFJlc3VsdENhbGN1bGF0b3IoKTsKCiAgICAvLyAgICBSZXN1bHRUZXh0QW5kQ29sb3IgcnRjID0gY2FsY3VsYXRvci5nZXRVbkxvY2FsaXplZFJlc3VsdFRleHRBbmRDb2xvcigKICAgIC8vIChPcmdhbmlzbUJhc2VkVGVzdCl0ZXN0KTsK</text>
+        <text encoding="base64">CiAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIHNpbXVsYXRlID0gbmV3IFNpbXVsYXRlRXZhbHVhdG9yc09wdGlvbnMoKTsKICAgIHJldHVybiBjb252ZXJ0U2ltdWxhdGVFdmFsdWF0b3JzVG9NYXAoc2ltdWxhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIHRlc3QpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIEFic3RyYWN0VGVzdFJlc3VsdENhbGN1bGF0b3IgY2FsY3VsYXRvciA9IF9jYWxjdWxhdG9yTWFwLmdldCh0ZXN0LmdldENsYXNzKCkpOwogICAgLy8gICAgUmVzdWx0VGV4dEFuZENvbG9yIHJ0YyA9IGNhbGN1bGF0b3IuZ2V0VW5Mb2NhbGl6ZWRSZXN1bHRUZXh0QW5kQ29sb3IodGVzdCk7CgogICAgLy8gICAgQWJzdHJhY3RUZXN0UmVzdWx0Q2FsY3VsYXRvcjxPcmdhbmlzbUJhc2VkVGVzdD4gY2FsY3VsYXRvciA9IG5ldwogICAgLy8gICAgICBPcmdhbmlzbUJhc2VkVGVzdFJlc3VsdENhbGN1bGF0b3IoKTsKCiAgICAvLyAgICBSZXN1bHRUZXh0QW5kQ29sb3IgcnRjID0gY2FsY3VsYXRvci5nZXRVbkxvY2FsaXplZFJlc3VsdFRleHRBbmRDb2xvcigKICAgIC8vIChPcmdhbmlzbUJhc2VkVGVzdCl0ZXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIG9wdGlvbnMgPSBuZXcgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUV2YWx1YXRvcnMob3JnYW5pc20sIG9wdGlvbnMsIHRlc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtLCBvcHRpb25zLCB0ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBTaW11bGF0ZUV2YWx1YXRvcnNPcHRpb25zIG9wdGlvbnMgPSBuZXcgU2ltdWxhdGVFdmFsdWF0b3JzT3B0aW9ucygpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -988,7 +989,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action ExpandRegion</entry>
         <entry>action ReformatCode</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ShowBookmarks</entry>
@@ -996,18 +996,19 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action Back</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindUsages</entry>
-        <entry>action Debug</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
+        <entry>action Run</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
