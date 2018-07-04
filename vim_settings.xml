@@ -620,12 +620,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1530744878444">
-        <mark key="'" line="58" column="14" />
-        <mark key="[" line="48" column="56" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="56" column="24" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1530745618808">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="13" column="113" />
+        <mark key="]" line="13" column="115" />
+        <mark key="^" line="13" column="115" />
+        <mark key="." line="13" column="115" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -1022,7 +1022,6 @@
         <entry>action StepInto</entry>
         <entry>action Forward</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ExpandRegion</entry>
@@ -1038,6 +1037,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action DebugClass</entry>
         <entry>action Debug</entry>
+        <entry>action Back</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
