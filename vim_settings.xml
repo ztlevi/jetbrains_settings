@@ -203,7 +203,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1530833864200">
+      <file name="/Python Console" timestamp="1526859666464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -602,12 +602,7 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1530833863020">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="24" column="15" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1530421249057" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="84" column="12" />
@@ -916,7 +911,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anggPiBpeCBhbmQg</text>
+        <text>_lastCo</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -952,7 +947,7 @@
         <text encoding="base64">ICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtLCBvcHRpb25zLCB0ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -998,16 +993,16 @@
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
+        <entry>action Debug</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ActivateStructureToolWindow</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Forward</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
