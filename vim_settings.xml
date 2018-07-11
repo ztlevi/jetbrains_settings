@@ -305,12 +305,12 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531340893868">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531344198505">
         <mark key="'" line="70" column="15" />
-        <mark key="[" line="169" column="59" />
-        <mark key="]" line="169" column="60" />
-        <mark key="." line="169" column="60" />
-        <mark key="^" line="169" column="60" />
+        <mark key="[" line="157" column="9" />
+        <mark key="]" line="157" column="12" />
+        <mark key="." line="157" column="12" />
+        <mark key="^" line="157" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
@@ -965,7 +965,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>setService</text>
