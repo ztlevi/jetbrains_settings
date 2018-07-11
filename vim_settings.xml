@@ -305,12 +305,12 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531270968714">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531340893868">
         <mark key="'" line="70" column="15" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="107" column="3" />
+        <mark key="[" line="169" column="59" />
+        <mark key="]" line="169" column="60" />
+        <mark key="." line="169" column="60" />
+        <mark key="^" line="169" column="60" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
@@ -511,8 +511,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/.eslintrc" timestamp="1531255956408">
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/.eslintrc" timestamp="1531342230634">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="38" column="10" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/dao/InjectionDAOImpl.java" timestamp="1525399312331">
         <mark key="[" line="3" column="0" />
@@ -721,7 +724,7 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531335034978">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="64" />
         <mark key="." line="10" column="0" />
@@ -962,7 +965,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>setService</text>
@@ -971,31 +974,112 @@
         <text>electron-builder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMiOiAiZmlsZTpub2RlX3RhcmJhbGxzL2Jyb3dzZXItc3luYy0yLjE3LjAudGd6Igo=</text>
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMiOiAiZmlsZTpub2RlX3RhcmJhbGxzL2Jyb3dzZXItc3luYy0yLjE3LjAudGd6Igo=</text>
+      <register name="3" type="4">
+        <text>{
+    &quot;consistent-return&quot;: [
+      0
+    ],
+    &quot;key-spacing&quot;: [
+      0
+    ],
+    &quot;quotes&quot;: [
+      0
+    ],
+    &quot;new-cap&quot;: [
+      0
+    ],
+    &quot;no-multi-spaces&quot;: [
+      0
+    ],
+    &quot;no-shadow&quot;: [
+      0
+    ],
+    &quot;no-unused-vars&quot;: [
+      1
+    ],
+    &quot;no-use-before-define&quot;: [
+      2,
+      &quot;nofunc&quot;
+    ],
+    &quot;no-console&quot;: 0
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMiOiAiZmlsZTpub2RlX3RhcmJhbGxzL2Jyb3dzZXItc3luYy0yLjE3LjAudGd6Igo=</text>
+        <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJlbGVjdHJvbi1idWlsZGVyIjogIl4yMC4xOC4wIiwK</text>
+      <register name="5" type="4">
+        <text>{
+    &quot;consistent-return&quot;: [
+      0
+    ],
+    &quot;key-spacing&quot;: [
+      0
+    ],
+    &quot;quotes&quot;: [
+      0
+    ],
+    &quot;new-cap&quot;: [
+      0
+    ],
+    &quot;no-multi-spaces&quot;: [
+      0
+    ],
+    &quot;no-shadow&quot;: [
+      0
+    ],
+    &quot;no-unused-vars&quot;: [
+      1
+    ],
+    &quot;no-use-before-define&quot;: [
+      2,
+      &quot;nofunc&quot;
+    ],
+    &quot;no-console&quot;: 0
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gb25seSBtYWtlIHRoZSBwYWdlIGJsYW5rIHdoZW4gc3dpdGNoaW5nIGJldHdlZW4gdGFicwogICAgICAgICAgICAvLyBrZWVwIHRoZSBwYWdlIHdoZW4gaGF2aW5nIGZvcm0gaW5wdXQgZXJyb3JzCiAgICAgICAgICAgICRzY29wZS5zaG93UmVzdWx0U2ltdWxhdG9yID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycm9yLmNvZGUgPT09IFZBTElEQVRJT05fRVhDRVBUSU9OX0NPREUpIHsKICAgICAgICAgICAgICAkc2NvcGUuJGRpc21pc3MoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZzZGYgPSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmN1ck9yZ2FuaXNtQW5hbHl0ZU9wdGlvbnMgPSByZXN1bHREYXRhLmFuYWx5dGVPcHRpb25zOwogICAgICAgICAgICAvLyB2aWV3IGZvciBlYWNoIGFuYWx5dGUncyBpbnRlcnByZXRhdGlvbiBhbmQgcmVhc29ucwogICAgICAgICAgICAkc2NvcGUuYW5hbHl0ZUludGVycHJldGF0aW9uQ29sdW1ucyA9IGFzc2F5Q3ZvLmdldFZpZXcoJ3NpbXVsYXRlSW50ZXJwcmV0YXRpb24nKTsKICAgICAgICAgICAgLy8gdmlldyBmb3IgdGhlIG92ZXJhbGwgcmVzdWx0IHRleHQgYW5kIGNvbG9yCiAgICAgICAgICAgICRzY29wZS5yZXN1bHRUZXh0QW5kQ29sb3JDb2x1bW5zID0gYXNzYXlDdm8uZ2V0VmlldygncnVsZVRhYmxlJyk7CiAgICAgICAgICAgIC8vIHZpZXcgd2l0aCB0aGUgbGFiZWxzIGZvciBhbGwgb2YgdGhlIG9wdGlvbnMgYnV0dG9uczoKICAgICAgICAgICAgJHNjb3BlLm9wdGlvbkNoZWNrYm94Q29sdW1uID0gYXNzYXlDdm8uZ2V0Vmlldygnc2ltdWxhdGVPcHRpb25zQm94JykucmVhc29ucy5vcHRpb25zOwoKICAgICAgICAgICAgZ2VuZXJhdGVPcHRpb25zQ2hlY2tib3hlcygpOwogICAgICAgICAgICBpZiAoZmxhZyA9PT0gJ3Jlc2V0JykgewogICAgICAgICAgICAgIHRvYXN0U2VydmljZS5jcmVhdGUoJ3N1Y2Nlc3MnLCAnUmVzZXQgdGhlIG9yZ2FuaXNtIHByb3Blcmx5IScsICdTdWNjZXNzJyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyIjogdHJ1ZSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZU9wdGlvbnNDaGVja2JveGVzKCk7CiAgICAgICAgaWYgKGZsYWcgPT09ICdyZXNldCcpIHsKICAgICAgICAgIHRvYXN0U2VydmljZS5jcmVhdGUoJ3N1Y2Nlc3MnLCAnUmVzZXQgdGhlIG9yZ2FuaXNtIHByb3Blcmx5IScsICdTdWNjZXNzJyk7CiAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>{
+    &quot;consistent-return&quot;: [
+      0
+    ],
+    &quot;key-spacing&quot;: [
+      0
+    ],
+    &quot;quotes&quot;: [
+      0
+    ],
+    &quot;new-cap&quot;: [
+      0
+    ],
+    &quot;no-multi-spaces&quot;: [
+      0
+    ],
+    &quot;no-shadow&quot;: [
+      0
+    ],
+    &quot;no-unused-vars&quot;: [
+      1
+    ],
+    &quot;no-use-before-define&quot;: [
+      2,
+      &quot;nofunc&quot;
+    ],
+    &quot;no-console&quot;: 0
+  }</text>
       </register>
       <register name=":" type="4">
         <text>action HideAllWindows</text>
@@ -1048,11 +1132,11 @@
         <entry>action Forward</entry>
         <entry>action CollapseRegion</entry>
         <entry>action GotoAction</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
