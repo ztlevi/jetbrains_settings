@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="prettier resultsimulator client" description="format all the client codes" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="prettier resultsimulator client" description="format all the client codes" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="yarn" />
       <option name="PARAMETERS" value="run prettier" />
