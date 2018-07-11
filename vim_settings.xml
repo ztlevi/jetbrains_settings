@@ -305,8 +305,9 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531344198505">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531346519501">
         <mark key="'" line="70" column="15" />
+        <mark key="w" line="17" column="28" />
         <mark key="[" line="157" column="9" />
         <mark key="]" line="157" column="12" />
         <mark key="." line="157" column="12" />
@@ -366,11 +367,11 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1531266180652">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="10" column="76" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1531347109588">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/.babelrc" timestamp="1513487835207">
         <mark key="[" line="10" column="5" />
@@ -700,7 +701,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1531263526797">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1531347035053">
+        <mark key="'" line="80" column="49" />
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="45" />
         <mark key="." line="3" column="45" />
@@ -771,7 +773,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531334111147">
+      <file name="/Dummy.txt" timestamp="1531346474522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
@@ -837,12 +839,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531330961749">
-        <mark key="'" line="75" column="15" />
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="39" />
-        <mark key="." line="75" column="39" />
-        <mark key="^" line="75" column="39" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531345784963">
+        <mark key="'" line="76" column="15" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+        <mark key="^" line="53" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1531262938315">
         <mark key="[" line="0" column="0" />
@@ -859,7 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="219" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="206" column="18" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="78" column="26" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
@@ -959,99 +960,37 @@
       <jump line="18" column="6" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/gulpfile.js" />
       <jump line="70" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
       <jump line="75" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
+      <jump line="80" column="49" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>setService</text>
       </register>
       <register name="0" type="4">
-        <text>electron-builder</text>
+        <text>col-xs-12</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    &quot;consistent-return&quot;: [
-      0
-    ],
-    &quot;key-spacing&quot;: [
-      0
-    ],
-    &quot;quotes&quot;: [
-      0
-    ],
-    &quot;new-cap&quot;: [
-      0
-    ],
-    &quot;no-multi-spaces&quot;: [
-      0
-    ],
-    &quot;no-shadow&quot;: [
-      0
-    ],
-    &quot;no-unused-vars&quot;: [
-      1
-    ],
-    &quot;no-use-before-define&quot;: [
-      2,
-      &quot;nofunc&quot;
-    ],
-    &quot;no-console&quot;: 0
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">PGgzIGNsYXNzPSJtYXJnaW4tbC0yMCI+e3thc3NheU5hbWV9fTwvaDM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-    &quot;consistent-return&quot;: [
-      0
-    ],
-    &quot;key-spacing&quot;: [
-      0
-    ],
-    &quot;quotes&quot;: [
-      0
-    ],
-    &quot;new-cap&quot;: [
-      0
-    ],
-    &quot;no-multi-spaces&quot;: [
-      0
-    ],
-    &quot;no-shadow&quot;: [
-      0
-    ],
-    &quot;no-unused-vars&quot;: [
-      1
-    ],
-    &quot;no-use-before-define&quot;: [
-      2,
-      &quot;nofunc&quot;
-    ],
-    &quot;no-console&quot;: 0
-  }</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZzZGYgPSAxOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyIjogdHJ1ZSwK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="6" type="4">
         <text>{
     &quot;consistent-return&quot;: [
       0
@@ -1081,8 +1020,44 @@
     &quot;no-console&quot;: 0
   }</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+    &quot;consistent-return&quot;: [
+      0
+    ],
+    &quot;key-spacing&quot;: [
+      0
+    ],
+    &quot;quotes&quot;: [
+      0
+    ],
+    &quot;new-cap&quot;: [
+      0
+    ],
+    &quot;no-multi-spaces&quot;: [
+      0
+    ],
+    &quot;no-shadow&quot;: [
+      0
+    ],
+    &quot;no-unused-vars&quot;: [
+      1
+    ],
+    &quot;no-use-before-define&quot;: [
+      2,
+      &quot;nofunc&quot;
+    ],
+    &quot;no-console&quot;: 0
+  }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
+      </register>
       <register name=":" type="4">
-        <text>action HideAllWindows</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -1134,10 +1109,10 @@
         <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
