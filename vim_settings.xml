@@ -298,6 +298,7 @@
         <mark key="^" line="197" column="24" />
         <mark key="." line="197" column="24" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/.jshintrc" timestamp="1531330236373" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/aware/TestAware.java" timestamp="1525310799190">
         <mark key="[" line="21" column="64" />
         <mark key="]" line="21" column="71" />
@@ -443,6 +444,7 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/build/build.xml" timestamp="1531330762491" />
       <file name="$USER_HOME$/Developer/react_github/js/util/Utils.js" timestamp="1513715968530">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -830,11 +832,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531271611942">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="39" />
-        <mark key="." line="70" column="39" />
-        <mark key="^" line="70" column="39" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531330961749">
+        <mark key="'" line="75" column="15" />
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="39" />
+        <mark key="." line="75" column="39" />
+        <mark key="^" line="75" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1531262938315">
         <mark key="[" line="0" column="0" />
@@ -851,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="66" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="293" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="219" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
       <jump line="206" column="18" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
@@ -951,13 +953,14 @@
       <jump line="155" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/gulpfile.js" />
       <jump line="18" column="6" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/gulpfile.js" />
       <jump line="70" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
+      <jump line="75" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>updateInitAnalyteOptionsList</text>
+        <text>&quot;guid&quot; in Object.keys(</text>
       </register>
       <register name="/" type="4">
         <text>setService</text>
