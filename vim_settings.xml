@@ -305,8 +305,8 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531346519501">
-        <mark key="'" line="70" column="15" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531347709232">
+        <mark key="'" line="59" column="15" />
         <mark key="w" line="17" column="28" />
         <mark key="[" line="157" column="9" />
         <mark key="]" line="157" column="12" />
@@ -584,6 +584,9 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResultsCtrl.js" timestamp="1531347652764">
+        <mark key="'" line="36" column="30" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/pom.xml" timestamp="1526069085193">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="76" />
@@ -641,6 +644,7 @@
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/modalMessageService.js" timestamp="1531255644442">
         <mark key="'" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResults.html" timestamp="1531348902994" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/CartridgeIdOutstandingLisTestOrderFilter.java" timestamp="1529966726938">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -701,12 +705,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1531347035053">
-        <mark key="'" line="80" column="49" />
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="73" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1531349561099">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="54" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/MavenTest.iml" timestamp="1519419391561">
         <mark key="[" line="2" column="63" />
@@ -861,11 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
-      <jump line="206" column="18" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/AssayRestService.java" />
-      <jump line="78" column="26" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
-      <jump line="195" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/RuleRestService.java" />
-      <jump line="47" column="29" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/RuleRestService.java" />
       <jump line="245" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/RuleRestService.java" />
       <jump line="247" column="7" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/service/RuleRestService.java" />
       <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" />
@@ -961,67 +960,45 @@
       <jump line="70" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
       <jump line="75" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
       <jump line="80" column="49" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
+      <jump line="59" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
+      <jump line="36" column="30" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/target/view/simulateResultsCtrl.js" />
+      <jump line="1" column="36" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
+      <jump line="84" column="27" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
+      <jump line="77" column="17" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>setService</text>
+        <text>updateResult</text>
       </register>
       <register name="0" type="4">
         <text>col-xs-12</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmctbW9kZWwtb3B0aW9ucz0neyBkZWJvdW5jZTogODAwIH0nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9ybS1uYW1lPSJzaW11bGF0ZUZvcm0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgzIGNsYXNzPSJtYXJnaW4tbC0yMCI+e3thc3NheU5hbWV9fTwvaDM+Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PGgzIGNsYXNzPSJtYXJnaW4tbC0yMCI+e3thc3NheU5hbWV9fTwvaDM+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-    &quot;consistent-return&quot;: [
-      0
-    ],
-    &quot;key-spacing&quot;: [
-      0
-    ],
-    &quot;quotes&quot;: [
-      0
-    ],
-    &quot;new-cap&quot;: [
-      0
-    ],
-    &quot;no-multi-spaces&quot;: [
-      0
-    ],
-    &quot;no-shadow&quot;: [
-      0
-    ],
-    &quot;no-unused-vars&quot;: [
-      1
-    ],
-    &quot;no-use-before-define&quot;: [
-      2,
-      &quot;nofunc&quot;
-    ],
-    &quot;no-console&quot;: 0
-  }</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
+        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
       </register>
       <register name="8" type="4">
         <text>{
@@ -1054,16 +1031,16 @@
   }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImpzeCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>setService</last-search>
+      <last-search>updateResult</last-search>
       <last-offset />
-      <last-pattern>setService</last-pattern>
+      <last-pattern>updateResult</last-pattern>
       <last-replace>p1</last-replace>
       <last-substitute>pa</last-substitute>
       <last-dir>1</last-dir>
@@ -1071,7 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Map</entry>
         <entry>getAssayById</entry>
         <entry>refreshAss</entry>
         <entry>refreshAssayCache</entry>
@@ -1091,6 +1067,7 @@
         <entry>Test test</entry>
         <entry>test</entry>
         <entry>setService</entry>
+        <entry>updateResult</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
@@ -1098,7 +1075,6 @@
         <entry>action FindInPath</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
@@ -1112,6 +1088,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
