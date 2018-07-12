@@ -1000,7 +1000,7 @@
         <text encoding="base64">ICAgICJjb25zaXN0ZW50LXJldHVybiI6IFsKICAgICAgMAogICAgXSwKICAgICJrZXktc3BhY2luZyI6IFsKICAgICAgMAogICAgXSwKICAgICJxdW90ZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibmV3LWNhcCI6IFsKICAgICAgMAogICAgXSwKICAgICJuby1tdWx0aS1zcGFjZXMiOiBbCiAgICAgIDAKICAgIF0sCiAgICAibm8tc2hhZG93IjogWwogICAgICAwCiAgICBdLAogICAgIm5vLXVudXNlZC12YXJzIjogWwogICAgICAxCiAgICBdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogWwogICAgICAyLAogICAgICAibm9mdW5jIgogICAgXSwKICAgICJuby1jb25zb2xlIjogMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action HideAllWindows</text>
       </register>
     </registers>
     <search>
@@ -1052,10 +1052,10 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
+        <entry>action HideAllWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
