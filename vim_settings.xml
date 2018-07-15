@@ -223,7 +223,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1531633779214">
+      <file name="/Python Console" timestamp="1531676390770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -686,12 +686,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531635968501">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531676389625">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="6" column="42" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/organismBasedAssayView.xml" timestamp="1531157913887">
         <mark key="[" line="43" column="8" />
@@ -977,13 +976,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJpbnQocmUuZmluZGFsbCgnKD0pfChbLStdPykoXGQqKSh4PyknLCBlcXVhdGlvbikpCg==</text>
+      <register name="0" type="4">
+        <text>sorted(pairs, key=lambda p: (pairs[0], pairs[1]))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
@@ -1014,7 +1013,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1063,13 +1062,13 @@
         <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
