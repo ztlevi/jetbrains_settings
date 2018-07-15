@@ -1,5 +1,10 @@
 <templateSet group="Python">
-  <template name="so" value="so = Solution()" toReformat="false" toShortenFQNames="true">
+  <template name="so" value="so = Solution()" description="LeetCode Solution" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="TreeNode" value="class TreeNode:&#10;    def __init__(self, val):&#10;        self.left = None&#10;        self.right = None&#10;        self.val = val&#10;" description="TreeNode" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

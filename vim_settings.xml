@@ -223,7 +223,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1531691366653">
+      <file name="/Python Console" timestamp="1531698347752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -689,12 +689,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531691364441">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531698342982">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+        <mark key="^" line="42" column="17" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/organismBasedAssayView.xml" timestamp="1531157913887">
         <mark key="[" line="43" column="8" />
@@ -874,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
-      <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
       <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="136" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
@@ -974,47 +972,48 @@
       <jump line="21" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="35" column="20" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1, len(vals)-1, 0</text>
+        <text>widthOfBinaryTree</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgsIG51bXB5CmNsYXNzIFNvbHV0aW9uOgogICAgZGVmIGltYWdlU21vb3RoZXIoc2VsZiwgTSk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgTTogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnJ0eXBlOiBMaXN0W0xpc3RbaW50XV0KICAgICAgICAiIiIKICAgICAgICBpZiBub3QgTToKICAgICAgICAgICAgcmV0dXJuIFtbXV0KICAgICAgICBuID0gbGVuKE0pCiAgICAgICAgbSA9IGxlbihNWzBdKQogICAgICAgIE0gPSBudW1weS5hcnJheShNKQoKICAgICAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobSk6CiAgICAgICAgICAgICAgICBsID0gaiAtIDEgaWYgaiAtIDE+PTAgZWxzZSAwCiAgICAgICAgICAgICAgICByID0gaiArIDEgaWYgaiArIDE8bSBlbHNlIG0tMQogICAgICAgICAgICAgICAgdSA9IGkgLSAxIGlmIGkgLSAxPj0wIGVsc2UgMAogICAgICAgICAgICAgICAgZCA9IGkgKyAxIGlmIGkgKyAxPCBuIGVsc2Ugbi0xCiAgICAgICAgICAgICAgICB2ID0gc3VtKFtzdW0oTVt1OmQrMSxrXSkgZm9yIGsgaW4gcmFuZ2UobCwgcisxKV0pCiAgICAgICAgICAgICAgICBNW2ldW2pdID0gbWF0aC5mbG9vcih2IC8gKChyLWwrMSkqKGQtdSsxKSkpCiAgICAgICAgcmV0dXJuIE0K</text>
+        <text encoding="base64">Y2xhc3MgVHJlZU5vZGU6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsKToKICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgc2VsZi5yaWdodCA9IE5vbmUKICAgICAgICBzZWxmLnZhbCA9IHZhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnVtcHkubWF0cml4Cg==</text>
+        <text encoding="base64">cm9vdC5sZWZ0ID0gVHJlZU5vZGUoMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCnNvCg==</text>
+        <text encoding="base64">bnVtcHkubWF0cml4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCnNvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c28K</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGkgPSAwCg==</text>
+        <text encoding="base64">c28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICB3aGlsZSBpIDwgbGVuKHBhaXJzKToKICAgICAgcCA9IHBhaXJzW2ldCiAgICAgIGVuZCA9IHBbMV0KICAgICAgaiA9IGkrMQogICAgICBjbnQgPSAwCiAgICAgIHdoaWxlIGogPCBsZW4ocGFpcnMpOgogICAgICAgIGlmIHBhaXJzW2pdWzFdIDw9IGVuZDoKICAgICAgICAgIGNudCArPSAxCiAgICAgIGlmIGNudAo=</text>
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+        <text encoding="base64">CiAgICB3aGlsZSBpIDwgbGVuKHBhaXJzKToKICAgICAgcCA9IHBhaXJzW2ldCiAgICAgIGVuZCA9IHBbMV0KICAgICAgaiA9IGkrMQogICAgICBjbnQgPSAwCiAgICAgIHdoaWxlIGogPCBsZW4ocGFpcnMpOgogICAgICAgIGlmIHBhaXJzW2pdWzFdIDw9IGVuZDoKICAgICAgICAgIGNudCArPSAxCiAgICAgIGlmIGNudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
+        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>local organisms' info in the localStorage first to fetch the
-   * cached analyteOptionsLists.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
