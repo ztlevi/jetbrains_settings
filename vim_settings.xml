@@ -203,7 +203,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1531627206577">
+      <file name="/Python Console" timestamp="1531629405241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -221,11 +221,11 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1531626862741">
+      <file name="/fragment.py" timestamp="1531629448231">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="136" />
+        <mark key="^" line="0" column="136" />
+        <mark key="." line="0" column="136" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/reduxstagram.js" timestamp="1518288363111">
         <mark key="[" line="13" column="38" />
@@ -644,11 +644,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531627125866">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531629531522">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/core/AbstractTestResultCalculator.java" timestamp="1530315413071">
         <mark key="[" line="102" column="28" />
@@ -742,7 +743,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531626804213">
+      <file name="/Dummy.txt" timestamp="1531629387848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -816,7 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="8" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/service/AxAboutRestService.java" />
       <jump line="140" column="28" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AssayRestService.java" />
       <jump line="55" column="37" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/AssayRestService.java" />
@@ -913,16 +913,17 @@
       <jump line="703" column="4" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
       <jump line="38" column="33" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="46" column="55" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;__builtins__&quot;:</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -931,31 +932,31 @@
         <text>equation.replace('x', 'j').replace('=', '-(') + ')',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB6LmltYWcK</text>
+        <text encoding="base64">ICAgIGdsb2JhbHMgPSBnbG9iYWxzKCkKICAgIGxvY2FscyA9IGxvY2FscygpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduID0gLTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduID0gMQo=</text>
+        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCAqCmltcG9ydCBtYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhcnRzWzBdW2ldID09ICctJzoKICAgICAgICAgICAgICAgICAgICBzaWduID0gLTEKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgc2lnbiA9IDEK</text>
+        <text encoding="base64">ICAgICAgICB6LmltYWcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gbGVuKHBhcnRzWzBdKSBvciBwYXJ0c1swXVtpXSA9PSAnLSc6CiAgICAgICAgICAgICAgICAgICAgc2lnbiA9IC0xCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNpZ24gPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduID0gLTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9sYXN0Q29tbWFuZHMuCg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcCBvcHRpb25NYXAgPSBvcHRpb25zLmdldE1hcFZpZXcoKTsKICAgIExpc3Q8TWFwPiBsaXN0T2ZBbmFseXRlT3B0aW9ucyA9IExpc3RVdGlsLmxpc3QoKTsKICAgIGZvciAoU2ltdWxhdGVBbmFseXRlT3B0aW9ucyBhbmFseXRlT3B0aW9uIDogb3B0aW9ucy5nZXRBbmFseXRlT3B0aW9ucygpKSB7CiAgICAgIGxpc3RPZkFuYWx5dGVPcHRpb25zLmFkZChhbmFseXRlT3B0aW9uLmdldFNpbXVsYXRlVmlldygpKTsKICAgIH0KICAgIG9wdGlvbk1hcC5wdXQoImFuYWx5dGVPcHRpb25zIiwgbGlzdE9mQW5hbHl0ZU9wdGlvbnMpOwogICAgcmV0dXJuIG9wdGlvbk1hcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhcnRzWzBdW2ldID09ICctJzoKICAgICAgICAgICAgICAgICAgICBzaWduID0gLTEKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgc2lnbiA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyAgICAvL3Rlc3RpbmcKICAgIC8vICAgIGZvciAoaW50IGkgPSAwLCBsID0gb3JnYW5pc21zLnNpemUoKTsgaSA8IGwgLSAyOyBpKyspIHsKICAgIC8vICAgICAgc2ltdWxhdGVFdmFsdWF0b3JzKG9yZ2FuaXNtcy5nZXQoaSksIHRlc3QpOwogICAgLy8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoaSkuZ2V0UmVzdWx0VGV4dCgpKTsKICAgIC8vICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KGkpLmdldFJlc3VsdENvbG9yKCkpOwogICAgLy8gICAgfQogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMSkuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDEpLnNldFJlc3VsdENvbG9yKDEpOwogICAgLy8gICAgdGVzdC5nZXRPcmdhbmlzbVJlc3VsdHMoKS5nZXQoMikuc2V0UmVzdWx0VGV4dCgxKTsKICAgIC8vICAgIHRlc3QuZ2V0T3JnYW5pc21SZXN1bHRzKCkuZ2V0KDIpLnNldFJlc3VsdENvbG9yKDEpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gbGVuKHBhcnRzWzBdKSBvciBwYXJ0c1swXVtpXSA9PSAnLSc6CiAgICAgICAgICAgICAgICAgICAgc2lnbiA9IC0xCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNpZ24gPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFic3RyYWN0VGVzdFJlc3VsdENhbGN1bGF0b3I8T3JnYW5pc21CYXNlZFRlc3Q+IGNhbGN1bGF0b3IgPSBuZXcKICAgICAgT3JnYW5pc21CYXNlZFRlc3RSZXN1bHRDYWxjdWxhdG9yKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9sYXN0Q29tbWFuZHMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
