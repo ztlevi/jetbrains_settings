@@ -223,11 +223,11 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1531678221577">
+      <file name="/Python Console" timestamp="1531689600944">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/TrendingTest.js" timestamp="1512874226898">
         <mark key="[" line="12" column="43" />
@@ -355,6 +355,9 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1531689174038">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/config/app/template/view/organismBasedAssayView.xml" timestamp="1530222470232">
         <mark key="[" line="240" column="28" />
@@ -686,12 +689,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531678218629">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531689623521">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/organismBasedAssayView.xml" timestamp="1531157913887">
         <mark key="[" line="43" column="8" />
@@ -794,7 +797,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531443050480">
+      <file name="/Dummy.txt" timestamp="1531689618664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -871,9 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="55" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
-      <jump line="564" column="34" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="141" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" />
       <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
@@ -971,47 +971,50 @@
       <jump line="6" column="14" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="24" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="30" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>key=lambda p: (p[0], p[1])</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdGgsIG51bXB5CmNsYXNzIFNvbHV0aW9uOgogICAgZGVmIGltYWdlU21vb3RoZXIoc2VsZiwgTSk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgTTogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgOnJ0eXBlOiBMaXN0W0xpc3RbaW50XV0KICAgICAgICAiIiIKICAgICAgICBpZiBub3QgTToKICAgICAgICAgICAgcmV0dXJuIFtbXV0KICAgICAgICBuID0gbGVuKE0pCiAgICAgICAgbSA9IGxlbihNWzBdKQogICAgICAgIE0gPSBudW1weS5hcnJheShNKQoKICAgICAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobSk6CiAgICAgICAgICAgICAgICBsID0gaiAtIDEgaWYgaiAtIDE+PTAgZWxzZSAwCiAgICAgICAgICAgICAgICByID0gaiArIDEgaWYgaiArIDE8bSBlbHNlIG0tMQogICAgICAgICAgICAgICAgdSA9IGkgLSAxIGlmIGkgLSAxPj0wIGVsc2UgMAogICAgICAgICAgICAgICAgZCA9IGkgKyAxIGlmIGkgKyAxPCBuIGVsc2Ugbi0xCiAgICAgICAgICAgICAgICB2ID0gc3VtKFtzdW0oTVt1OmQrMSxrXSkgZm9yIGsgaW4gcmFuZ2UobCwgcisxKV0pCiAgICAgICAgICAgICAgICBNW2ldW2pdID0gbWF0aC5mbG9vcih2IC8gKChyLWwrMSkqKGQtdSsxKSkpCiAgICAgICAgcmV0dXJuIE0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGkgPSAwCg==</text>
+        <text encoding="base64">bnVtcHkubWF0cml4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB3aGlsZSBpIDwgbGVuKHBhaXJzKToKICAgICAgcCA9IHBhaXJzW2ldCiAgICAgIGVuZCA9IHBbMV0KICAgICAgaiA9IGkrMQogICAgICBjbnQgPSAwCiAgICAgIHdoaWxlIGogPCBsZW4ocGFpcnMpOgogICAgICAgIGlmIHBhaXJzW2pdWzFdIDw9IGVuZDoKICAgICAgICAgIGNudCArPSAxCiAgICAgIGlmIGNudAo=</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCnNvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
+        <text encoding="base64">c28K</text>
       </register>
-      <register name="5" type="4">
-        <text>local organisms' info in the localStorage first to fetch the
-   * cached analyteOptionsLists.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBndWlkID0gJHNjb3BlLmRlZmluZUFzc2F5LmFzc2F5Lmd1aWQ7Cgo=</text>
+        <text encoding="base64">CiAgICB3aGlsZSBpIDwgbGVuKHBhaXJzKToKICAgICAgcCA9IHBhaXJzW2ldCiAgICAgIGVuZCA9IHBbMV0KICAgICAgaiA9IGkrMQogICAgICBjbnQgPSAwCiAgICAgIHdoaWxlIGogPCBsZW4ocGFpcnMpOgogICAgICAgIGlmIHBhaXJzW2pdWzFdIDw9IGVuZDoKICAgICAgICAgIGNudCArPSAxCiAgICAgIGlmIGNudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmFuYWx5dGVPcHRpb25zTGlzdC5wdXNoKG51bGwpOwo=</text>
+        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5hbmFseXRlT3B0aW9uc0xpc3QgPSBbXTsK</text>
+        <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBBU1NBWVNfS0VZID0gY29uc3RhbnRzLmxvY2FsU3RvcmFnZUtleS5BU1NBWVNfS0VZOwo=</text>
+      <register name="9" type="4">
+        <text>local organisms' info in the localStorage first to fetch the
+   * cached analyteOptionsLists.</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
@@ -1063,11 +1066,11 @@
         <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
-        <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
       </history-cmd>
