@@ -508,6 +508,13 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/2018_6_Tracker.md" timestamp="1531702804877">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/test/core/TestResultFormatter.java" timestamp="1530937182088">
         <mark key="[" line="26" column="52" />
         <mark key="]" line="26" column="52" />
@@ -874,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="136" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="456" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
@@ -974,13 +980,14 @@
       <jump line="35" column="20" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/2018_6_Tracker.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>widthOfBinaryTree</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
