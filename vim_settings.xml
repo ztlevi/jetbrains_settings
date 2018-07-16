@@ -508,12 +508,12 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/2018_6_Tracker.md" timestamp="1531702804877">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/2018_6_Tracker.md" timestamp="1531706276326">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="8" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
         <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/test/core/TestResultFormatter.java" timestamp="1530937182088">
         <mark key="[" line="26" column="52" />
@@ -987,7 +987,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
