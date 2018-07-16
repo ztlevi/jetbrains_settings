@@ -323,7 +323,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531775002464">
+      <file name="/Python Console" timestamp="1531779683052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -749,12 +749,12 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531775073469">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531779682269">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
         <mark key="[" line="10" column="0" />
@@ -803,7 +803,7 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531774708104">
+      <file name="/Dummy.txt" timestamp="1531778124399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -882,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
       <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="136" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="150" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
@@ -973,7 +972,6 @@
       <jump line="111" column="38" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" />
       <jump line="109" column="40" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
       <jump line="113" column="66" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="6" column="14" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="24" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="30" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
@@ -982,46 +980,48 @@
       <jump line="74" column="4" filename="$USER_HOME$/IdeaProjects/JavaTest/src/Solution.java" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/JavaTest/src/Solution.java" />
       <jump line="35" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>cur</text>
+        <text>332665</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgc3BsaXRMaXN0VG9QYXJ0cyhzZWxmLCByb290LCBrKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSByb290OiBMaXN0Tm9kZQogICAgICAgIDp0eXBlIGs6IGludAogICAgICAgIDpydHlwZTogTGlzdFtMaXN0Tm9kZV0KICAgICAgICAiIiIKICAgICAgICBsID0gMAogICAgICAgIG5vZGUgPSByb290CiAgICAgICAgd2hpbGUgbm9kZToKICAgICAgICAgICAgbm9kZSwgbCA9IG5vZGUubmV4dCwgbCsxCgogICAgICAgIGFyciA9IFtbXSBmb3IgXyBpbiByYW5nZShrKV0KCiAgICAgICAgYmxvY2tfc2l6ZSwgbG9uZ2VyID0gbCAvL2ssIGwgJSBrCiAgICAgICAgYmxvY2tzID0gW2Jsb2NrX3NpemUgKyAxXSAqIGxvbmdlciArIFtibG9ja19zaXplXSAqIChrIC0gbG9uZ2VyKQogICAgICAgIGN1ciA9IHJvb3QKCiAgICAgICAgZm9yIGksIG51bSBpbiBlbnVtZXJhdGUoYmxvY2tzKToKICAgICAgICAgICAgaWYgbnVtID09IDA6CiAgICAgICAgICAgICAgICBhcnJbaV0gPSBOb25lCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBhcnJbaV0gPSBjdXIKCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKG51bS0xKToKICAgICAgICAgICAgICAgIGN1ciA9IGN1ci5uZXh0CiAgICAgICAgICAgIHByZXYgPSBjdXIKICAgICAgICAgICAgY3VyID0gY3VyLm5leHQKICAgICAgICAgICAgcHJldi5uZXh0ID0gTm9uZQogICAgICAgIHJldHVybiBhcnIK</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgbW9ub3RvbmVJbmNyZWFzaW5nRGlnaXRzKHNlbGYsIE4pOgogICAgICAgICIiIgogICAgICAgIDp0eXBlIE46IGludAogICAgICAgIDpydHlwZTogaW50CiAgICAgICAgIiIiCiAgICAgICAgcyA9IHN0cihOKQogICAgICAgIG4gPSBsZW4ocykKICAgICAgICBmb3IgaSBpbiByYW5nZShuLTEsIDAsIC0xKToKICAgICAgICAgICAgaWYgc1tpLTFdID4gc1tpXToKICAgICAgICAgICAgICAgIHMgPSBzWzppLTFdICsgc3RyKGludChzW2ktMV0pIC0gMSkgKyAiOSIgKiAobi1pKQogICAgICAgIHJldHVybiBpbnQocykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLm5leHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgLT0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5uZXh0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLm5leHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXArKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5uZXh0ID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3VyWzBdID09IHggJiYgY3VyWzFdID09IHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN0ZXA7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXArKzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBxLmFkZChuZXcgaW50W117Zm9yZXN0LmdldChpKS5nZXQoaiksIGksIGp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3VyWzBdID09IHggJiYgY3VyWzFdID09IHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN0ZXA7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKG54ID09IHggJiYgbnkgPT0geSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RlcDsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBxLmFkZChuZXcgaW50W117Zm9yZXN0LmdldChpKS5nZXQoaiksIGksIGp9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKG54ID09IHggJiYgbnkgPT0geSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RlcDsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aXNpdGVkW254XVtueV0gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aXNpdGVkW254XVtueV0gPSB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Debug</text>
@@ -1077,8 +1077,8 @@
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
