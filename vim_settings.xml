@@ -305,11 +305,12 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531443125616">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531861919064">
         <mark key="w" line="16" column="28" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="134" column="16" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="36" />
+        <mark key="." line="44" column="36" />
+        <mark key="^" line="44" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
@@ -856,18 +857,18 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531858885713">
-        <mark key="[" line="48" column="3" />
-        <mark key="]" line="49" column="67" />
-        <mark key="^" line="49" column="67" />
-        <mark key="." line="49" column="67" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531861814917">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="239" column="37" />
+        <mark key="." line="239" column="37" />
+        <mark key="^" line="239" column="37" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/constants.js" timestamp="1531434858407">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1531770382369">
+      <file name="/fragment.java" timestamp="1531860960538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -981,7 +982,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
@@ -990,31 +991,31 @@
         <text>onRefresh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
+        <text encoding="base64">ICAvLyB0aGlzIHRhcmdldCBhbmFseXRlIGxpc3QgaXMgdXNlZCB0byBoZWxwIHByZXBhcmUgdGhlIGNvbHVtbnMgc2VjdGlvbgogIHZhciB0YXJnZXRBbmFseXRlczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoYS5wb3AoMiwgW10pKQo=</text>
+        <text encoding="base64">ICAgIC8vICRzY29wZS51cGRhdGVMb3QoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YSA9IDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IG9yZ2FuaXNtID0gb3JnYW5pc207Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YSA9IHt9CmEuc2V0ZGVmYXVsdChOb25lKQpwcmludChhKDEsICkpCg==</text>
+        <text encoding="base64">cHJpbnQoYS5wb3AoMiwgW10pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgLT0gMQo=</text>
+        <text encoding="base64">YSA9IDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLm5leHQK</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5uZXh0ID0gTm9uZQo=</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
@@ -1054,7 +1055,6 @@
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action CollapseRegion</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -1070,8 +1070,9 @@
         <entry>action Forward</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
