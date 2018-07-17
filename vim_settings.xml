@@ -58,12 +58,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1531441209949">
-        <mark key="'" line="110" column="38" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="32" column="8" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1531844826069">
+        <mark key="'" line="112" column="38" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="45" column="18" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="45" column="18" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/CommandSimulator.java" timestamp="1528844962473">
         <mark key="[" line="12" column="19" />
@@ -749,13 +749,6 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531788240169">
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="64" />
@@ -803,7 +796,6 @@
         <mark key="." line="108" column="32" />
         <mark key="^" line="108" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531783219543" />
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/beanannotation/injection/service/InjectionServiceImpl.java" timestamp="1525399684505">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="11" />
@@ -1019,7 +1011,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aXNpdGVkW254XVtueV0gPSB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1065,7 +1057,6 @@
         <entry>action SelectInProjectView</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Forward</entry>
-        <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
@@ -1075,6 +1066,7 @@
         <entry>action Debug</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Run</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
