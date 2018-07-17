@@ -1018,7 +1018,7 @@
         <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action ActivateProjectToolWindow</text>
       </register>
     </registers>
     <search>
@@ -1057,7 +1057,6 @@
         <entry>action ShowBookmarks</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action CollapseRegion</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action RecentFiles</entry>
@@ -1074,6 +1073,7 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action ActivateProjectToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
