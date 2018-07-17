@@ -324,7 +324,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531856688259">
+      <file name="/Python Console" timestamp="1531868363319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -750,11 +750,12 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531857719757">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531868537308">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
         <mark key="[" line="10" column="0" />
@@ -982,7 +983,7 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>mid+1:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
@@ -991,34 +992,34 @@
         <text>onRefresh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB0aGlzIHRhcmdldCBhbmFseXRlIGxpc3QgaXMgdXNlZCB0byBoZWxwIHByZXBhcmUgdGhlIGNvbHVtbnMgc2VjdGlvbgogIHZhciB0YXJnZXRBbmFseXRlczsK</text>
+        <text encoding="base64">ICAgICAgICBtaWQ9aW50KGxlbihzb3J0ZWRsaXN0KS8yKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICRzY29wZS51cGRhdGVMb3QoMCk7Cg==</text>
+        <text encoding="base64">YSA9IHsxOjF9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YS5wb3AoMSkKcHJpbnQoYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG9yZ2FuaXNtID0gb3JnYW5pc207Cg==</text>
+        <text encoding="base64">ICAvLyB0aGlzIHRhcmdldCBhbmFseXRlIGxpc3QgaXMgdXNlZCB0byBoZWxwIHByZXBhcmUgdGhlIGNvbHVtbnMgc2VjdGlvbgogIHZhciB0YXJnZXRBbmFseXRlczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
+        <text encoding="base64">ICAgIC8vICRzY29wZS51cGRhdGVMb3QoMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoYS5wb3AoMiwgW10pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YSA9IDIK</text>
+        <text encoding="base64">ICAgICAgbGV0IG9yZ2FuaXNtID0gb3JnYW5pc207Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
+        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">cHJpbnQoYS5wb3AoMiwgW10pKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateProjectToolWindow</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1064,8 +1065,6 @@
         <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
         <entry>action FindUsages</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Forward</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
@@ -1074,6 +1073,8 @@
         <entry>action HideAllWindows</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
