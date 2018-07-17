@@ -58,12 +58,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1531844826069">
-        <mark key="'" line="112" column="38" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="45" column="18" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="45" column="18" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1531858777730">
+        <mark key="'" line="133" column="38" />
+        <mark key="[" line="170" column="35" />
+        <mark key="]" line="170" column="40" />
+        <mark key="." line="170" column="40" />
+        <mark key="^" line="170" column="40" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/common/assay/CommandSimulator.java" timestamp="1528844962473">
         <mark key="[" line="12" column="19" />
@@ -323,7 +323,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531852320475">
+      <file name="/Python Console" timestamp="1531856688259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -749,11 +749,11 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531852316101">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test2.py" timestamp="1531857719757">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
         <mark key="[" line="10" column="0" />
@@ -856,11 +856,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531442719302">
-        <mark key="[" line="96" column="17" />
-        <mark key="]" line="96" column="16" />
-        <mark key="^" line="96" column="16" />
-        <mark key="." line="96" column="16" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531858885713">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="49" column="67" />
+        <mark key="^" line="49" column="67" />
+        <mark key="." line="49" column="67" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/constants.js" timestamp="1531434858407">
         <mark key="[" line="10" column="0" />
@@ -981,43 +981,43 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Solution</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>self</text>
+        <text>onRefresh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YSA9IDIK</text>
+        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
+        <text encoding="base64">cHJpbnQoYS5wb3AoMiwgW10pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
+        <text encoding="base64">YSA9IDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSA9IHt9CmEuc2V0ZGVmYXVsdChOb25lKQpwcmludChhKDEsICkpCg==</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgLT0gMQo=</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLm5leHQK</text>
+        <text encoding="base64">YSA9IHt9CmEuc2V0ZGVmYXVsdChOb25lKQpwcmludChhKDEsICkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5uZXh0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgLT0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXArKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gY3VyLm5leHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3VyWzBdID09IHggJiYgY3VyWzFdID09IHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN0ZXA7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5uZXh0ID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1060,19 +1060,19 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action FindUsages</entry>
-        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
+        <entry>action Forward</entry>
+        <entry>action Run</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
