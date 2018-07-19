@@ -367,10 +367,10 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1531441561435">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1532039729670">
         <mark key="'" line="0" column="44" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="105" />
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="105" />
       </file>
@@ -864,7 +864,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1531442719302">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1532039744840">
+        <mark key="'" line="117" column="39" />
         <mark key="[" line="96" column="17" />
         <mark key="]" line="96" column="16" />
         <mark key="^" line="96" column="16" />
@@ -883,7 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="35" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="119" column="33" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="30" column="55" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="34" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
@@ -983,6 +983,7 @@
       <jump line="113" column="66" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" />
       <jump line="13" column="9" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="10" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
+      <jump line="117" column="39" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -995,7 +996,7 @@
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImRlZmluZWFzc2F5L2RpcmVjdGl2ZXMvZ3hUYWJsZUJhc2VkUmVzdWx0cy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPHNpbXVsYXRlLXJlc3VsdHMgc2ltdWxhdGUtcmVzdWx0LWxpc3Q9InNpbXVsYXRlUmVzdWx0TGlzdCIgb3JnYW5pc209Im9yZ2FuaXNtIj48L3NpbXVsYXRlLXJlc3VsdHM+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
