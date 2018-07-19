@@ -108,10 +108,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/index.html" timestamp="1532037590991">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="75" />
-        <mark key="." line="198" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/index.html" timestamp="1532039090475">
+        <mark key="[" line="201" column="36" />
+        <mark key="]" line="201" column="63" />
+        <mark key="." line="201" column="63" />
+        <mark key="^" line="201" column="63" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
@@ -988,13 +989,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>gxTableBasedResults.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iZGVmaW5lYXNzYXkvbWFuYWdlQXNzYXlzL3ZpZXcvbWFuYWdlQXNzYXlzQ3RybC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImRlZmluZWFzc2F5L2RpcmVjdGl2ZXMvZ3hUYWJsZUJhc2VkUmVzdWx0cy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
