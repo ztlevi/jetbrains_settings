@@ -108,6 +108,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/index.html" timestamp="1532037590991">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="75" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="56" />
@@ -343,6 +348,11 @@
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.html" timestamp="1532037559740">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-autowiring.xml" timestamp="1525312973615">
         <mark key="[" line="5" column="22" />
@@ -978,41 +988,41 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>eeeetuwre</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>endpointField</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iZGVmaW5lYXNzYXkvbWFuYWdlQXNzYXlzL3ZpZXcvbWFuYWdlQXNzYXlzQ3RybC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29sbGVjdGlvbnMuQ291bnRlcigpWycxJ10gaW4gcHJpbWVzOgo=</text>
+        <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCmFyciA9IFsyLDMsNSw4XQpzID0gMTIKcHJpbnQoc28uYmFja19wYWNrMShzLCBhcnIpKQpwcmludChzby5iYWNrX3BhY2syKHMsIGFycikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29sbGVjdGlvbnMuQ291bnRlcigpWycxJ10gaW4gcHJpbWVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWF0aC4K</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCmFyciA9IFsyLDMsNSw4XQpzID0gMTIKcHJpbnQoc28uYmFja19wYWNrMShzLCBhcnIpKQpwcmludChzby5iYWNrX3BhY2syKHMsIGFycikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+        <text encoding="base64">bWF0aC4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>local organisms' info in the localStorage first to fetch the
    * cached analyteOptionsLists.</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxldCBndWlkID0gJHNjb3BlLmRlZmluZUFzc2F5LmFzc2F5Lmd1aWQ7Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmFuYWx5dGVPcHRpb25zTGlzdC5wdXNoKG51bGwpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5hbmFseXRlT3B0aW9uc0xpc3QgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmFuYWx5dGVPcHRpb25zTGlzdC5wdXNoKG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
