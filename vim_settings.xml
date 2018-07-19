@@ -1050,7 +1050,6 @@
         <entry encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowBookmarks</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -1069,6 +1068,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>.,.+3action SelectInProjectView</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
