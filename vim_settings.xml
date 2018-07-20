@@ -9,9 +9,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/directive/gxTableOrRuleToggle.js" timestamp="1532043435686">
-        <mark key="[" line="42" column="128" />
-        <mark key="]" line="42" column="170" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/directive/gxTableOrRuleToggle.js" timestamp="1532106860592">
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="92" column="5" />
+        <mark key="^" line="92" column="5" />
+        <mark key="." line="92" column="5" />
       </file>
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
@@ -109,11 +111,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/index.html" timestamp="1532043831139">
-        <mark key="[" line="201" column="36" />
-        <mark key="]" line="201" column="63" />
-        <mark key="." line="201" column="63" />
-        <mark key="^" line="201" column="63" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/index.html" timestamp="1532107572678">
+        <mark key="[" line="185" column="21" />
+        <mark key="]" line="185" column="37" />
+        <mark key="." line="185" column="37" />
+        <mark key="^" line="185" column="37" />
       </file>
       <file name="$USER_HOME$/Developer/Learn-Redux-Starter-Files/learn-redux/client/components/Photo.js" timestamp="1518656399981">
         <mark key="[" line="23" column="34" />
@@ -151,7 +153,6 @@
         <mark key="." line="175" column="24" />
         <mark key="^" line="175" column="24" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/directive/gxTableOrRuleToggle.html" timestamp="1532036273770" />
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/CartMapper.xml" timestamp="1525045891444">
         <mark key="[" line="115" column="23" />
         <mark key="]" line="115" column="24" />
@@ -393,11 +394,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/config.js" timestamp="1532044527751">
-        <mark key="[" line="44" column="67" />
-        <mark key="]" line="44" column="67" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/config.js" timestamp="1532106909046">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="19" />
         <mark key="^" line="40" column="64" />
-        <mark key="." line="44" column="67" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/js/pages/setup.js" timestamp="1513913561779">
         <mark key="[" line="35" column="36" />
@@ -522,9 +523,9 @@
         <mark key="^" line="84" column="12" />
         <mark key="." line="84" column="12" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControlsCtrl.js" timestamp="1532043571747">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControlsCtrl.js" timestamp="1532107231658">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="28" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -1009,13 +1010,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>apiService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>config.directives.gxTableOrRuleControls.templateUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNlcnZpY2UvYXBpU2VydmljZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
@@ -1046,7 +1047,7 @@
         <text encoding="base64">ICAgICAgJHNjb3BlLmFuYWx5dGVPcHRpb25zTGlzdC5wdXNoKG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -1082,10 +1083,7 @@
         <entry encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action CollapseRegion</entry>
         <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
@@ -1098,10 +1096,13 @@
         <entry>action Run</entry>
         <entry>.,.+3action SelectInProjectView</entry>
         <entry>action HideAllWindows</entry>
+        <entry>action Back</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
