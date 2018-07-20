@@ -51,11 +51,11 @@
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/init/uiConfig.xml" timestamp="1528931017330">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/init/uiConfig.xml" timestamp="1532111266993">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/manageAssays/view/manageAssaysCtrl.js" timestamp="1532041986868">
         <mark key="'" line="110" column="38" />
@@ -75,11 +75,6 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/Developer/oni/browser/src/Editor/NeovimEditor/NeovimEditorCommands.ts" timestamp="1530400893928">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Github/cryptocurrency_exchange_app/backend/utils/cryptoDataUrls.js" timestamp="1519982558670">
         <mark key="[" line="12" column="0" />
@@ -225,11 +220,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="9" column="76" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/ui/rest/service/RuleRestService.java" timestamp="1531947970620">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="8" />
-        <mark key="." line="55" column="8" />
-      </file>
       <file name="$USER_HOME$/Developer/react_github/res/data/myinfo.json" timestamp="1513915279831">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
@@ -303,13 +293,6 @@
         <mark key="^" line="21" column="71" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResultsCtrl.js" timestamp="1531932881456">
-        <mark key="w" line="16" column="28" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="169" column="58" />
-        <mark key="." line="169" column="58" />
-        <mark key="^" line="169" column="58" />
-      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/java/com/imooc/aware/MoocApplicationContext.java" timestamp="1525310625435">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="1" />
@@ -352,10 +335,17 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.html" timestamp="1532043207477">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.html" timestamp="1532109640266">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="108" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1532108893812">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+        <mark key="^" line="40" column="1" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/defineResults/directive/gxTableOrRuleControlsCtrl.js" timestamp="1532043531354">
         <mark key="[" line="16" column="0" />
@@ -375,10 +365,10 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1532043715319">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanel.html" timestamp="1532109621869">
         <mark key="'" line="0" column="44" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="31" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="112" />
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
@@ -488,11 +478,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/model/AssaySVORequest.java" timestamp="1530237325677">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/base/com/cepheid/nexus/base/TestBase.java" timestamp="1530129945652">
         <mark key="[" line="304" column="39" />
         <mark key="]" line="304" column="3" />
@@ -523,11 +508,11 @@
         <mark key="^" line="84" column="12" />
         <mark key="." line="84" column="12" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControlsCtrl.js" timestamp="1532107231658">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="28" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControlsCtrl.js" timestamp="1532109401032">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/cryptoground/frontend/src/hoc/Layout/Layout.js" timestamp="1529008247644">
         <mark key="[" line="0" column="25" />
@@ -552,6 +537,13 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/defineassay/createNewAssay/service/assayCvoService.js" timestamp="1532108900491">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="54" />
+      </file>
+      <file name="/fragment.js" timestamp="1532111690719">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/react_github/app.json" timestamp="1513489221317">
         <mark key="[" line="17" column="0" />
@@ -589,10 +581,11 @@
         <mark key="^" line="242" column="3" />
         <mark key="." line="242" column="3" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/assayView.xml" timestamp="1531437790447">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/config/app/template/view/assayView.xml" timestamp="1532110518436">
+        <mark key="[" line="95" column="17" />
+        <mark key="]" line="95" column="23" />
+        <mark key="." line="95" column="23" />
+        <mark key="^" line="95" column="23" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.js" timestamp="1531440363351">
         <mark key="[" line="14" column="29" />
@@ -631,7 +624,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.js" timestamp="1532044170125">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.js" timestamp="1532108940741">
         <mark key="[" line="19" column="55" />
         <mark key="]" line="19" column="65" />
         <mark key="^" line="19" column="65" />
@@ -678,6 +671,13 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/service/com/cepheid/nexus/service/ConfigService.java" timestamp="1532111742140" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/config/app/init/uiConfig.xml" timestamp="1532111792700">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/CartridgeIdOutstandingLisTestOrderFilter.java" timestamp="1529966726938">
         <mark key="[" line="6" column="27" />
@@ -777,11 +777,6 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/build/package.json" timestamp="1531341621113">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/main/resources/spring-resource.xml" timestamp="1525393064414">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
@@ -872,6 +867,10 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/config/app/template/view/assayView.xml" timestamp="1532110241479">
+        <mark key="[" line="572" column="12" />
+        <mark key="]" line="584" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/electron-quick-start/main.js" timestamp="1513314835722">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -884,19 +883,14 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1532042934304">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1532108962838">
         <mark key="'" line="84" column="22" />
-        <mark key="[" line="96" column="17" />
-        <mark key="]" line="96" column="16" />
-        <mark key="^" line="96" column="16" />
-        <mark key="." line="96" column="16" />
+        <mark key="[" line="51" column="41" />
+        <mark key="]" line="51" column="68" />
+        <mark key="^" line="51" column="68" />
+        <mark key="." line="51" column="68" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/configuration/constants/constants.js" timestamp="1531434858407">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1531262938315">
+      <file name="/fragment.java" timestamp="1532111750444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="35" />
@@ -1010,13 +1004,13 @@
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>apiService</text>
+        <text>assayxpert.ui</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InNlcnZpY2UvYXBpU2VydmljZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBrZXk9InJlc3VsdEtleSIgdmFsPSJjb20uY2VwaGVpZC5hc3NheXhwZXJ0LnVpLnJlbmRlcmVyLlJlc3VsdEtleVJlbmRlcmVyIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
@@ -1083,25 +1077,25 @@
         <entry encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReopenClosedTab</entry>
-        <entry>action CollapseRegion</entry>
         <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Run</entry>
         <entry>.,.+3action SelectInProjectView</entry>
-        <entry>action HideAllWindows</entry>
         <entry>action Back</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action CollapseRegion</entry>
+        <entry>action CollapseAllRegions</entry>
+        <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
