@@ -644,12 +644,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532061244773">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532064644874">
         <mark key="'" line="20" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="61" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="23" column="24" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
