@@ -1045,7 +1045,7 @@
         <text encoding="base64">ICAgIGxldCBndWlkID0gJHNjb3BlLmRlZmluZUFzc2F5LmFzc2F5Lmd1aWQ7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1081,7 +1081,6 @@
         <entry encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Forward</entry>
         <entry>action RecentFiles</entry>
@@ -1101,6 +1100,7 @@
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
