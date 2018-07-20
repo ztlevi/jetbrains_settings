@@ -335,11 +335,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.html" timestamp="1532109640266">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="108" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.html" timestamp="1532122003295">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/service/assayCvoService.js" timestamp="1532108893812">
         <mark key="[" line="40" column="4" />
@@ -426,11 +426,11 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/resources/en_US/uistrings/rsLabelsEnglishOnly.csv" timestamp="1531436802735">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="82" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/resources/en_US/uistrings/rsLabelsEnglishOnly.csv" timestamp="1532121275750">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="38" />
         <mark key="^" line="4" column="28" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/spring.io/imooc/src/test/java/com/imooc/autowiring/TestAutoWiring.java" timestamp="1525312147082">
         <mark key="[" line="10" column="9" />
@@ -734,6 +734,10 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/resources/en_US/uistrings/axLabelsEnglishOnly.csv" timestamp="1532121243431">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Developer/Github/mmall/src/main/resources/mappers/CategoryMapper.xml" timestamp="1525046021148">
         <mark key="[" line="115" column="20" />
         <mark key="]" line="115" column="24" />
@@ -746,11 +750,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1531932733304">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" timestamp="1532121981407">
+        <mark key="'" line="56" column="38" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/MavenTest/MavenTest.iml" timestamp="1519419391561">
@@ -883,10 +887,10 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1532108962838">
+      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" timestamp="1532121044081">
         <mark key="'" line="84" column="22" />
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="68" />
+        <mark key="[" line="75" column="11" />
+        <mark key="]" line="75" column="39" />
         <mark key="^" line="51" column="68" />
         <mark key="." line="51" column="68" />
       </file>
@@ -898,7 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="55" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="34" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="564" column="34" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="141" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" />
@@ -998,50 +1001,51 @@
       <jump line="10" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="117" column="39" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
       <jump line="84" column="22" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/organismPanel/view/organismPanelCtrl.js" />
+      <jump line="56" column="38" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/simulateResults/view/simulateResults.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>assayxpert.ui</text>
+        <text encoding="base64">IGNsYXNzPSJtYXJnaW4tdC0xMCI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBrZXk9InJlc3VsdEtleSIgdmFsPSJjb20uY2VwaGVpZC5hc3NheXhwZXJ0LnVpLnJlbmRlcmVyLlJlc3VsdEtleVJlbmRlcmVyIi8+Cg==</text>
+        <text encoding="base64">bWVudV9kZWZpbmVfcmVzdWx0cywgICJEZWZpbmUgUmVzdWx0cyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
+        <text encoding="base64">ICA8IS0tPGd4LXJ1bGVzLXBhbmVsLS0+CiAgPCEtLW9yZ2FuaXNtPSJvcmdhbmlzbSItLT4KICA8IS0tY2FuLXJlc2V0PSJpc0VkaXRhYmxlICYmIGNhblJlc2V0ICYmIGNhblJlc2V0KCkiLS0+CiAgPCEtLXVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiPi0tPgogIDwhLS08L2d4LXJ1bGVzLXBhbmVsPi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29sbGVjdGlvbnMuQ291bnRlcigpWycxJ10gaW4gcHJpbWVzOgo=</text>
+        <text encoding="base64">PGd4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlCiAgICAgICAgb3JnYW5pc209Im9yZ2FuaXNtIgogICAgICAgIHVwZGF0ZS1tZXRob2Q9Imd4VG9nZ2xlVXBkYXRlTWV0aG9kKCkiCiAgICAgICAgcmVzdWx0LWJhc2U9InJlc3VsdEJhc2UiCiAgICAgICAgaXMtZWRpdGFibGU9ImlzRWRpdGFibGUiPgo8L2d4LXRhYmxlLW9yLXJ1bGUtdG9nZ2xlPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCmFyciA9IFsyLDMsNSw4XQpzID0gMTIKcHJpbnQoc28uYmFja19wYWNrMShzLCBhcnIpKQpwcmludChzby5iYWNrX3BhY2syKHMsIGFycikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29sbGVjdGlvbnMuQ291bnRlcigpWycxJ10gaW4gcHJpbWVzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWF0aC4K</text>
+        <text encoding="base64">c28gPSBTb2x1dGlvbigpCmFyciA9IFsyLDMsNSw4XQpzID0gMTIKcHJpbnQoc28uYmFja19wYWNrMShzLCBhcnIpKQpwcmludChzby5iYWNrX3BhY2syKHMsIGFycikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+        <text encoding="base64">bWF0aC4K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CiAgLy8gZG8gbm90IGxvYWQgdGhlIHBhZ2UgdXRpbCAkc2NvcGUub3JnYW5pc20gaXMgYXZhaWxhYmxlCiAgJHNjb3BlLiR3YXRjaCgnb3JnYW5pc20nLCBmdW5jdGlvbihuZXdWYWwsIG9sZFZhbCkgewogICAgaWYgKG5ld1ZhbCAhPT0gb2xkVmFsICYmIG5ld1ZhbCAhPT0gbnVsbCkgewogICAgICByZWZyZXNoUGFnZSgpOwogICAgfQogIH0pOwoKICAvLyB1cGRhdGUgcGFyZW50IHNjb3BlJ3Mgc2ltdWxhdGVSZXN1bHRMaXN0LmFuYWx5dGVPcHRpb25zCiAgJHNjb3BlLiR3YXRjaCgnY3VyT3JnYW5pc21BbmFseXRlT3B0aW9ucycsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICBpZiAobmV3VmFsICE9PSBvbGRWYWwgJiYgbmV3VmFsICE9PSBudWxsKSB7CiAgICAgICRzY29wZS5zaW11bGF0ZVJlc3VsdExpc3RbJHNjb3BlLm9yZ2FuaXNtLm9yZ2FuaXNtSW5kZXhdWydhbmFseXRlT3B0aW9ucyddID0KICAgICAgICAkc2NvcGUuY3VyT3JnYW5pc21BbmFseXRlT3B0aW9uczsKICAgIH0KICB9KTsKCiAgLy8gb2J0YWlucyB0aGUgQXNzYXkgZGF0YSBmb3IgdGhlIHBhZ2UgYW5kIHBvcHVsYXRlcyB0aGUgdGFyZ2V0IGFuYWx5dGVzIHBhZ2UKICBmdW5jdGlvbiByZWZyZXNoUGFnZSgpIHsKICAgIGFzc2F5Q3ZvID0gYXNzYXlDdm9TZXJ2aWNlLmdldEN2bygpOwogICAgZGF0YSA9IGFzc2F5Q3ZvLmdldE1ib0RhdGEoKTsKICAgICRzY29wZS5pc09ubHlPcmdhbmlzbSA9IGRhdGEub3JnYW5pc21zLmxlbmd0aCA9PSAxOwogICAgY29uc3RydWN0VGFibGUoKTsKICB9CgogIHJlZnJlc2hQYWdlKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBmc2RmX2ZzZnNkID0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>local organisms' info in the localStorage first to fetch the
    * cached analyteOptionsLists.</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGxldCBndWlkID0gJHNjb3BlLmRlZmluZUFzc2F5LmFzc2F5Lmd1aWQ7Cgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmFuYWx5dGVPcHRpb25zTGlzdC5wdXNoKG51bGwpOwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1080,7 +1084,6 @@
         <entry>action FindInPath</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>action Forward</entry>
-        <entry>action FindUsages</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
@@ -1091,12 +1094,13 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action HideAllWindows</entry>
         <entry>action CollapseRegion</entry>
         <entry>action CollapseAllRegions</entry>
         <entry>action GotoAction</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
