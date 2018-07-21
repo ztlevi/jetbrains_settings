@@ -229,7 +229,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1532207198078">
+      <file name="/Python Console" timestamp="1532209866649">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -656,12 +656,11 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532207279574">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="28" column="17" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532209865634">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -889,7 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
       <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
       <jump line="136" column="46" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
@@ -989,6 +987,7 @@
       <jump line="26" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="25" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1031,7 +1030,7 @@
         <text encoding="base64">ICAgICAgICBtYXhfaW5kZXggPSBuLTEK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1084,9 +1083,9 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
+        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
