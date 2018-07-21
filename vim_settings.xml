@@ -229,7 +229,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1532199439425">
+      <file name="/Python Console" timestamp="1532207198078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -656,12 +656,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532199438049">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="29" column="59" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532207279574">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -889,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" />
       <jump line="60" column="59" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="44" column="14" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/app.js" />
       <jump line="4" column="12" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/client/common/service/cvoCreatorService.js" />
@@ -987,15 +986,16 @@
       <jump line="20" column="40" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="35" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="51" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="30" column="44" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="26" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="25" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.sort(</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
@@ -1004,34 +1004,34 @@
         <text encoding="base64">aW1wb3J0IGhlYXBxCmNsYXNzIFNvbHV0aW9uOgogICAgZGVmIG1heFN1bU9mVGhyZWVTdWJhcnJheXMoc2VsZiwgbnVtcywgayk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgbnVtczogTGlzdFtpbnRdCiAgICAgICAgOnR5cGUgazogaW50CiAgICAgICAgOnJ0eXBlOiBMaXN0W2ludF0KICAgICAgICAiIiIKICAgICAgICBwcSA9IFtdICMgKC1zdW0sIGksIHRhcnIpCiAgICAgICAgcyA9IHNldCgpCiAgICAgICAgbiA9IGxlbihudW1zKQogICAgICAgIGZvciBpIGluIHJhbmdlKG4tayk6CiAgICAgICAgICAgIGFyciA9IG51bXNbaTppK2tdCiAgICAgICAgICAgIGFycnN1bSA9IHN1bShhcnIpCiAgICAgICAgICAgIHRhcnIgPSB0dXBsZShzb3J0ZWQoYXJyKSkKICAgICAgICAgICAgaWYgdGFyciBub3QgaW4gczoKICAgICAgICAgICAgICAgIHMuYWRkKHRhcnIpCiAgICAgICAgICAgICAgICBoZWFwcS5oZWFwcHVzaChwcSwgKC1hcnJzdW0sIGksIHRhcnIpKQogICAgICAgICAgICAgICAgaWYgbGVuKHBxKSA+IDM6CiAgICAgICAgICAgICAgICAgICAgaGVhcHEuaGVhcHBvcChwcSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmVzID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkKICAgICAgICAgICAgcmVzLmFwcGVuZChpZHgpCiAgICAgICAgcmV0dXJuIHJlc1s6Oi0xXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihwcSkgPiAzOgogICAgICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwb3AocHEpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXMuaW5wdXQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihwcSkgPiAzOgogICAgICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwb3AocHEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAodmFsICE9IG51bGwpIHsKICAgIHJldHVybiB2YWw7CiAgfQogIGVsc2UgewogICAgZjEuYXJndW1lbnRzWzBdICsgZjEuYXJndW1lbnRzWzFdCiAgfQo=</text>
+        <text encoding="base64">YXMuaW5wdXQoaSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YS4K</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9pbmRleCA9IGkK</text>
+        <text encoding="base64">ICBpZiAodmFsICE9IG51bGwpIHsKICAgIHJldHVybiB2YWw7CiAgfQogIGVsc2UgewogICAgZjEuYXJndW1lbnRzWzBdICsgZjEuYXJndW1lbnRzWzFdCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfaW5kZXggPSBuLTEK</text>
+        <text encoding="base64">YS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29sbGVjdGlvbnMuQ291bnRlcigpWycxJ10gaW4gcHJpbWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9pbmRleCA9IGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c28gPSBTb2x1dGlvbigpCmFyciA9IFsyLDMsNSw4XQpzID0gMTIKcHJpbnQoc28uYmFja19wYWNrMShzLCBhcnIpKQpwcmludChzby5iYWNrX3BhY2syKHMsIGFycikpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfaW5kZXggPSBuLTEK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1080,13 +1080,13 @@
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action DebugClass</entry>
-        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
