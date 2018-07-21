@@ -229,7 +229,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1532195678769">
+      <file name="/Python Console" timestamp="1532197049397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -656,12 +656,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532195923676">
-        <mark key="'" line="35" column="23" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532197219584">
+        <mark key="'" line="51" column="23" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="35" column="23" />
-        <mark key="." line="30" column="70" />
-        <mark key="^" line="30" column="70" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="37" column="48" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -889,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="55" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="34" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/controller/HomeController.java" />
       <jump line="564" column="34" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/server/ui/com/cepheid/assayxpert/ui/rest/controller/AssayInfoRestController.java" />
       <jump line="141" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/assayxpert/src/client/service/apiService.js" />
@@ -989,6 +988,7 @@
       <jump line="10" column="15" filename="$USER_HOME$/Dropbox/Interview/Developer/test2.py" />
       <jump line="20" column="40" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="35" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="51" column="23" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1001,7 +1001,7 @@
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCgoKY2xhc3MgQXV0b2NvbXBsZXRlU3lzdGVtOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZW50ZW5jZXMsIHRpbWVzKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBzZW50ZW5jZXM6IExpc3Rbc3RyXQogICAgICAgIDp0eXBlIHRpbWVzOiBMaXN0W2ludF0KICAgICAgICAiIiIKICAgICAgICBzZWxmLnNlbnRlbmNlcyA9IHNlbnRlbmNlcwogICAgICAgIHNlbGYuY2FuID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBmb3IgaixzIGluIGVudW1lcmF0ZShzZW50ZW5jZXMpOgogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocykpOgogICAgICAgICAgICAgICAgc2VsZi5jYW5bc1s6aV1dLmFwcGVuZChqKQogICAgICAgIHNlbGYucHJlZml4ID0gJycKICAgICAgICBzZWxmLnRpbWVzID0gdGltZXMKICAgICAgICAjIHNlbGYudGltZXMgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChpbnQpCiAgICAgICAgIyBmb3IgaSBpbiByYW5nZShsZW4odGltZXMpKToKICAgICAgICAjICAgICBzZWxmLnRpbWVzW3NlbnRlbmNlc1tpXV0gPSB0aW1lc1tpXQoKICAgIGRlZiBpbnB1dChzZWxmLCBjKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBjOiBzdHIKICAgICAgICA6cnR5cGU6IExpc3Rbc3RyXQogICAgICAgICIiIgogICAgICAgIGlmIGMgPT0gJyMnOgogICAgICAgICAgICByZXR1cm4gW10KICAgICAgICBzZWxmLnByZWZpeCArPSBjCiAgICAgICAgY2FuZGlkYXRlcyA9IHNlbGYuY2FuW3NlbGYucHJlZml4XQogICAgICAgIGNhbmRpZGF0ZXMuc29ydChrZXk9bGFtYmRhIGk6ICgtc2VsZi50aW1lc1tpXSwgc2VsZi5zZW50ZW5jZXNbaV0pKQogICAgICAgIHJldHVybiBsaXN0KG1hcChsYW1iZGEgaTpzZWxmLnNlbnRlbmNlc1tpXSwgY2FuZGlkYXRlc1s6M10pKQoKIyBZb3VyIEF1dG9jb21wbGV0ZVN5c3RlbSBvYmplY3Qgd2lsbCBiZSBpbnN0YW50aWF0ZWQgYW5kIGNhbGxlZCBhcyBzdWNoOgojIG9iaiA9IEF1dG9jb21wbGV0ZVN5c3RlbShzZW50ZW5jZXMsIHRpbWVzKQojIHBhcmFtXzEgPSBvYmouaW5wdXQoYykK</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCgoKY2xhc3MgQXV0b2NvbXBsZXRlU3lzdGVtOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZW50ZW5jZXMsIHRpbWVzKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBzZW50ZW5jZXM6IExpc3Rbc3RyXQogICAgICAgIDp0eXBlIHRpbWVzOiBMaXN0W2ludF0KICAgICAgICAiIiIKICAgICAgICBzZWxmLnNlbnRlbmNlcyA9IHNlbnRlbmNlcwogICAgICAgIHNlbGYuY2FuID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBzZWxmLmluZGV4ID0gbGVuKHNlbnRlbmNlcyktMQogICAgICAgIGZvciBqLHMgaW4gZW51bWVyYXRlKHNlbnRlbmNlcyk6CiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihzKSsxKToKICAgICAgICAgICAgICAgIHNlbGYuY2FuW3NbOmldXS5hcHBlbmQoaikKICAgICAgICBzZWxmLnByZWZpeCA9ICcnCiAgICAgICAgc2VsZi50aW1lcyA9IHRpbWVzCiAgICAgICAgIyBzZWxmLnRpbWVzID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoaW50KQogICAgICAgICMgZm9yIGkgaW4gcmFuZ2UobGVuKHRpbWVzKSk6CiAgICAgICAgIyAgICAgc2VsZi50aW1lc1tzZW50ZW5jZXNbaV1dID0gdGltZXNbaV0KCiAgICBkZWYgaW5wdXQoc2VsZiwgYyk6CiAgICAgICAgIiIiCiAgICAgICAgOnR5cGUgYzogc3RyCiAgICAgICAgOnJ0eXBlOiBMaXN0W3N0cl0KICAgICAgICAiIiIKICAgICAgICBpZiBjID09ICcjJzoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWR4ID0gc2VsZi5zZW50ZW5jZXMuaW5kZXgoc2VsZi5wcmVmaXgpCiAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgaWR4ID0gLTEKICAgICAgICAgICAgaWYgaWR4ICE9IC0xOgogICAgICAgICAgICAgICAgc2VsZi50aW1lc1tpZHhdICs9IDEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYuc2VudGVuY2VzICs9IFtzZWxmLnByZWZpeF0KICAgICAgICAgICAgICAgIHNlbGYuaW5kZXggKz0gMQogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYucHJlZml4KSsxKToKICAgICAgICAgICAgICAgICAgICBzZWxmLmNhbltzZWxmLnByZWZpeFs6aV1dLmFwcGVuZChzZWxmLmluZGV4KQogICAgICAgICAgICAgICAgc2VsZi50aW1lcyArPSBbMV0KICAgICAgICAgICAgc2VsZi5wcmVmaXggPSAnJwoKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIHNlbGYucHJlZml4ICs9IGMKICAgICAgICBjYW5kaWRhdGVzID0gc2VsZi5jYW5bc2VsZi5wcmVmaXhdCiAgICAgICAgY2FuZGlkYXRlcy5zb3J0KGtleT1sYW1iZGEgaTogKC1zZWxmLnRpbWVzW2ldLCBzZWxmLnNlbnRlbmNlc1tpXSkpCiAgICAgICAgcmV0dXJuIGxpc3QobWFwKGxhbWJkYSBpOnNlbGYuc2VudGVuY2VzW2ldLCBjYW5kaWRhdGVzWzozXSkpCgojIFlvdXIgQXV0b2NvbXBsZXRlU3lzdGVtIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiMgb2JqID0gQXV0b2NvbXBsZXRlU3lzdGVtKHNlbnRlbmNlcywgdGltZXMpCiMgcGFyYW1fMSA9IG9iai5pbnB1dChjKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXMuaW5wdXQoaSkK</text>
