@@ -229,7 +229,7 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="/Python Console" timestamp="1532214638032">
+      <file name="/Python Console" timestamp="1532238190865">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -656,12 +656,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532214805362">
-        <mark key="'" line="36" column="18" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="0" column="110" />
-        <mark key="^" line="0" column="110" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532239108704">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -889,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="843" column="0" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/rest/service/RSAssayService.java" />
       <jump line="828" column="26" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" />
       <jump line="19" column="20" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/ResultService.java" />
       <jump line="463" column="23" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nova/src/ui/com/cepheid/dx/ui/panel/BasicFinalResultPanel.java" />
@@ -989,46 +988,47 @@
       <jump line="38" column="19" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="22" column="18" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="36" column="18" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>isBipartite</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246CiAgICBkZWYgaXNCaXBhcnRpdGUoc2VsZiwgZ3JhcGgpOgogICAgICAgICIiIgogICAgICAgIDp0eXBlIGdyYXBoOiBMaXN0W0xpc3RbaW50XV0KICAgICAgICA6cnR5cGU6IGJvb2wKICAgICAgICAiIiIKICAgICAgICBBID0gc2V0KCkKICAgICAgICBCID0gc2V0KCkKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oZ3JhcGgpKToKICAgICAgICAgICAgcyA9IHNldChncmFwaFtpXSkKICAgICAgICAgICAgb2EgPSBzICYgQQogICAgICAgICAgICBvYiA9IHMgJiBCCiAgICAgICAgICAgIGlmIG5vdCBBIGFuZCBub3QgQjoKICAgICAgICAgICAgICAgIGxpc3QobWFwKGxhbWJkYSB4OiBBLmFkZCh4KSwgZ3JhcGhbaV0pKQogICAgICAgICAgICAgICAgQi5hZGQoaSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICBpZiBpIGluIEE6CiAgICAgICAgICAgICAgICBpZiBvYToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgICAgIGxpc3QobWFwKGxhbWJkYSB4OiBCLmFkZCh4KSwgZ3JhcGhbaV0pKQogICAgICAgICAgICBlbGlmIGkgaW4gQjoKICAgICAgICAgICAgICAgIGlmIG9iOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICAgICAgbGlzdChtYXAobGFtYmRhIHg6IEEuYWRkKHgpLCBncmFwaFtpXSkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBvYToKICAgICAgICAgICAgICAgICAgICBsaXN0KG1hcChsYW1iZGEgeDogQS5hZGQoeCksIGdyYXBoW2ldKSkKICAgICAgICAgICAgICAgICAgICBCLmFkZChpKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsaXN0KG1hcChsYW1iZGEgeDogQi5hZGQoeCksIGdyYXBoW2ldKSkKICAgICAgICAgICAgICAgICAgICBBLmFkZChpKQoKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">cHJpbnQoc28uYmFja19wYWNrKDExLCBbMiwgMywgNSwgN10gLCBbMSwgNSwgMiwgNF0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXN1bHRbMF1bal0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YS5hZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgcmVzdWx0WzBdW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkK</text>
+        <text encoding="base64">YS5hZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihwcSkgPiAzOgogICAgICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwb3AocHEpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXMuaW5wdXQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihwcSkgPiAzOgogICAgICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwb3AocHEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAodmFsICE9IG51bGwpIHsKICAgIHJldHVybiB2YWw7CiAgfQogIGVsc2UgewogICAgZjEuYXJndW1lbnRzWzBdICsgZjEuYXJndW1lbnRzWzFdCiAgfQo=</text>
+        <text encoding="base64">YXMuaW5wdXQoaSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YS4K</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
