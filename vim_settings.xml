@@ -656,12 +656,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532294718036">
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532297325391">
         <mark key="'" line="20" column="1" />
-        <mark key="[" line="18" column="74" />
-        <mark key="]" line="18" column="74" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="18" column="74" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
@@ -1004,31 +1004,31 @@
         <text>[tens[n // 10]] + [to19[n % 10]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">YS4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBpID09IDA6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdFtpXVtqXSA9IEFbaV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXN1bHRbMF1bal0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBpID09IDA6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdFtpXVtqXSA9IEFbaV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgcmVzdWx0WzBdW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXN1bHRbMF1bal0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgcmVzdWx0WzBdW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YS5hZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
+        <text encoding="base64">YS5hZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
