@@ -370,11 +370,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532453507733">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="31" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532465420527">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1531689174038">
         <mark key="[" line="0" column="0" />
@@ -1024,7 +1024,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXN1bHRbMF1bal0gPSAwCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1074,12 +1074,12 @@
         <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
