@@ -312,7 +312,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1532243994969">
+      <file name="/Python Console" timestamp="1532453511513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -373,12 +373,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532452489482">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532453507733">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1531689174038">
         <mark key="[" line="0" column="0" />
@@ -1031,7 +1030,7 @@
         <text encoding="base64">ICAgICAgICAgICAgXywgaWR4LCBfID0gaGVhcHEuaGVhcHBvcChwcSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1083,10 +1082,10 @@
         <entry>action DebugClass</entry>
         <entry>action GotoAction</entry>
         <entry>action ReformatCode</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
