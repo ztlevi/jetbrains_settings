@@ -657,10 +657,9 @@
         <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532304735983">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/uicore/src/server/com/cepheid/uicore/config/CheckAuthenticationInterceptor.java" timestamp="1528230147917">
         <mark key="[" line="71" column="51" />
