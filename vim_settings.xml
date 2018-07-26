@@ -9,7 +9,6 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/server/com/cepheid/resultsimulator/service/RSAssayService.java" timestamp="1532463047282" />
       <file name="$USER_HOME$/Developer/Github/Road_Segmentation/python/definitions.py" timestamp="1512607755819">
         <mark key="[" line="1" column="81" />
         <mark key="]" line="2" column="0" />
@@ -314,7 +313,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1532562191780">
+      <file name="/Python Console" timestamp="1532634651907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -381,12 +380,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532562268155">
-        <mark key="'" line="25" column="39" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="28" column="53" />
-        <mark key="." line="28" column="53" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532634650637">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1531689174038">
         <mark key="[" line="0" column="0" />
@@ -624,7 +623,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableOrRuleControls.js" timestamp="1532457321793" />
       <file name="$USER_HOME$/Developer/react_github/App.js" timestamp="1514617474452">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="10" />
@@ -771,7 +769,6 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/calc/OrganismBasedTestCalcInputParametersUtil.java" timestamp="1532463470550" />
       <file name="$USER_HOME$/Dropbox/Interview/Developer/2.js" timestamp="1532150996474">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="8" column="1" />
@@ -894,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="15" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/UserPasswordValidator.java" />
       <jump line="16" column="13" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
       <jump line="43" column="92" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
       <jump line="44" column="9" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/appcore/src/util/com/cepheid/appcore/util/OutputFileUtil.java" />
@@ -991,9 +987,10 @@
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="20" column="1" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="27" column="12" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="0" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="26" column="39" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="25" column="39" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="28" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1036,7 +1033,7 @@
         <text encoding="base64">YS4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1090,8 +1087,8 @@
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
