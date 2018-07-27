@@ -325,7 +325,7 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1532712832520">
+      <file name="/Python Console" timestamp="1532734151034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -392,11 +392,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532712830325">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532734207897">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="32" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1531689174038">
         <mark key="[" line="0" column="0" />
@@ -1003,56 +1004,56 @@
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="9" column="19" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
-      <jump line="20" column="1" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="27" column="12" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="26" column="39" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="25" column="39" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="28" column="17" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="0" column="12" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
       <jump line="73" column="2" filename="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/result/com/cepheid/nexus/result/calc/BasicOrganismResultTextCalculation.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Interview/Developer/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICBvblNlbGVjdCAocHJvamVjdE1vZGVsKSB7CiAgICBjb25zdCB7bmF2aWdhdGV9ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uCiAgICBuYXZpZ2F0ZSgncmVwb3NpdG9yeURldGFpbFBhZ2UnLCB7cHJvamVjdE1vZGVsOiBwcm9qZWN0TW9kZWx9KQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE9yZ2FuaXNtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIENhbGN1bGF0ZSB0aGUgdGVzdCByZXN1bHQgKHdoaWNoIHdpbGwgY2FsY3VsYXRlIHRoZSBvcmdhbmlzbSBldmFsdWF0b3IpCiAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGlucHV0cyA9CiAgICAgIFJlc3VsdFNlcnZpY2UuZ2V0U2VydmljZSgpLnBvcHVsYXRlQmFzaWNPcmdhbmlzbVJlc3VsdFRleHRDYWxjdWxhdGlvbklucHV0cyh0ZXN0LCBvcmdhbmlzbSk7CiAgICBpbnB1dHMucHV0KFJ1bGVzUmVzdWx0VGV4dENhbGN1bGF0aW9uLklOX0ZJTkRfQUxMX01BVENIRVMsIHRydWUpOwo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24ob2JqZWN0KToKICAgIGRlZiBzdWJzZXRzV2l0aER1cChzZWxmLCBudW1zKToKICAgICAgICAiIiIKICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KICAgICAgICA6cnR5cGU6IExpc3RbTGlzdFtpbnRdXQogICAgICAgICIiIgoKICAgICAgICBkZWYgZGZzKG51bXMsIGksIGFycik6CiAgICAgICAgICAgIHJlcy5hcHBlbmQobGlzdChhcnIpKQoKICAgICAgICAgICAgaiA9IGkKICAgICAgICAgICAgd2hpbGUgaiA8IGxlbihudW1zKToKICAgICAgICAgICAgICAgIGFyci5hcHBlbmQobnVtc1tqXSkKICAgICAgICAgICAgICAgIGRmcyhudW1zLCBqKzEsIGFycikKICAgICAgICAgICAgICAgIGFyci5wb3AoKQogICAgICAgICAgICAgICAgd2hpbGUgaisxIDwgbGVuKG51bXMpIGFuZCBudW1zW2pdID09IG51bXNbaisxXToKICAgICAgICAgICAgICAgICAgICBqICs9IDEKICAgICAgICAgICAgICAgIGogKz0gMQogICAgICAgIHJlcyA9IFtdCiAgICAgICAgZGZzKG51bXMsIDAsIFtdKQogICAgICAgIHJldHVybiByZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJhc2ljT3JnYW5pc21SZXN1bHRUZXh0Q2FsY3VsYXRpb24gYmMgPSBuZXcgQmFzaWNPcmdhbmlzbVJlc3VsdFRleHRDYWxjdWxhdGlvbigpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBvdXRwdXRzMiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJjLmRvQ2FsY3VsYXRpb24oaW5wdXRzLCBvdXRwdXRzMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIGorMSA8IGxlbihudW1zKSBhbmQgbnVtc1tqXSA9PSBudW1zW2orMV06CiAgICAgICAgICAgICAgICAgICAgaiArPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJhc2ljT3JnYW5pc21SZXN1bHRUZXh0Q2FsY3VsYXRpb24gYmMgPSBuZXcgQmFzaWNPcmdhbmlzbVJlc3VsdFRleHRDYWxjdWxhdGlvbigpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBvdXRwdXRzMiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJjLmRvQ2FsY3VsYXRpb24oaW5wdXRzLCBvdXRwdXRzMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyci5hcHBlbmQobnVtc1tqXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gbnVtc1twb3NdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyci5wb3AoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwdikK</text>
+        <text encoding="base64">ICAgIEJhc2ljT3JnYW5pc21SZXN1bHRUZXh0Q2FsY3VsYXRpb24gYmMgPSBuZXcgQmFzaWNPcmdhbmlzbVJlc3VsdFRleHRDYWxjdWxhdGlvbigpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBvdXRwdXRzMiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJjLmRvQ2FsY3VsYXRpb24oaW5wdXRzLCBvdXRwdXRzMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChudW1zKQo=</text>
+        <text encoding="base64">ICAgIEJhc2ljT3JnYW5pc21SZXN1bHRUZXh0Q2FsY3VsYXRpb24gYmMgPSBuZXcgQmFzaWNPcmdhbmlzbVJlc3VsdFRleHRDYWxjdWxhdGlvbigpOwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBvdXRwdXRzMiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJjLmRvQ2FsY3VsYXRpb24oaW5wdXRzLCBvdXRwdXRzMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaiArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gbnVtc1twb3NdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaiArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwdikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudW1zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaiArPSAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1100,7 +1101,6 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
@@ -1108,6 +1108,7 @@
         <entry>action HideAllWindows</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
