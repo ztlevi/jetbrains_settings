@@ -393,11 +393,8 @@
         <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Interview/Developer/test.py" timestamp="1532734207897">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1531689174038">
         <mark key="[" line="0" column="0" />
@@ -486,7 +483,6 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/nexus/src/service/com/cepheid/nexus/service/ResultService.java" timestamp="1532730694190" />
       <file name="$USER_HOME$/CepheidPerforce/perforce.workspace/swEngDepot/products/resultsimulator/src/client/defineassay/directives/gxTableBasedResults.html" timestamp="1532456109456">
         <mark key="'" line="51" column="33" />
         <mark key="[" line="51" column="34" />
