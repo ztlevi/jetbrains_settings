@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1fa13bf-a8e6-4a64-bc21-e32608df664a" name="ztlevi@ztlevi-5820:22" url="http:///">
+        <fileTransfer host="ztlevi-5820" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

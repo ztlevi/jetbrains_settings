@@ -1,12 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="LIGHTER" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="1e90ff" />
-    <option name="themedScrollbars" value="false" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="userId" value="59dd4d2b:164855d0682:-7fff" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="userId" value="-2bfda78e:16d37100819:-8000" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
