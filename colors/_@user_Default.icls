@@ -1,0 +1,16 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-11-29T14:25:59</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2019-07-31T15:47:10</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73c990" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
+  </colors>
+</scheme>

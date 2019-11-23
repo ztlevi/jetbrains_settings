@@ -1,0 +1,130 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Developer/Github/python-test/python_root" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Developer/Github/python-test/python_root" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker (797978018962.dkr.ecr.us-east-1.amazonaws.com/argobuild-dev:2019.09.11.1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker://797978018962.dkr.ecr.us-east-1.amazonaws.com/argobuild-dev:2019.09.11.1/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/201545291" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-1382175924" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-280182672" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/python_stubs/566223924" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="797978018962.dkr.ecr.us-east-1.amazonaws.com/argobuild-dev:2019.09.11.1" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python3" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-1382175924" remote-root="/usr/local/lib/python3.6/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/566223924/-280182672" remote-root="/usr/lib/python3.6/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (sftp://ztlevi@ztlevi-5820:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="sftp://ztlevi@ztlevi-5820:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/2086757319" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/python_stubs/2082657382" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="d1fa13bf-a8e6-4a64-bc21-e32608df664a" WEB_SERVER_CONFIG_NAME="ztlevi@ztlevi-5820:22" WEB_SERVER_CREDENTIALS_ID="sftp://ztlevi@ztlevi-5820:22" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/ztlevi/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/2086757319" remote-root="/home/ztlevi" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/-2015850002" remote-root="/home/ztlevi/.local/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.2/remote_sources/2082657382/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (detectron)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/.conda/envs/detectron/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.conda/envs/detectron/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/detectron/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/detectron/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/python_stubs/-1488386384" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
