@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-2bfda78e:16d37100819:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
