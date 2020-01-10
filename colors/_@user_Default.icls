@@ -1,16 +1,32 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-11-29T14:25:59</property>
+    <property name="created">2019-11-20T09:57:20</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-07-31T15:47:10</property>
+    <property name="ideVersion">2019.2.5.0.0</property>
+    <property name="modified">2019-12-05T10:50:14</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_COPIED" value="a7700" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73c990" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="DOCUMENTATION_COLOR" value="fafafa" />
+    <option name="FILESTATUS_ADDED" value="50a14e" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_DELETED" value="a0a1a7" />
+    <option name="FILESTATUS_HIJACKED" value="a626a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_MERGED" value="4078f2" />
+    <option name="FILESTATUS_MODIFIED" value="986801" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_RENAMED" value="a626a4" />
+    <option name="FILESTATUS_SUPPRESSED" value="383a42" />
+    <option name="FILESTATUS_SWITCHED" value="4078f2" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="50a14e" />
+    <option name="FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="FILESTATUS_modifiedOutside" value="986801" />
   </colors>
 </scheme>

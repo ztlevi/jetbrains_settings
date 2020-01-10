@@ -1,14 +1,23 @@
 <scheme name="_@user_Arc Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-18T11:35:51</property>
+    <property name="created">2019-12-05T10:44:51</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-18T15:03:05</property>
+    <property name="ideVersion">2019.2.5.0.0</property>
+    <property name="modified">2019-12-05T10:51:06</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
+    <option name="EDITOR_FONT_SIZE" value="26" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d6a" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -58,29 +67,29 @@
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_BELOW_COLOR" value="464b52" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="464b52" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="42a5f5" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="42a5f5c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="42a5f5c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="262b33" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="42a5f5" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="42a5f580" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="42a5f580" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="262b33" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="42a5f5" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="42a5f5" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="262b33" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.Mac.thumbColor" value="42a5f5" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="42a5f5c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="42a5f5c0" />
     <option name="ScrollBar.Mac.trackColor" value="262b33" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="42a5f5" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="42a5f5c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="42a5f5c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="262b33" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.Transparent.thumbColor" value="42a5f5" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="42a5f580" />
+    <option name="ScrollBar.Transparent.thumbColor" value="42a5f580" />
     <option name="ScrollBar.Transparent.trackColor" value="262b33" />
     <option name="ScrollBar.hoverThumbBorderColor" value="42a5f5" />
     <option name="ScrollBar.hoverThumbColor" value="42a5f5" />
     <option name="ScrollBar.hoverTrackColor" value="262b33" />
-    <option name="ScrollBar.thumbBorderColor" value="42a5f5" />
-    <option name="ScrollBar.thumbColor" value="42a5f5" />
+    <option name="ScrollBar.thumbBorderColor" value="42a5f5c0" />
+    <option name="ScrollBar.thumbColor" value="42a5f5c0" />
     <option name="ScrollBar.trackColor" value="262b33" />
     <option name="TEARLINE_COLOR" value="464b52" />
     <option name="TOOLTIP" value="262b33" />
@@ -123,6 +132,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -267,7 +279,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -672,7 +683,6 @@
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="cda869" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -879,6 +889,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
@@ -890,6 +904,7 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="cda869" />
@@ -910,6 +925,11 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
+      </value>
+    </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="3e424d" />
       </value>
     </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
@@ -2126,7 +2146,12 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="8b9eb5" />
+        <option name="BACKGROUND" value="d3dae3" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d3dae3" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
